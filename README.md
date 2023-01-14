@@ -13,10 +13,7 @@ Nowadays, I Am Senior SOC Analyst & Incident Responder With Over A Year Of Exper
 
 ⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE** ⚡
 
-``` python
-print("A Wise Man Said You Need To Understand What Are You Protect")
-print("No System Is Safe")
-```
+💬 **A Wise Man Said Once You Need To Understand What You Protect** 💬
 
 <div align="left">
 
