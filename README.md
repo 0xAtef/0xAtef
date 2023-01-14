@@ -15,6 +15,8 @@ Nowadays, I Am Senior SOC Analyst & Incident Responder With Over A Year Of Exper
 
 💬 **A Wise Man Said Once You Need To Understand What You Protect** 💬
 
+- --------------------- -
+
 <div align="left">
 
 <a href="https://github.com/0xAtef" target="_blank">
