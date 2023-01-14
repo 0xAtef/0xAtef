@@ -3,10 +3,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-<h1 align="center">Hi 👋, I'm Mohamed Atef</h1> 
+<h1 align="center">I'm Mohamed Atef</h1> 
   
 
-I'm Cyber Security Engineer Who is Passionate about Incident Response, Digital Forensics, Threat Emulation, Threat Detection, Threat Hunting, Coding/Scripting & Task Automate. My Most Interesting Is Learning A New Knowledge/Skill And Find A Better Way To Implement It / Use It In My Daily Tasks.
+Cyber Security Engineer Who is Passionate about Incident Response, Digital Forensics, Threat Emulation, Threat Detection, Threat Hunting, Coding/Scripting & Task Automate. My Most Interesting Is Learning A New Knowledge/Skill And Find A Better Way To Implement It / Use It In My Daily Tasks.
 
 Currently, I Senior SOC Analyst & Incident Responder  with over a year of experience in The Security Operation Center.
 
@@ -28,7 +28,7 @@ Currently, I Senior SOC Analyst & Incident Responder  with over a year of experi
 <a href="https://linkedin.com/in/0xAtef" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/0xAtef" target="_blank">
+<a href="https://medium.com/@0xAtef" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
