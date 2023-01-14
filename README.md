@@ -5,15 +5,17 @@
   
 <h1 align="center">I'm Mohamed Atef</h1> 
   
+Cyber Security Engineer Who is Passionate about Incident Response, Digital Forensics, Threat Emulation, Threat Detection & Threat Hunting, Mainly More Into the Blue/Purple Team.
+I Am Coding and Scripting Geek, In Fact 😄, I Try Automate Any Repetitive Task That I Facing Daily In My Life.
+My Most Interesting Is Learning A New Knowledge / Skill / Tecnology ,And Find A Better Way To Implement It / Use It In My Daily Tasks. Currently, I Am Into Dockerizing 🐳 Any New Implementation / Technology That Fit Into My Collection Of Tech Stack 😄.
 
-Cyber Security Engineer Who is Passionate about Incident Response, Digital Forensics, Threat Emulation, Threat Detection, Threat Hunting, Coding/Scripting & Task Automate. My Most Interesting Is Learning A New Knowledge/Skill And Find A Better Way To Implement It / Use It In My Daily Tasks.
+Nowadays, I Am Senior SOC Analyst & Incident Responder With Over A Year Of Experience In The Security Operation Center.
 
-Currently, I Senior SOC Analyst & Incident Responder  with over a year of experience in The Security Operation Center.
 
-⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
+⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE** ⚡
 
 ``` python
-    print("You Need To Understand What Are You Protect")
+    print("A Wise Man Said You Need To Understand What Are You Protect")
     print("No System Is Safe")
 ```
  
