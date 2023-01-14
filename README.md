@@ -7,7 +7,21 @@
   
 <br/>  
 
-## My Skill Set  
+## About ME  
+
+Interested in Incident Response, Digital Forensics, Threat Emulation, Threat Detection, and Threat Hunting, Mainly Focusing On The Blue/Purple Team.
+In love With Coding/Scripting & Task Automate.
+My Most Interesting Is Learning A New Knowledge/Skill And Find A Better Way To Implement It / Use It In My Daily Tasks.
+
+## My Favorite Quotes
+
+> You Need To Learn Python Right Now\
+> You Need To Understand What Are You Protect\
+> No System Is Safe
+
+## My Thoughts
+
+> Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE
 
 ## Connect with me  
 
