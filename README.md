@@ -37,6 +37,9 @@ Nowadays, I Am Senior SOC Analyst & Incident Responder With Over A Year Of Exper
 <a href="https://medium.com/@0xAtef" target="_blank">
     <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://0xatef.github.io/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/website?logo=Website&style=for-the-badge&up_color=white&up_message=0xAtef&url=https%3A%2F%2F0xatef.github.io%2F" style="margin-bottom: 5px;" />
+</a> 
 </div>  
   
 <br/>  
