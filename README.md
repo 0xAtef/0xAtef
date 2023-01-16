@@ -16,7 +16,7 @@ Nowadays, I Am Senior SOC Analyst & Incident Responder With Over A Year Of Exper
 
 ⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
 
-💬 **A Wise Man Said Once You Need To Understand What You Protect** 💬
+💬 **A Wise Man Said Once You Need To Understand What You Protect**
 
 🏹 **Be Like A Bow & Arrow, The Stronger You Draw, The Stronger You Throw**
 
