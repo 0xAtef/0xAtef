@@ -8,17 +8,22 @@
 
 <h1 align="center">I'm Mohamed Atef</h1>
   
-Cyber Security Engineer Who is Passionate about Incident Response, Digital Forensics, Threat Emulation, Threat Detection & Threat Hunting, Mainly More Into the Blue/Purple Teamer.
-I Am Coding and Scripting Geek 😄, In Fact, I Try Automate Any Repetitive Task That I Facing Daily In My Life.
-My Most Interesting Is Learning A New Knowledge / Skill / Technology ,And Find A Better Way To Implement It / Use It In My Daily Tasks. Currently, I Am Into Dockerize 🐳 Any New Implementation / Technology That Fit Into My Collection Of Tech Stack 😄.
+Cyber Security Engineer, Enthusiastic about ( Incident Response | Digital Forensics | Threat Emulation | Threat Detection | Threat Hunting | Malware Development ).
+Mainly More Into the Blue/Purple Teamer.
+also a Coder and a Scripts Holic😄.
+Automation is one of my easiest games.
+I always work on automate any repetitive task that would face me daily along with my work.
+I'm Fond about learning or gaining new knowledge's always seek to sharpen my Skills set.
+Currently, I'm interested in dockerize 🐳 any new implementation/technology.
 
-Nowadays, I Am Senior SOC Analyst & Incident Responder With Over A Year Of Experience In The Security Operation Center.
+Nowadays, I Enjoy my work as a Senior SOC Analyst, Incident Responder with over a year of experience in Security Operation Center Analysis.
 
-⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
-
-💬 **A Wise Man Said Once You Need To Understand What You Protect**
-
-🏹 **Be Like A Bow & Arrow, The Stronger You Draw, The Stronger You Throw**
+> My Fav Quote
+>>⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
+>
+>> 💬 **A Wise Man Said Once You Need To Understand What You Protect** 💬
+>
+>> 🏹 **Be Like A Bow & Arrow, The Stronger You Draw, The Stronger You Throw**
 
 <br>
 <br>
