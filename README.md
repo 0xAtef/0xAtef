@@ -8,17 +8,22 @@
 
 <h1 align="center">I'm Mohamed Atef</h1>
   
-Cyber Security Engineer Who is Passionate about Incident Response, Digital Forensics, Threat Emulation, Threat Detection & Threat Hunting, Mainly More Into the Blue/Purple Teamer.
-I Am Coding and Scripting Geek 😄, In Fact, I Try Automate Any Repetitive Task That I Facing Daily In My Life.
-My Most Interesting Is Learning A New Knowledge / Skill / Technology ,And Find A Better Way To Implement It / Use It In My Daily Tasks. Currently, I Am Into Dockerize 🐳 Any New Implementation / Technology That Fit Into My Collection Of Tech Stack 😄.
+Cyber Security Engineer, Enthusiastic about ( Incident Response | Digital Forensics | Threat Emulation | Threat Detection | Threat Hunting | Malware Development ).
+Mainly More Into the Blue/Purple Teamer.
+also a Coder and a Scripts Holic😄.
+Automation is one of my easiest games.
+I always work on automate any repetitive task that would face me daily along with my work.
+I'm Fond about learning or gaining new knowledge's always seek to sharpen my Skills set.
+Currently, I'm interested in dockerize 🐳 any new implementation/technology.
 
-Nowadays, I Am Senior SOC Analyst & Incident Responder With Over A Year Of Experience In The Security Operation Center.
+Nowadays, I Enjoy my work as a Senior SOC Analyst, Incident Responder with over a year of experience in Security Operation Center Analysis.
 
-⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
-
-💬 **A Wise Man Said Once You Need To Understand What You Protect** 💬
-
-🏹 **Be Like A Bow & Arrow, The Stronger You Draw, The Stronger You Throw**
+> My Fav Quote
+>>⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
+>
+>> 💬 **A Wise Man Said Once You Need To Understand What You Protect** 💬
+>
+>> 🏹 **Be Like A Bow & Arrow, The Stronger You Draw, The Stronger You Throw**
 
 <br>
 <br>
@@ -52,18 +57,18 @@ Nowadays, I Am Senior SOC Analyst & Incident Responder With Over A Year Of Exper
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a> 
+    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>    
+    </a>
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -76,7 +81,7 @@ Nowadays, I Am Senior SOC Analyst & Incident Responder With Over A Year Of Exper
     </a>
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-    </a> 
+    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
