@@ -8,15 +8,11 @@
 
 <h1 align="center">I'm Mohamed Atef</h1>
   
-Cyber Security Engineer, Enthusiastic about ( Incident Response | Digital Forensics | Threat Emulation | Threat Detection | Threat Hunting | Malware Development ).
-Mainly More Into the Blue/Purple Teamer.
-also a Coder and a Scripts Holic😄.
-Automation is one of my easiest games.
-I always work on automate any repetitive task that would face me daily along with my work.
-I'm Fond about learning or gaining new knowledge's always seek to sharpen my Skills set.
-Currently, I'm interested in dockerize 🐳 any new implementation/technology.
+Sr Cybersecurity Engineer specializing in Thread Detection & Response, Threat Hunting, and Incident Response. I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOC, Develope (Process, use cases, playbooks, automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting.
 
-Nowadays, I Enjoy my work as a Senior SOC Analyst, Incident Responder with over a year of experience in Security Operation Center Analysis.
+In the online realm, I am recognized as 0xAtef. My professional passion revolves around SOC, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, as well as SOC Automation, with a specific focus on Blue/Purple teaming.
+
+I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
 
 > My Fav Quote
 >>⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
