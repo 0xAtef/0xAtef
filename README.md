@@ -8,11 +8,13 @@
 
 <h1 align="center">I'm Mohamed Atef</h1>
   
-Sr Cybersecurity Engineer specializing in Thread Detection & Response, Threat Hunting, and Incident Response. I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOC, Develope (Process, use cases, playbooks, automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting.
+Sr.SOC Engineer Specializing in ( Thread Detection | Threat Hunting | Incident Response | Automation )
 
-In the online realm, I am recognized as 0xAtef. My professional passion revolves around SOC, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, as well as SOC Automation, with a specific focus on Blue/Purple teaming.
+I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOC, Develope (Process, use cases, playbooks, automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting
 
-I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
+In the online realm, I am recognized as 0xAtef. My professional passion revolves around SOC, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, as well as SOC Automation, with a specific focus on Blue/Purple teaming
+
+I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity
 
 > My Fav Quote
 >>⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
