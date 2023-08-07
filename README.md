@@ -20,6 +20,21 @@ I am deeply enthusiastic about Developing and scripting, particularly in the rea
     <img src="https://tryhackme-badges.s3.amazonaws.com/0xAtef.png" alt="TryHackMe"> 
 </a>
 
+```json
+{
+  "real_name": "Mohsmed Atef",
+  "pseudo_names":   ["Atef", "Anubis", "Killua Zoldyck", "Itachi Uchiha"],
+  "job_title" : "Defensive Security Engineer",
+  "position": "SOC Lead",
+  "country":  "Egypt (EG)",
+  "coding":    ["Python", "HTML", "CSS", "JS", "Bash", "..."],
+  "passion": [ "Thread Detection", "Threat Hunting", "IR", "Development", "Automation", "SOAR", "SOC"],
+  "Tools": ["Qrader", "Splunk", "ELK", "n8n"]
+  "quote":    "Never give up!"
+}
+```
+
+
 > My Fav Quote
 >>⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
 >
