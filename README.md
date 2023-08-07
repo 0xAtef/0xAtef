@@ -17,7 +17,7 @@ In the online realm, I am recognized as 0xAtef. My professional passion revolves
 I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity
 
 
-
+<!---
 ```json
 {
   "whoami": "Mohamed Atef",
@@ -31,7 +31,9 @@ I am deeply enthusiastic about Developing and scripting, particularly in the rea
   "quote": ["Never give up!", "You Need To Understand What You Protect"]
 }
 ```
+--->
 
+<!---
 BIO
 - 💻 I love writing code and learning anything about Python | Automation
 - 📚 I highly love SOC, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, as well as SOC Automation, with a specific focus on Blue/Purple teaming
@@ -40,7 +42,7 @@ BIO
 - 🌱 Learning all about **Thread Detection | Threat Hunting | Incident Response | Automation**
 - 📫 Reach me: [0xAtef](0xatef.github.io)
 - ⚡️ Fun fact: Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE
-
+--->
   
 <!---
 > My Fav Quote
