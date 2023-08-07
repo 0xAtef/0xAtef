@@ -16,9 +16,10 @@ In the online realm, I am recognized as 0xAtef. My professional passion revolves
 
 I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity
 
+<a href="https://tryhackme.com/p/0xAtef"  target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xAtef.png" alt="TryHackMe"> 
+</a>
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/0xAtef.png" alt="TryHackMe"> 
- 
 > My Fav Quote
 >>⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
 >
