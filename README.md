@@ -88,9 +88,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Malware Campaign Targets Inexperienced Cyber Criminals with OpenBullet Configs](https://thehackernews.com/2023/08/new-malware-campaign-targets.html)
 - [North Korean Hackers Targets Russian Missile Engineering Firm](https://thehackernews.com/2023/08/north-korean-hackers-targets-russian.html)
 - [Enhancing Security Operations Using Wazuh: Open Source XDR and SIEM](https://thehackernews.com/2023/08/enhancing-security-operations-using.html)
 - [New &#39;Deep Learning Attack&#39; Deciphers Laptop Keystrokes with 95% Accuracy](https://thehackernews.com/2023/08/new-deep-learning-attack-deciphers.html)
 - [New SkidMap Linux Malware Variant Targeting Vulnerable Redis Servers](https://thehackernews.com/2023/08/new-skidmap-redis-malware-variant.html)
-- [FBI Alert: Crypto Scammers are Masquerading as NFT Developers](https://thehackernews.com/2023/08/fbi-alert-crypto-scammers-are.html)
 <!-- BLOG-POST-LIST:END -->
