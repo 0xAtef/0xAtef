@@ -120,6 +120,8 @@ I am deeply enthusiastic about Developing and scripting, particularly in the rea
     </a>
 </p>
 
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Brainhub24/Brainhub24/main/github-contribution-grid-snake.svg)](https://github.com/Brainhub24)
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [North Korean Hackers Targets Russian Missile Engineering Firm](https://thehackernews.com/2023/08/north-korean-hackers-targets-russian.html)
