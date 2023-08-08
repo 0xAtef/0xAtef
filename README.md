@@ -88,9 +88,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LOLBAS in the Wild: 11 Living-Off-The-Land Binaries Used for Malicious Purposes](https://thehackernews.com/2023/08/lolbas-in-wild-11-living-off-land.html)
+- [Understanding Active Directory Attack Paths to Improve Security](https://thehackernews.com/2023/08/understanding-active-directory-attack.html)
+- [New Yashma Ransomware Variant Targets Multiple English-Speaking Countries](https://thehackernews.com/2023/08/new-yashma-ransomware-variant-targets.html)
+- [LOLBAS in the Wild: 11 Living-Off-The-Land Binaries That Could Be Used for Malicious Purposes](https://thehackernews.com/2023/08/lolbas-in-wild-11-living-off-land.html)
 - [New Malware Campaign Targets Inexperienced Cyber Criminals with OpenBullet Configs](https://thehackernews.com/2023/08/new-malware-campaign-targets.html)
 - [North Korean Hackers Targets Russian Missile Engineering Firm](https://thehackernews.com/2023/08/north-korean-hackers-targets-russian.html)
-- [Enhancing Security Operations Using Wazuh: Open Source XDR and SIEM](https://thehackernews.com/2023/08/enhancing-security-operations-using.html)
-- [New &#39;Deep Learning Attack&#39; Deciphers Laptop Keystrokes with 95% Accuracy](https://thehackernews.com/2023/08/new-deep-learning-attack-deciphers.html)
 <!-- BLOG-POST-LIST:END -->
