@@ -88,9 +88,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Collide+Power, Downfall, and Inception: New Side-Channel Attacks Affecting Modern CPUs](https://thehackernews.com/2023/08/collidepower-downfall-and-inception-new.html)
 - [China-Linked Hackers Strike Worldwide: 17 Nations Hit in 3-Year Cyber Campaign](https://thehackernews.com/2023/08/china-linked-hackers-strike-worldwide.html)
 - [Continuous Security Validation with Penetration Testing as a Service &lpar;PTaaS&rpar;](https://thehackernews.com/2023/08/continuous-security-validation-with.html)
 - [New Android 14 Security Feature: IT Admins Can Now Disable 2G Networks](https://thehackernews.com/2023/08/new-android-14-security-feature-it.html)
 - [U.K. Electoral Commission Breach Exposes Voter Data of 40 Million Britons](https://thehackernews.com/2023/08/uk-electoral-commission-breach-exposes.html)
-- [Microsoft Releases Patches for 74 New Vulnerabilities in August Update](https://thehackernews.com/2023/08/microsoft-releases-patches-for-74-new.html)
 <!-- BLOG-POST-LIST:END -->
