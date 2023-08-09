@@ -88,9 +88,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Releases Patches for 74 New Vulnerabilities in August Update](https://thehackernews.com/2023/08/microsoft-releases-patches-for-74-new.html)
 - [QakBot Malware Operators Expand C2 Network with 15 New Servers](https://thehackernews.com/2023/08/qakbot-malware-operators-expand-c2.html)
 - [Hackers Abusing Cloudflare Tunnels for Covert Communications](https://thehackernews.com/2023/08/hackers-abusing-cloudflare-tunnels-for.html)
 - [Understanding Active Directory Attack Paths to Improve Security](https://thehackernews.com/2023/08/understanding-active-directory-attack.html)
 - [New Yashma Ransomware Variant Targets Multiple English-Speaking Countries](https://thehackernews.com/2023/08/new-yashma-ransomware-variant-targets.html)
-- [LOLBAS in the Wild: 11 Living-Off-The-Land Binaries That Could Be Used for Malicious Purposes](https://thehackernews.com/2023/08/lolbas-in-wild-11-living-off-land.html)
 <!-- BLOG-POST-LIST:END -->
