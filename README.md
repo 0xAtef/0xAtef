@@ -88,9 +88,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [U.K. Electoral Commission Breach Exposes Voter Data of 40 Million Britons](https://thehackernews.com/2023/08/uk-electoral-commission-breach-exposes.html)
+- [Continuous Security Validation with Penetration Testing as a Service &lpar;PTaaS&rpar;](https://thehackernews.com/2023/08/continuous-security-validation-with.html)
 - [New Android 14 Security Feature: IT Admins Can Now Disable 2G Networks](https://thehackernews.com/2023/08/new-android-14-security-feature-it.html)
+- [U.K. Electoral Commission Breach Exposes Voter Data of 40 Million Britons](https://thehackernews.com/2023/08/uk-electoral-commission-breach-exposes.html)
 - [Microsoft Releases Patches for 74 New Vulnerabilities in August Update](https://thehackernews.com/2023/08/microsoft-releases-patches-for-74-new.html)
 - [Malicious Campaigns Exploit Weak Kubernetes Clusters for Crypto Mining](https://thehackernews.com/2023/08/malicious-campaigns-exploit-weak.html)
-- [New Report Exposes Vice Society&#39;s Collaboration with Rhysida Ransomware](https://thehackernews.com/2023/08/new-report-exposes-vice-societys.html)
 <!-- BLOG-POST-LIST:END -->
