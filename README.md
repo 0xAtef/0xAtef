@@ -88,9 +88,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Campaigns Exploit Weak Kubernetes Clusters for Crypto Mining](https://thehackernews.com/2023/08/malicious-campaigns-exploit-weak.html)
 - [New Android 14 Security Feature: IT Admins Can Now Disable 2G Networks](https://thehackernews.com/2023/08/new-android-14-security-feature-it.html)
 - [Microsoft Releases Patches for 74 New Vulnerabilities in August Update](https://thehackernews.com/2023/08/microsoft-releases-patches-for-74-new.html)
 - [QakBot Malware Operators Expand C2 Network with 15 New Servers](https://thehackernews.com/2023/08/qakbot-malware-operators-expand-c2.html)
 - [Hackers Abusing Cloudflare Tunnels for Covert Communications](https://thehackernews.com/2023/08/hackers-abusing-cloudflare-tunnels-for.html)
-- [Understanding Active Directory Attack Paths to Improve Security](https://thehackernews.com/2023/08/understanding-active-directory-attack.html)
 <!-- BLOG-POST-LIST:END -->
