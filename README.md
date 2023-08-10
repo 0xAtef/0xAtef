@@ -88,9 +88,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Emerging Attacker Exploit: Microsoft Cross-Tenant Synchronization](https://thehackernews.com/2023/08/emerging-attacker-exploit-microsoft.html)
+- [Encryption Flaws in Popular Chinese Language App Put Users&#39; Typed Data at Risk](https://thehackernews.com/2023/08/encryption-flaws-in-popular-chinese.html)
 - [Cybercriminals Increasingly Using EvilProxy Phishing Kit to Target Executives](https://thehackernews.com/2023/08/cybercriminals-increasingly-using.html)
 - [Interpol Busts Phishing-as-a-Service Platform &#39;16Shop,&#39; Leading to 3 Arrests](https://thehackernews.com/2023/08/interpol-busts-phishing-as-service.html)
 - [Collide+Power, Downfall, and Inception: New Side-Channel Attacks Affecting Modern CPUs](https://thehackernews.com/2023/08/collidepower-downfall-and-inception-new.html)
-- [China-Linked Hackers Strike Worldwide: 17 Nations Hit in 3-Year Cyber Campaign](https://thehackernews.com/2023/08/china-linked-hackers-strike-worldwide.html)
-- [Continuous Security Validation with Penetration Testing as a Service &lpar;PTaaS&rpar;](https://thehackernews.com/2023/08/continuous-security-validation-with.html)
 <!-- BLOG-POST-LIST:END -->
