@@ -88,9 +88,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Attack Alert: Freeze[.]rs Injector Weaponized for XWorm Malware Attacks](https://thehackernews.com/2023/08/new-attack-alert-freezers-injector.html)
+- [New Statc Stealer Malware Emerges: Your Sensitive Data at Risk](https://thehackernews.com/2023/08/new-statc-stealer-malware-emerges-your.html)
 - [Emerging Attacker Exploit: Microsoft Cross-Tenant Synchronization](https://thehackernews.com/2023/08/emerging-attacker-exploit-microsoft.html)
 - [Encryption Flaws in Popular Chinese Language App Put Users&#39; Typed Data at Risk](https://thehackernews.com/2023/08/encryption-flaws-in-popular-chinese.html)
 - [Cybercriminals Increasingly Using EvilProxy Phishing Kit to Target Executives](https://thehackernews.com/2023/08/cybercriminals-increasingly-using.html)
-- [Interpol Busts Phishing-as-a-Service Platform &#39;16Shop,&#39; Leading to 3 Arrests](https://thehackernews.com/2023/08/interpol-busts-phishing-as-service.html)
-- [Collide+Power, Downfall, and Inception: New Side-Channel Attacks Affecting Modern CPUs](https://thehackernews.com/2023/08/collidepower-downfall-and-inception-new.html)
 <!-- BLOG-POST-LIST:END -->
