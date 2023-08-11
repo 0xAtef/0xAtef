@@ -88,9 +88,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing TLS Security: Google Adds Quantum-Resistant Encryption in Chrome 116](https://thehackernews.com/2023/08/enhancing-tls-security-google-adds.html)
 - [Researchers Shed Light on APT31&#39;s Advanced Backdoors and Data Exfiltration Tactics](https://thehackernews.com/2023/08/researchers-shed-light-on-apt31s.html)
 - [New SystemBC Malware Variant Targets Southern African Power Company](https://thehackernews.com/2023/08/new-systembc-malware-variant-targets.html)
 - [16 New CODESYS SDK Flaws Expose OT Environments to Remote Attacks](https://thehackernews.com/2023/08/15-new-codesys-sdk-flaws-expose-ot.html)
 - [CISA Adds Microsoft .NET Vulnerability to KEV Catalog Due to Active Exploitation](https://thehackernews.com/2023/08/cisa-adds-microsoft-net-vulnerability.html)
-- [New Attack Alert: Freeze[.]rs Injector Weaponized for XWorm Malware Attacks](https://thehackernews.com/2023/08/new-attack-alert-freezers-injector.html)
 <!-- BLOG-POST-LIST:END -->
