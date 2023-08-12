@@ -121,9 +121,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiple Flaws in CyberPower and Dataprobe Products Put Data Centers at Risk](https://thehackernews.com/2023/08/multiple-flaws-in-cyberpower-and.html)
 - [Zoom ZTP &amp; AudioCodes Phones Flaws Uncovered, Exposing Users to Eavesdropping](https://thehackernews.com/2023/08/zoom-ztp-audiocodes-phones-flaws.html)
 - [Lolek Bulletproof Hosting Servers Seized, 5 Key Operators Arrested](https://thehackernews.com/2023/08/lolek-bulletproof-hosting-servers.html)
 - [New Python URL Parsing Flaw Could Enable Command Execution Attacks](https://thehackernews.com/2023/08/new-python-url-parsing-flaw-enables.html)
 - [Researchers Uncover Years-Long Cyber Espionage on Foreign Embassies in Belarus](https://thehackernews.com/2023/08/researchers-uncover-decade-long-cyber.html)
-- [Enhancing TLS Security: Google Adds Quantum-Resistant Encryption in Chrome 116](https://thehackernews.com/2023/08/enhancing-tls-security-google-adds.html)
 <!-- BLOG-POST-LIST:END -->
