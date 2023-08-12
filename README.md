@@ -114,9 +114,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Python URL Parsing Flaw Enables Command Injection Attacks](https://thehackernews.com/2023/08/new-python-url-parsing-flaw-enables.html)
 - [Researchers Uncover Years-Long Cyber Espionage on Foreign Embassies in Belarus](https://thehackernews.com/2023/08/researchers-uncover-decade-long-cyber.html)
 - [Enhancing TLS Security: Google Adds Quantum-Resistant Encryption in Chrome 116](https://thehackernews.com/2023/08/enhancing-tls-security-google-adds.html)
 - [Researchers Shed Light on APT31&#39;s Advanced Backdoors and Data Exfiltration Tactics](https://thehackernews.com/2023/08/researchers-shed-light-on-apt31s.html)
 - [New SystemBC Malware Variant Targets Southern African Power Company](https://thehackernews.com/2023/08/new-systembc-malware-variant-targets.html)
-- [16 New CODESYS SDK Flaws Expose OT Environments to Remote Attacks](https://thehackernews.com/2023/08/15-new-codesys-sdk-flaws-expose-ot.html)
 <!-- BLOG-POST-LIST:END -->
