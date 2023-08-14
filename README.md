@@ -121,9 +121,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Identity Threat Detection and Response: Rips in Your Identity Fabric](https://thehackernews.com/2023/08/identity-threat-detection-and-response.html)
+- [Charming Kitten Targets Iranian Dissidents with Advanced Cyber Attacks](https://thehackernews.com/2023/08/charming-kitten-targets-iranian.html)
 - [New Financial Malware &#39;JanelaRAT&#39; Targets Latin American Users](https://thehackernews.com/2023/08/new-financial-malware-janelarat-targets.html)
 - [India Passes New Digital Personal Data Protection Bill &lpar;DPDPB&rpar;, Putting Users&#39; Privacy First](https://thehackernews.com/2023/08/india-passes-new-digital-personal-data.html)
 - [Multiple Flaws in CyberPower and Dataprobe Products Put Data Centers at Risk](https://thehackernews.com/2023/08/multiple-flaws-in-cyberpower-and.html)
-- [Zoom ZTP &amp; AudioCodes Phones Flaws Uncovered, Exposing Users to Eavesdropping](https://thehackernews.com/2023/08/zoom-ztp-audiocodes-phones-flaws.html)
-- [Lolek Bulletproof Hosting Servers Seized, 5 Key Operators Arrested](https://thehackernews.com/2023/08/lolek-bulletproof-hosting-servers.html)
 <!-- BLOG-POST-LIST:END -->
