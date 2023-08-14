@@ -79,7 +79,7 @@ BIO
 ---
 
 <a href="https://tryhackme.com/p/0xAtef"  target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xAtef.png" alt="TryHackMe"> 
+	<img src="https://tryhackme-badges.s3.amazonaws.com/0xAtef.png" alt="TryHackMe"> 
 </a>
 
 ---
