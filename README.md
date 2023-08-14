@@ -121,9 +121,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [QwixxRAT: New Remote Access Trojan Emerges via Telegram and Discord](https://thehackernews.com/2023/08/qwixxrat-new-remote-access-trojan.html)
 - [Ongoing Xurum Attacks on E-commerce Sites Exploiting Critical Magento 2 Vulnerability](https://thehackernews.com/2023/08/ongoing-xurum-attacks-on-e-commerce.html)
 - [Identity Threat Detection and Response: Rips in Your Identity Fabric](https://thehackernews.com/2023/08/identity-threat-detection-and-response.html)
 - [Charming Kitten Targets Iranian Dissidents with Advanced Cyber Attacks](https://thehackernews.com/2023/08/charming-kitten-targets-iranian.html)
 - [New Financial Malware &#39;JanelaRAT&#39; Targets Latin American Users](https://thehackernews.com/2023/08/new-financial-malware-janelarat-targets.html)
-- [India Passes New Digital Personal Data Protection Bill &lpar;DPDPB&rpar;, Putting Users&#39; Privacy First](https://thehackernews.com/2023/08/india-passes-new-digital-personal-data.html)
 <!-- BLOG-POST-LIST:END -->
