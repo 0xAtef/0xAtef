@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Abusing Cloudflare R2 for Hosting Phishing Pages, Experts Warn](https://thehackernews.com/2023/08/cybercriminals-abusing-cloudflare-r2.html)
+- [Catching the Catphish: Join the Expert Webinar on Combating Credential Phishing](https://thehackernews.com/2023/08/catching-catphish-join-expert-webinar.html)
 - [Multiple Flaws Found in ScrutisWeb Software Exposes ATMs to Remote Hacking](https://thehackernews.com/2023/08/multiple-flaws-found-in-scrutisweb.html)
 - [Monti Ransomware Returns with New Linux Variant and Enhanced Evasion Tactics](https://thehackernews.com/2023/08/monti-ransomware-returns-with-new-linux.html)
 - [Malware Unleashed: Public Sector Hit in Sudden Surge, Reveals New Report](https://thehackernews.com/2023/08/malware-unleashed-public-sector-hit-in.html)
-- [Gigabud RAT Android Banking Malware Targets Institutions Across Countries](https://thehackernews.com/2023/08/gigabud-rat-android-banking-malware.html)
-- [Over 120,000 Computers Compromised by Info Stealers Linked to Users of Cybercrime Forums](https://thehackernews.com/2023/08/over-12000-computers-compromised-by.html)
 <!-- BLOG-POST-LIST:END -->
