@@ -16,7 +16,9 @@ In the online realm, I am recognized as 0xAtef. My professional passion revolves
 
 I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity
 
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/0xAtef/count.svg?"  />
+</div>
 <!---
 ```json
 {
