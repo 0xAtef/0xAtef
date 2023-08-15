@@ -121,9 +121,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gigabud RAT Android Banking Malware Targets Institutions Across Countries](https://thehackernews.com/2023/08/gigabud-rat-android-banking-malware.html)
 - [Over 120,000 Computers Compromised by Info Stealers Linked to Users of Cybercrime Forums](https://thehackernews.com/2023/08/over-12000-computers-compromised-by.html)
 - [Catching the Catphish: Join the Expert Webinar on Combating Credential Phishing](https://thehackernews.com/2023/08/catching-catphish-join-expert-webinar.html)
 - [North Korean Hackers Suspected in New Wave of Malicious npm Packages](https://thehackernews.com/2023/08/north-korean-hackers-suspected-in-new.html)
 - [QwixxRAT: New Remote Access Trojan Emerges via Telegram and Discord](https://thehackernews.com/2023/08/qwixxrat-new-remote-access-trojan.html)
-- [Ongoing Xurum Attacks on E-commerce Sites Exploiting Critical Magento 2 Vulnerability](https://thehackernews.com/2023/08/ongoing-xurum-attacks-on-e-commerce.html)
 <!-- BLOG-POST-LIST:END -->
