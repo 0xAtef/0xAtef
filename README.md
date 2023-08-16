@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the State of Credential theft in 2023?](https://thehackernews.com/2023/08/whats-state-of-credential-theft-in-2023.html)
+- [Experts Uncover Weaknesses in PowerShell Gallery Enabling Supply Chain Attacks](https://thehackernews.com/2023/08/experts-uncover-weaknesses-in.html)
+- [Guide: How Google Workspace-based Organizations can leverage Chrome to improve Security](https://thehackernews.com/2023/08/guide-how-google-workspace-based.html)
+- [Google Introduces First Quantum Resilient FIDO2 Security Key](https://thehackernews.com/2023/08/google-introduces-first-quantum.html)
 - [Critical Security Flaws Affect Ivanti Avalanche, Threatening 30,000 Organizations](https://thehackernews.com/2023/08/critical-security-flaws-affect-ivanti.html)
-- [Nearly 2,000 Citrix NetScaler Instances Hacked via Critical Vulnerability](https://thehackernews.com/2023/08/nearly-2000-citrix-netscaler-instances.html)
-- [Cybercriminals Abusing Cloudflare R2 for Hosting Phishing Pages, Experts Warn](https://thehackernews.com/2023/08/cybercriminals-abusing-cloudflare-r2.html)
-- [Catching the Catphish: Join the Expert Webinar on Combating Credential Phishing](https://thehackernews.com/2023/08/catching-catphish-join-expert-webinar.html)
-- [Multiple Flaws Found in ScrutisWeb Software Exposes ATMs to Remote Hacking](https://thehackernews.com/2023/08/multiple-flaws-found-in-scrutisweb.html)
 <!-- BLOG-POST-LIST:END -->
