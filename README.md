@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nearly 2,000 Citrix NetScaler Instances Hacked via Critical Vulnerability](https://thehackernews.com/2023/08/nearly-2000-citrix-netscaler-instances.html)
 - [Cybercriminals Abusing Cloudflare R2 for Hosting Phishing Pages, Experts Warn](https://thehackernews.com/2023/08/cybercriminals-abusing-cloudflare-r2.html)
 - [Catching the Catphish: Join the Expert Webinar on Combating Credential Phishing](https://thehackernews.com/2023/08/catching-catphish-join-expert-webinar.html)
 - [Multiple Flaws Found in ScrutisWeb Software Exposes ATMs to Remote Hacking](https://thehackernews.com/2023/08/multiple-flaws-found-in-scrutisweb.html)
 - [Monti Ransomware Returns with New Linux Variant and Enhanced Evasion Tactics](https://thehackernews.com/2023/08/monti-ransomware-returns-with-new-linux.html)
-- [Malware Unleashed: Public Sector Hit in Sudden Surge, Reveals New Report](https://thehackernews.com/2023/08/malware-unleashed-public-sector-hit-in.html)
 <!-- BLOG-POST-LIST:END -->
