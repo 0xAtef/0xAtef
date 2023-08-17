@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Apple iOS 16 Exploit Enables Stealthy Cellular Access Under Fake Airplane Mode](https://thehackernews.com/2023/08/new-apple-ios-16-exploit-enables.html)
+- [New LABRAT Campaign Exploits GitLab Flaw for Cryptojacking and Proxyjacking Activities](https://thehackernews.com/2023/08/new-labrat-campaign-exploits-gitlab.html)
 - [Why You Need Continuous Network Monitoring?](https://thehackernews.com/2023/08/why-you-need-continuous-network.html)
 - [Russian Hackers Use Zulip Chat App for Covert C&amp;C in Diplomatic Phishing Attacks](https://thehackernews.com/2023/08/russian-hackers-use-zulip-chat-app-for.html)
 - [CISA Adds Citrix ShareFile Flaw to KEV Catalog Due to In-the-Wild Attacks](https://thehackernews.com/2023/08/cisa-adds-citrix-sharefile-flaw-to-kev.html)
-- [What&#39;s the State of Credential theft in 2023?](https://thehackernews.com/2023/08/whats-state-of-credential-theft-in-2023.html)
-- [Experts Uncover Weaknesses in PowerShell Gallery Enabling Supply Chain Attacks](https://thehackernews.com/2023/08/experts-uncover-weaknesses-in.html)
 <!-- BLOG-POST-LIST:END -->
