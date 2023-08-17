@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China-Linked Bronze Starlight Group Targeting Gambling Sector with Cobalt Strike Beacons](https://thehackernews.com/2023/08/china-linked-bronze-starlight-group.html)
 - [New Apple iOS 16 Exploit Enables Stealthy Cellular Access Under Fake Airplane Mode](https://thehackernews.com/2023/08/new-apple-ios-16-exploit-enables.html)
 - [New LABRAT Campaign Exploits GitLab Flaw for Cryptojacking and Proxyjacking Activities](https://thehackernews.com/2023/08/new-labrat-campaign-exploits-gitlab.html)
 - [Why You Need Continuous Network Monitoring?](https://thehackernews.com/2023/08/why-you-need-continuous-network.html)
 - [Russian Hackers Use Zulip Chat App for Covert C&amp;C in Diplomatic Phishing Attacks](https://thehackernews.com/2023/08/russian-hackers-use-zulip-chat-app-for.html)
-- [CISA Adds Citrix ShareFile Flaw to KEV Catalog Due to In-the-Wild Attacks](https://thehackernews.com/2023/08/cisa-adds-citrix-sharefile-flaw-to-kev.html)
 <!-- BLOG-POST-LIST:END -->
