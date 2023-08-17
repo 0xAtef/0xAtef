@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Need Continuous Network Monitoring?](https://thehackernews.com/2023/08/why-you-need-continuous-network.html)
 - [Russian Hackers Use Zulip Chat App for Covert C&amp;C in Diplomatic Phishing Attacks](https://thehackernews.com/2023/08/russian-hackers-use-zulip-chat-app-for.html)
 - [CISA Adds Citrix ShareFile Flaw to KEV Catalog Due to In-the-Wild Attacks](https://thehackernews.com/2023/08/cisa-adds-citrix-sharefile-flaw-to-kev.html)
 - [What&#39;s the State of Credential theft in 2023?](https://thehackernews.com/2023/08/whats-state-of-credential-theft-in-2023.html)
 - [Experts Uncover Weaknesses in PowerShell Gallery Enabling Supply Chain Attacks](https://thehackernews.com/2023/08/experts-uncover-weaknesses-in.html)
-- [Guide: How Google Workspace-based Organizations can leverage Chrome to improve Security](https://thehackernews.com/2023/08/guide-how-google-workspace-based.html)
 <!-- BLOG-POST-LIST:END -->
