@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Adds Citrix ShareFile Flaw to KEV Catalog Due to In-the-Wild Attacks](https://thehackernews.com/2023/08/cisa-adds-citrix-sharefile-flaw-to-kev.html)
 - [What&#39;s the State of Credential theft in 2023?](https://thehackernews.com/2023/08/whats-state-of-credential-theft-in-2023.html)
 - [Experts Uncover Weaknesses in PowerShell Gallery Enabling Supply Chain Attacks](https://thehackernews.com/2023/08/experts-uncover-weaknesses-in.html)
 - [Guide: How Google Workspace-based Organizations can leverage Chrome to improve Security](https://thehackernews.com/2023/08/guide-how-google-workspace-based.html)
-- [Google Introduces First Quantum Resilient FIDO2 Security Key](https://thehackernews.com/2023/08/google-introduces-first-quantum.html)
-- [Critical Security Flaws Affect Ivanti Avalanche, Threatening 30,000 Organizations](https://thehackernews.com/2023/08/critical-security-flaws-affect-ivanti.html)
+- [Google Introduces First Quantum Resilient FIDO2 Security Key Implementation](https://thehackernews.com/2023/08/google-introduces-first-quantum.html)
 <!-- BLOG-POST-LIST:END -->
