@@ -125,7 +125,7 @@ BIO
 <!-- BLOG-POST-LIST:START -->
 - [NoFilter Attack: Sneaky Privilege Escalation Method Bypasses Windows Security](https://thehackernews.com/2023/08/nofilter-attack-sneaky-privilege.html)
 - [China-Linked Bronze Starlight Group Targeting Gambling Sector with Cobalt Strike Beacons](https://thehackernews.com/2023/08/china-linked-bronze-starlight-group.html)
-- [New Apple iOS 16 Exploit Enables Stealthy Cellular Access Under Fake Airplane Mode](https://thehackernews.com/2023/08/new-apple-ios-16-exploit-enables.html)
 - [New LABRAT Campaign Exploits GitLab Flaw for Cryptojacking and Proxyjacking Activities](https://thehackernews.com/2023/08/new-labrat-campaign-exploits-gitlab.html)
+- [New Apple iOS 16 Exploit Enables Stealthy Cellular Access Under Fake Airplane Mode](https://thehackernews.com/2023/08/new-apple-ios-16-exploit-enables.html)
 - [Why You Need Continuous Network Monitoring?](https://thehackernews.com/2023/08/why-you-need-continuous-network.html)
 <!-- BLOG-POST-LIST:END -->
