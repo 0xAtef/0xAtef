@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [14 Suspected Cybercriminals Arrested Across Africa in Coordinated Crackdown](https://thehackernews.com/2023/08/14-suspected-cybercriminals-arrested.html)
+- [The Vulnerability of Zero Trust: Lessons from the Storm 0558 Hack](https://thehackernews.com/2023/08/the-vulnerability-of-zero-trust-lessons.html)
+- [New Wave of Attack Campaign Targeting Zimbra Email Users for Credential Theft](https://thehackernews.com/2023/08/new-wave-of-attack-campaign-targeting.html)
 - [New BlackCat Ransomware Variant Adopts Advanced Impacket and RemCom Tools](https://thehackernews.com/2023/08/new-blackcat-ransomware-variant-adopts.html)
 - [Google Chrome&#39;s New Feature Alerts Users About Auto-Removal of Malicious Extensions](https://thehackernews.com/2023/08/google-chromes-new-feature-alerts-users.html)
-- [NoFilter Attack: Sneaky Privilege Escalation Method Bypasses Windows Security](https://thehackernews.com/2023/08/nofilter-attack-sneaky-privilege.html)
-- [China-Linked Bronze Starlight Group Targeting Gambling Sector with Cobalt Strike Beacons](https://thehackernews.com/2023/08/china-linked-bronze-starlight-group.html)
-- [New Apple iOS 16 Exploit Enables Stealthy Cellular Access Under Fake Airplane Mode](https://thehackernews.com/2023/08/new-apple-ios-16-exploit-enables.html)
 <!-- BLOG-POST-LIST:END -->
