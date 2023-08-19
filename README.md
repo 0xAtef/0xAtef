@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Juniper Junos OS Flaws Expose Devices to Remote Attacks - Patch Now](https://thehackernews.com/2023/08/new-juniper-junos-os-flaws-expose.html)
+- [Thousands of Android Malware Apps Using Stealthy APK Compression to Evade Detection](https://thehackernews.com/2023/08/thousands-of-android-malware-apps-using.html)
 - [14 Suspected Cybercriminals Arrested Across Africa in Coordinated Crackdown](https://thehackernews.com/2023/08/14-suspected-cybercriminals-arrested.html)
 - [The Vulnerability of Zero Trust: Lessons from the Storm 0558 Hack](https://thehackernews.com/2023/08/the-vulnerability-of-zero-trust-lessons.html)
 - [New Wave of Attack Campaign Targeting Zimbra Email Users for Credential Theft](https://thehackernews.com/2023/08/new-wave-of-attack-campaign-targeting.html)
-- [New BlackCat Ransomware Variant Adopts Advanced Impacket and RemCom Tools](https://thehackernews.com/2023/08/new-blackcat-ransomware-variant-adopts.html)
-- [Google Chrome&#39;s New Feature Alerts Users About Auto-Removal of Malicious Extensions](https://thehackernews.com/2023/08/google-chromes-new-feature-alerts-users.html)
 <!-- BLOG-POST-LIST:END -->
