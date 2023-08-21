@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This Malware Turned Thousands of Hacked Windows and macOS PCs into Proxy Servers](https://thehackernews.com/2023/08/this-malware-turned-thousands-of-hacked.html)
 - [HiatusRAT Malware Resurfaces: Taiwan Firms and U.S. Military Under Attack](https://thehackernews.com/2023/08/hiatusrat-malware-resurfaces-taiwan.html)
 - [WoofLocker Toolkit Hides Malicious Codes in Images to Run Tech Support Scams](https://thehackernews.com/2023/08/wooflocker-toolkit-hides-malicious.html)
 - [New Juniper Junos OS Flaws Expose Devices to Remote Attacks - Patch Now](https://thehackernews.com/2023/08/new-juniper-junos-os-flaws-expose.html)
 - [Thousands of Android Malware Apps Using Stealthy APK Compression to Evade Detection](https://thehackernews.com/2023/08/thousands-of-android-malware-apps-using.html)
-- [14 Suspected Cybercriminals Arrested Across Africa in Coordinated Crackdown](https://thehackernews.com/2023/08/14-suspected-cybercriminals-arrested.html)
 <!-- BLOG-POST-LIST:END -->
