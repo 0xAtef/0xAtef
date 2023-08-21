@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New WinRAR Vulnerability Could Allow Hackers to Take Control of Your PC](https://thehackernews.com/2023/08/new-winrar-vulnerability-could-allow.html)
 - [How to Investigate an OAuth Grant for Suspicious Activity or Overly Permissive Scopes](https://thehackernews.com/2023/08/how-to-investigate-oauth-grant-for.html)
 - [This Malware Turned Thousands of Hacked Windows and macOS PCs into Proxy Servers](https://thehackernews.com/2023/08/this-malware-turned-thousands-of-hacked.html)
 - [HiatusRAT Malware Resurfaces: Taiwan Firms and U.S. Military Under Attack](https://thehackernews.com/2023/08/hiatusrat-malware-resurfaces-taiwan.html)
 - [WoofLocker Toolkit Hides Malicious Codes in Images to Run Tech Support Scams](https://thehackernews.com/2023/08/wooflocker-toolkit-hides-malicious.html)
-- [New Juniper Junos OS Flaws Expose Devices to Remote Attacks - Patch Now](https://thehackernews.com/2023/08/new-juniper-junos-os-flaws-expose.html)
 <!-- BLOG-POST-LIST:END -->
