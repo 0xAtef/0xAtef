@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Variant of XLoader macOS Malware Disguised as &#39;OfficeNote&#39; Productivity App](https://thehackernews.com/2023/08/new-variant-of-xloader-macos-malware.html)
 - [Ivanti Warns of Critical Zero-Day Flaw Being Actively Exploited in Sentry Software](https://thehackernews.com/2023/08/ivanti-warns-of-critical-zero-day-flaw.html)
 - [Critical Adobe ColdFusion Flaw Added to CISA&#39;s Exploited Vulnerability Catalog](https://thehackernews.com/2023/08/critical-adobe-coldfusion-flaw-added-to.html)
 - [New WinRAR Vulnerability Could Allow Hackers to Take Control of Your PC](https://thehackernews.com/2023/08/new-winrar-vulnerability-could-allow.html)
 - [How to Investigate an OAuth Grant for Suspicious Activity or Overly Permissive Scopes](https://thehackernews.com/2023/08/how-to-investigate-oauth-grant-for.html)
-- [This Malware Turned Thousands of Hacked Windows and macOS PCs into Proxy Servers](https://thehackernews.com/2023/08/this-malware-turned-thousands-of-hacked.html)
 <!-- BLOG-POST-LIST:END -->
