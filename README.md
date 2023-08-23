@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spacecolon Toolset Fuels Global Surge in Scarab Ransomware Attacks](https://thehackernews.com/2023/08/spacecolon-toolset-fuels-global-surge.html)
 - [Over a Dozen Malicious npm Packages Target Roblox Game Developers](https://thehackernews.com/2023/08/over-dozen-malicious-npm-packages.html)
 - [CISOs Tout SaaS Cybersecurity Confidence, But 79% Admit to SaaS Incidents, New Report Finds](https://thehackernews.com/2023/08/cisos-tout-saas-cybersecurity.html)
 - [Carderbee Attacks: Hong Kong Organizations Targeted via Malicious Software Updates](https://thehackernews.com/2023/08/carderbee-attacks-hong-kong.html)
 - [New Variant of XLoader macOS Malware Disguised as &#39;OfficeNote&#39; Productivity App](https://thehackernews.com/2023/08/new-variant-of-xloader-macos-malware.html)
-- [Ivanti Warns of Critical Zero-Day Flaw Being Actively Exploited in Sentry Software](https://thehackernews.com/2023/08/ivanti-warns-of-critical-zero-day-flaw.html)
 <!-- BLOG-POST-LIST:END -->
