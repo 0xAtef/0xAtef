@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tornado Cash Founders Charged in Billion-Dollar Crypto Laundering Scandal](https://thehackernews.com/2023/08/tornado-cash-founders-charged-in.html)
 - [North Korean Affiliates Suspected in $40M Cryptocurrency Heist, FBI Warns](https://thehackernews.com/2023/08/north-korean-affiliates-suspected-in.html)
 - [Meta Set to Enable Default End-to-End Encryption on Messenger by Year End](https://thehackernews.com/2023/08/meta-set-to-enable-default-end-to-end.html)
 - [Agile Approach to Mass Cloud Credential Harvesting and Crypto Mining Sprints Ahead](https://thehackernews.com/2023/08/agile-approach-to-mass-cloud-credential.html)
 - [Syrian Threat Actor EVLF Unmasked as Creator of CypherRAT and CraxsRAT Android Malware](https://thehackernews.com/2023/08/syrian-threat-actor-evlf-unmasked-as.html)
-- [Spacecolon Toolset Fuels Global Surge in Scarab Ransomware Attacks](https://thehackernews.com/2023/08/spacecolon-toolset-fuels-global-surge.html)
 <!-- BLOG-POST-LIST:END -->
