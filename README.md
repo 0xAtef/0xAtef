@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Dangers of Public Wi-Fi](https://thehackernews.com/2023/08/the-hidden-dangers-of-public-wi-fi.html)
+- [New &quot;Whiffy Recon&quot; Malware Triangulates Infected Device Location via Wi-Fi Every Minute](https://thehackernews.com/2023/08/new-whiffy-recon-malware-triangulates.html)
+- [WinRAR Security Flaw Exploited in Zero-Day Attacks to Target Traders](https://thehackernews.com/2023/08/winrar-security-flaw-exploited-in-zero.html)
 - [Thousands of Unpatched Openfire XMPP Servers Still Exposed to High-Severity Flaw](https://thehackernews.com/2023/08/thousands-of-unpatched-openfire-xmpp.html)
 - [Tornado Cash Founders Charged in Billion-Dollar Crypto Laundering Scandal](https://thehackernews.com/2023/08/tornado-cash-founders-charged-in.html)
-- [North Korean Affiliates Suspected in $40M Cryptocurrency Heist, FBI Warns](https://thehackernews.com/2023/08/north-korean-affiliates-suspected-in.html)
-- [Meta Set to Enable Default End-to-End Encryption on Messenger by Year End](https://thehackernews.com/2023/08/meta-set-to-enable-default-end-to-end.html)
-- [Agile Approach to Mass Cloud Credential Harvesting and Crypto Mining Sprints Ahead](https://thehackernews.com/2023/08/agile-approach-to-mass-cloud-credential.html)
 <!-- BLOG-POST-LIST:END -->
