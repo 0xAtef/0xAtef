@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Urgent FBI Warning: Barracuda Email Gateways Vulnerable Despite Recent Patches](https://thehackernews.com/2023/08/urgent-fbi-warning-barracuda-email.html)
 - [Lazarus Group Exploits Critical Zoho ManageEngine Flaw to Deploy Stealthy QuiteRAT Malware](https://thehackernews.com/2023/08/lazarus-group-exploits-critical-zoho.html)
 - [New Telegram Bot &quot;Telekopye&quot; Powering Large-scale Phishing Scams from Russia](https://thehackernews.com/2023/08/new-telegram-bot-telekopye-powering.html)
 - [The Hidden Dangers of Public Wi-Fi](https://thehackernews.com/2023/08/the-hidden-dangers-of-public-wi-fi.html)
 - [New &quot;Whiffy Recon&quot; Malware Triangulates Infected Device Location via Wi-Fi Every Minute](https://thehackernews.com/2023/08/new-whiffy-recon-malware-triangulates.html)
-- [WinRAR Security Flaw Exploited in Zero-Day Attacks to Target Traders](https://thehackernews.com/2023/08/winrar-security-flaw-exploited-in-zero.html)
 <!-- BLOG-POST-LIST:END -->
