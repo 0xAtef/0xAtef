@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LockBit 3.0 Ransomware Builder Leak Gives Rise to Hundreds of New Variants](https://thehackernews.com/2023/08/lockbit-30-ransomware-builder-leak.html)
 - [Kroll Suffers Data Breach: Employee Falls Victim to SIM Swapping Attack](https://thehackernews.com/2023/08/kroll-suffers-data-breach-employee.html)
 - [Two LAPSUS$ Hackers Convicted in London Court for High-Profile Tech Firm Hacks](https://thehackernews.com/2023/08/two-lapsus-hackers-convicted-in-london.html)
 - [Learn How Your Business Data Can Amplify Your AI/ML Threat Detection Capabilities](https://thehackernews.com/2023/08/learn-how-your-business-data-can.html)
 - [Navigating Legacy Infrastructure: A CISO&#39;s Actionable Strategy for Success](https://thehackernews.com/2023/08/navigating-legacy-infrastructure-cisos.html)
-- [China-Linked Flax Typhoon Cyber Espionage Targets Taiwan&#39;s Key Sectors](https://thehackernews.com/2023/08/china-linked-flax-typhoon-cyber.html)
 <!-- BLOG-POST-LIST:END -->
