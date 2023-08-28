@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Developers Beware: Malicious Rust Libraries Caught Transmitting OS Info to Telegram Channel](https://thehackernews.com/2023/08/developers-beware-malicious-rust.html)
 - [Cyberattacks Targeting E-commerce Applications](https://thehackernews.com/2023/08/cyberattacks-targeting-e-commerce.html)
 - [KmsdBot Malware Gets an Upgrade: Now Targets IoT Devices with Enhanced Capabilities](https://thehackernews.com/2023/08/kmsdbot-malware-gets-upgrade-now.html)
 - [LockBit 3.0 Ransomware Builder Leak Gives Rise to Hundreds of New Variants](https://thehackernews.com/2023/08/lockbit-30-ransomware-builder-leak.html)
 - [Kroll Suffers Data Breach: Employee Falls Victim to SIM Swapping Attack](https://thehackernews.com/2023/08/kroll-suffers-data-breach-employee.html)
-- [Two LAPSUS$ Hackers Convicted in London Court for High-Profile Tech Firm Hacks](https://thehackernews.com/2023/08/two-lapsus-hackers-convicted-in-london.html)
 <!-- BLOG-POST-LIST:END -->
