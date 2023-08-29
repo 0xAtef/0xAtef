@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hacking Group Exploits Barracuda Zero-Day to Target Government, Military, and Telecom](https://thehackernews.com/2023/08/chinese-hacking-group-exploits.html)
+- [DarkGate Malware Activity Spikes as Developer Rents Out Malware to Affiliates](https://thehackernews.com/2023/08/darkgate-malware-activity-spikes-as.html)
 - [Survey Provides Takeaways for Security Pros to Operationalize their Remediation Life Cycle](https://thehackernews.com/2023/08/survey-provides-takeaways-for-security.html)
 - [Citrix NetScaler Alert: Ransomware Hackers Exploiting Critical Vulnerability](https://thehackernews.com/2023/08/citrix-netscaler-alert-ransomware.html)
 - [Phishing-as-a-Service Gets Smarter: Microsoft Sounds Alarm on AiTM Attacks](https://thehackernews.com/2023/08/phishing-as-service-gets-smarter.html)
-- [Experts Uncover How Cybercriminals Could Exploit Microsoft Entra ID for Elevated Privilege](https://thehackernews.com/2023/08/experts-uncover-how-cybercriminals.html)
-- [Developers Beware: Malicious Rust Libraries Caught Transmitting OS Info to Telegram Channel](https://thehackernews.com/2023/08/developers-beware-malicious-rust.html)
 <!-- BLOG-POST-LIST:END -->
