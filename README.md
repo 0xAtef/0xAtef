@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Survey Provides Takeaways for Security Pros to Operationalize their Remediation Life Cycle](https://thehackernews.com/2023/08/survey-provides-takeaways-for-security.html)
 - [Citrix NetScaler Alert: Ransomware Hackers Exploiting Critical Vulnerability](https://thehackernews.com/2023/08/citrix-netscaler-alert-ransomware.html)
 - [Phishing-as-a-Service Gets Smarter: Microsoft Sounds Alarm on AiTM Attacks](https://thehackernews.com/2023/08/phishing-as-service-gets-smarter.html)
 - [Experts Uncover How Cybercriminals Could Exploit Microsoft Entra ID for Elevated Privilege](https://thehackernews.com/2023/08/experts-uncover-how-cybercriminals.html)
 - [Developers Beware: Malicious Rust Libraries Caught Transmitting OS Info to Telegram Channel](https://thehackernews.com/2023/08/developers-beware-malicious-rust.html)
-- [Cyberattacks Targeting E-commerce Applications](https://thehackernews.com/2023/08/cyberattacks-targeting-e-commerce.html)
 <!-- BLOG-POST-LIST:END -->
