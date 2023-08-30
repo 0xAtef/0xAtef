@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MMRat Android Trojan Executes Remote Financial Fraud Through Accessibility Feature](https://thehackernews.com/2023/08/mmrat-android-trojan-executes-remote.html)
 - [China-Linked BadBazaar Android Spyware Targeting Signal and Telegram Users](https://thehackernews.com/2023/08/china-linked-badbazaar-android-spyware.html)
 - [How to Prevent ChatGPT From Stealing Your Content &amp; Traffic](https://thehackernews.com/2023/08/how-to-prevent-chatgpt-from-stealing.html)
 - [Malicious npm Packages Aim to Target Developers for Source Code Theft](https://thehackernews.com/2023/08/malicious-npm-packages-aim-to-target.html)
 - [Alert: Juniper Firewalls, Openfire, and Apache RocketMQ Under Attack from New Exploits](https://thehackernews.com/2023/08/alert-juniper-firewalls-openfire-and.html)
-- [Critical Vulnerability Alert: VMware Aria Operations Networks at Risk from Remote Attacks](https://thehackernews.com/2023/08/critical-vulnerability-alert-vmware.html)
 <!-- BLOG-POST-LIST:END -->
