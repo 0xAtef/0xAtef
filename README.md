@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alert: Juniper Firewalls, Openfire, and Apache RocketMQ Under Attack from New Exploits](https://thehackernews.com/2023/08/alert-juniper-firewalls-openfire-and.html)
 - [Critical Vulnerability Alert: VMware Aria Operations Networks at Risk from Remote Attacks](https://thehackernews.com/2023/08/critical-vulnerability-alert-vmware.html)
 - [FBI Dismantles QakBot Malware, Frees 700,000 Computers, Seizes $8.6 Million](https://thehackernews.com/2023/08/fbi-dismantles-qakbot-malware-frees.html)
 - [Chinese Hacking Group Exploits Barracuda Zero-Day to Target Government, Military, and Telecom](https://thehackernews.com/2023/08/chinese-hacking-group-exploits.html)
 - [DarkGate Malware Activity Spikes as Developer Rents Out Malware to Affiliates](https://thehackernews.com/2023/08/darkgate-malware-activity-spikes-as.html)
-- [Survey Provides Takeaways for Security Pros to Operationalize their Remediation Life Cycle](https://thehackernews.com/2023/08/survey-provides-takeaways-for-security.html)
 <!-- BLOG-POST-LIST:END -->
