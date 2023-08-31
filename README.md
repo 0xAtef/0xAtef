@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Earth Estries&#39; Espionage Campaign Targets Governments and Tech Titans Across Continents](https://thehackernews.com/2023/08/earth-estries-espionage-campaign.html)
 - [Hackers Can Exploit Windows Container Isolation Framework to Bypass Endpoint Security](https://thehackernews.com/2023/08/hackers-can-exploit-windows-container.html)
 - [MMRat Android Trojan Executes Remote Financial Fraud Through Accessibility Feature](https://thehackernews.com/2023/08/mmrat-android-trojan-executes-remote.html)
 - [China-Linked BadBazaar Android Spyware Targeting Signal and Telegram Users](https://thehackernews.com/2023/08/china-linked-badbazaar-android-spyware.html)
 - [How to Prevent ChatGPT From Stealing Your Content &amp; Traffic](https://thehackernews.com/2023/08/how-to-prevent-chatgpt-from-stealing.html)
-- [Malicious npm Packages Aim to Target Developers for Source Code Theft](https://thehackernews.com/2023/08/malicious-npm-packages-aim-to-target.html)
 <!-- BLOG-POST-LIST:END -->
