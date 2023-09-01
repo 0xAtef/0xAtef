@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Threat Actors Targeting Microsoft SQL Servers to Deploy FreeWorld Ransomware](https://thehackernews.com/2023/09/threat-actors-targeting-microsoft-sql.html)
 - [Russian State-Backed &#39;Infamous Chisel&#39; Android Malware Targets Ukrainian Military](https://thehackernews.com/2023/09/russian-state-backed-infamous-chisel.html)
 - [New SuperBear Trojan Emerges in Targeted Phishing Attack on South Korean Activists](https://thehackernews.com/2023/09/new-superbear-trojan-emerges-in.html)
 - [It&#39;s a Zero-day? It&#39;s Malware? No! It&#39;s Username and Password](https://thehackernews.com/2023/09/its-zero-day-its-malware-no-its.html)
 - [Classiscam Scam-as-a-Service Raked $64.5 Million During the COVID-19 Pandemic](https://thehackernews.com/2023/09/classiscam-scam-as-service-raked-645.html)
-- [SapphireStealer Malware: A Gateway to Espionage and Ransomware Operations](https://thehackernews.com/2023/08/sapphirestealer-malware-gateway-to.html)
 <!-- BLOG-POST-LIST:END -->
