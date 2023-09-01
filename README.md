@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Classiscam Scam-as-a-Service Raked $64.5 Million During the COVID-19 Pandemic](https://thehackernews.com/2023/09/classiscam-scam-as-service-raked-645.html)
 - [SapphireStealer Malware: A Gateway to Espionage and Ransomware Operations](https://thehackernews.com/2023/08/sapphirestealer-malware-gateway-to.html)
 - [North Korean Hackers Deploy New Malicious Python Packages in PyPI Repository](https://thehackernews.com/2023/08/north-korean-hackers-deploy-new.html)
 - [Numbers Don&#39;t Lie: Exposing the Harsh Truths of Cyberattacks in New Report](https://thehackernews.com/2023/08/numbers-dont-lie-exposing-harsh-truths.html)
 - [Earth Estries&#39; Espionage Campaign Targets Governments and Tech Titans Across Continents](https://thehackernews.com/2023/08/earth-estries-espionage-campaign.html)
-- [Hackers Can Exploit Windows Container Isolation Framework to Bypass Endpoint Security](https://thehackernews.com/2023/08/hackers-can-exploit-windows-container.html)
 <!-- BLOG-POST-LIST:END -->
