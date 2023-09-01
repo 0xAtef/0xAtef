@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian State-Backed &#39;Infamous Chisel&#39; Android Malware Targets Ukrainian Military](https://thehackernews.com/2023/09/russian-state-backed-infamous-chisel.html)
 - [New SuperBear Trojan Emerges in Targeted Phishing Attack on South Korean Activists](https://thehackernews.com/2023/09/new-superbear-trojan-emerges-in.html)
+- [It&#39;s a Zero-day? It&#39;s Malware? No! It&#39;s Username and Password](https://thehackernews.com/2023/09/its-zero-day-its-malware-no-its.html)
 - [Classiscam Scam-as-a-Service Raked $64.5 Million During the COVID-19 Pandemic](https://thehackernews.com/2023/09/classiscam-scam-as-service-raked-645.html)
 - [SapphireStealer Malware: A Gateway to Espionage and Ransomware Operations](https://thehackernews.com/2023/08/sapphirestealer-malware-gateway-to.html)
-- [North Korean Hackers Deploy New Malicious Python Packages in PyPI Repository](https://thehackernews.com/2023/08/north-korean-hackers-deploy-new.html)
-- [Numbers Don&#39;t Lie: Exposing the Harsh Truths of Cyberattacks in New Report](https://thehackernews.com/2023/08/numbers-dont-lie-exposing-harsh-truths.html)
 <!-- BLOG-POST-LIST:END -->
