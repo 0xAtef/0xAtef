@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Wanted to Know About AI Security but Were Afraid to Ask](https://thehackernews.com/2023/09/everything-you-wanted-to-know-about-ai.html)
 - [Vietnamese Cybercriminals Targeting Facebook Business Accounts with Malvertising](https://thehackernews.com/2023/09/vietnamese-cybercriminals-targeting.html)
 - [Beware of MalDoc in PDF: A New Polyglot Attack Allowing Attackers to Evade Antivirus](https://thehackernews.com/2023/09/beware-of-maldoc-in-pdf-new-polyglot.html)
+- [Chinese-Speaking Cybercriminals Launch Large-Scale iMessage Smishing Campaign in U.S.](https://thehackernews.com/2023/09/chinese-speaking-cybercriminals-launch.html)
 - [PoC Exploit Released for Critical VMware Aria&#39;s SSH Auth Bypass Vulnerability](https://thehackernews.com/2023/09/poc-exploit-released-for-critical.html)
-- [Okta Warns of Social Engineering Attacks Targeting Super Administrator Privileges](https://thehackernews.com/2023/09/okta-warns-of-social-engineering.html)
-- [Threat Actors Targeting Microsoft SQL Servers to Deploy FreeWorld Ransomware](https://thehackernews.com/2023/09/threat-actors-targeting-microsoft-sql.html)
 <!-- BLOG-POST-LIST:END -->
