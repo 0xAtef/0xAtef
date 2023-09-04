@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploit MinIO Storage System Vulnerabilities to Compromise Servers](https://thehackernews.com/2023/09/hackers-exploit-minio-storage-system.html)
 - [X &lpar;Twitter&rpar; to Collect Biometric Data from Premium Users to Combat Impersonation](https://thehackernews.com/2023/09/x-twitter-to-collect-biometric-data.html)
 - [Everything You Wanted to Know About AI Security but Were Afraid to Ask](https://thehackernews.com/2023/09/everything-you-wanted-to-know-about-ai.html)
 - [Vietnamese Cybercriminals Targeting Facebook Business Accounts with Malvertising](https://thehackernews.com/2023/09/vietnamese-cybercriminals-targeting.html)
 - [Beware of MalDoc in PDF: A New Polyglot Attack Allowing Attackers to Evade Antivirus](https://thehackernews.com/2023/09/beware-of-maldoc-in-pdf-new-polyglot.html)
-- [Chinese-Speaking Cybercriminals Launch Large-Scale iMessage Smishing Campaign in U.S.](https://thehackernews.com/2023/09/chinese-speaking-cybercriminals-launch.html)
 <!-- BLOG-POST-LIST:END -->
