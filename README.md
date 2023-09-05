@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Python Variant of Chaes Malware Targets Banking and Logistics Industries](https://thehackernews.com/2023/09/new-python-variant-of-chaes-malware.html)
+- [Way Too Vulnerable: Join this Webinar to Understand and Strengthen Identity Attack Surface](https://thehackernews.com/2023/09/way-too-vulnerable-join-this-webinar-to.html)
+- [Key Cybersecurity Tools That Can Mitigate the Cost of a Breach](https://thehackernews.com/2023/09/key-cybersecurity-tools-that-can.html)
+- [Researchers Warn of Cyber Weapons Used by Lazarus Group&#39;s Andariel Cluster](https://thehackernews.com/2023/09/researchers-warn-of-cyber-weapons-used.html)
 - [Meta Takes Down Thousands of Accounts Involved in Disinformation Ops from China and Russia](https://thehackernews.com/2023/09/meta-takes-down-thousands-of-accounts.html)
-- [Hackers Exploit MinIO Storage System Vulnerabilities to Compromise Servers](https://thehackernews.com/2023/09/hackers-exploit-minio-storage-system.html)
-- [X &lpar;Twitter&rpar; to Collect Biometric Data from Premium Users to Combat Impersonation](https://thehackernews.com/2023/09/x-twitter-to-collect-biometric-data.html)
-- [Everything You Wanted to Know About AI Security but Were Afraid to Ask](https://thehackernews.com/2023/09/everything-you-wanted-to-know-about-ai.html)
-- [Vietnamese Cybercriminals Targeting Facebook Business Accounts with Malvertising](https://thehackernews.com/2023/09/vietnamese-cybercriminals-targeting.html)
 <!-- BLOG-POST-LIST:END -->
