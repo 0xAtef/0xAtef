@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 Alarming Vulnerabilities Uncovered in SEL&#39;s Power Management Products](https://thehackernews.com/2023/09/9-alarming-vulnerabilities-uncovered-in.html)
 - [W3LL Store: How a Secret Phishing Syndicate Targets 8,000+ Microsoft 365 Accounts](https://thehackernews.com/2023/09/w3ll-store-how-secret-phishing.html)
 - [Ukraine&#39;s CERT Thwarts APT28&#39;s Cyberattack on Critical Energy Infrastructure](https://thehackernews.com/2023/09/ukraines-cert-thwarts-apt28s.html)
 - [New BLISTER Malware Update Fuelling Stealthy Network Infiltration](https://thehackernews.com/2023/09/new-blister-malware-update-fuelling.html)
 - [New Python Variant of Chaes Malware Targets Banking and Logistics Industries](https://thehackernews.com/2023/09/new-python-variant-of-chaes-malware.html)
-- [Way Too Vulnerable: Join this Webinar to Understand and Strengthen Identity Attack Surface](https://thehackernews.com/2023/09/way-too-vulnerable-join-this-webinar-to.html)
 <!-- BLOG-POST-LIST:END -->
