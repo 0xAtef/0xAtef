@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ukraine&#39;s CERT Thwarts APT28&#39;s Cyberattack on Critical Energy Infrastructure](https://thehackernews.com/2023/09/ukraines-cert-thwarts-apt28s.html)
 - [New BLISTER Malware Update Fuelling Stealthy Network Infiltration](https://thehackernews.com/2023/09/new-blister-malware-update-fuelling.html)
 - [New Python Variant of Chaes Malware Targets Banking and Logistics Industries](https://thehackernews.com/2023/09/new-python-variant-of-chaes-malware.html)
 - [Way Too Vulnerable: Join this Webinar to Understand and Strengthen Identity Attack Surface](https://thehackernews.com/2023/09/way-too-vulnerable-join-this-webinar-to.html)
 - [Key Cybersecurity Tools That Can Mitigate the Cost of a Breach](https://thehackernews.com/2023/09/key-cybersecurity-tools-that-can.html)
-- [Researchers Warn of Cyber Weapons Used by Lazarus Group&#39;s Andariel Cluster](https://thehackernews.com/2023/09/researchers-warn-of-cyber-weapons-used.html)
 <!-- BLOG-POST-LIST:END -->
