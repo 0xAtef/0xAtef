@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Outlook Breach: Microsoft Reveals How a Crash Dump Led to a Major Security Breach](https://thehackernews.com/2023/09/outlook-breach-microsoft-reveals-how.html)
 - [Zero-Day Alert: Latest Android Patch Update Includes Fix for Newly Actively Exploited Flaw](https://thehackernews.com/2023/09/zero-day-alert-latest-android-patch.html)
 - [Alert: Phishing Campaigns Deliver New SideTwist Backdoor and Agent Tesla Variant](https://thehackernews.com/2023/09/alert-phishing-campaigns-deliver-new.html)
 - [Three CISOs Share How to Run an Effective SOC](https://thehackernews.com/2023/09/three-cisos-share-how-to-run-effective.html)
 - [9 Alarming Vulnerabilities Uncovered in SEL&#39;s Power Management Products](https://thehackernews.com/2023/09/9-alarming-vulnerabilities-uncovered-in.html)
-- [W3LL Store: How a Secret Phishing Syndicate Targets 8,000+ Microsoft 365 Accounts](https://thehackernews.com/2023/09/w3ll-store-how-secret-phishing.html)
 <!-- BLOG-POST-LIST:END -->
