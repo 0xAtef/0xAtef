@@ -126,6 +126,6 @@ BIO
 - [The State of the Virtual CISO Report: MSP/MSSP Security Strategies for 2024](https://thehackernews.com/2023/09/the-state-of-virtual-ciso-report.html)
 - [Alert: Apache SuperSet Vulnerabilities Expose Servers to Remote Code Execution Attacks](https://thehackernews.com/2023/09/alert-apache-superset-vulnerabilities.html)
 - [Mirai Botnet Variant &#39;Pandora&#39; Hijacks Android TVs for Cyberattacks](https://thehackernews.com/2023/09/mirai-botnet-variant-pandora-hijacks.html)
-- [Outlook Breach: Microsoft Reveals How a Crash Dump Led to a Major Security Breach](https://thehackernews.com/2023/09/outlook-breach-microsoft-reveals-how.html)
+- [Outlook Hack: Microsoft Reveals How a Crash Dump Led to a Major Security Breach](https://thehackernews.com/2023/09/outlook-breach-microsoft-reveals-how.html)
 - [Zero-Day Alert: Latest Android Patch Update Includes Fix for Newly Actively Exploited Flaw](https://thehackernews.com/2023/09/zero-day-alert-latest-android-patch.html)
 <!-- BLOG-POST-LIST:END -->
