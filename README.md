@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alert: Apache SuperSet Vulnerabilities Expose Servers to Remote Code Execution Attacks](https://thehackernews.com/2023/09/alert-apache-superset-vulnerabilities.html)
 - [Mirai Botnet Variant &#39;Pandora&#39; Hijacks Android TVs for Cyberattacks](https://thehackernews.com/2023/09/mirai-botnet-variant-pandora-hijacks.html)
 - [Outlook Breach: Microsoft Reveals How a Crash Dump Led to a Major Security Breach](https://thehackernews.com/2023/09/outlook-breach-microsoft-reveals-how.html)
 - [Zero-Day Alert: Latest Android Patch Update Includes Fix for Newly Actively Exploited Flaw](https://thehackernews.com/2023/09/zero-day-alert-latest-android-patch.html)
 - [Alert: Phishing Campaigns Deliver New SideTwist Backdoor and Agent Tesla Variant](https://thehackernews.com/2023/09/alert-phishing-campaigns-deliver-new.html)
-- [Three CISOs Share How to Run an Effective SOC](https://thehackernews.com/2023/09/three-cisos-share-how-to-run-effective.html)
 <!-- BLOG-POST-LIST:END -->
