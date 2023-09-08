@@ -124,8 +124,8 @@ BIO
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Apple Rushes to Patch Zero-Day Flaws Exploited for Pegasus Spyware on iPhones](https://thehackernews.com/2023/09/apple-rushes-to-patch-zero-day-flaws.html)
-- [Protecting Your Microsoft IIS Servers Against Malware Attacks](https://thehackernews.com/2023/09/protecting-your-microsoft-iis-servers.html)
 - [Cisco Issues Urgent Fix for Authentication Bypass Bug Affecting BroadWorks Platform](https://thehackernews.com/2023/09/cisco-issues-urgent-fix-for.html)
+- [Protecting Your Microsoft IIS Servers Against Malware Attacks](https://thehackernews.com/2023/09/protecting-your-microsoft-iis-servers.html)
 - [North Korean Hackers Exploit Zero-Day Bug to Target Cybersecurity Researchers](https://thehackernews.com/2023/09/north-korean-hackers-exploit-zero-day.html)
 - [CISA Warning: Nation-State Hackers Exploit Fortinet and Zoho Vulnerabilities](https://thehackernews.com/2023/09/cisa-warning-nation-state-hackers.html)
 <!-- BLOG-POST-LIST:END -->
