@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Warning: Nation-State Hackers Exploit Fortinet and Zoho Vulnerabilities](https://thehackernews.com/2023/09/cisa-warning-nation-state-hackers.html)
 - [Apple Rushes to Patch Zero-Day Flaws Exploited for Pegasus Spyware on iPhones](https://thehackernews.com/2023/09/apple-rushes-to-patch-zero-day-flaws.html)
 - [Mac Users Beware: Malvertising Campaign Spreads Atomic Stealer macOS Malware](https://thehackernews.com/2023/09/mac-users-beware-malvertising-campaign.html)
 - [The State of the Virtual CISO Report: MSP/MSSP Security Strategies for 2024](https://thehackernews.com/2023/09/the-state-of-virtual-ciso-report.html)
 - [Alert: Apache Superset Vulnerabilities Expose Servers to Remote Code Execution Attacks](https://thehackernews.com/2023/09/alert-apache-superset-vulnerabilities.html)
-- [Mirai Botnet Variant &#39;Pandora&#39; Hijacks Android TVs for Cyberattacks](https://thehackernews.com/2023/09/mirai-botnet-variant-pandora-hijacks.html)
 <!-- BLOG-POST-LIST:END -->
