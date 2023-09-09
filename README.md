@@ -123,7 +123,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [U.K. and U.S. Sanction 11 Russia-based Trickbot Cybercrime Gang Members](https://thehackernews.com/2023/09/uk-and-us-sanction-11-russia-based.html)
+- [U.K. and U.S. Sanction 11 Russia-based TrickBot Cybercrime Gang Members](https://thehackernews.com/2023/09/uk-and-us-sanction-11-russia-based.html)
 - [Apple Rushes to Patch Zero-Day Flaws Exploited for Pegasus Spyware on iPhones](https://thehackernews.com/2023/09/apple-rushes-to-patch-zero-day-flaws.html)
 - [Cisco Issues Urgent Fix for Authentication Bypass Bug Affecting BroadWorks Platform](https://thehackernews.com/2023/09/cisco-issues-urgent-fix-for.html)
 - [Protecting Your Microsoft IIS Servers Against Malware Attacks](https://thehackernews.com/2023/09/protecting-your-microsoft-iis-servers.html)
