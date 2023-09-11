@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Charming Kiten&#39;s New Backdoor &#39;Sponsor&#39; Targets Brazil, Israel, and U.A.E.](https://thehackernews.com/2023/09/charming-kitens-new-backdoor-sponsor.html)
 - [How to Prevent API Breaches: A Guide to Robust Security](https://thehackernews.com/2023/09/how-to-prevent-api-breaches-guide-to.html)
 - [Google Chrome Rolls Out Support for &#39;Privacy Sandbox&#39; to Bid Farewell to Tracking Cookies](https://thehackernews.com/2023/09/google-chrome-rolls-out-support-for.html)
 - [Cybercriminals Using PowerShell to Steal NTLMv2 Hashes from Compromised Windows](https://thehackernews.com/2023/09/cybercriminals-using-powershell-to.html)
 - [New HijackLoader Modular Malware Loader Making Waves in the Cybercrime World](https://thehackernews.com/2023/09/new-hijackloader-modular-malware-loader.html)
-- [Millions Infected by Spyware Hidden in Fake Telegram Apps on Google Play](https://thehackernews.com/2023/09/millions-infected-by-spyware-hidden-in.html)
 <!-- BLOG-POST-LIST:END -->
