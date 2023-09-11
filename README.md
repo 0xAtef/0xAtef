@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome Rolls Out Support for &#39;Privacy Sandbox&#39; to Bid Farewell to Tracking Cookies](https://thehackernews.com/2023/09/google-chrome-rolls-out-support-for.html)
 - [Cybercriminals Using PowerShell to Steal NTLMv2 Hashes from Compromised Windows](https://thehackernews.com/2023/09/cybercriminals-using-powershell-to.html)
 - [New HijackLoader Modular Malware Loader Making Waves in the Cybercrime World](https://thehackernews.com/2023/09/new-hijackloader-modular-malware-loader.html)
 - [Millions Infected by Spyware Hidden in Fake Telegram Apps on Google Play](https://thehackernews.com/2023/09/millions-infected-by-spyware-hidden-in.html)
 - [Cybercriminals Weaponizing Legitimate Advanced Installer Tool in Crypto-Mining Attacks](https://thehackernews.com/2023/09/cybercriminals-weaponizing-legitimate.html)
-- [U.K. and U.S. Sanction 11 Russia-based TrickBot Cybercrime Gang Members](https://thehackernews.com/2023/09/uk-and-us-sanction-11-russia-based.html)
 <!-- BLOG-POST-LIST:END -->
