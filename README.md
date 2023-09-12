@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beware: MetaStealer Malware Targets Apple macOS in Recent Attacks](https://thehackernews.com/2023/09/beware-metastealer-malware-targets.html)
 - [Google Rushes to Patch Critical Chrome Vulnerability Exploited in the Wild - Update Now](https://thehackernews.com/2023/09/google-rushes-to-patch-critical-chrome.html)
 - [Vietnamese Hackers Deploy Python-Based Stealer via Facebook Messenger](https://thehackernews.com/2023/09/vietnamese-hackers-deploy-python-based.html)
 - [Charming Kitten&#39;s New Backdoor &#39;Sponsor&#39; Targets Brazil, Israel, and U.A.E.](https://thehackernews.com/2023/09/charming-kitens-new-backdoor-sponsor.html)
 - [How to Prevent API Breaches: A Guide to Robust Security](https://thehackernews.com/2023/09/how-to-prevent-api-breaches-guide-to.html)
-- [Google Chrome Rolls Out Support for &#39;Privacy Sandbox&#39; to Bid Farewell to Tracking Cookies](https://thehackernews.com/2023/09/google-chrome-rolls-out-support-for.html)
 <!-- BLOG-POST-LIST:END -->
