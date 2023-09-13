@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Releases Patch for Two New Actively Exploited Zero-Days Flaws](https://thehackernews.com/2023/09/microsoft-releases-patch-for-two-new.html)
 - [Update Adobe Acrobat and Reader to Patch Actively Exploited Vulnerability](https://thehackernews.com/2023/09/update-adobe-acrobat-and-reader-to.html)
 - [Mozilla Rushes to Patch WebP Critical Zero-Day Exploit in Firefox and Thunderbird](https://thehackernews.com/2023/09/mozilla-rushes-to-patch-webp-critical.html)
 - [Critical GitHub Vulnerability Exposes 4,000+ Repositories to Repojacking Attack](https://thehackernews.com/2023/09/critical-github-vulnerability-exposes.html)
 - [7 Steps to Kickstart Your SaaS Security Program](https://thehackernews.com/2023/09/7-steps-to-kickstart-your-saas-security.html)
-- [Chinese Redfly Group Compromised a Nation&#39;s Critical Grid in 6-Month ShadowPad Campaign](https://thehackernews.com/2023/09/chinese-redfly-group-compromised.html)
 <!-- BLOG-POST-LIST:END -->
