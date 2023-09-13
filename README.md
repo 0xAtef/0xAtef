@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla Rushes to Patch WebP Critical Zero-Day Exploit in Firefox and Thunderbird](https://thehackernews.com/2023/09/mozilla-rushes-to-patch-webp-critical.html)
 - [Critical GitHub Vulnerability Exposes 4,000+ Repositories to Repojacking Attack](https://thehackernews.com/2023/09/critical-github-vulnerability-exposes.html)
 - [7 Steps to Kickstart Your SaaS Security Program](https://thehackernews.com/2023/09/7-steps-to-kickstart-your-saas-security.html)
 - [Chinese Redfly Group Compromised a Nation&#39;s Critical Grid in 6-Month ShadowPad Campaign](https://thehackernews.com/2023/09/chinese-redfly-group-compromised.html)
 - [Sophisticated Phishing Campaign Deploying Agent Tesla, OriginBotnet, and RedLine Clipper](https://thehackernews.com/2023/09/sophisticated-phishing-campaign.html)
-- [Beware: MetaStealer Malware Targets Apple macOS in Recent Attacks](https://thehackernews.com/2023/09/beware-metastealer-malware-targets.html)
 <!-- BLOG-POST-LIST:END -->
