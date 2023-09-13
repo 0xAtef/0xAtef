@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Identity Threat Detection &amp; Response &lpar;ITDR&rpar; – Rips in Your Identity Fabric](https://thehackernews.com/2023/09/webinar-identity-threat-detection.html)
 - [How Cyberattacks Are Transforming Warfare](https://thehackernews.com/2023/09/how-cyberattacks-are-transforming.html)
 - [Rust-Written 3AM Ransomware: A Sneak Peek into a New Malware Family](https://thehackernews.com/2023/09/rust-written-3am-ransomware-sneak-peek.html)
 - [Microsoft Warns of New Phishing Campaign Targeting Corporations via Teams Messages](https://thehackernews.com/2023/09/microsoft-warns-of-new-phishing.html)
 - [Microsoft Releases Patch for Two New Actively Exploited Zero-Days Flaws](https://thehackernews.com/2023/09/microsoft-releases-patch-for-two-new.html)
-- [Update Adobe Acrobat and Reader to Patch Actively Exploited Vulnerability](https://thehackernews.com/2023/09/update-adobe-acrobat-and-reader-to.html)
 <!-- BLOG-POST-LIST:END -->
