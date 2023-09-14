@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [N-Able&#39;s Take Control Agent Vulnerability Exposes Windows Systems to Privilege Escalation](https://thehackernews.com/2023/09/n-ables-take-control-agent.html)
 - [Russian Journalist&#39;s iPhone Compromised by NSO Group&#39;s Zero-Click Spyware](https://thehackernews.com/2023/09/russian-journalists-iphone-compromised.html)
 - [Alert: New Kubernetes Vulnerabilities Enable Remote Attacks on Windows Endpoints](https://thehackernews.com/2023/09/alert-new-kubernetes-vulnerabilities.html)
 - [Researchers Detail 8 Vulnerabilities in Azure HDInsight Analytics Service](https://thehackernews.com/2023/09/researchers-detail-8-vulnerabilities-in.html)
 - [Webinar: Identity Threat Detection &amp; Response &lpar;ITDR&rpar; – Rips in Your Identity Fabric](https://thehackernews.com/2023/09/webinar-identity-threat-detection.html)
-- [Rust-Written 3AM Ransomware: A Sneak Peek into a New Malware Family](https://thehackernews.com/2023/09/rust-written-3am-ransomware-sneak-peek.html)
 <!-- BLOG-POST-LIST:END -->
