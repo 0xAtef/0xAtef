@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iranian Nation-State Actors Employ Password Spray Attacks Targeting Multiple Sectors](https://thehackernews.com/2023/09/iranian-nation-state-actors-employ.html)
 - [Microsoft Uncovers Flaws in ncurses Library Affecting Linux and macOS Systems](https://thehackernews.com/2023/09/microsoft-uncovers-flaws-in-ncurses.html)
 - [Free Download Manager Site Compromised to Distribute Linux Malware to Users for 3+ Years](https://thehackernews.com/2023/09/free-download-manager-site-compromised.html)
 - [Avoid These 5 IT Offboarding Pitfalls](https://thehackernews.com/2023/09/avoid-these-5-it-offboarding-pitfalls.html)
 - [N-Able&#39;s Take Control Agent Vulnerability Exposes Windows Systems to Privilege Escalation](https://thehackernews.com/2023/09/n-ables-take-control-agent.html)
-- [Russian Journalist&#39;s iPhone Compromised by NSO Group&#39;s Zero-Click Spyware](https://thehackernews.com/2023/09/russian-journalists-iphone-compromised.html)
 <!-- BLOG-POST-LIST:END -->
