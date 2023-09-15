@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NodeStealer Malware Now Targets Facebook Business Accounts on Multiple Browsers](https://thehackernews.com/2023/09/nodestealer-malware-now-targets.html)
+- [DDoS 2.0: IoT Sparks New DDoS Alert](https://thehackernews.com/2023/09/ddos-20-iot-sparks-new-ddos-alert.html)
 - [Cybercriminals Combine Phishing and EV Certificates to Deliver Ransomware Payloads](https://thehackernews.com/2023/09/cybercriminals-combine-phishing-and-ev.html)
 - [Iranian Nation-State Actors Employ Password Spray Attacks Targeting Multiple Sectors](https://thehackernews.com/2023/09/iranian-nation-state-actors-employ.html)
 - [Microsoft Uncovers Flaws in ncurses Library Affecting Linux and macOS Systems](https://thehackernews.com/2023/09/microsoft-uncovers-flaws-in-ncurses.html)
-- [Free Download Manager Site Compromised to Distribute Linux Malware to Users for 3+ Years](https://thehackernews.com/2023/09/free-download-manager-site-compromised.html)
-- [Avoid These 5 IT Offboarding Pitfalls](https://thehackernews.com/2023/09/avoid-these-5-it-offboarding-pitfalls.html)
 <!-- BLOG-POST-LIST:END -->
