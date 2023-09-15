@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NodeStealer Malware Now Targets Facebook Business Accounts on Multiple Browsers](https://thehackernews.com/2023/09/nodestealer-malware-now-targets.html)
+- [The Interdependence between Automated Threat Intelligence Collection and Humans](https://thehackernews.com/2023/09/the-interdependence-between-automated.html)
+- [Google Agrees to $93 Million Settlement in California&#39;s Location-Privacy Lawsuit](https://thehackernews.com/2023/09/google-agrees-to-93-million-settlement.html)
 - [DDoS 2.0: IoT Sparks New DDoS Alert](https://thehackernews.com/2023/09/ddos-20-iot-sparks-new-ddos-alert.html)
+- [NodeStealer Malware Now Targets Facebook Business Accounts on Multiple Browsers](https://thehackernews.com/2023/09/nodestealer-malware-now-targets.html)
 - [Cybercriminals Combine Phishing and EV Certificates to Deliver Ransomware Payloads](https://thehackernews.com/2023/09/cybercriminals-combine-phishing-and-ev.html)
-- [Iranian Nation-State Actors Employ Password Spray Attacks Targeting Multiple Sectors](https://thehackernews.com/2023/09/iranian-nation-state-actors-employ.html)
-- [Microsoft Uncovers Flaws in ncurses Library Affecting Linux and macOS Systems](https://thehackernews.com/2023/09/microsoft-uncovers-flaws-in-ncurses.html)
 <!-- BLOG-POST-LIST:END -->
