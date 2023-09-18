@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New AMBERSQUID Cryptojacking Operation Targets Uncommon AWS Services](https://thehackernews.com/2023/09/new-ambersquid-cryptojacking-operation.html)
+- [Think Your MFA and PAM Solutions Protect You? Think Again](https://thehackernews.com/2023/09/think-your-mfa-and-pam-solutions.html)
+- [Hook: New Android Banking Trojan That Expands on ERMAC&#39;s Legacy](https://thehackernews.com/2023/09/hook-new-android-banking-trojan-that.html)
 - [Retool Falls Victim to SMS-Based Phishing Attack Affecting 27 Cloud Clients](https://thehackernews.com/2023/09/retool-falls-victim-to-sms-based.html)
 - [Financially Motivated UNC3944 Threat Actor Shifts Focus to Ransomware Attacks](https://thehackernews.com/2023/09/financially-motivated-unc3944-threat.html)
-- [North Korea&#39;s Lazarus Group Suspected in $31 Million CoinEx Heist](https://thehackernews.com/2023/09/north-koreas-lazarus-group-suspected-in.html)
-- [TikTok Faces Massive €345 Million Fine Over Child Data Violations in E.U.](https://thehackernews.com/2023/09/tiktok-faces-massive-345-million-fine.html)
-- [The Interdependence between Automated Threat Intelligence Collection and Humans](https://thehackernews.com/2023/09/the-interdependence-between-automated.html)
 <!-- BLOG-POST-LIST:END -->
