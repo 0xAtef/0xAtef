@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ShroudedSnooper&#39;s HTTPSnoop Backdoor Targets Middle East Telecom Companies](https://thehackernews.com/2023/09/shroudedsnoopers-httpsnoop-backdoor.html)
 - [Operation Rusty Flag: Azerbaijan Targeted in New Rust-Based Malware Campaign](https://thehackernews.com/2023/09/operation-rusty-flag-azerbaijan.html)
 - [Inside the Code of a New XWorm Variant](https://thehackernews.com/2023/09/inside-code-of-new-xworm-variant.html)
 - [Earth Lusca&#39;s New SprySOCKS Linux Backdoor Targets Government Entities](https://thehackernews.com/2023/09/earth-luscas-new-sprysocks-linux.html)
 - [Live Webinar: Overcoming Generative AI Data Leakage Risks](https://thehackernews.com/2023/09/live-webinar-overcoming-generative-ai.html)
-- [Nearly 12,000 Juniper Firewalls Found Vulnerable to Recently Disclosed RCE Vulnerability](https://thehackernews.com/2023/09/over-12000-juniper-firewalls-found.html)
 <!-- BLOG-POST-LIST:END -->
