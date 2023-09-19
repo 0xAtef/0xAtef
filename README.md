@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Over 12,000 Juniper Firewalls Found Vulnerable to Recently Disclosed RCE Vulnerability](https://thehackernews.com/2023/09/over-12000-juniper-firewalls-found.html)
+- [Live Webinar: Overcoming Generative AI Data Leakage Risks](https://thehackernews.com/2023/09/live-webinar-overcoming-generative-ai.html)
+- [Nearly 12,000 Juniper Firewalls Found Vulnerable to Recently Disclosed RCE Vulnerability](https://thehackernews.com/2023/09/over-12000-juniper-firewalls-found.html)
 - [Transparent Tribe Uses Fake YouTube Android Apps to Spread CapraRAT Malware](https://thehackernews.com/2023/09/transparent-tribe-uses-fake-youtube.html)
 - [Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data](https://thehackernews.com/2023/09/microsoft-ai-researchers-accidentally.html)
 - [New AMBERSQUID Cryptojacking Operation Targets Uncommon AWS Services](https://thehackernews.com/2023/09/new-ambersquid-cryptojacking-operation.html)
-- [Think Your MFA and PAM Solutions Protect You? Think Again](https://thehackernews.com/2023/09/think-your-mfa-and-pam-solutions.html)
 <!-- BLOG-POST-LIST:END -->
