@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data](https://thehackernews.com/2023/09/microsoft-ai-researchers-accidentally.html)
 - [New AMBERSQUID Cryptojacking Operation Targets Uncommon AWS Services](https://thehackernews.com/2023/09/new-ambersquid-cryptojacking-operation.html)
 - [Think Your MFA and PAM Solutions Protect You? Think Again](https://thehackernews.com/2023/09/think-your-mfa-and-pam-solutions.html)
 - [Hook: New Android Banking Trojan That Expands on ERMAC&#39;s Legacy](https://thehackernews.com/2023/09/hook-new-android-banking-trojan-that.html)
 - [Retool Falls Victim to SMS-Based Phishing Attack Affecting 27 Cloud Clients](https://thehackernews.com/2023/09/retool-falls-victim-to-sms-based.html)
-- [Financially Motivated UNC3944 Threat Actor Shifts Focus to Ransomware Attacks](https://thehackernews.com/2023/09/financially-motivated-unc3944-threat.html)
 <!-- BLOG-POST-LIST:END -->
