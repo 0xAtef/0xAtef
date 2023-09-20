@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Security Flaws Exposed in Nagios XI Network Monitoring Software](https://thehackernews.com/2023/09/critical-security-flaws-exposed-in.html)
 - [Do You Really Trust Your Web Application Supply Chain?](https://thehackernews.com/2023/09/do-you-really-trust-your-web.html)
 - [Fresh Wave of Malicious npm Packages Threaten Kubernetes Configs and SSH Keys](https://thehackernews.com/2023/09/fresh-wave-of-malicious-npm-packages.html)
 - [Sophisticated Phishing Campaign Targeting Chinese Users with ValleyRAT and Gh0st RAT](https://thehackernews.com/2023/09/sophisticated-phishing-campaign_20.html)
 - [Signal Messenger Introduces PQXDH Quantum-Resistant Encryption](https://thehackernews.com/2023/09/signal-messenger-introduces-pqxdh.html)
-- [GitLab Releases Urgent Security Patches for Critical Vulnerability](https://thehackernews.com/2023/09/gitlab-releases-urgent-security-patches.html)
 <!-- BLOG-POST-LIST:END -->
