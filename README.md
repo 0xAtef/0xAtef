@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitLab Releases Urgent Security Patches for Critical Vulnerability](https://thehackernews.com/2023/09/gitlab-releases-urgent-security-patches.html)
 - [Trend Micro Releases Urgent Fix for Actively Exploited Critical Security Vulnerability](https://thehackernews.com/2023/09/trend-micro-releases-urgent-fix-for.html)
 - [ShroudedSnooper&#39;s HTTPSnoop Backdoor Targets Middle East Telecom Companies](https://thehackernews.com/2023/09/shroudedsnoopers-httpsnoop-backdoor.html)
 - [Operation Rusty Flag: Azerbaijan Targeted in New Rust-Based Malware Campaign](https://thehackernews.com/2023/09/operation-rusty-flag-azerbaijan.html)
 - [Inside the Code of a New XWorm Variant](https://thehackernews.com/2023/09/inside-code-of-new-xworm-variant.html)
-- [Earth Lusca&#39;s New SprySOCKS Linux Backdoor Targets Government Entities](https://thehackernews.com/2023/09/earth-luscas-new-sprysocks-linux.html)
 <!-- BLOG-POST-LIST:END -->
