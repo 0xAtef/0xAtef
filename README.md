@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Do You Really Trust Your Web Application Supply Chain?](https://thehackernews.com/2023/09/do-you-really-trust-your-web.html)
+- [Fresh Wave of Malicious npm Packages Threaten Kubernetes Configs and SSH Keys](https://thehackernews.com/2023/09/fresh-wave-of-malicious-npm-packages.html)
+- [Sophisticated Phishing Campaign Targeting Chinese Users with ValleyRAT and Gh0st RAT](https://thehackernews.com/2023/09/sophisticated-phishing-campaign_20.html)
 - [Signal Messenger Introduces PQXDH Quantum-Resistant Encryption](https://thehackernews.com/2023/09/signal-messenger-introduces-pqxdh.html)
 - [GitLab Releases Urgent Security Patches for Critical Vulnerability](https://thehackernews.com/2023/09/gitlab-releases-urgent-security-patches.html)
-- [Trend Micro Releases Urgent Fix for Actively Exploited Critical Security Vulnerability](https://thehackernews.com/2023/09/trend-micro-releases-urgent-fix-for.html)
-- [ShroudedSnooper&#39;s HTTPSnoop Backdoor Targets Middle East Telecom Companies](https://thehackernews.com/2023/09/shroudedsnoopers-httpsnoop-backdoor.html)
-- [Operation Rusty Flag: Azerbaijan Targeted in New Rust-Based Malware Campaign](https://thehackernews.com/2023/09/operation-rusty-flag-azerbaijan.html)
 <!-- BLOG-POST-LIST:END -->
