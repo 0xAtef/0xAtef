@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China Accuses U.S. of Decade-Long Cyber Espionage Campaign Against Huawei Servers](https://thehackernews.com/2023/09/china-accuses-us-of-decade-long-cyber.html)
+- [Cyber Group &#39;Gold Melody&#39; Selling Compromised Access to Ransomware Attackers](https://thehackernews.com/2023/09/cyber-group-gold-melody-selling.html)
 - [Ukrainian Hacker Suspected to be Behind &quot;Free Download Manager&quot; Malware Attack](https://thehackernews.com/2023/09/ukrainian-hacker-suspected-to-be-behind.html)
 - [Beware: Fake Exploit for WinRAR Vulnerability on GitHub Infects Users with Venom RAT](https://thehackernews.com/2023/09/beware-fake-exploit-for-winrar.html)
 - [Finnish Authorities Dismantle Notorious PIILOPUOTI Dark Web Drug Marketplace](https://thehackernews.com/2023/09/finnish-authorities-dismantle-notorious.html)
-- [Critical Security Flaws Exposed in Nagios XI Network Monitoring Software](https://thehackernews.com/2023/09/critical-security-flaws-exposed-in.html)
-- [Do You Really Trust Your Web Application Supply Chain?](https://thehackernews.com/2023/09/do-you-really-trust-your-web.html)
 <!-- BLOG-POST-LIST:END -->
