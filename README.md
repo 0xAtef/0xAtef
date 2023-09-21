@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beware: Fake Exploit for WinRAR Vulnerability on GitHub Infects Users with VenomRAT](https://thehackernews.com/2023/09/beware-fake-exploit-for-winrar.html)
 - [Finnish Authorities Dismantle Notorious PIILOPUOTI Dark Web Drug Marketplace](https://thehackernews.com/2023/09/finnish-authorities-dismantle-notorious.html)
 - [Critical Security Flaws Exposed in Nagios XI Network Monitoring Software](https://thehackernews.com/2023/09/critical-security-flaws-exposed-in.html)
 - [Do You Really Trust Your Web Application Supply Chain?](https://thehackernews.com/2023/09/do-you-really-trust-your-web.html)
 - [Fresh Wave of Malicious npm Packages Threaten Kubernetes Configs and SSH Keys](https://thehackernews.com/2023/09/fresh-wave-of-malicious-npm-packages.html)
-- [Sophisticated Phishing Campaign Targeting Chinese Users with ValleyRAT and Gh0st RAT](https://thehackernews.com/2023/09/sophisticated-phishing-campaign_20.html)
 <!-- BLOG-POST-LIST:END -->
