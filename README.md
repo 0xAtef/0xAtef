@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Rushes to Patch 3 New Zero-Day Flaws: iOS, macOS, Safari, and More Vulnerable](https://thehackernews.com/2023/09/apple-rushes-to-patch-3-new-zero-day.html)
 - [Mysterious &#39;Sandman&#39; Threat Actor Targets Telecom Providers Across Three Continents](https://thehackernews.com/2023/09/mysterious-sandman-threat-actor-targets.html)
 - [Researchers Raise Red Flag on P2PInfect Malware with 600x Activity Surge](https://thehackernews.com/2023/09/researchers-raise-red-flag-on-p2pinfect.html)
 - [The Rise of the Malicious App](https://thehackernews.com/2023/09/the-rise-of-malicious-app.html)
 - [China Accuses U.S. of Decade-Long Cyber Espionage Campaign Against Huawei Servers](https://thehackernews.com/2023/09/china-accuses-us-of-decade-long-cyber.html)
-- [Cyber Group &#39;Gold Melody&#39; Selling Compromised Access to Ransomware Attackers](https://thehackernews.com/2023/09/cyber-group-gold-melody-selling.html)
 <!-- BLOG-POST-LIST:END -->
