@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Variant of Banking Trojan BBTok Targets Over 40 Latin American Banks](https://thehackernews.com/2023/09/new-variant-of-banking-trojan-bbtok.html)
 - [How to Interpret the 2023 MITRE ATT&amp;CK Evaluation Results](https://thehackernews.com/2023/09/how-to-interpret-2023-mitre-att.html)
 - [Iranian Nation-State Actor OilRig Targets Israeli Organizations](https://thehackernews.com/2023/09/iranian-nation-state-actor-oilrig.html)
 - [High-Severity Flaws Uncovered in Atlassian Products and ISC BIND Server](https://thehackernews.com/2023/09/high-severity-flaws-uncovered-in.html)
 - [Apple Rushes to Patch 3 New Zero-Day Flaws: iOS, macOS, Safari, and More Vulnerable](https://thehackernews.com/2023/09/apple-rushes-to-patch-3-new-zero-day.html)
-- [Mysterious &#39;Sandman&#39; Threat Actor Targets Telecom Providers Across Three Continents](https://thehackernews.com/2023/09/mysterious-sandman-threat-actor-targets.html)
 <!-- BLOG-POST-LIST:END -->
