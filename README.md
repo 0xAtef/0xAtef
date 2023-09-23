@@ -123,7 +123,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apple and Chrome Zero-Days Exploited to Hack Egyptian ex-MP with Predator Spyware](https://thehackernews.com/2023/09/latest-apple-zero-days-used-to-hack.html)
+- [New Apple Zero-Days Exploited to Target Egyptian ex-MP with Predator Spyware](https://thehackernews.com/2023/09/latest-apple-zero-days-used-to-hack.html)
 - [New Variant of Banking Trojan BBTok Targets Over 40 Latin American Banks](https://thehackernews.com/2023/09/new-variant-of-banking-trojan-bbtok.html)
 - [How to Interpret the 2023 MITRE ATT&amp;CK Evaluation Results](https://thehackernews.com/2023/09/how-to-interpret-2023-mitre-att.html)
 - [Iranian Nation-State Actor OilRig Targets Israeli Organizations](https://thehackernews.com/2023/09/iranian-nation-state-actor-oilrig.html)
