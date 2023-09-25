@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Report Uncovers Three Distinct Clusters of China-Nexus Attacks on Southeast Asian Government](https://thehackernews.com/2023/09/new-report-uncovers-three-distinct.html)
+- [From Watering Hole to Spyware: EvilBamboo Targets Tibetans, Uyghurs, and Taiwanese](https://thehackernews.com/2023/09/from-watering-hole-to-spyware.html)
+- [New Report Uncovers 3 Distinct Clusters of China-Nexus Attacks on Southeast Asian Government](https://thehackernews.com/2023/09/new-report-uncovers-three-distinct.html)
 - [Deadglyph: New Advanced Backdoor with Distinctive Malware Tactics](https://thehackernews.com/2023/09/deadglyph-new-advanced-backdoor-with.html)
 - [New Apple Zero-Days Exploited to Target Egyptian ex-MP with Predator Spyware](https://thehackernews.com/2023/09/latest-apple-zero-days-used-to-hack.html)
 - [New Variant of Banking Trojan BBTok Targets Over 40 Latin American Banks](https://thehackernews.com/2023/09/new-variant-of-banking-trojan-bbtok.html)
-- [How to Interpret the 2023 MITRE ATT&amp;CK Evaluation Results](https://thehackernews.com/2023/09/how-to-interpret-2023-mitre-att.html)
 <!-- BLOG-POST-LIST:END -->
