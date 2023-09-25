@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch the Webinar — AI vs. AI: Harnessing AI Defenses Against AI-Powered Risks](https://thehackernews.com/2023/09/watch-webinar-ai-vs-ai-harnessing-ai.html)
+- [Are You Willing to Pay the High Cost of Compromised Credentials?](https://thehackernews.com/2023/09/are-you-willing-to-pay-high-cost-of.html)
 - [From Watering Hole to Spyware: EvilBamboo Targets Tibetans, Uyghurs, and Taiwanese](https://thehackernews.com/2023/09/from-watering-hole-to-spyware.html)
 - [New Report Uncovers 3 Distinct Clusters of China-Nexus Attacks on Southeast Asian Government](https://thehackernews.com/2023/09/new-report-uncovers-three-distinct.html)
 - [Deadglyph: New Advanced Backdoor with Distinctive Malware Tactics](https://thehackernews.com/2023/09/deadglyph-new-advanced-backdoor-with.html)
-- [New Apple Zero-Days Exploited to Target Egyptian ex-MP with Predator Spyware](https://thehackernews.com/2023/09/latest-apple-zero-days-used-to-hack.html)
-- [New Variant of Banking Trojan BBTok Targets Over 40 Latin American Banks](https://thehackernews.com/2023/09/new-variant-of-banking-trojan-bbtok.html)
 <!-- BLOG-POST-LIST:END -->
