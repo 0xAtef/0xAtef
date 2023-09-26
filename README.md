@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ShadowSyndicate: A New Cybercrime Group Linked to 7 Ransomware Families](https://thehackernews.com/2023/09/shadowsyndicate-new-cybercrime-group.html)
 - [Essential Guide to Cybersecurity Compliance](https://thehackernews.com/2023/09/essential-guide-to-cybersecurity.html)
 - [Xenomorph Banking Trojan: A New Variant Targeting 35+ U.S. Financial Institutions](https://thehackernews.com/2023/09/xenomorph-banking-trojan-new-variant.html)
 - [Threat Report: The High Tech Industry Targeted the Most with 46% of NLX-Tagged Attack Traffic](https://thehackernews.com/2023/09/threat-report-high-tech-industry.html)
 - [Chinese Hackers TAG-74 Targets South Korean Organizations in a Multi-Year Campaign](https://thehackernews.com/2023/09/chinese-hackers-tag-74-targets-south.html)
-- [Critical JetBrains TeamCity Flaw Could Expose Source Code and Build Pipelines to Attackers](https://thehackernews.com/2023/09/critical-jetbrains-teamcity-flaw-could.html)
 <!-- BLOG-POST-LIST:END -->
