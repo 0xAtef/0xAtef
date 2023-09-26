@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical JetBrains TeamCity Flaw Could Expose Source Code and Build Pipelines to Attackers](https://thehackernews.com/2023/09/critical-jetbrains-teamcity-flaw-could.html)
 - [Ukrainian Military Targeted in Phishing Campaign Leveraging Drone Manuals](https://thehackernews.com/2023/09/ukrainian-military-targeted-in-phishing.html)
 - [Webinar — AI vs. AI: Harnessing AI Defenses Against AI-Powered Risks](https://thehackernews.com/2023/09/watch-webinar-ai-vs-ai-harnessing-ai.html)
 - [Are You Willing to Pay the High Cost of Compromised Credentials?](https://thehackernews.com/2023/09/are-you-willing-to-pay-high-cost-of.html)
 - [From Watering Hole to Spyware: EvilBamboo Targets Tibetans, Uyghurs, and Taiwanese](https://thehackernews.com/2023/09/from-watering-hole-to-spyware.html)
-- [New Report Uncovers 3 Distinct Clusters of China-Nexus Attacks on Southeast Asian Government](https://thehackernews.com/2023/09/new-report-uncovers-three-distinct.html)
 <!-- BLOG-POST-LIST:END -->
