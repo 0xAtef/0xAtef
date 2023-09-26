@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Threat Report: The High Tech Industry Targeted the Most with 46% of NLX-Tagged Attack Traffic](https://thehackernews.com/2023/09/threat-report-high-tech-industry.html)
 - [Chinese Hackers TAG-74 Targets South Korean Organizations in a Multi-Year Campaign](https://thehackernews.com/2023/09/chinese-hackers-tag-74-targets-south.html)
 - [Critical JetBrains TeamCity Flaw Could Expose Source Code and Build Pipelines to Attackers](https://thehackernews.com/2023/09/critical-jetbrains-teamcity-flaw-could.html)
 - [Ukrainian Military Targeted in Phishing Campaign Leveraging Drone Manuals](https://thehackernews.com/2023/09/ukrainian-military-targeted-in-phishing.html)
 - [Webinar — AI vs. AI: Harnessing AI Defenses Against AI-Powered Risks](https://thehackernews.com/2023/09/watch-webinar-ai-vs-ai-harnessing-ai.html)
-- [Are You Willing to Pay the High Cost of Compromised Credentials?](https://thehackernews.com/2023/09/are-you-willing-to-pay-high-cost-of.html)
 <!-- BLOG-POST-LIST:END -->
