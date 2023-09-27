@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical libwebp Vulnerability Under Active Exploitation - Gets Maximum CVSS Score](https://thehackernews.com/2023/09/new-libwebp-vulnerability-under-active.html)
 - [Microsoft is Rolling out Support for Passkeys in Windows 11](https://thehackernews.com/2023/09/microsoft-is-rolling-out-support-for.html)
 - [ShadowSyndicate: A New Cybercrime Group Linked to 7 Ransomware Families](https://thehackernews.com/2023/09/shadowsyndicate-new-cybercrime-group.html)
 - [Essential Guide to Cybersecurity Compliance](https://thehackernews.com/2023/09/essential-guide-to-cybersecurity.html)
 - [Xenomorph Banking Trojan: A New Variant Targeting 35+ U.S. Financial Institutions](https://thehackernews.com/2023/09/xenomorph-banking-trojan-new-variant.html)
-- [Threat Report: The High Tech Industry Targeted the Most with 46% of NLX-Tagged Attack Traffic](https://thehackernews.com/2023/09/threat-report-high-tech-industry.html)
 <!-- BLOG-POST-LIST:END -->
