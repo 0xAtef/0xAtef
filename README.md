@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New ZenRAT Malware Targeting Windows Users via Fake Password Manager Software](https://thehackernews.com/2023/09/new-zenrat-malware-targeting-windows.html)
 - [Critical libwebp Vulnerability Under Active Exploitation - Gets Maximum CVSS Score](https://thehackernews.com/2023/09/new-libwebp-vulnerability-under-active.html)
 - [Microsoft is Rolling out Support for Passkeys in Windows 11](https://thehackernews.com/2023/09/microsoft-is-rolling-out-support-for.html)
 - [ShadowSyndicate: A New Cybercrime Group Linked to 7 Ransomware Families](https://thehackernews.com/2023/09/shadowsyndicate-new-cybercrime-group.html)
 - [Essential Guide to Cybersecurity Compliance](https://thehackernews.com/2023/09/essential-guide-to-cybersecurity.html)
-- [Xenomorph Banking Trojan: A New Variant Targeting 35+ U.S. Financial Institutions](https://thehackernews.com/2023/09/xenomorph-banking-trojan-new-variant.html)
 <!-- BLOG-POST-LIST:END -->
