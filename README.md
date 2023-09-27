@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover New GPU Side-Channel Vulnerability Leaking Sensitive Data](https://thehackernews.com/2023/09/researchers-uncover-new-gpu-side.html)
 - [New Survey Uncovers How Companies Are Confronting Data Security Challenges Head-On](https://thehackernews.com/2023/09/new-survey-uncovers-how-companies-are.html)
 - [New ZenRAT Malware Targeting Windows Users via Fake Password Manager Software](https://thehackernews.com/2023/09/new-zenrat-malware-targeting-windows.html)
 - [Critical libwebp Vulnerability Under Active Exploitation - Gets Maximum CVSS Score](https://thehackernews.com/2023/09/new-libwebp-vulnerability-under-active.html)
 - [Microsoft is Rolling out Support for Passkeys in Windows 11](https://thehackernews.com/2023/09/microsoft-is-rolling-out-support-for.html)
-- [ShadowSyndicate: A New Cybercrime Group Linked to 7 Ransomware Families](https://thehackernews.com/2023/09/shadowsyndicate-new-cybercrime-group.html)
 <!-- BLOG-POST-LIST:END -->
