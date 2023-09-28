@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China-Linked Budworm Targeting Middle Eastern Telco and Asian Government Agencies](https://thehackernews.com/2023/09/china-linked-budworm-targeting-middle.html)
 - [Update Chrome Now: Google Releases Patch for Actively Exploited Zero-Day Vulnerability](https://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html)
 - [Red Cross-Themed Phishing Attacks Distributing DangerAds and AtlasAgent Backdoors](https://thehackernews.com/2023/09/red-cross-themed-phishing-attacks.html)
 - [Researchers Uncover New GPU Side-Channel Vulnerability Leaking Sensitive Data](https://thehackernews.com/2023/09/researchers-uncover-new-gpu-side.html)
 - [New Survey Uncovers How Companies Are Confronting Data Security Challenges Head-On](https://thehackernews.com/2023/09/new-survey-uncovers-how-companies-are.html)
-- [New ZenRAT Malware Targeting Windows Users via Fake Password Manager Software](https://thehackernews.com/2023/09/new-zenrat-malware-targeting-windows.html)
 <!-- BLOG-POST-LIST:END -->
