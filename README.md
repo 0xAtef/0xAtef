@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Using New ASMCrypt Malware Loader Flying Under the Radar](https://thehackernews.com/2023/09/cybercriminals-using-new-asmcrypt.html)
 - [Lazarus Group Impersonates Recruiter from Meta to Target Spanish Aerospace Firm](https://thehackernews.com/2023/09/lazarus-group-impersonates-recruiter.html)
 - [Post-Quantum Cryptography: Finally Real in Consumer Apps?](https://thehackernews.com/2023/09/post-quantum-cryptography-finally-real.html)
 - [Microsoft&#39;s AI-Powered Bing Chat Ads May Lead Users to Malware-Distributing Sites](https://thehackernews.com/2023/09/microsofts-ai-powered-bing-chat-ads-may.html)
 - [Progress Software Releases Urgent Hotfixes for  Multiple Security Flaws in WS_FTP Server](https://thehackernews.com/2023/09/progress-software-releases-urgent.html)
-- [Cisco Warns of Vulnerability in IOS and IOS XE Software After Exploitation Attempts](https://thehackernews.com/2023/09/cisco-warns-of-vulnerability-in-ios-and.html)
 <!-- BLOG-POST-LIST:END -->
