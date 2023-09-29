@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Warns of Vulnerability in IOS and IOS XE Software After Exploitation Attempts](https://thehackernews.com/2023/09/cisco-warns-of-vulnerability-in-ios-and.html)
 - [GitHub Repositories Hit by Password-Stealing Commits Disguised as Dependabot Contributions](https://thehackernews.com/2023/09/github-repositories-hit-by-password.html)
 - [China&#39;s BlackTech Hacking Group Exploited Routers to Target U.S. and Japanese Companies](https://thehackernews.com/2023/09/chinas-blacktech-hacking-group.html)
 - [The Dark Side of Browser Isolation – and the Next Generation Browser Security Technologies](https://thehackernews.com/2023/09/the-dark-side-of-browser-isolation-and.html)
 - [China-Linked Budworm Targeting Middle Eastern Telco and Asian Government Agencies](https://thehackernews.com/2023/09/china-linked-budworm-targeting-middle.html)
-- [Update Chrome Now: Google Releases Patch for Actively Exploited Zero-Day Vulnerability](https://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html)
 <!-- BLOG-POST-LIST:END -->
