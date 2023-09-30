@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iranian APT Group OilRig Using New Menorah Malware for Covert Operations](https://thehackernews.com/2023/09/iranian-apt-group-oilrig-using-new.html)
 - [New Critical Security Flaws Expose Exim Mail Servers to Remote Attacks](https://thehackernews.com/2023/09/new-critical-security-flaws-expose-exim.html)
 - [Cybercriminals Using New ASMCrypt Malware Loader to Fly Under the Radar](https://thehackernews.com/2023/09/cybercriminals-using-new-asmcrypt.html)
 - [Lazarus Group Impersonates Recruiter from Meta to Target Spanish Aerospace Firm](https://thehackernews.com/2023/09/lazarus-group-impersonates-recruiter.html)
 - [Post-Quantum Cryptography: Finally Real in Consumer Apps?](https://thehackernews.com/2023/09/post-quantum-cryptography-finally-real.html)
-- [Microsoft&#39;s AI-Powered Bing Chat Ads May Lead Users to Malware-Distributing Sites](https://thehackernews.com/2023/09/microsofts-ai-powered-bing-chat-ads-may.html)
 <!-- BLOG-POST-LIST:END -->
