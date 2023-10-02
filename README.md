@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenRefine&#39;s Zip Slip Vulnerability Could Let Attackers Execute Malicious Code](https://thehackernews.com/2023/10/openrefines-zip-slip-vulnerability.html)
 - [BunnyLoader: New Malware-as-a-Service Threat Emerges in the Cybercrime Underground](https://thehackernews.com/2023/10/bunnyloader-new-malware-as-service.html)
 - [Zanubis Android Banking Trojan Poses as Peruvian Government App to Target Users](https://thehackernews.com/2023/10/zanubis-android-banking-trojan-poses-as.html)
 - [FBI Warns of Rising Trend of Dual Ransomware Attacks Targeting U.S. Companies](https://thehackernews.com/2023/09/fbi-warns-of-rising-trend-of-dual.html)
 - [Iranian APT Group OilRig Using New Menorah Malware for Covert Operations](https://thehackernews.com/2023/09/iranian-apt-group-oilrig-using-new.html)
-- [New Critical Security Flaws Expose Exim Mail Servers to Remote Attacks](https://thehackernews.com/2023/09/new-critical-security-flaws-expose-exim.html)
 <!-- BLOG-POST-LIST:END -->
