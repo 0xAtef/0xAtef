@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Arm Issues Patch for Mali GPU Kernel Driver Vulnerability Amidst Ongoing Exploitation](https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html)
 - [APIs: Unveiling the Silent Killer of Cyber Security Risk Across Industries](https://thehackernews.com/2023/10/apis-unveiling-silent-killer-of-cyber.html)
 - [LUCR-3: Scattered Spider Getting SaaS-y in the Cloud](https://thehackernews.com/2023/10/lucr-3-scattered-spider-getting-saas-y.html)
 - [Silent Skimmer: A Year-Long Web Skimming Campaign Targeting Online Payment Businesses](https://thehackernews.com/2023/10/silent-skimmer-year-long-web-skimming.html)
 - [OpenRefine&#39;s Zip Slip Vulnerability Could Let Attackers Execute Malicious Code](https://thehackernews.com/2023/10/openrefines-zip-slip-vulnerability.html)
-- [BunnyLoader: New Malware-as-a-Service Threat Emerges in the Cybercrime Underground](https://thehackernews.com/2023/10/bunnyloader-new-malware-as-service.html)
 <!-- BLOG-POST-LIST:END -->
