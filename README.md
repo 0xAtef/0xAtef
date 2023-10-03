@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [API Security Trends 2023 – Have Organizations Improved their Security Posture?](https://thehackernews.com/2023/10/api-security-trends-2023-have.html)
+- [Protecting your IT infrastructure with Security Configuration Assessment &lpar;SCA&rpar;](https://thehackernews.com/2023/10/protecting-your-it-infrastructure-with.html)
 - [Researcher Reveals New Techniques to Bypass Cloudflare&#39;s Firewall and DDoS Protection](https://thehackernews.com/2023/10/researcher-reveal-new-technique-to.html)
 - [Arm Issues Patch for Mali GPU Kernel Driver Vulnerability Amidst Ongoing Exploitation](https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html)
 - [APIs: Unveiling the Silent Killer of Cyber Security Risk Across Industries](https://thehackernews.com/2023/10/apis-unveiling-silent-killer-of-cyber.html)
-- [LUCR-3: Scattered Spider Getting SaaS-y in the Cloud](https://thehackernews.com/2023/10/lucr-3-scattered-spider-getting-saas-y.html)
-- [Silent Skimmer: A Year-Long Web Skimming Campaign Targeting Online Payment Businesses](https://thehackernews.com/2023/10/silent-skimmer-year-long-web-skimming.html)
 <!-- BLOG-POST-LIST:END -->
