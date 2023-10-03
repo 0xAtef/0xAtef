@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm Releases Patch for 3 new Zero-Days Under Active Exploitation](https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html)
+- [Warning: PyTorch Models Vulnerable to Remote Code Execution via ShellTorch](https://thehackernews.com/2023/10/warning-pytorch-models-vulnerable-to.html)
 - [Over 3 Dozen Data-Stealing Malicious npm Packages Found Targeting Developers](https://thehackernews.com/2023/10/over-3-dozen-data-stealing-malicious.html)
 - [API Security Trends 2023 – Have Organizations Improved their Security Posture?](https://thehackernews.com/2023/10/api-security-trends-2023-have.html)
 - [Protecting your IT infrastructure with Security Configuration Assessment &lpar;SCA&rpar;](https://thehackernews.com/2023/10/protecting-your-it-infrastructure-with.html)
-- [Researcher Reveals New Techniques to Bypass Cloudflare&#39;s Firewall and DDoS Protection](https://thehackernews.com/2023/10/researcher-reveal-new-technique-to.html)
-- [Arm Issues Patch for Mali GPU Kernel Driver Vulnerability Amidst Ongoing Exploitation](https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html)
 <!-- BLOG-POST-LIST:END -->
