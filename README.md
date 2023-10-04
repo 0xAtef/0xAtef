@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Warns of Cyber Attacks Attempting to Breach Cloud via SQL Server Instance](https://thehackernews.com/2023/10/microsoft-warns-of-cyber-attacks.html)
 - [Looney Tunables: New Linux Flaw Enables Privilege Escalation on Major Distributions](https://thehackernews.com/2023/10/looney-tunables-new-linux-flaw-enables.html)
 - [Qualcomm Releases Patch for 3 new Zero-Days Under Active Exploitation](https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html)
 - [Warning: PyTorch Models Vulnerable to Remote Code Execution via ShellTorch](https://thehackernews.com/2023/10/warning-pytorch-models-vulnerable-to.html)
 - [Over 3 Dozen Data-Stealing Malicious npm Packages Found Targeting Developers](https://thehackernews.com/2023/10/over-3-dozen-data-stealing-malicious.html)
-- [API Security Trends 2023 – Have Organizations Improved their Security Posture?](https://thehackernews.com/2023/10/api-security-trends-2023-have.html)
 <!-- BLOG-POST-LIST:END -->
