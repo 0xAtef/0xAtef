@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wing Disrupts the Market by Introducing Affordable SaaS Security](https://thehackernews.com/2023/10/wing-disrupts-market-by-introducing.html)
+- [Rogue npm Package Deploys Open-Source Rootkit in New Supply Chain Attack](https://thehackernews.com/2023/10/rogue-npm-package-deploys-open-source.html)
 - [Microsoft Warns of Cyber Attacks Attempting to Breach Cloud via SQL Server Instance](https://thehackernews.com/2023/10/microsoft-warns-of-cyber-attacks.html)
 - [Looney Tunables: New Linux Flaw Enables Privilege Escalation on Major Distributions](https://thehackernews.com/2023/10/looney-tunables-new-linux-flaw-enables.html)
 - [Qualcomm Releases Patch for 3 new Zero-Days Under Active Exploitation](https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html)
-- [Warning: PyTorch Models Vulnerable to Remote Code Execution via ShellTorch](https://thehackernews.com/2023/10/warning-pytorch-models-vulnerable-to.html)
-- [Over 3 Dozen Data-Stealing Malicious npm Packages Found Targeting Developers](https://thehackernews.com/2023/10/over-3-dozen-data-stealing-malicious.html)
 <!-- BLOG-POST-LIST:END -->
