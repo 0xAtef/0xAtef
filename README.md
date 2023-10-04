@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Link DragonEgg Android Spyware to LightSpy iOS Surveillanceware](https://thehackernews.com/2023/10/researchers-link-dragonegg-android.html)
 - [Wing Disrupts the Market by Introducing Affordable SaaS Security](https://thehackernews.com/2023/10/wing-disrupts-market-by-introducing.html)
 - [Rogue npm Package Deploys Open-Source Rootkit in New Supply Chain Attack](https://thehackernews.com/2023/10/rogue-npm-package-deploys-open-source.html)
 - [Microsoft Warns of Cyber Attacks Attempting to Breach Cloud via SQL Server Instance](https://thehackernews.com/2023/10/microsoft-warns-of-cyber-attacks.html)
 - [Looney Tunables: New Linux Flaw Enables Privilege Escalation on Major Distributions](https://thehackernews.com/2023/10/looney-tunables-new-linux-flaw-enables.html)
-- [Qualcomm Releases Patch for 3 new Zero-Days Under Active Exploitation](https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html)
 <!-- BLOG-POST-LIST:END -->
