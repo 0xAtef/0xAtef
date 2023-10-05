@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [QakBot Threat Actors Still in Action, Using Ransom Knight and Remcos RAT in Latest Attacks](https://thehackernews.com/2023/10/qakbot-threat-actors-still-in-action.html)
 - [Cisco Releases Urgent Patch to Fix Critical Flaw in Emergency Responder Systems](https://thehackernews.com/2023/10/cisco-releases-urgent-patch-to-fix.html)
 - [Analysis and Config Extraction of Lu0Bot, a Node.js Malware with Considerable Capabilities](https://thehackernews.com/2023/10/analysis-and-config-extraction-of.html)
 - [Guyana Governmental Entity Hit by DinodasRAT in Cyber Espionage Attack](https://thehackernews.com/2023/10/guyana-governmental-entity-hit-by.html)
 - [GoldDigger Android Trojan Targets Banking Apps in Asia Pacific Countries](https://thehackernews.com/2023/10/golddigger-android-trojan-targets.html)
-- [CISA Warns of Active Exploitation of JetBrains and Windows Vulnerabilities](https://thehackernews.com/2023/10/cisa-warns-of-active-exploitation-of.html)
 <!-- BLOG-POST-LIST:END -->
