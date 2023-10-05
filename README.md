@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Analysis and Config Extraction of Lu0Bot, a Node.js Malware with Considerable Capabilities](https://thehackernews.com/2023/10/analysis-and-config-extraction-of.html)
+- [Guyana Governmental Entity Hit by DinodasRAT in Cyber Espionage Attack](https://thehackernews.com/2023/10/guyana-governmental-entity-hit-by.html)
+- [GoldDigger Android Trojan Targets Banking Apps in Asia Pacific Countries](https://thehackernews.com/2023/10/golddigger-android-trojan-targets.html)
 - [CISA Warns of Active Exploitation of JetBrains and Windows Vulnerabilities](https://thehackernews.com/2023/10/cisa-warns-of-active-exploitation-of.html)
 - [Apple Rolls Out Security Patches for Actively Exploited iOS Zero-Day Flaw](https://thehackernews.com/2023/10/apple-rolls-out-security-patches-for.html)
-- [Atlassian Confluence Hit by New Actively Exploited Zero-Day – Patch Now](https://thehackernews.com/2023/10/atlassian-confluence-hit-by-newly.html)
-- [Researchers Link DragonEgg Android Spyware to LightSpy iOS Surveillanceware](https://thehackernews.com/2023/10/researchers-link-dragonegg-android.html)
-- [Wing Disrupts the Market by Introducing Affordable SaaS Security](https://thehackernews.com/2023/10/wing-disrupts-market-by-introducing.html)
 <!-- BLOG-POST-LIST:END -->
