@@ -124,7 +124,7 @@ BIO
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Apple Rolls Out Security Patches for Actively Exploited iOS Zero-Day Flaw](https://thehackernews.com/2023/10/apple-rolls-out-security-patches-for.html)
-- [Atlassian Confluence Hit by Newly Actively Exploited Zero-Day – Patch Now](https://thehackernews.com/2023/10/atlassian-confluence-hit-by-newly.html)
+- [Atlassian Confluence Hit by New Actively Exploited Zero-Day – Patch Now](https://thehackernews.com/2023/10/atlassian-confluence-hit-by-newly.html)
 - [Researchers Link DragonEgg Android Spyware to LightSpy iOS Surveillanceware](https://thehackernews.com/2023/10/researchers-link-dragonegg-android.html)
 - [Wing Disrupts the Market by Introducing Affordable SaaS Security](https://thehackernews.com/2023/10/wing-disrupts-market-by-introducing.html)
 - [Rogue npm Package Deploys Open-Source Rootkit in New Supply Chain Attack](https://thehackernews.com/2023/10/rogue-npm-package-deploys-open-source.html)
