@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub&#39;s Secret Scanning Feature Now Covers AWS, Microsoft, Google, and Slack](https://thehackernews.com/2023/10/githubs-secret-scanning-feature-now.html)
 - [Supermicro&#39;s BMC Firmware Found Vulnerable to Multiple Critical Vulnerabilities](https://thehackernews.com/2023/10/supermicros-bmc-firmware-found.html)
 - [QakBot Threat Actors Still in Action, Using Ransom Knight and Remcos RAT in Latest Attacks](https://thehackernews.com/2023/10/qakbot-threat-actors-still-in-action.html)
 - [Cisco Releases Urgent Patch to Fix Critical Flaw in Emergency Responder Systems](https://thehackernews.com/2023/10/cisco-releases-urgent-patch-to-fix.html)
 - [Analysis and Config Extraction of Lu0Bot, a Node.js Malware with Considerable Capabilities](https://thehackernews.com/2023/10/analysis-and-config-extraction-of.html)
-- [Guyana Governmental Entity Hit by DinodasRAT in Cyber Espionage Attack](https://thehackernews.com/2023/10/guyana-governmental-entity-hit-by.html)
 <!-- BLOG-POST-LIST:END -->
