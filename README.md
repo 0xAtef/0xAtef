@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New OS Tool Tells You Who Has Access to What Data](https://thehackernews.com/2023/10/new-os-tool-tells-you-who-has-access-to.html)
 - [GitHub&#39;s Secret Scanning Feature Now Covers AWS, Microsoft, Google, and Slack](https://thehackernews.com/2023/10/githubs-secret-scanning-feature-now.html)
 - [Supermicro&#39;s BMC Firmware Found Vulnerable to Multiple Critical Vulnerabilities](https://thehackernews.com/2023/10/supermicros-bmc-firmware-found.html)
 - [QakBot Threat Actors Still in Action, Using Ransom Knight and Remcos RAT in Latest Attacks](https://thehackernews.com/2023/10/qakbot-threat-actors-still-in-action.html)
 - [Cisco Releases Urgent Patch to Fix Critical Flaw in Emergency Responder Systems](https://thehackernews.com/2023/10/cisco-releases-urgent-patch-to-fix.html)
-- [Analysis and Config Extraction of Lu0Bot, a Node.js Malware with Considerable Capabilities](https://thehackernews.com/2023/10/analysis-and-config-extraction-of.html)
 <!-- BLOG-POST-LIST:END -->
