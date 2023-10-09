@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gaza-Linked Cyber Threat Actor Targets Israeli Energy and Defense Sectors](https://thehackernews.com/2023/10/gaza-linked-cyber-threat-actor-targets.html)
 - [North Korea&#39;s Lazarus Group Launders $900 Million in Cryptocurrency](https://thehackernews.com/2023/10/north-koreas-lazarus-group-launders-900.html)
 - [Chinese Hackers Target Semiconductor Firms in East Asia with Cobalt Strike](https://thehackernews.com/2023/10/chinese-hackers-target-semiconductor.html)
 - [New OS Tool Tells You Who Has Access to What Data](https://thehackernews.com/2023/10/new-os-tool-tells-you-who-has-access-to.html)
 - [GitHub&#39;s Secret Scanning Feature Now Covers AWS, Microsoft, Google, and Slack](https://thehackernews.com/2023/10/githubs-secret-scanning-feature-now.html)
-- [Supermicro&#39;s BMC Firmware Found Vulnerable to Multiple Critical Vulnerabilities](https://thehackernews.com/2023/10/supermicros-bmc-firmware-found.html)
 <!-- BLOG-POST-LIST:END -->
