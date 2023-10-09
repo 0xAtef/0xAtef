@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Using EvilProxy Phishing Kit to Target Senior Executives in U.S. Firms](https://thehackernews.com/2023/10/cybercriminals-using-evilproxy-phishing.html)
 - [Webinar: How vCISOs Can Navigating the Complex World of AI and LLM Security](https://thehackernews.com/2023/10/webinar-how-vcisos-can-navigating.html)
 - [&quot;I Had a Dream&quot; and Generative AI Jailbreaks](https://thehackernews.com/2023/10/i-had-dream-and-generative-ai-jailbreaks.html)
 - [High-Severity Flaws in ConnectedIO&#39;s 3G/4G Routers Raise Concerns for IoT Security](https://thehackernews.com/2023/10/high-severity-flaws-in-connectedios.html)
 - [Security Patch for Two New Flaws in Curl Library Arriving on October 11](https://thehackernews.com/2023/10/security-patch-for-two-new-flaws-in.html)
-- [Gaza-Linked Cyber Threat Actor Targets Israeli Energy and Defense Sectors](https://thehackernews.com/2023/10/gaza-linked-cyber-threat-actor-targets.html)
 <!-- BLOG-POST-LIST:END -->
