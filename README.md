@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Citrix Devices Under Attack: NetScaler Flaw Exploited to Capture User Credentials](https://thehackernews.com/2023/10/citrix-devices-under-attack-netscaler.html)
 - [PEACHPIT: Massive Ad Fraud Botnet Powered by Millions of Hacked Android and iOS](https://thehackernews.com/2023/10/peachpit-massive-ad-fraud-botnet.html)
 - [Cybercriminals Using EvilProxy Phishing Kit to Target Senior Executives in U.S. Firms](https://thehackernews.com/2023/10/cybercriminals-using-evilproxy-phishing.html)
 - [Webinar: How vCISOs Can Navigating the Complex World of AI and LLM Security](https://thehackernews.com/2023/10/webinar-how-vcisos-can-navigating.html)
 - [&quot;I Had a Dream&quot; and Generative AI Jailbreaks](https://thehackernews.com/2023/10/i-had-dream-and-generative-ai-jailbreaks.html)
-- [High-Severity Flaws in ConnectedIO&#39;s 3G/4G Routers Raise Concerns for IoT Security](https://thehackernews.com/2023/10/high-severity-flaws-in-connectedios.html)
 <!-- BLOG-POST-LIST:END -->
