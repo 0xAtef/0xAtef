@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Adopts Passkeys as Default Sign-in Method for All Users](https://thehackernews.com/2023/10/google-adopts-passkeys-as-default-sign.html)
 - [New Report: Child Sexual Abuse Content and Online Risks to Children on the Rise](https://thehackernews.com/2023/10/new-report-child-sexual-abuse-content.html)
 - [Researchers Uncover Grayling APT&#39;s Ongoing Attack Campaign Across Industries](https://thehackernews.com/2023/10/researchers-uncover-grayling-apts.html)
 - [New Magecart Campaign Alters 404 Error Pages to Steal Shoppers&#39; Credit Cards](https://thehackernews.com/2023/10/new-magecart-campaign-alters-404-error.html)
 - [libcue Library Flaw Opens GNOME Linux Systems Vulnerable to RCE Attacks](https://thehackernews.com/2023/10/libcue-library-flaw-opens-gnome-linux.html)
-- [Citrix Devices Under Attack: NetScaler Flaw Exploited to Capture User Credentials](https://thehackernews.com/2023/10/citrix-devices-under-attack-netscaler.html)
 <!-- BLOG-POST-LIST:END -->
