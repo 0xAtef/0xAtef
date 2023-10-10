@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Report: Child Sexual Abuse Content and Online Risks to Children on the Rise](https://thehackernews.com/2023/10/new-report-child-sexual-abuse-content.html)
+- [Researchers Uncover Grayling APT&#39;s Ongoing Attack Campaign Across Industries](https://thehackernews.com/2023/10/researchers-uncover-grayling-apts.html)
 - [New Magecart Campaign Alters 404 Error Pages to Steal Shoppers&#39; Credit Cards](https://thehackernews.com/2023/10/new-magecart-campaign-alters-404-error.html)
 - [libcue Library Flaw Opens GNOME Linux Systems Vulnerable to RCE Attacks](https://thehackernews.com/2023/10/libcue-library-flaw-opens-gnome-linux.html)
 - [Citrix Devices Under Attack: NetScaler Flaw Exploited to Capture User Credentials](https://thehackernews.com/2023/10/citrix-devices-under-attack-netscaler.html)
-- [PEACHPIT: Massive Ad Fraud Botnet Powered by Millions of Hacked Android and iOS](https://thehackernews.com/2023/10/peachpit-massive-ad-fraud-botnet.html)
-- [Cybercriminals Using EvilProxy Phishing Kit to Target Senior Executives in U.S. Firms](https://thehackernews.com/2023/10/cybercriminals-using-evilproxy-phishing.html)
 <!-- BLOG-POST-LIST:END -->
