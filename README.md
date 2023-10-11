@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Over 17,000 WordPress Sites Compromised by Balada Injector in September 2023](https://thehackernews.com/2023/10/over-17000-wordpress-sites-compromised.html)
+- [U.S. Cybersecurity Agency Warns of Actively Exploited Adobe Acrobat Reader Vulnerability](https://thehackernews.com/2023/10/us-cybersecurity-agency-warns-of.html)
+- [Take an Offensive Approach to Password Security by Continuously Monitoring for Breached Passwords](https://thehackernews.com/2023/10/take-offensive-approach-to-password.html)
 - [Microsoft Releases October 2023 Patches for 103 Flaws, Including 2 Active Exploits](https://thehackernews.com/2023/10/microsoft-releases-october-2023-patches.html)
 - [Microsoft Warns of Nation-State Hackers Exploiting Critical Atlassian Confluence Vulnerability](https://thehackernews.com/2023/10/microsoft-warns-of-nation-state-hackers.html)
-- [HTTP/2 Rapid Reset Zero-Day Vulnerability Exploited to Launch Record DDoS Attacks](https://thehackernews.com/2023/10/http2-rapid-reset-zero-day.html)
-- [Google Adopts Passkeys as Default Sign-in Method for All Users](https://thehackernews.com/2023/10/google-adopts-passkeys-as-default-sign.html)
-- [New Report: Child Sexual Abuse Content and Online Risks to Children on the Rise](https://thehackernews.com/2023/10/new-report-child-sexual-abuse-content.html)
 <!-- BLOG-POST-LIST:END -->
