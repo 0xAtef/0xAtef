@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Malware Posing as WordPress Caching Plugin](https://thehackernews.com/2023/10/researchers-uncover-malware-posing-as.html)
 - [Researchers Uncover Ongoing Attacks Targeting Asian Governments and Telecom Giants](https://thehackernews.com/2023/10/researchers-uncover-ongoing.html)
 - [Two High-Risk Security Flaws Discovered in Curl Library - New Patches Released](https://thehackernews.com/2023/10/two-high-risk-security-flaws-discovered.html)
 - [Over 17,000 WordPress Sites Compromised by Balada Injector in September 2023](https://thehackernews.com/2023/10/over-17000-wordpress-sites-compromised.html)
 - [CISA Warns of Actively Exploited Adobe Acrobat Reader Vulnerability](https://thehackernews.com/2023/10/us-cybersecurity-agency-warns-of.html)
-- [Take an Offensive Approach to Password Security by Continuously Monitoring for Breached Passwords](https://thehackernews.com/2023/10/take-offensive-approach-to-password.html)
 <!-- BLOG-POST-LIST:END -->
