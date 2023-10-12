@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious NuGet Package Targeting .NET Developers with SeroXen RAT](https://thehackernews.com/2023/10/malicious-nuget-package-targeting-net.html)
 - [ShellBot Uses Hex IPs to Evade Detection in Attacks on Linux SSH Servers](https://thehackernews.com/2023/10/shellbot-uses-hex-ips-to-evade.html)
 - [How to Guard Your Data from Exposure in ChatGPT](https://thehackernews.com/2023/10/how-to-guard-your-data-from-exposure-in.html)
 - [Microsoft Defender Thwarts Large-Scale Akira Ransomware Attack](https://thehackernews.com/2023/10/microsoft-defender-thwarts-akira.html)
 - [Researchers Uncover Malware Posing as WordPress Caching Plugin](https://thehackernews.com/2023/10/researchers-uncover-malware-posing-as.html)
-- [Researchers Uncover Ongoing Attacks Targeting Asian Governments and Telecom Giants](https://thehackernews.com/2023/10/researchers-uncover-ongoing.html)
 <!-- BLOG-POST-LIST:END -->
