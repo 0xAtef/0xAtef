@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Two High-Risk Security Flaws Discovered in Curl Library - New Patches Released](https://thehackernews.com/2023/10/two-high-risk-security-flaws-discovered.html)
 - [Over 17,000 WordPress Sites Compromised by Balada Injector in September 2023](https://thehackernews.com/2023/10/over-17000-wordpress-sites-compromised.html)
-- [U.S. Cybersecurity Agency Warns of Actively Exploited Adobe Acrobat Reader Vulnerability](https://thehackernews.com/2023/10/us-cybersecurity-agency-warns-of.html)
+- [CISA Warns of Actively Exploited Adobe Acrobat Reader Vulnerability](https://thehackernews.com/2023/10/us-cybersecurity-agency-warns-of.html)
 - [Take an Offensive Approach to Password Security by Continuously Monitoring for Breached Passwords](https://thehackernews.com/2023/10/take-offensive-approach-to-password.html)
 - [Microsoft Releases October 2023 Patches for 103 Flaws, Including 2 Active Exploits](https://thehackernews.com/2023/10/microsoft-releases-october-2023-patches.html)
-- [Microsoft Warns of Nation-State Hackers Exploiting Critical Atlassian Confluence Vulnerability](https://thehackernews.com/2023/10/microsoft-warns-of-nation-state-hackers.html)
 <!-- BLOG-POST-LIST:END -->
