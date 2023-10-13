@@ -125,7 +125,7 @@ BIO
 <!-- BLOG-POST-LIST:START -->
 - [New PEAPOD Cyberattack Campaign Targeting Women Political Leaders](https://thehackernews.com/2023/10/new-peapod-cyberattack-campaign.html)
 - [Researchers Unveil ToddyCat&#39;s New Set of Tools for Data Exfiltration](https://thehackernews.com/2023/10/researchers-unveil-toddycats-new-set-of.html)
-- [Ransomware attacks doubled year on year. Are organizations equipped to handle the evolution of Ransomware in 2023?](https://thehackernews.com/2023/10/ransomware-attacks-doubled-year-on-year.html)
+- [Ransomware attacks have doubled year-over-year. Are organizations prepared to tackle the evolving threat of ransomware in 2024?](https://thehackernews.com/2023/10/ransomware-attacks-doubled-year-on-year.html)
 - [DarkGate Malware Spreading via Messaging Services Posing as PDF Files](https://thehackernews.com/2023/10/darkgate-malware-spreading-via.html)
 - [FBI, CISA Warn of Rising AvosLocker Ransomware Attacks Against Critical Infrastructure](https://thehackernews.com/2023/10/fbi-cisa-warn-of-rising-avoslocker.html)
 <!-- BLOG-POST-LIST:END -->
