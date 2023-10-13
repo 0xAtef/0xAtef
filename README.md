@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DarkGate Malware Spreading via Messaging Services Posing as PDF Files](https://thehackernews.com/2023/10/darkgate-malware-spreading-via.html)
+- [FBI, CISA Warn of Rising AvosLocker Ransomware Attacks Against Critical Infrastructure](https://thehackernews.com/2023/10/fbi-cisa-warn-of-rising-avoslocker.html)
 - [Malicious NuGet Package Targeting .NET Developers with SeroXen RAT](https://thehackernews.com/2023/10/malicious-nuget-package-targeting-net.html)
 - [ShellBot Uses Hex IPs to Evade Detection in Attacks on Linux SSH Servers](https://thehackernews.com/2023/10/shellbot-uses-hex-ips-to-evade.html)
 - [How to Guard Your Data from Exposure in ChatGPT](https://thehackernews.com/2023/10/how-to-guard-your-data-from-exposure-in.html)
-- [Microsoft Defender Thwarts Large-Scale Akira Ransomware Attack](https://thehackernews.com/2023/10/microsoft-defender-thwarts-akira.html)
-- [Researchers Uncover Malware Posing as WordPress Caching Plugin](https://thehackernews.com/2023/10/researchers-uncover-malware-posing-as.html)
 <!-- BLOG-POST-LIST:END -->
