@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to Phase Out NTLM in Favor of Kerberos for Stronger Authentication](https://thehackernews.com/2023/10/microsoft-to-phase-out-ntlm-in-favor-of.html)
 - [New PEAPOD Cyberattack Campaign Targeting Women Political Leaders](https://thehackernews.com/2023/10/new-peapod-cyberattack-campaign.html)
 - [Researchers Unveil ToddyCat&#39;s New Set of Tools for Data Exfiltration](https://thehackernews.com/2023/10/researchers-unveil-toddycats-new-set-of.html)
 - [Ransomware Attacks Double: Are Companies Prepared for 2024&#39;s Cyber Threats?](https://thehackernews.com/2023/10/ransomware-attacks-doubled-year-on-year.html)
 - [DarkGate Malware Spreading via Messaging Services Posing as PDF Files](https://thehackernews.com/2023/10/darkgate-malware-spreading-via.html)
-- [FBI, CISA Warn of Rising AvosLocker Ransomware Attacks Against Critical Infrastructure](https://thehackernews.com/2023/10/fbi-cisa-warn-of-rising-avoslocker.html)
 <!-- BLOG-POST-LIST:END -->
