@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Signal Debunks Zero-Day Vulnerability Reports, Finds No Evidence](https://thehackernews.com/2023/10/signal-debunks-zero-day-vulnerability.html)
 - [Binance&#39;s Smart Chain Exploited in New &#39;EtherHiding&#39; Malware Campaign](https://thehackernews.com/2023/10/binances-smart-chain-exploited-in-new.html)
 - [Microsoft to Phase Out NTLM in Favor of Kerberos for Stronger Authentication](https://thehackernews.com/2023/10/microsoft-to-phase-out-ntlm-in-favor-of.html)
 - [New PEAPOD Cyberattack Campaign Targeting Women Political Leaders](https://thehackernews.com/2023/10/new-peapod-cyberattack-campaign.html)
 - [Researchers Unveil ToddyCat&#39;s New Set of Tools for Data Exfiltration](https://thehackernews.com/2023/10/researchers-unveil-toddycats-new-set-of.html)
-- [Ransomware Attacks Double: Are Companies Prepared for 2024&#39;s Cyber Threats?](https://thehackernews.com/2023/10/ransomware-attacks-doubled-year-on-year.html)
 <!-- BLOG-POST-LIST:END -->
