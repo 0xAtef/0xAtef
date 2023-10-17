@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Realm of Malicious Generative AI: A New Digital Security Challenge](https://thehackernews.com/2023/10/exploring-realm-of-malicious-generative.html)
+- [Experts Warn of Severe Flaws Affecting Milesight Routers and Titan SFTP Servers](https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html)
 - [CERT-UA Reports: 11 Ukrainian Telecom Providers Hit by Cyberattacks](https://thehackernews.com/2023/10/cert-ua-reports-11-ukrainian-telecom.html)
 - [Warning: Unpatched Cisco Zero-Day Vulnerability Actively Targeted in the Wild](https://thehackernews.com/2023/10/warning-unpatched-cisco-zero-day.html)
 - [Pro-Russian Hackers Exploiting Recent WinRAR Vulnerability in New Campaign](https://thehackernews.com/2023/10/pro-russian-hackers-exploiting-recent.html)
-- [SpyNote: Beware of This Android Trojan that Records Audio and Phone Calls](https://thehackernews.com/2023/10/spynote-beware-of-this-android-trojan.html)
-- [The Fast Evolution of SaaS Security from 2020 to 2024 &lpar;Told Through Video&rpar;](https://thehackernews.com/2023/10/the-fast-evolution-of-saas-security.html)
 <!-- BLOG-POST-LIST:END -->
