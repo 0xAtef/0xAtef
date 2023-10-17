@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CERT-UA Reports: 11 Ukrainian Telecom Providers Hit by Cyberattacks](https://thehackernews.com/2023/10/cert-ua-reports-11-ukrainian-telecom.html)
 - [Warning: Unpatched Cisco Zero-Day Vulnerability Actively Targeted in the Wild](https://thehackernews.com/2023/10/warning-unpatched-cisco-zero-day.html)
 - [Pro-Russian Hackers Exploiting Recent WinRAR Vulnerability in New Campaign](https://thehackernews.com/2023/10/pro-russian-hackers-exploiting-recent.html)
 - [SpyNote: Beware of This Android Trojan that Records Audio and Phone Calls](https://thehackernews.com/2023/10/spynote-beware-of-this-android-trojan.html)
 - [The Fast Evolution of SaaS Security from 2020 to 2024 &lpar;Told Through Video&rpar;](https://thehackernews.com/2023/10/the-fast-evolution-of-saas-security.html)
-- [Signal Debunks Zero-Day Vulnerability Reports, Finds No Evidence](https://thehackernews.com/2023/10/signal-debunks-zero-day-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
