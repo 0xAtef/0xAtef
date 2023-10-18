@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TetrisPhantom: Cyber Espionage via Secure USBs Targets APAC Governments](https://thehackernews.com/2023/10/tetrisphantom-cyber-espionage-via.html)
 - [New Admin Takeover Vulnerability Exposed in Synology&#39;s DiskStation Manager](https://thehackernews.com/2023/10/new-admin-takeover-vulnerability.html)
 - [D-Link Confirms Data Breach: Employee Falls Victim to Phishing Attack](https://thehackernews.com/2023/10/d-link-confirms-data-breach-employee.html)
 - [Discord: A Playground for Nation-State Hackers Targeting Critical Infrastructure](https://thehackernews.com/2023/10/discord-playground-for-nation-state.html)
 - [Critical Vulnerabilities Uncovered in Open Source CasaOS Cloud Software](https://thehackernews.com/2023/10/critical-vulnerabilities-uncovered-in.html)
-- [Webinar: Locking Down Financial and Accounting Data — Best Data Security Strategies](https://thehackernews.com/2023/10/webinar-locking-down-financial-and.html)
 <!-- BLOG-POST-LIST:END -->
