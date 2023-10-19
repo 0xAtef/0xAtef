@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Warns of North Korean Attacks Exploiting JetBrains TeamCity Flaw](https://thehackernews.com/2023/10/microsoft-warns-of-north-korean-attacks.html)
 - [Google TAG Detects State-Backed Threat Actors Exploiting WinRAR Flaw](https://thehackernews.com/2023/10/google-tag-detects-state-backed-threat.html)
 - [Lazarus Group Targeting Defense Experts with Fake Interviews via Trojanized VNC Apps](https://thehackernews.com/2023/10/lazarus-group-targeting-defense-experts.html)
 - [Critical Citrix NetScaler Flaw Exploited to Target from Government, Tech Firms](https://thehackernews.com/2023/10/critical-citrix-netscaler-flaw.html)
 - [Unraveling Real-Life Attack Paths – Key Lessons Learned](https://thehackernews.com/2023/10/unraveling-real-life-attack-paths-key.html)
-- [Qubitstrike Targets Jupyter Notebooks with Crypto Mining and Rootkit Campaign](https://thehackernews.com/2023/10/qubitstrike-targets-jupyter-notebooks.html)
 <!-- BLOG-POST-LIST:END -->
