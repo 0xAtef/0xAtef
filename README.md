@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. DoJ Cracks Down on North Korean IT Scammers Defrauding Global Businesses](https://thehackernews.com/2023/10/us-doj-cracks-down-on-north-korean-it_20.html)
 - [Sophisticated MATA Framework Strikes Eastern European Oil and Gas Companies](https://thehackernews.com/2023/10/sophisticated-mata-framework-strikes.html)
 - [Vulnerability Scanning: How Often Should I Scan?](https://thehackernews.com/2023/10/vulnerability-scanning-how-often-should.html)
 - [Google Play Protect Introduces Real-Time Code-Level Scanning for Android Malware](https://thehackernews.com/2023/10/google-play-protect-introduces-real.html)
 - [Iran-Linked OilRig Targets Middle East Governments in 8-Month Cyber Campaign](https://thehackernews.com/2023/10/iran-linked-oilrig-targets-middle-east.html)
-- [Microsoft Warns of North Korean Attacks Exploiting JetBrains TeamCity Flaw](https://thehackernews.com/2023/10/microsoft-warns-of-north-korean-attacks.html)
 <!-- BLOG-POST-LIST:END -->
