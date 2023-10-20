@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malvertisers Using Google Ads to Target Users Searching for Popular Software](https://thehackernews.com/2023/10/malvertisers-using-google-ads-to-target.html)
+- [Vietnamese Hackers Target U.K., U.S., and India with DarkGate Malware](https://thehackernews.com/2023/10/vietnamese-hackers-target-uk-us-and.html)
 - [Unleashing the Power of the Internet of Things and Cyber Security](https://thehackernews.com/2023/10/unleashing-power-of-internet-of-things.html)
 - [ExelaStealer: A New Low-Cost Cybercrime Weapon Emerges](https://thehackernews.com/2023/10/exelastealer-new-low-cost-cybercrime.html)
 - [U.S. DoJ Cracks Down on North Korean IT Scammers Defrauding Global Businesses](https://thehackernews.com/2023/10/us-doj-cracks-down-on-north-korean-it_20.html)
-- [Sophisticated MATA Framework Strikes Eastern European Oil and Gas Companies](https://thehackernews.com/2023/10/sophisticated-mata-framework-strikes.html)
-- [Vulnerability Scanning: How Often Should I Scan?](https://thehackernews.com/2023/10/vulnerability-scanning-how-often-should.html)
 <!-- BLOG-POST-LIST:END -->
