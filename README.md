@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Europol Dismantles Ragnar Locker Ransomware Infrastructure, Nabs Key Developer](https://thehackernews.com/2023/10/europol-dismantles-ragnar-locker.html)
 - [Okta&#39;s Support System Breach Exposes Customer Data to Unidentified Threat Actors](https://thehackernews.com/2023/10/oktas-support-system-breach-exposes.html)
 - [Cisco Zero-Day Exploited to Implant Malicious Lua Backdoor on Thousands of Devices](https://thehackernews.com/2023/10/cisco-zero-day-exploited-to-implant.html)
 - [Malvertisers Using Google Ads to Target Users Searching for Popular Software](https://thehackernews.com/2023/10/malvertisers-using-google-ads-to-target.html)
 - [Vietnamese Hackers Target U.K., U.S., and India with DarkGate Malware](https://thehackernews.com/2023/10/vietnamese-hackers-target-uk-us-and.html)
-- [Unleashing the Power of the Internet of Things and Cyber Security](https://thehackernews.com/2023/10/unleashing-power-of-internet-of-things.html)
 <!-- BLOG-POST-LIST:END -->
