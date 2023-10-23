@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Who&#39;s Experimenting with AI Tools in Your Organization?](https://thehackernews.com/2023/10/whos-experimenting-with-ai-tools-in.html)
+- [DoNot Team&#39;s New Firebird Backdoor Hits Pakistan and Afghanistan](https://thehackernews.com/2023/10/donot-teams-new-firebird-backdoor-hits.html)
+- [Quasar RAT Leverages DLL Side-Loading to Fly Under the Radar](https://thehackernews.com/2023/10/quasar-rat-leverages-dll-side-loading.html)
 - [Europol Dismantles Ragnar Locker Ransomware Infrastructure, Nabs Key Developer](https://thehackernews.com/2023/10/europol-dismantles-ragnar-locker.html)
 - [Okta&#39;s Support System Breach Exposes Customer Data to Unidentified Threat Actors](https://thehackernews.com/2023/10/oktas-support-system-breach-exposes.html)
-- [Cisco Zero-Day Exploited to Implant Malicious Lua Backdoor on Thousands of Devices](https://thehackernews.com/2023/10/cisco-zero-day-exploited-to-implant.html)
-- [Malvertisers Using Google Ads to Target Users Searching for Popular Software](https://thehackernews.com/2023/10/malvertisers-using-google-ads-to-target.html)
-- [Vietnamese Hackers Target U.K., U.S., and India with DarkGate Malware](https://thehackernews.com/2023/10/vietnamese-hackers-target-uk-us-and.html)
 <!-- BLOG-POST-LIST:END -->
