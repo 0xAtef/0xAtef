@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [1Password Detects Suspicious Activity Following Okta Support Breach](https://thehackernews.com/2023/10/1password-detects-suspicious-activity.html)
 - [Who&#39;s Experimenting with AI Tools in Your Organization?](https://thehackernews.com/2023/10/whos-experimenting-with-ai-tools-in.html)
 - [DoNot Team&#39;s New Firebird Backdoor Hits Pakistan and Afghanistan](https://thehackernews.com/2023/10/donot-teams-new-firebird-backdoor-hits.html)
 - [Quasar RAT Leverages DLL Side-Loading to Fly Under the Radar](https://thehackernews.com/2023/10/quasar-rat-leverages-dll-side-loading.html)
 - [Europol Dismantles Ragnar Locker Ransomware Infrastructure, Nabs Key Developer](https://thehackernews.com/2023/10/europol-dismantles-ragnar-locker.html)
-- [Okta&#39;s Support System Breach Exposes Customer Data to Unidentified Threat Actors](https://thehackernews.com/2023/10/oktas-support-system-breach-exposes.html)
 <!-- BLOG-POST-LIST:END -->
