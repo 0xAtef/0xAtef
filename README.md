@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ex-NSA Employee Pleads Guilty to Leaking Classified Data to Russia](https://thehackernews.com/2023/10/ex-nsa-employee-pleads-guilty-to.html)
 - [34 Cybercriminals Arrested in Spain for Multi-Million Dollar Online Scams](https://thehackernews.com/2023/10/34-cybercriminals-arrested-in-spain-for.html)
 - [Make API Management Less Scary for Your Organization](https://thehackernews.com/2023/10/make-api-management-less-scary-for-your.html)
 - [iOS Zero-Day Attacks: Experts Uncover Deeper Insights into Operation Triangulation](https://thehackernews.com/2023/10/operation-triangulation-experts-uncover.html)
 - [Backdoor Implant on Hacked Cisco Devices Modified to Evade Detection](https://thehackernews.com/2023/10/backdoor-implant-on-hacked-cisco.html)
-- [1Password Detects Suspicious Activity Following Okta Support Breach](https://thehackernews.com/2023/10/1password-detects-suspicious-activity.html)
 <!-- BLOG-POST-LIST:END -->
