@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of S3 Ransomware: How to Identify and Combat It](https://thehackernews.com/2023/10/the-rise-of-s3-ransomware-how-to.html)
 - [Act Now: VMware Releases Patch for Critical vCenter Server RCE Vulnerability](https://thehackernews.com/2023/10/act-now-vmware-releases-patch-for.html)
 - [Malvertising Campaign Targets Brazil&#39;s PIX Payment System with GoPIX Malware](https://thehackernews.com/2023/10/malvertising-campaign-targets-brazils.html)
 - [Alert: PoC Exploits Released for Citrix and VMware Vulnerabilities](https://thehackernews.com/2023/10/alert-poc-exploits-released-for-citrix.html)
 - [Ex-NSA Employee Pleads Guilty to Leaking Classified Data to Russia](https://thehackernews.com/2023/10/ex-nsa-employee-pleads-guilty-to.html)
-- [34 Cybercriminals Arrested in Spain for Multi-Million Dollar Online Scams](https://thehackernews.com/2023/10/34-cybercriminals-arrested-in-spain-for.html)
 <!-- BLOG-POST-LIST:END -->
