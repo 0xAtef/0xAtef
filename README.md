@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malvertising Campaign Targets Brazil&#39;s PIX Payment System with GoPIX Malware](https://thehackernews.com/2023/10/malvertising-campaign-targets-brazils.html)
 - [Alert: PoC Exploits Released for Citrix and VMware Vulnerabilities](https://thehackernews.com/2023/10/alert-poc-exploits-released-for-citrix.html)
 - [Ex-NSA Employee Pleads Guilty to Leaking Classified Data to Russia](https://thehackernews.com/2023/10/ex-nsa-employee-pleads-guilty-to.html)
 - [34 Cybercriminals Arrested in Spain for Multi-Million Dollar Online Scams](https://thehackernews.com/2023/10/34-cybercriminals-arrested-in-spain-for.html)
 - [Make API Management Less Scary for Your Organization](https://thehackernews.com/2023/10/make-api-management-less-scary-for-your.html)
-- [iOS Zero-Day Attacks: Experts Uncover Deeper Insights into Operation Triangulation](https://thehackernews.com/2023/10/operation-triangulation-experts-uncover.html)
 <!-- BLOG-POST-LIST:END -->
