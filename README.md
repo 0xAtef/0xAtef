@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Act Now: VMware Releases Patch for Critical vCenter Server RCE Vulnerability](https://thehackernews.com/2023/10/act-now-vmware-releases-patch-for.html)
 - [Malvertising Campaign Targets Brazil&#39;s PIX Payment System with GoPIX Malware](https://thehackernews.com/2023/10/malvertising-campaign-targets-brazils.html)
 - [Alert: PoC Exploits Released for Citrix and VMware Vulnerabilities](https://thehackernews.com/2023/10/alert-poc-exploits-released-for-citrix.html)
 - [Ex-NSA Employee Pleads Guilty to Leaking Classified Data to Russia](https://thehackernews.com/2023/10/ex-nsa-employee-pleads-guilty-to.html)
 - [34 Cybercriminals Arrested in Spain for Multi-Million Dollar Online Scams](https://thehackernews.com/2023/10/34-cybercriminals-arrested-in-spain-for.html)
-- [Make API Management Less Scary for Your Organization](https://thehackernews.com/2023/10/make-api-management-less-scary-for-your.html)
 <!-- BLOG-POST-LIST:END -->
