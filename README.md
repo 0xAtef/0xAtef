@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Danger of Forgotten Pixels on Websites: A New Case Study](https://thehackernews.com/2023/10/the-danger-of-forgotten-pixels-on.html)
 - [Iranian Group Tortoiseshell Launches New Wave of IMAPLoader Malware Attacks](https://thehackernews.com/2023/10/iranian-group-tortoiseshell-launches.html)
 - [Critical Flaw in NextGen&#39;s Mirth Connect Could Expose Healthcare Data](https://thehackernews.com/2023/10/critical-flaw-in-nextgens-mirth-connect.html)
 - [YoroTrooper: Researchers Warn of Kazakhstan&#39;s Stealthy Cyber Espionage Group](https://thehackernews.com/2023/10/yorotrooper-researchers-warn-of.html)
 - [Nation State Hackers Exploiting Zero-Day in Roundcube Webmail Software](https://thehackernews.com/2023/10/nation-state-hackers-exploiting-zero.html)
-- [Critical OAuth Flaws Uncovered in Grammarly, Vidio, and Bukalapak Platforms](https://thehackernews.com/2023/10/critical-oauth-flaws-uncovered-in.html)
 <!-- BLOG-POST-LIST:END -->
