@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iranian Group Tortoiseshell Launches New Wave of IMAPLoader Malware Attacks](https://thehackernews.com/2023/10/iranian-group-tortoiseshell-launches.html)
+- [Critical Flaw in NextGen&#39;s Mirth Connect Could Expose Healthcare Data](https://thehackernews.com/2023/10/critical-flaw-in-nextgens-mirth-connect.html)
+- [YoroTrooper: Researchers Warn of Kazakhstan&#39;s Stealthy Cyber Espionage Group](https://thehackernews.com/2023/10/yorotrooper-researchers-warn-of.html)
 - [Nation State Hackers Exploiting Zero-Day in Roundcube Webmail Software](https://thehackernews.com/2023/10/nation-state-hackers-exploiting-zero.html)
 - [Critical OAuth Flaws Uncovered in Grammarly, Vidio, and Bukalapak Platforms](https://thehackernews.com/2023/10/critical-oauth-flaws-uncovered-in.html)
-- [The Rise of S3 Ransomware: How to Identify and Combat It](https://thehackernews.com/2023/10/the-rise-of-s3-ransomware-how-to.html)
-- [Act Now: VMware Releases Patch for Critical vCenter Server RCE Vulnerability](https://thehackernews.com/2023/10/act-now-vmware-releases-patch-for.html)
-- [Malvertising Campaign Targets Brazil&#39;s PIX Payment System with GoPIX Malware](https://thehackernews.com/2023/10/malvertising-campaign-targets-brazils.html)
 <!-- BLOG-POST-LIST:END -->
