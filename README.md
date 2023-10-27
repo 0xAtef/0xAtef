@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [N. Korean Lazarus Group Targets Software Vendor Using Known Flaws](https://thehackernews.com/2023/10/n-korean-lazarus-group-targets-software.html)
 - [How to Keep Your Business Running in a Contested Environment](https://thehackernews.com/2023/10/how-to-keep-your-business-running-in.html)
 - [Google Expands Its Bug Bounty Program to Tackle Artificial Intelligence Threats](https://thehackernews.com/2023/10/google-expands-its-bug-bounty-program.html)
 - [F5 Issues Warning: BIG-IP Vulnerability Allows Remote Code Execution](https://thehackernews.com/2023/10/f5-issues-warning-big-ip-vulnerability.html)
 - [iLeakage: New Safari Exploit Impacts Apple iPhones and Macs with A- and M-Series CPUs](https://thehackernews.com/2023/10/ileakage-new-safari-exploit-impacts.html)
-- [Microsoft Warns as Scattered Spider Expands from SIM Swaps to Ransomware](https://thehackernews.com/2023/10/microsoft-warns-as-scattered-spider.html)
 <!-- BLOG-POST-LIST:END -->
