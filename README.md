@@ -123,7 +123,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [iLeakage: New Safari Exploit Impacts Apple iPhones and Macs with A and M-Series CPUs](https://thehackernews.com/2023/10/ileakage-new-safari-exploit-impacts.html)
+- [iLeakage: New Safari Exploit Impacts Apple iPhones and Macs with A- and M-Series CPUs](https://thehackernews.com/2023/10/ileakage-new-safari-exploit-impacts.html)
 - [Microsoft Warns as Scattered Spider Expands from SIM Swaps to Ransomware](https://thehackernews.com/2023/10/microsoft-warns-as-scattered-spider.html)
 - [Record-Breaking 100 Million RPS DDoS Attack Exploits HTTP/2 Rapid Reset Flaw](https://thehackernews.com/2023/10/record-breaking-100-million-rps-ddos.html)
 - [The Danger of Forgotten Pixels on Websites: A New Case Study](https://thehackernews.com/2023/10/the-danger-of-forgotten-pixels-on.html)
