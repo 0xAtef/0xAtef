@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hackers Using MSIX App Packages to Infect Windows PCs with GHOSTPULSE Maware](https://thehackernews.com/2023/10/hackers-using-msix-app-packages-to.html)
+- [Urgent: New Security Flaws Discovered in NGINX Ingress Controller for Kubernetes](https://thehackernews.com/2023/10/urgent-new-security-flaws-discovered-in.html)
+- [Hackers Using MSIX App Packages to Infect Windows PCs with GHOSTPULSE Malware](https://thehackernews.com/2023/10/hackers-using-msix-app-packages-to.html)
 - [Researchers Uncover Wiretapping of XMPP-Based Instant Messaging Service](https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html)
 - [N. Korean Lazarus Group Targets Software Vendor Using Known Flaws](https://thehackernews.com/2023/10/n-korean-lazarus-group-targets-software.html)
 - [How to Keep Your Business Running in a Contested Environment](https://thehackernews.com/2023/10/how-to-keep-your-business-running-in.html)
-- [Google Expands Its Bug Bounty Program to Tackle Artificial Intelligence Threats](https://thehackernews.com/2023/10/google-expands-its-bug-bounty-program.html)
 <!-- BLOG-POST-LIST:END -->
