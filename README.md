@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Launches Paid Ad-Free Subscription in Europe to Satisfy Privacy Laws](https://thehackernews.com/2023/10/meta-launches-paid-ad-free-subscription.html)
 - [Pro-Hamas Hacktivists Targeting Israeli Entities with Wiper Malware](https://thehackernews.com/2023/10/pro-hamas-hacktivists-targeting-israeli.html)
 - [New Webinar: 5 Must-Know Trends Impacting AppSec](https://thehackernews.com/2023/10/new-webinar-5-must-know-trends.html)
 - [ServiceNow Data Exposure: A Wake-Up Call for Companies](https://thehackernews.com/2023/10/servicenow-data-exposure-wake-up-call.html)
 - [EleKtra-Leak Cryptojacking Attacks Exploit AWS IAM Credentials Exposed on GitHub](https://thehackernews.com/2023/10/elektra-leak-cryptojacking-attacks.html)
-- [Urgent: New Security Flaws Discovered in NGINX Ingress Controller for Kubernetes](https://thehackernews.com/2023/10/urgent-new-security-flaws-discovered-in.html)
 <!-- BLOG-POST-LIST:END -->
