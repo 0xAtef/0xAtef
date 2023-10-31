@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious NuGet Packages Caught Distributing SeroXen RAT Malware](https://thehackernews.com/2023/10/malicious-nuget-packages-caught.html)
+- [PentestPad: Platform for Pentest Teams](https://thehackernews.com/2023/10/pentestpad-platform-for-pentest-teams.html)
+- [Atlassian Warns of New Critical Confluence Vulnerability Threatening Data Loss](https://thehackernews.com/2023/10/atlassian-warns-of-new-critical.html)
 - [Trojanized PyCharm Software Version Delivered via Google Search Ads](https://thehackernews.com/2023/10/trojanized-pycharm-software-version.html)
 - [Canada Bans WeChat and Kaspersky Apps On Government Devices](https://thehackernews.com/2023/10/canada-bans-wechat-and-kaspersky-apps.html)
-- [Meta Launches Paid Ad-Free Subscription in Europe to Satisfy Privacy Laws](https://thehackernews.com/2023/10/meta-launches-paid-ad-free-subscription.html)
-- [Pro-Hamas Hacktivists Targeting Israeli Entities with Wiper Malware](https://thehackernews.com/2023/10/pro-hamas-hacktivists-targeting-israeli.html)
-- [New Webinar: 5 Must-Know Trends Impacting AppSec](https://thehackernews.com/2023/10/new-webinar-5-must-know-trends.html)
 <!-- BLOG-POST-LIST:END -->
