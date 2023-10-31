@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Arid Viper Targeting Arabic Android Users with Spyware Disguised as Dating App](https://thehackernews.com/2023/10/arid-viper-targeting-arabic-android.html)
 - [Malicious NuGet Packages Caught Distributing SeroXen RAT Malware](https://thehackernews.com/2023/10/malicious-nuget-packages-caught.html)
 - [PentestPad: Platform for Pentest Teams](https://thehackernews.com/2023/10/pentestpad-platform-for-pentest-teams.html)
 - [Atlassian Warns of New Critical Confluence Vulnerability Threatening Data Loss](https://thehackernews.com/2023/10/atlassian-warns-of-new-critical.html)
 - [Trojanized PyCharm Software Version Delivered via Google Search Ads](https://thehackernews.com/2023/10/trojanized-pycharm-software-version.html)
-- [Canada Bans WeChat and Kaspersky Apps On Government Devices](https://thehackernews.com/2023/10/canada-bans-wechat-and-kaspersky-apps.html)
 <!-- BLOG-POST-LIST:END -->
