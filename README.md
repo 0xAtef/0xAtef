@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hands on Review: LayerX&#39;s Enterprise Browser Security Extension](https://thehackernews.com/2023/11/hands-on-review-layerxs-enterprise.html)
+- [Iranian Cyber Espionage Group Targets Financial and Government Sectors in Middle East](https://thehackernews.com/2023/11/iranian-cyber-espionage-group-targets.html)
 - [North Korean Hackers Targeting Crypto Experts with KANDYKORN macOS Malware](https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html)
 - [Turla Updates Kazuar Backdoor with Advanced Anti-Analysis to Evade Detection](https://thehackernews.com/2023/11/turla-updates-kazuar-backdoor-with.html)
 - [Alert: F5 Warns of Active Attacks Exploiting BIG-IP Vulnerability](https://thehackernews.com/2023/11/alert-f5-warns-of-active-attacks.html)
-- [Arid Viper Targeting Arabic Android Users with Spyware Disguised as Dating App](https://thehackernews.com/2023/10/arid-viper-targeting-arabic-android.html)
-- [Malicious NuGet Packages Caught Distributing SeroXen RAT Malware](https://thehackernews.com/2023/10/malicious-nuget-packages-caught.html)
 <!-- BLOG-POST-LIST:END -->
