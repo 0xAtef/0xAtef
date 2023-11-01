@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Tageting Crypto Experts with KANDYKORN macOS Malware](https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html)
 - [Turla Updates Kazuar Backdoor with Advanced Anti-Analysis to Evade Detection](https://thehackernews.com/2023/11/turla-updates-kazuar-backdoor-with.html)
 - [Alert: F5 Warns of Active Attacks Exploiting BIG-IP Vulnerability](https://thehackernews.com/2023/11/alert-f5-warns-of-active-attacks.html)
 - [Arid Viper Targeting Arabic Android Users with Spyware Disguised as Dating App](https://thehackernews.com/2023/10/arid-viper-targeting-arabic-android.html)
 - [Malicious NuGet Packages Caught Distributing SeroXen RAT Malware](https://thehackernews.com/2023/10/malicious-nuget-packages-caught.html)
-- [PentestPad: Platform for Pentest Teams](https://thehackernews.com/2023/10/pentestpad-platform-for-pentest-teams.html)
 <!-- BLOG-POST-LIST:END -->
