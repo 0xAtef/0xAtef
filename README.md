@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Researchers Expose Prolific Puma&#39;s Underground Link Shortening Service](https://thehackernews.com/2023/11/dns-abuse-exposes-prolific-pumas.html)
-- [Hands on Review: LayerX&#39;s Enterprise Browser Security Extension](https://thehackernews.com/2023/11/hands-on-review-layerxs-enterprise.html)
-- [Iranian Cyber Espionage Group Targets Financial and Government Sectors in Middle East](https://thehackernews.com/2023/11/iranian-cyber-espionage-group-targets.html)
-- [North Korean Hackers Targeting Crypto Experts with KANDYKORN macOS Malware](https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html)
-- [Turla Updates Kazuar Backdoor with Advanced Anti-Analysis to Evade Detection](https://thehackernews.com/2023/11/turla-updates-kazuar-backdoor-with.html)
+- [SaaS Security is Now Accessible and Affordable to All](https://thehackernews.com/2023/11/saas-security-is-now-accessible-and.html)
+- [Iran&#39;s MuddyWater Targets Israel in New Spear-Phishing Cyber Campaign](https://thehackernews.com/2023/11/irans-muddywater-targets-israel-in-new.html)
+- [Researchers Find 34 Windows Drivers Vulnerable to Full Device Takeover](https://thehackernews.com/2023/11/researchers-find-34-windows-drivers.html)
+- [FIRST Announces CVSS 4.0 - New Vulnerability Scoring System](https://thehackernews.com/2023/11/first-announces-cvss-40-new.html)
+- [HelloKitty Ransomware Group Exploiting Apache ActiveMQ Vulnerability](https://thehackernews.com/2023/11/hellokitty-ransomware-group-exploiting.html)
 <!-- BLOG-POST-LIST:END -->
