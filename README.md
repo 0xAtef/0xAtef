@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SaaS Security is Now Accessible and Affordable to All](https://thehackernews.com/2023/11/saas-security-is-now-accessible-and.html)
-- [Iran&#39;s MuddyWater Targets Israel in New Spear-Phishing Cyber Campaign](https://thehackernews.com/2023/11/irans-muddywater-targets-israel-in-new.html)
-- [Researchers Find 34 Windows Drivers Vulnerable to Full Device Takeover](https://thehackernews.com/2023/11/researchers-find-34-windows-drivers.html)
-- [FIRST Announces CVSS 4.0 - New Vulnerability Scoring System](https://thehackernews.com/2023/11/first-announces-cvss-40-new.html)
-- [HelloKitty Ransomware Group Exploiting Apache ActiveMQ Vulnerability](https://thehackernews.com/2023/11/hellokitty-ransomware-group-exploiting.html)
+- [Kinsing Actors Exploiting Recent Linux Flaw to Breach Cloud Environments](https://thehackernews.com/2023/11/kinsing-actors-exploit-linux-flaw-to.html)
+- [NodeStealer Malware Hijacking Facebook Business Accounts for Malicious Ads](https://thehackernews.com/2023/11/nodestealer-malware-hijacking-facebook.html)
+- [Predictive AI in Cybersecurity: Outcomes Demonstrate All AI is Not Created Equally](https://thehackernews.com/2023/11/predictive-ai-in-cybersecurity-outcomes.html)
+- [CanesSpy Spyware Discovered in Modified WhatsApp Versions](https://thehackernews.com/2023/11/canesspy-spyware-discovered-in-modified.html)
+- [48 Malicious npm Packages Found Deploying Reverse Shells on Developer Systems](https://thehackernews.com/2023/11/48-malicious-npm-packages-found.html)
 <!-- BLOG-POST-LIST:END -->
