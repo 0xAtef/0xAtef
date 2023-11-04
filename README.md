@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Okta&#39;s Recent Customer Support Data Breach Impacted 134 Customers](https://thehackernews.com/2023/11/oktas-recent-customer-support-data.html)
+- [Google Play Store Introduces &#39;Independent Security Review&#39; Badge for Apps](https://thehackernews.com/2023/11/google-play-store-introduces.html)
 - [Kinsing Actors Exploiting Recent Linux Flaw to Breach Cloud Environments](https://thehackernews.com/2023/11/kinsing-actors-exploit-linux-flaw-to.html)
 - [NodeStealer Malware Hijacking Facebook Business Accounts for Malicious Ads](https://thehackernews.com/2023/11/nodestealer-malware-hijacking-facebook.html)
 - [Predictive AI in Cybersecurity: Outcomes Demonstrate All AI is Not Created Equally](https://thehackernews.com/2023/11/predictive-ai-in-cybersecurity-outcomes.html)
-- [CanesSpy Spyware Discovered in Modified WhatsApp Versions](https://thehackernews.com/2023/11/canesspy-spyware-discovered-in-modified.html)
-- [48 Malicious npm Packages Found Deploying Reverse Shells on Developer Systems](https://thehackernews.com/2023/11/48-malicious-npm-packages-found.html)
 <!-- BLOG-POST-LIST:END -->
