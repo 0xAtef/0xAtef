@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iranian Hackers Launches Destructive Cyberattacks on Israeli Tech and Education Sectors](https://thehackernews.com/2023/11/iranian-hackers-launches-destructive.html)
 - [Google Warns How Hackers Could Abuse Calendar Service as a Covert C2 Channel](https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html)
 - [U.S. Treasury Sanctions Russian Money Launderer in Cybercrime Crackdown](https://thehackernews.com/2023/11/us-treasury-targets-russian-money.html)
 - [StripedFly Malware Operated Unnoticed for 5 Years, Infecting 1 Million Devices](https://thehackernews.com/2023/11/stripedfly-malware-operated-unnoticed.html)
 - [Okta&#39;s Recent Customer Support Data Breach Impacted 134 Customers](https://thehackernews.com/2023/11/oktas-recent-customer-support-data.html)
-- [Google Play Store Highlights &#39;Independent Security Review&#39; Badge for VPN Apps](https://thehackernews.com/2023/11/google-play-store-introduces.html)
 <!-- BLOG-POST-LIST:END -->
