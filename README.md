@@ -123,7 +123,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Treasury Targets Russian Money Launderer in Cybercrime Crackdown](https://thehackernews.com/2023/11/us-treasury-targets-russian-money.html)
+- [U.S. Treasury Sanctions Russian Money Launderer in Cybercrime Crackdown](https://thehackernews.com/2023/11/us-treasury-targets-russian-money.html)
 - [StripedFly Malware Operated Unnoticed for 5 Years, Infecting 1 Million Devices](https://thehackernews.com/2023/11/stripedfly-malware-operated-unnoticed.html)
 - [Okta&#39;s Recent Customer Support Data Breach Impacted 134 Customers](https://thehackernews.com/2023/11/oktas-recent-customer-support-data.html)
 - [Google Play Store Highlights &#39;Independent Security Review&#39; Badge for VPN Apps](https://thehackernews.com/2023/11/google-play-store-introduces.html)
