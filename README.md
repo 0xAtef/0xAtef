@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New GootLoader Malware Variant Evades Detection and Spreads Rapidly](https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html)
+- [Confidence in File Upload Security is Alarmingly Low. Why?](https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html)
 - [Offensive and Defensive AI: Let’s Chat&lpar;GPT&rpar; About It](https://thehackernews.com/2023/11/offensive-and-defensive-ai-lets-chatgpt.html)
 - [SideCopy Exploiting WinRAR Flaw in Attacks Targeting Indian Government Entities](https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html)
 - [Experts Warn of Ransomware Hackers Exploiting Atlassian and Apache Flaws](https://thehackernews.com/2023/11/experts-warn-of-ransomware-hackers.html)
-- [Critical Flaws Discovered in Veeam ONE IT Monitoring Software – Patch Now](https://thehackernews.com/2023/11/critical-flaws-discovered-in-veeam-one.html)
-- [New Jupyter Infostealer Version Emerges with Sophisticated Stealth Tactics](https://thehackernews.com/2023/11/new-jupyter-infostealer-version-emerges.html)
 <!-- BLOG-POST-LIST:END -->
