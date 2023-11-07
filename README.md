@@ -123,7 +123,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [N. Korean BlueNoroff Blamed for Hacking macOS Machines with ObjCShellz Malware](https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html)
+- [N. Korea&#39;s BlueNoroff Blamed for Hacking macOS Machines with ObjCShellz Malware](https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html)
 - [New GootLoader Malware Variant Evades Detection and Spreads Rapidly](https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html)
 - [Confidence in File Upload Security is Alarmingly Low. Why?](https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html)
 - [Offensive and Defensive AI: Let’s Chat&lpar;GPT&rpar; About It](https://thehackernews.com/2023/11/offensive-and-defensive-ai-lets-chatgpt.html)
