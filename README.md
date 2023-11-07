@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SideCopy Exploiting WinRAR Flaw in Attacks Targeting Indian Government Entities](https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html)
 - [Experts Warn of Ransomware Hackers Exploiting Atlassian and Apache Flaws](https://thehackernews.com/2023/11/experts-warn-of-ransomware-hackers.html)
 - [Critical Flaws Discovered in Veeam ONE IT Monitoring Software – Patch Now](https://thehackernews.com/2023/11/critical-flaws-discovered-in-veeam-one.html)
 - [New Jupyter Infostealer Version Emerges with Sophisticated Stealth Tactics](https://thehackernews.com/2023/11/new-jupyter-infostealer-version-emerges.html)
 - [QNAP Releases Patch for 2 Critical Flaws Threatening Your NAS Devices](https://thehackernews.com/2023/11/qnap-releases-patch-for-2-critical.html)
-- [SecuriDropper: New Android Dropper-as-a-Service Bypasses Google&#39;s Defenses](https://thehackernews.com/2023/11/securidropper-new-android-dropper-as.html)
 <!-- BLOG-POST-LIST:END -->
