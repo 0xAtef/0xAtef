@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Experts Expose Farnetwork&#39;s Ransomware-as-a-Service Business Model](https://thehackernews.com/2023/11/experts-expose-farnetworks-ransomware.html)
 - [N. Korea&#39;s BlueNoroff Blamed for Hacking macOS Machines with ObjCShellz Malware](https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html)
 - [New GootLoader Malware Variant Evades Detection and Spreads Rapidly](https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html)
 - [Confidence in File Upload Security is Alarmingly Low. Why?](https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html)
 - [Offensive and Defensive AI: Let’s Chat&lpar;GPT&rpar; About It](https://thehackernews.com/2023/11/offensive-and-defensive-ai-lets-chatgpt.html)
-- [SideCopy Exploiting WinRAR Flaw in Attacks Targeting Indian Government Entities](https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html)
 <!-- BLOG-POST-LIST:END -->
