@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Undetectable Crypto Mining Technique on Azure Automation](https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html)
+- [WhatsApp Introduces New Privacy Feature to Protect IP Address in Calls](https://thehackernews.com/2023/11/whatsapp-introduces-new-privacy-feature.html)
 - [Beware, Developers: BlazeStealer Malware Discovered in Python Packages on PyPI](https://thehackernews.com/2023/11/beware-developers-blazestealer-malware.html)
 - [Guide: How vCISOs, MSPs and MSSPs Can Keep their Customers Safe from Gen AI Risks](https://thehackernews.com/2023/11/guide-how-vcisos-msps-and-mssps-can.html)
 - [Webinar: Kickstarting Your SaaS Security Strategy &amp; Program](https://thehackernews.com/2023/11/webinar-kickstarting-your-saas-security.html)
-- [Experts Expose Farnetwork&#39;s Ransomware-as-a-Service Business Model](https://thehackernews.com/2023/11/experts-expose-farnetworks-ransomware.html)
-- [N. Korea&#39;s BlueNoroff Blamed for Hacking macOS Machines with ObjCShellz Malware](https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html)
 <!-- BLOG-POST-LIST:END -->
