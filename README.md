@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Malvertising Campaign Uses Fake Windows News Portal to Distribute Malicious Installers](https://thehackernews.com/2023/11/new-malvertising-campaign-uses-fake.html)
 - [When Email Security Meets SaaS Security: Uncovering Risky Auto-Forwarding Rules](https://thehackernews.com/2023/11/when-email-security-meets-saas-security.html)
 - [MuddyC2Go: New C2 Framework Iranian Hackers Using Against Israel](https://thehackernews.com/2023/11/muddyc2go-new-c2-framework-iranian.html)
 - [CISA Alerts: High-Severity SLP Vulnerability Now Under Active Exploitation](https://thehackernews.com/2023/11/cisa-alerts-high-severity-slp.html)
 - [Researchers Uncover Undetectable Crypto Mining Technique on Azure Automation](https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html)
-- [WhatsApp Introduces New Privacy Feature to Protect IP Address in Calls](https://thehackernews.com/2023/11/whatsapp-introduces-new-privacy-feature.html)
 <!-- BLOG-POST-LIST:END -->
