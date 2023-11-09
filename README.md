@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Email Security Meets SaaS Security: Uncovering Risky Auto-Forwarding Rules](https://thehackernews.com/2023/11/when-email-security-meets-saas-security.html)
+- [MuddyC2Go: New C2 Framework Iranian Hackers Using Against Israel](https://thehackernews.com/2023/11/muddyc2go-new-c2-framework-iranian.html)
 - [CISA Alerts: High-Severity SLP Vulnerability Now Under Active Exploitation](https://thehackernews.com/2023/11/cisa-alerts-high-severity-slp.html)
 - [Researchers Uncover Undetectable Crypto Mining Technique on Azure Automation](https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html)
 - [WhatsApp Introduces New Privacy Feature to Protect IP Address in Calls](https://thehackernews.com/2023/11/whatsapp-introduces-new-privacy-feature.html)
-- [Beware, Developers: BlazeStealer Malware Discovered in Python Packages on PyPI](https://thehackernews.com/2023/11/beware-developers-blazestealer-malware.html)
-- [Guide: How vCISOs, MSPs and MSSPs Can Keep their Customers Safe from Gen AI Risks](https://thehackernews.com/2023/11/guide-how-vcisos-msps-and-mssps-can.html)
 <!-- BLOG-POST-LIST:END -->
