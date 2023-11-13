@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hackers Launch Covert Espionage Attacks on 24 Cambodian Organizations](https://thehackernews.com/2023/11/chinese-hackers-launch-covert-espionage.html)
+- [Major Phishing-as-a-Service Syndicate &#39;BulletProofLink&#39; Dismantled by Malaysian Authorities](https://thehackernews.com/2023/11/major-phishing-as-service-syndicate.html)
 - [New BiBi-Windows Wiper Targets Windows Systems in Pro-Hamas Attacks](https://thehackernews.com/2023/11/new-bibi-windows-wiper-targets-windows.html)
 - [Microsoft Warns of Fake Skills Assessment Portals Targeting IT Job Seekers](https://thehackernews.com/2023/11/microsoft-warns-of-fake-skills.html)
 - [Russian Hackers Sandworm Cause Power Outage in Ukraine Amidst Missile Strikes](https://thehackernews.com/2023/11/russian-hackers-sandworm-cause-power.html)
-- [The New 80/20 Rule for SecOps: Customize Where it Matters, Automate the Rest](https://thehackernews.com/2023/11/the-new-8020-rule-for-secops-customize.html)
-- [Alert: &#39;Effluence&#39; Backdoor Persists Despite Patching Atlassian Confluence Servers](https://thehackernews.com/2023/11/alert-effluence-backdoor-persists.html)
 <!-- BLOG-POST-LIST:END -->
