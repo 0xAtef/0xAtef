@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Marketing Tech SaaS Security Challenges](https://thehackernews.com/2023/11/top-5-marketing-tech-saas-security.html)
 - [Chinese Hackers Launch Covert Espionage Attacks on 24 Cambodian Organizations](https://thehackernews.com/2023/11/chinese-hackers-launch-covert-espionage.html)
 - [Major Phishing-as-a-Service Syndicate &#39;BulletProofLink&#39; Dismantled by Malaysian Authorities](https://thehackernews.com/2023/11/major-phishing-as-service-syndicate.html)
 - [New BiBi-Windows Wiper Targets Windows Systems in Pro-Hamas Attacks](https://thehackernews.com/2023/11/new-bibi-windows-wiper-targets-windows.html)
 - [Microsoft Warns of Fake Skills Assessment Portals Targeting IT Job Seekers](https://thehackernews.com/2023/11/microsoft-warns-of-fake-skills.html)
-- [Russian Hackers Sandworm Cause Power Outage in Ukraine Amidst Missile Strikes](https://thehackernews.com/2023/11/russian-hackers-sandworm-cause-power.html)
 <!-- BLOG-POST-LIST:END -->
