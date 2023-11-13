@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New BiBi-Windows Wiper Targets Windows Systems in Pro-Hamas Attacks](https://thehackernews.com/2023/11/new-bibi-windows-wiper-targets-windows.html)
 - [Microsoft Warns of Fake Skills Assessment Portals Targeting IT Job Seekers](https://thehackernews.com/2023/11/microsoft-warns-of-fake-skills.html)
 - [Russian Hackers Sandworm Cause Power Outage in Ukraine Amidst Missile Strikes](https://thehackernews.com/2023/11/russian-hackers-sandworm-cause-power.html)
 - [The New 80/20 Rule for SecOps: Customize Where it Matters, Automate the Rest](https://thehackernews.com/2023/11/the-new-8020-rule-for-secops-customize.html)
 - [Alert: &#39;Effluence&#39; Backdoor Persists Despite Patching Atlassian Confluence Servers](https://thehackernews.com/2023/11/alert-effluence-backdoor-persists.html)
-- [Iran-Linked Imperial Kitten Cyber Group Targeting Middle East&#39;s Tech Sectors](https://thehackernews.com/2023/11/iran-linked-imperial-kitten-cyber-group.html)
 <!-- BLOG-POST-LIST:END -->
