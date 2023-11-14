@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Campaign Targets Middle East Governments with IronWind Malware](https://thehackernews.com/2023/11/new-campaign-targets-middle-east.html)
 - [Vietnamese Hackers Using New Delphi-Powered Malware to Target Indian Marketers](https://thehackernews.com/2023/11/vietnamese-hackers-using-new-delphi.html)
 - [CISA Sets a Deadline - Patch Juniper Junos OS Flaws Before November 17](https://thehackernews.com/2023/11/cisa-sets-deadline-patch-juniper-junos.html)
 - [New Ransomware Group Emerges with Hive&#39;s Source Code and Infrastructure](https://thehackernews.com/2023/11/new-ransomware-group-emerges-with-hives.html)
 - [Top 5 Marketing Tech SaaS Security Challenges](https://thehackernews.com/2023/11/top-5-marketing-tech-saas-security.html)
-- [Chinese Hackers Launch Covert Espionage Attacks on 24 Cambodian Organizations](https://thehackernews.com/2023/11/chinese-hackers-launch-covert-espionage.html)
 <!-- BLOG-POST-LIST:END -->
