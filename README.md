@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CacheWarp Attack: New Vulnerability in AMD SEV Exposes Encrypted VMs](https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html)
 - [The Importance of Continuous Security Monitoring for a Robust Cybersecurity Strategy](https://thehackernews.com/2023/11/the-importance-of-continuous-security.html)
 - [Alert: OracleIV DDoS Botnet Targets Public Docker Engine APIs to Hijack Containers](https://thehackernews.com/2023/11/alert-oracleiv-ddos-botnet-targets.html)
 - [CI/CD Risks: Protecting Your Software Development Pipelines](https://thehackernews.com/2023/11/cicd-risks-protecting-your-software.html)
 - [New Campaign Targets Middle East Governments with IronWind Malware](https://thehackernews.com/2023/11/new-campaign-targets-middle-east.html)
-- [Vietnamese Hackers Using New Delphi-Powered Malware to Target Indian Marketers](https://thehackernews.com/2023/11/vietnamese-hackers-using-new-delphi.html)
 <!-- BLOG-POST-LIST:END -->
