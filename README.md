@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Three Ways Varonis Helps You Fight Insider Threats](https://thehackernews.com/2023/11/three-ways-varonis-helps-you-fight.html)
 - [Reptar: New Intel CPU Vulnerability Impacts Multi-Tenant Virtualized Environments](https://thehackernews.com/2023/11/reptar-new-intel-cpu-vulnerability.html)
 - [Alert: Microsoft Releases Patch Updates for 5 New Zero-Day Vulnerabilities](https://thehackernews.com/2023/11/alert-microsoft-releases-patch-updates.html)
 - [Urgent: VMware Warns of Unpatched Critical Cloud Director Vulnerability](https://thehackernews.com/2023/11/urgent-vmware-warns-of-unpatched.html)
 - [CacheWarp Attack: New Vulnerability in AMD SEV Exposes Encrypted VMs](https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html)
-- [The Importance of Continuous Security Monitoring for a Robust Cybersecurity Strategy](https://thehackernews.com/2023/11/the-importance-of-continuous-security.html)
 <!-- BLOG-POST-LIST:END -->
