@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zero-Day Flaw in Zimbra Email Software Exploited by Four Hacker Groups](https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html)
 - [Experts Uncover DarkCasino: New Emerging APT Threat Exploiting WinRAR Flaw](https://thehackernews.com/2023/11/experts-uncover-darkcasino-new-emerging.html)
 - [CISA and FBI Issue Warning About Rhysida Ransomware Double Extortion Attacks](https://thehackernews.com/2023/11/cisa-and-fbi-issue-warning-about.html)
 - [How to Automate the Hardest Parts of Employee Offboarding](https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html)
 - [Hackers Could Exploit Google Workspace and Cloud Platform for Ransomware Attacks](https://thehackernews.com/2023/11/hackers-could-exploit-google-workspace.html)
-- [Russian Hackers Linked to &#39;Largest Ever Cyber Attack&#39; on Danish Critical Infrastructure](https://thehackernews.com/2023/11/russian-hackers-launch-largest-ever.html)
 <!-- BLOG-POST-LIST:END -->
