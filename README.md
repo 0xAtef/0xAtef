@@ -123,7 +123,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Russian Hackers Launch &#39;Largest Ever Cyber Attack&#39; on Danish Critical Infrastructure](https://thehackernews.com/2023/11/russian-hackers-launch-largest-ever.html)
+- [Russian Hackers Linked to &#39;Largest Ever Cyber Attack&#39; on Danish Critical Infrastructure](https://thehackernews.com/2023/11/russian-hackers-launch-largest-ever.html)
 - [U.S. Takes Down IPStorm Botnet, Russian-Moldovan Mastermind Pleads Guilty](https://thehackernews.com/2023/11/us-takes-down-ipstorm-botnet-russian.html)
 - [New PoC Exploit for Apache ActiveMQ Flaw Could Let Attackers Fly Under the Radar](https://thehackernews.com/2023/11/new-poc-exploit-for-apache-activemq.html)
 - [Three Ways Varonis Helps You Fight Insider Threats](https://thehackernews.com/2023/11/three-ways-varonis-helps-you-fight.html)
