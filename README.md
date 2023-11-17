@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover 2023&#39;s Cloud Security Strategies in Our Upcoming Webinar - Secure Your Spot](https://thehackernews.com/2023/11/discover-2023s-cloud-security.html)
+- [27 Malicious PyPI Packages with Thousands of Downloads Found Targeting IT Experts](https://thehackernews.com/2023/11/27-malicious-pypi-packages-with.html)
 - [U.S. Cybersecurity Agencies Warn of Scattered Spider&#39;s Gen Z Cybercrime Ecosystem](https://thehackernews.com/2023/11/us-cybersecurity-agencies-warn-of.html)
 - [CISA Adds Three Security Flaws with Active Exploitation to KEV Catalog](https://thehackernews.com/2023/11/cisa-adds-three-security-flaws-with.html)
 - [Zero-Day Flaw in Zimbra Email Software Exploited by Four Hacker Groups](https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html)
-- [Experts Uncover DarkCasino: New Emerging APT Threat Exploiting WinRAR Flaw](https://thehackernews.com/2023/11/experts-uncover-darkcasino-new-emerging.html)
-- [CISA and FBI Issue Warning About Rhysida Ransomware Double Extortion Attacks](https://thehackernews.com/2023/11/cisa-and-fbi-issue-warning-about.html)
 <!-- BLOG-POST-LIST:END -->
