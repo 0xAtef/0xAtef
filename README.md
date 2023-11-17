@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Cybersecurity Agencies Warn of Scattered Spider&#39;s Gen Z Cybercrime Ecosystem](https://thehackernews.com/2023/11/us-cybersecurity-agencies-warn-of.html)
 - [CISA Adds Three Security Flaws with Active Exploitation to KEV Catalog](https://thehackernews.com/2023/11/cisa-adds-three-security-flaws-with.html)
 - [Zero-Day Flaw in Zimbra Email Software Exploited by Four Hacker Groups](https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html)
 - [Experts Uncover DarkCasino: New Emerging APT Threat Exploiting WinRAR Flaw](https://thehackernews.com/2023/11/experts-uncover-darkcasino-new-emerging.html)
 - [CISA and FBI Issue Warning About Rhysida Ransomware Double Extortion Attacks](https://thehackernews.com/2023/11/cisa-and-fbi-issue-warning-about.html)
-- [How to Automate the Hardest Parts of Employee Offboarding](https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html)
 <!-- BLOG-POST-LIST:END -->
