@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FCC Enforces Stronger Rules to Protect Customers Against SIM Swapping Attacks](https://thehackernews.com/2023/11/fcc-enforces-stronger-rules-to-protect.html)
 - [Discover 2023&#39;s Cloud Security Strategies in Our Upcoming Webinar - Secure Your Spot](https://thehackernews.com/2023/11/discover-2023s-cloud-security.html)
 - [27 Malicious PyPI Packages with Thousands of Downloads Found Targeting IT Experts](https://thehackernews.com/2023/11/27-malicious-pypi-packages-with.html)
 - [U.S. Cybersecurity Agencies Warn of Scattered Spider&#39;s Gen Z Cybercrime Ecosystem](https://thehackernews.com/2023/11/us-cybersecurity-agencies-warn-of.html)
 - [CISA Adds Three Security Flaws with Active Exploitation to KEV Catalog](https://thehackernews.com/2023/11/cisa-adds-three-security-flaws-with.html)
-- [Zero-Day Flaw in Zimbra Email Software Exploited by Four Hacker Groups](https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html)
 <!-- BLOG-POST-LIST:END -->
