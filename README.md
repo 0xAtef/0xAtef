@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8Base Group Deploying New Phobos Ransomware Variant via SmokeLoader](https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html)
 - [Russian Cyber Espionage Group Deploys LitterDrifter USB Worm in Targeted Attacks](https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html)
 - [Beware: Malicious Google Ads Trick WinSCP Users into Installing Malware](https://thehackernews.com/2023/11/beware-malicious-google-ads-trick.html)
 - [FCC Enforces Stronger Rules to Protect Customers Against SIM Swapping Attacks](https://thehackernews.com/2023/11/fcc-enforces-stronger-rules-to-protect.html)
 - [Discover 2023&#39;s Cloud Security Strategies in Our Upcoming Webinar - Secure Your Spot](https://thehackernews.com/2023/11/discover-2023s-cloud-security.html)
-- [27 Malicious PyPI Packages with Thousands of Downloads Found Targeting IT Experts](https://thehackernews.com/2023/11/27-malicious-pypi-packages-with.html)
 <!-- BLOG-POST-LIST:END -->
