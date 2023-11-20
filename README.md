@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Indian Hack-for-Hire Group Targeted U.S., China, and More for Over 10 Years](https://thehackernews.com/2023/11/indian-hack-for-hire-group-targeted-us.html)
 - [8Base Group Deploying New Phobos Ransomware Variant via SmokeLoader](https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html)
 - [Russian Cyber Espionage Group Deploys LitterDrifter USB Worm in Targeted Attacks](https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html)
 - [Beware: Malicious Google Ads Trick WinSCP Users into Installing Malware](https://thehackernews.com/2023/11/beware-malicious-google-ads-trick.html)
 - [FCC Enforces Stronger Rules to Protect Customers Against SIM Swapping Attacks](https://thehackernews.com/2023/11/fcc-enforces-stronger-rules-to-protect.html)
-- [Discover 2023&#39;s Cloud Security Strategies in Our Upcoming Webinar - Secure Your Spot](https://thehackernews.com/2023/11/discover-2023s-cloud-security.html)
 <!-- BLOG-POST-LIST:END -->
