@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NetSupport RAT Infections on the Rise - Targeting Government and Business Sectors](https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html)
 - [DarkGate and PikaBot Malware Resurrect QakBot&#39;s Tactics in New Phishing Attacks](https://thehackernews.com/2023/11/darkgate-and-pikabot-malware-resurrect.html)
 - [Product Walkthrough: Silverfort&#39;s Unified Identity Protection Platform](https://thehackernews.com/2023/11/product-walkthrough-silverforts-unified.html)
 - [Why Defenders Should Embrace a Hacker Mindset](https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html)
 - [LummaC2 Malware Deploys New Trigonometry-Based Anti-Sandbox Technique](https://thehackernews.com/2023/11/lummac2-malware-deploys-new.html)
-- [Randstorm Exploit: Bitcoin Wallets Created b/w 2011-2015 Vulnerable to Hacking](https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html)
 <!-- BLOG-POST-LIST:END -->
