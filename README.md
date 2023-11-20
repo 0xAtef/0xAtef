@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DarkGate and PikaBot Malware Resurrect QakBot&#39;s Tactics in New Phishing Attacks](https://thehackernews.com/2023/11/darkgate-and-pikabot-malware-resurrect.html)
+- [Product Walkthrough: Silverfort&#39;s Unified Identity Protection Platform](https://thehackernews.com/2023/11/product-walkthrough-silverforts-unified.html)
 - [Why Defenders Should Embrace a Hacker Mindset](https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html)
 - [LummaC2 Malware Deploys New Trigonometry-Based Anti-Sandbox Technique](https://thehackernews.com/2023/11/lummac2-malware-deploys-new.html)
 - [Randstorm Exploit: Bitcoin Wallets Created b/w 2011-2015 Vulnerable to Hacking](https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html)
-- [Indian Hack-for-Hire Group Targeted U.S., China, and More for Over 10 Years](https://thehackernews.com/2023/11/indian-hack-for-hire-group-targeted-us.html)
-- [8Base Group Deploying New Phobos Ransomware Variant via SmokeLoader](https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html)
 <!-- BLOG-POST-LIST:END -->
