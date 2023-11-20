@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Defenders Should Embrace a Hacker Mindset](https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html)
+- [LummaC2 Malware Deploys New Trigonometry-Based Anti-Sandbox Technique](https://thehackernews.com/2023/11/lummac2-malware-deploys-new.html)
 - [Randstorm Exploit: Bitcoin Wallets Created b/w 2011-2015 Vulnerable to Hacking](https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html)
 - [Indian Hack-for-Hire Group Targeted U.S., China, and More for Over 10 Years](https://thehackernews.com/2023/11/indian-hack-for-hire-group-targeted-us.html)
 - [8Base Group Deploying New Phobos Ransomware Variant via SmokeLoader](https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html)
-- [Russian Cyber Espionage Group Deploys LitterDrifter USB Worm in Targeted Attacks](https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html)
-- [Beware: Malicious Google Ads Trick WinSCP Users into Installing Malware](https://thehackernews.com/2023/11/beware-malicious-google-ads-trick.html)
 <!-- BLOG-POST-LIST:END -->
