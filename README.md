@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kinsing Hackers Exploit Apache ActiveMQ Vulnerability to Deploy Linux Rootkits](https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html)
 - [Malicious Apps Disguised as Banks and Government Agencies Targeting Indian Android Users](https://thehackernews.com/2023/11/malicious-apps-disguised-as-banks-and.html)
 - [Mustang Panda Hackers Targets Philippines Government Amid South China Sea Tensions](https://thehackernews.com/2023/11/mustang-panda-hackers-targets.html)
 - [NetSupport RAT Infections on the Rise - Targeting Government and Business Sectors](https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html)
 - [DarkGate and PikaBot Malware Resurrect QakBot&#39;s Tactics in New Phishing Attacks](https://thehackernews.com/2023/11/darkgate-and-pikabot-malware-resurrect.html)
-- [Product Walkthrough: Silverfort&#39;s Unified Identity Protection Platform](https://thehackernews.com/2023/11/product-walkthrough-silverforts-unified.html)
 <!-- BLOG-POST-LIST:END -->
