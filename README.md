@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ClearFake Campaign Expands to Deliver Atomic Stealer on Macs Systems](https://thehackernews.com/2023/11/clearfake-campaign-expands-to-deliver.html)
 - [LockBit Ransomware Exploiting Critical Citrix Bleed Vulnerability to Break In](https://thehackernews.com/2023/11/lockbit-ransomware-exploiting-critical.html)
 - [Play Ransomware Goes Commercial - Now Offered as a Service to Cybercriminals](https://thehackernews.com/2023/11/play-ransomware-goes-commercial-now.html)
 - [New Agent Tesla Malware Variant Using ZPAQ Compression in Email Attacks](https://thehackernews.com/2023/11/new-agent-tesla-malware-variant-using.html)
 - [How Multi-Stage Phishing Attacks Exploit QRs, CAPTCHAs, and Steganography](https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html)
-- [Kinsing Hackers Exploit Apache ActiveMQ Vulnerability to Deploy Linux Rootkits](https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html)
 <!-- BLOG-POST-LIST:END -->
