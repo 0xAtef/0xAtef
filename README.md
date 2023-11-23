@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Distribute Trojanized CyberLink Software in Supply Chain Attack](https://thehackernews.com/2023/11/north-korean-hackers-distribute.html)
 - [New Flaws in Fingerprint Sensors Let Attackers Bypass Windows Hello Login](https://thehackernews.com/2023/11/new-flaws-in-fingerprint-sensors-let.html)
 - [North Korean Hackers Pose as Job Recruiters and Seekers in Malware Campaigns](https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html)
 - [AI Solutions Are the New Shadow IT](https://thehackernews.com/2023/11/ai-solutions-are-new-shadow-it.html)
 - [ClearFake Campaign Expands to Target Mac Systems with Atomic Stealer](https://thehackernews.com/2023/11/clearfake-campaign-expands-to-deliver.html)
-- [LockBit Ransomware Exploiting Critical Citrix Bleed Vulnerability to Break In](https://thehackernews.com/2023/11/lockbit-ransomware-exploiting-critical.html)
 <!-- BLOG-POST-LIST:END -->
