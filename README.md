@@ -123,7 +123,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [North Korean Hackers Distribute Trojanized CyberLink Software in Supply Chain Attack](https://thehackernews.com/2023/11/north-korean-hackers-distribute.html)
+- [N. Korean Hackers Distribute Trojanized CyberLink Software in Supply Chain Attack](https://thehackernews.com/2023/11/north-korean-hackers-distribute.html)
 - [New Flaws in Fingerprint Sensors Let Attackers Bypass Windows Hello Login](https://thehackernews.com/2023/11/new-flaws-in-fingerprint-sensors-let.html)
 - [North Korean Hackers Pose as Job Recruiters and Seekers in Malware Campaigns](https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html)
 - [AI Solutions Are the New Shadow IT](https://thehackernews.com/2023/11/ai-solutions-are-new-shadow-it.html)
