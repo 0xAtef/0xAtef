@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories](https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html)
 - [Konni Group Using Russian-Language Malicious Word Docs in Latest Attacks](https://thehackernews.com/2023/11/konni-group-using-russian-language.html)
 - [Alert: New WailingCrab Malware Loader Spreading via Shipping-Themed Emails](https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html)
 - [6 Steps to Accelerate Cybersecurity Incident Response](https://thehackernews.com/2023/11/6-steps-to-accelerate-cybersecurity.html)
 - [Mirai-based Botnet Exploiting Zero-Day Bugs in Routers and NVRs for Massive DDoS Attacks](https://thehackernews.com/2023/11/mirai-based-botnet-exploiting-zero-day.html)
-- [N. Korean Hackers Distribute Trojanized CyberLink Software in Supply Chain Attack](https://thehackernews.com/2023/11/north-korean-hackers-distribute.html)
 <!-- BLOG-POST-LIST:END -->
