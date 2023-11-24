@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale](https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html)
 - [Tell Me Your Secrets Without Telling Me Your Secrets](https://thehackernews.com/2023/11/tell-me-your-secrets-without-telling-me.html)
 - [Hamas-Linked Cyberattacks Using Rust-Powered SysJoker Backdoor Against Israel](https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html)
 - [Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories](https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html)
 - [Konni Group Using Russian-Language Malicious Word Docs in Latest Attacks](https://thehackernews.com/2023/11/konni-group-using-russian-language.html)
-- [Alert: New WailingCrab Malware Loader Spreading via Shipping-Themed Emails](https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html)
 <!-- BLOG-POST-LIST:END -->
