@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;HrServ.dll&#39; Web Shell Detected in APT Attack Targeting Afghan Government](https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html)
 - [Warning: 3 Critical Vulnerabilities Expose ownCloud Users to Data Breaches](https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html)
 - [Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale](https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html)
 - [Tell Me Your Secrets Without Telling Me Your Secrets](https://thehackernews.com/2023/11/tell-me-your-secrets-without-telling-me.html)
 - [Hamas-Linked Cyberattacks Using Rust-Powered SysJoker Backdoor Against Israel](https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html)
-- [Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories](https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html)
 <!-- BLOG-POST-LIST:END -->
