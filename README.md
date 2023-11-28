@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [N. Korean Hackers &#39;Mixing&#39; macOS Malware Tactics to Evade Detection](https://thehackernews.com/2023/11/n-korean-hackers-mixing-and-matching.html)
 - [How to Handle Retail SaaS Security on Cyber Monday](https://thehackernews.com/2023/11/how-to-handle-retail-saas-security-on.html)
 - [Experts Uncover Passive Method to Extract Private RSA Keys from SSH Connections](https://thehackernews.com/2023/11/experts-uncover-passive-method-to.html)
 - [U.S., U.K., and Global Partners Release Secure AI System Development Guidelines](https://thehackernews.com/2023/11/us-uk-and-global-partners-release.html)
 - [New &#39;HrServ.dll&#39; Web Shell Detected in APT Attack Targeting Afghan Government](https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html)
-- [Warning: 3 Critical Vulnerabilities Expose ownCloud Users to Data Breaches](https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html)
 <!-- BLOG-POST-LIST:END -->
