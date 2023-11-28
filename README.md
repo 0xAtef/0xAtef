@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Hackers Phish for Your Users&#39; Credentials and Sell Them](https://thehackernews.com/2023/11/how-hackers-phish-for-your-users.html)
+- [Key Cybercriminals Behind Notorious Ransomware Families Arrested in Ukraine](https://thehackernews.com/2023/11/key-cybercriminals-behind-notorious.html)
 - [Stop Identity Attacks: Discover the Key to Early Threat Detection](https://thehackernews.com/2023/11/stop-identity-attacks-discover-key-to.html)
 - [Hackers Can Exploit &#39;Forced Authentication&#39; to Steal Windows NTLM Tokens](https://thehackernews.com/2023/11/hackers-can-exploit-forced.html)
 - [N. Korean Hackers &#39;Mixing&#39; macOS Malware Tactics to Evade Detection](https://thehackernews.com/2023/11/n-korean-hackers-mixing-and-matching.html)
-- [How to Handle Retail SaaS Security on Cyber Monday](https://thehackernews.com/2023/11/how-to-handle-retail-saas-security-on.html)
-- [Experts Uncover Passive Method to Extract Private RSA Keys from SSH Connections](https://thehackernews.com/2023/11/experts-uncover-passive-method-to.html)
 <!-- BLOG-POST-LIST:END -->
