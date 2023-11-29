@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DJVU Ransomware&#39;s Latest Variant &#39;Xaro&#39; Disguised as Cracked Software](https://thehackernews.com/2023/11/djvu-ransomwares-latest-variant-xaro.html)
+- [GoTitan Botnet Spotted Exploiting Recent Apache ActiveMQ Vulnerability](https://thehackernews.com/2023/11/gotitan-botnet-spotted-exploiting.html)
+- [Zero-Day Alert: Google Chrome Under Active Attack, Exploiting New Vulnerability](https://thehackernews.com/2023/11/zero-day-alert-google-chrome-under.html)
 - [Transform Your Data Security Posture – Learn from SoFi&#39;s DSPM Success](https://thehackernews.com/2023/11/transform-your-data-security-posture.html)
 - [Design Flaw in Google Workspace Could Let Attackers Gain Unauthorized Access](https://thehackernews.com/2023/11/design-flaw-in-google-workspace-could.html)
-- [How Hackers Phish for Your Users&#39; Credentials and Sell Them](https://thehackernews.com/2023/11/how-hackers-phish-for-your-users.html)
-- [Key Cybercriminals Behind Notorious Ransomware Families Arrested in Ukraine](https://thehackernews.com/2023/11/key-cybercriminals-behind-notorious.html)
-- [Stop Identity Attacks: Discover the Key to Early Threat Detection](https://thehackernews.com/2023/11/stop-identity-attacks-discover-key-to.html)
 <!-- BLOG-POST-LIST:END -->
