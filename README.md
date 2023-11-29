@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iranian Hackers Exploit PLCs in Attack on Water Authority in U.S.](https://thehackernews.com/2023/11/iranian-hackers-exploit-plcs-in-attack.html)
 - [200+ Malicious Android Apps Targeting Iranian Banks: Experts Warn](https://thehackernews.com/2023/11/200-malicious-apps-on-iranian-android.html)
 - [Discover Why Proactive Web Security Outsmarts Traditional Antivirus Solutions](https://thehackernews.com/2023/11/discover-why-proactive-web-security.html)
 - [Okta Discloses Broader Impact Linked to October 2023 Support System Breach](https://thehackernews.com/2023/11/okta-discloses-additional-data-breach.html)
 - [DJVU Ransomware&#39;s Latest Variant &#39;Xaro&#39; Disguised as Cracked Software](https://thehackernews.com/2023/11/djvu-ransomwares-latest-variant-xaro.html)
-- [GoTitan Botnet Spotted Exploiting Recent Apache ActiveMQ Vulnerability](https://thehackernews.com/2023/11/gotitan-botnet-spotted-exploiting.html)
 <!-- BLOG-POST-LIST:END -->
