@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Unveils RETVec - Gmail&#39;s New Defense Against Spam and Malicious Emails](https://thehackernews.com/2023/11/google-unveils-retvec-gmails-new.html)
 - [This Free Solution Provides Essential Third-Party Risk Management for SaaS](https://thehackernews.com/2023/11/this-free-solution-provides-essential.html)
 - [North Korea&#39;s Lazarus Group Rakes in $3 Billion from Cryptocurrency Hacks](https://thehackernews.com/2023/11/north-koreas-lazarus-group-rakes-in-3.html)
 - [7 Uses for Generative AI to Enhance Security Operations](https://thehackernews.com/2023/11/7-uses-for-generative-ai-to-enhance.html)
 - [CACTUS Ransomware Exploits Qlik Sense Vulnerabilities in Targeted Attacks](https://thehackernews.com/2023/11/cactus-ransomware-exploits-qlik-sense.html)
-- [U.S. Treasury Sanctions Sinbad Cryptocurrency Mixer Used by North Korean Hackers](https://thehackernews.com/2023/11/us-treasury-sanctions-sinbad.html)
 <!-- BLOG-POST-LIST:END -->
