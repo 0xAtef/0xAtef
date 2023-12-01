@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zyxel Releases Patches to Fix 15 Flaws in NAS, Firewall, and AP Devices](https://thehackernews.com/2023/12/zyxel-releases-patches-to-fix-15-flaws.html)
 - [Zero-Day Alert: Apple Rolls Out iOS, macOS, and Safari Patches for 2 Actively Exploited Flaws](https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html)
 - [Google Unveils RETVec - Gmail&#39;s New Defense Against Spam and Malicious Emails](https://thehackernews.com/2023/11/google-unveils-retvec-gmails-new.html)
 - [North Korea&#39;s Lazarus Group Rakes in $3 Billion from Cryptocurrency Hacks](https://thehackernews.com/2023/11/north-koreas-lazarus-group-rakes-in-3.html)
 - [This Free Solution Provides Essential Third-Party Risk Management for SaaS](https://thehackernews.com/2023/11/this-free-solution-provides-essential.html)
-- [7 Uses for Generative AI to Enhance Security Operations](https://thehackernews.com/2023/11/7-uses-for-generative-ai-to-enhance.html)
 <!-- BLOG-POST-LIST:END -->
