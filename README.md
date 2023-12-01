@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qakbot Takedown Aftermath: Mitigations and Protecting Against Future Threats](https://thehackernews.com/2023/12/qakbot-takedown-aftermath-mitigations.html)
+- [Chinese Hackers Using SugarGh0st RAT to Target South Korea and Uzbekistan](https://thehackernews.com/2023/12/chinese-hackers-using-sugargh0st-rat-to.html)
 - [Discover How Gcore Thwarted Powerful 1.1Tbps and 1.6Tbps DDoS Attacks](https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html)
 - [WhatsApp&#39;s New Secret Code Feature Lets Users Protect Private Chats with Password](https://thehackernews.com/2023/12/whatsapps-new-secret-code-feature-lets.html)
 - [U.S. Treasury Sanctions North Korean Kimsuky Hackers and 8 Foreign-Based Agents](https://thehackernews.com/2023/12/us-treasury-sanctions-north-korean.html)
-- [Zyxel Releases Patches to Fix 15 Flaws in NAS, Firewall, and AP Devices](https://thehackernews.com/2023/12/zyxel-releases-patches-to-fix-15-flaws.html)
-- [Zero-Day Alert: Apple Rolls Out iOS, macOS, and Safari Patches for 2 Actively Exploited Flaws](https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html)
 <!-- BLOG-POST-LIST:END -->
