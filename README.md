@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agent Racoon Backdoor Targets Organizations in Middle East, Africa, and U.S.](https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html)
 - [Russian Hacker Vladimir Dunaev Convicted for Creating TrickBot Malware](https://thehackernews.com/2023/12/russian-hacker-vladimir-dunaev.html)
 - [New FjordPhantom Android Malware Targets Banking Apps in Southeast Asia](https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html)
 - [Qakbot Takedown Aftermath: Mitigations and Protecting Against Future Threats](https://thehackernews.com/2023/12/qakbot-takedown-aftermath-mitigations.html)
 - [Chinese Hackers Using SugarGh0st RAT to Target South Korea and Uzbekistan](https://thehackernews.com/2023/12/chinese-hackers-using-sugargh0st-rat-to.html)
-- [Discover How Gcore Thwarted Powerful 1.1Tbps and 1.6Tbps DDoS Attacks](https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html)
 <!-- BLOG-POST-LIST:END -->
