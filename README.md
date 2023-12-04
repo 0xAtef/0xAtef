@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LogoFAIL: UEFI Vulnerabilities Expose Devices to Stealth Malware Attacks](https://thehackernews.com/2023/12/logofail-uefi-vulnerabilities-expose.html)
 - [Microsoft Warns of Malvertising Scheme Spreading CACTUS Ransomware](https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html)
 - [Agent Racoon Backdoor Targets Organizations in Middle East, Africa, and U.S.](https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html)
 - [Russian Hacker Vladimir Dunaev Convicted for Creating TrickBot Malware](https://thehackernews.com/2023/12/russian-hacker-vladimir-dunaev.html)
 - [New FjordPhantom Android Malware Targets Banking Apps in Southeast Asia](https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html)
-- [Qakbot Takedown Aftermath: Mitigations and Protecting Against Future Threats](https://thehackernews.com/2023/12/qakbot-takedown-aftermath-mitigations.html)
 <!-- BLOG-POST-LIST:END -->
