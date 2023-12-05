@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Threat Actor &#39;AeroBlade&#39; Emerges in Espionage Attack on U.S. Aerospace](https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html)
+- [Microsoft Warns of Kremlin-Backed APT28 Exploiting Critical Outlook Vulnerability](https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html)
 - [New BLUFFS Bluetooth Attack Expose Devices to Adversary-in-the-Middle Attacks](https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html)
 - [Make a Fresh Start for 2024: Clean Out Your User Inventory to Reduce SaaS Risk](https://thehackernews.com/2023/12/make-fresh-start-for-2024-clean-out.html)
 - [New P2PInfect Botnet MIPS Variant Targeting Routers and IoT Devices](https://thehackernews.com/2023/12/new-p2pinfect-botnet-mips-variant.html)
-- [LogoFAIL: UEFI Vulnerabilities Expose Devices to Stealth Malware Attacks](https://thehackernews.com/2023/12/logofail-uefi-vulnerabilities-expose.html)
-- [Microsoft Warns of Malvertising Scheme Spreading CACTUS Ransomware](https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html)
 <!-- BLOG-POST-LIST:END -->
