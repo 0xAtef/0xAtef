@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI Security: Preventing Microsoft Copilot Data Exposure](https://thehackernews.com/2023/12/generative-ai-security-preventing.html)
 - [15,000 Go Module Repositories on GitHub Vulnerable to Repojacking Attack](https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html)
 - [New Threat Actor &#39;AeroBlade&#39; Emerges in Espionage Attack on U.S. Aerospace](https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html)
 - [Microsoft Warns of Kremlin-Backed APT28 Exploiting Critical Outlook Vulnerability](https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html)
 - [New BLUFFS Bluetooth Attack Expose Devices to Adversary-in-the-Middle Attacks](https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html)
-- [Make a Fresh Start for 2024: Clean Out Your User Inventory to Reduce SaaS Risk](https://thehackernews.com/2023/12/make-fresh-start-for-2024-clean-out.html)
 <!-- BLOG-POST-LIST:END -->
