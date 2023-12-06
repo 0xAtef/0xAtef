@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Report: Unveiling the Threat of Malicious Browser Extensions](https://thehackernews.com/2023/12/new-report-unveiling-threat-of.html)
+- [Sierra:21 - Flaws in Sierra Wireless Routers Expose Critical Sectors to Cyber Attacks](https://thehackernews.com/2023/12/sierra21-flaws-in-sierra-wireless.html)
 - [Scaling Security Operations with Automation](https://thehackernews.com/2023/12/scaling-security-operations-with.html)
 - [Hackers Exploited ColdFusion Vulnerability to Breach Federal Agency Servers](https://thehackernews.com/2023/12/hackers-exploited-coldfusion.html)
 - [Atlassian Releases Critical Software Fixes to Prevent Remote Code Execution](https://thehackernews.com/2023/12/atlassian-releases-critical-software.html)
-- [Qualcomm Releases Details on Chip Vulnerabilities Exploited in Targeted Attacks](https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html)
-- [Warning for iPhone Users: Experts Warn of Sneaky Fake Lockdown Mode Attack](https://thehackernews.com/2023/12/warning-for-iphone-users-experts-warn.html)
 <!-- BLOG-POST-LIST:END -->
