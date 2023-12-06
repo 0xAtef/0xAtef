@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Security Operations with Automation](https://thehackernews.com/2023/12/scaling-security-operations-with.html)
+- [Hackers Exploited ColdFusion Vulnerability to Breach Federal Agency Servers](https://thehackernews.com/2023/12/hackers-exploited-coldfusion.html)
 - [Atlassian Releases Critical Software Fixes to Prevent Remote Code Execution](https://thehackernews.com/2023/12/atlassian-releases-critical-software.html)
 - [Qualcomm Releases Details on Chip Vulnerabilities Exploited in Targeted Attacks](https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html)
 - [Warning for iPhone Users: Experts Warn of Sneaky Fake Lockdown Mode Attack](https://thehackernews.com/2023/12/warning-for-iphone-users-experts-warn.html)
-- [Russia&#39;s AI-Powered Disinformation Operation Targeting Ukraine, U.S., and Germany](https://thehackernews.com/2023/12/russias-ai-powered-disinformation.html)
-- [Generative AI Security: Preventing Microsoft Copilot Data Exposure](https://thehackernews.com/2023/12/generative-ai-security-preventing.html)
 <!-- BLOG-POST-LIST:END -->
