@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm Releases Details on Chip Vulnerabilities Exploited in Targeted Attacks](https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html)
 - [Warning for iPhone Users: Experts Warn of Sneaky Fake Lockdown Mode Attack](https://thehackernews.com/2023/12/warning-for-iphone-users-experts-warn.html)
 - [Russia&#39;s AI-Powered Disinformation Operation Targeting Ukraine, U.S., and Germany](https://thehackernews.com/2023/12/russias-ai-powered-disinformation.html)
 - [Generative AI Security: Preventing Microsoft Copilot Data Exposure](https://thehackernews.com/2023/12/generative-ai-security-preventing.html)
 - [15,000 Go Module Repositories on GitHub Vulnerable to Repojacking Attack](https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html)
-- [New Threat Actor &#39;AeroBlade&#39; Emerges in Espionage Attack on U.S. Aerospace](https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html)
 <!-- BLOG-POST-LIST:END -->
