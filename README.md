@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Bluetooth Flaw Let Hackers Take Over Android, Linux, macOS, and iOS Devices](https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html)
+- [Hacking the Human Mind: Exploiting Vulnerabilities in the &#39;First Line of Cyber Defense&#39;](https://thehackernews.com/2023/12/hacking-human-mind-exploiting.html)
 - [Building a Robust Threat Intelligence with Wazuh](https://thehackernews.com/2023/12/building-robust-threat-intelligence.html)
 - [Governments May Spy on You by Requesting Push Notifications from Apple and Google](https://thehackernews.com/2023/12/governments-may-spy-on-you-by.html)
 - [New Stealthy &#39;Krasue&#39; Linux Trojan Targeting Telecom Firms in Thailand](https://thehackernews.com/2023/12/new-stealthy-krasue-linux-trojan.html)
-- [Meta Launches Default End-to-End Encryption for Chats and Calls on Messenger](https://thehackernews.com/2023/12/meta-launches-default-end-to-end.html)
-- [Alert: Threat Actors Can Leverage AWS STS to Infiltrate Cloud Accounts](https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html)
 <!-- BLOG-POST-LIST:END -->
