@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Stealthy &#39;Krasue&#39; Linux Trojan Targeting Telecom Firms in Thailand](https://thehackernews.com/2023/12/new-stealthy-krasue-linux-trojan.html)
+- [Meta Launches Default End-to-End Encryption for Chats and Calls on Messenger](https://thehackernews.com/2023/12/meta-launches-default-end-to-end.html)
 - [Alert: Threat Actors Can Leverage AWS STS to Infiltrate Cloud Accounts](https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html)
 - [New Report: Unveiling the Threat of Malicious Browser Extensions](https://thehackernews.com/2023/12/new-report-unveiling-threat-of.html)
 - [Sierra:21 - Flaws in Sierra Wireless Routers Expose Critical Sectors to Cyber Attacks](https://thehackernews.com/2023/12/sierra21-flaws-in-sierra-wireless.html)
-- [Scaling Security Operations with Automation](https://thehackernews.com/2023/12/scaling-security-operations-with.html)
-- [Hackers Exploited ColdFusion Vulnerability to Breach Federal Agency Servers](https://thehackernews.com/2023/12/hackers-exploited-coldfusion.html)
 <!-- BLOG-POST-LIST:END -->
