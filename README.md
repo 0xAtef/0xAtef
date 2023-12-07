@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Warns of COLDRIVER&#39;s Evolving Evading and Credential-Stealing Tactics](https://thehackernews.com/2023/12/microsoft-warns-of-coldrivers-evolving.html)
 - [New Bluetooth Flaw Let Hackers Take Over Android, Linux, macOS, and iOS Devices](https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html)
 - [Hacking the Human Mind: Exploiting Vulnerabilities in the &#39;First Line of Cyber Defense&#39;](https://thehackernews.com/2023/12/hacking-human-mind-exploiting.html)
 - [Building a Robust Threat Intelligence with Wazuh](https://thehackernews.com/2023/12/building-robust-threat-intelligence.html)
 - [Governments May Spy on You by Requesting Push Notifications from Apple and Google](https://thehackernews.com/2023/12/governments-may-spy-on-you-by.html)
-- [New Stealthy &#39;Krasue&#39; Linux Trojan Targeting Telecom Firms in Thailand](https://thehackernews.com/2023/12/new-stealthy-krasue-linux-trojan.html)
 <!-- BLOG-POST-LIST:END -->
