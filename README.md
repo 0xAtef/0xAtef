@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Releases Update 6.4.2 to Address Critical Remote Attack Vulnerability](https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html)
 - [Founder of Bitzlato Cryptocurrency Exchange Pleads Guilty in Money-Laundering Scheme](https://thehackernews.com/2023/12/founder-of-bitzlato-cryptocurrency.html)
 - [Microsoft Warns of COLDRIVER&#39;s Evolving Evasion and Credential-Stealing Tactics](https://thehackernews.com/2023/12/microsoft-warns-of-coldrivers-evolving.html)
 - [New Bluetooth Flaw Let Hackers Take Over Android, Linux, macOS, and iOS Devices](https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html)
 - [Hacking the Human Mind: Exploiting Vulnerabilities in the &#39;First Line of Cyber Defense&#39;](https://thehackernews.com/2023/12/hacking-human-mind-exploiting.html)
-- [Building a Robust Threat Intelligence with Wazuh](https://thehackernews.com/2023/12/building-robust-threat-intelligence.html)
 <!-- BLOG-POST-LIST:END -->
