@@ -123,8 +123,8 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New 5G Modems Flaws Affect iOS Devices and Android Models from Major Brands](https://thehackernews.com/2023/12/new-5g-modems-flaws-affect-ios-devices.html)
-- [N. Korean Kimsuky Targeting South Korean Research Institutes with Backdoor Attacks](https://thehackernews.com/2023/12/n-korean-kimsuky-targeting-south-korean.html)
+- [New 5G Modem Flaws Affect iOS Devices and Android Models from Major Brands](https://thehackernews.com/2023/12/new-5g-modems-flaws-affect-ios-devices.html)
+- [N. Korea&#39;s Kimsuky Targeting South Korean Research Institutes with Backdoor Attacks](https://thehackernews.com/2023/12/n-korean-kimsuky-targeting-south-korean.html)
 - [Ransomware-as-a-Service: The Growing Threat You Can&#39;t Ignore](https://thehackernews.com/2023/12/ransomware-as-service-growing-threat.html)
 - [Mac Users Beware: New Trojan-Proxy Malware Spreading via Pirated Software](https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html)
 - [WordPress Releases Update 6.4.2 to Address Critical Remote Attack Vulnerability](https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html)
