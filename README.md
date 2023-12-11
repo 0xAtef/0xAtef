@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New PoolParty Process Injection Techniques Outsmart Top EDR Solutions](https://thehackernews.com/2023/12/new-poolparty-process-injection.html)
 - [SLAM Attack: New Spectre-based Vulnerability Impacts Intel, AMD, and Arm CPUs](https://thehackernews.com/2023/12/slam-attack-new-spectre-based.html)
 - [Researchers Unveal GuLoader Malware&#39;s Latest Anti-Analysis Techniques](https://thehackernews.com/2023/12/researchers-unveal-guloader-malwares.html)
 - [New 5G Modem Flaws Affect iOS Devices and Android Models from Major Brands](https://thehackernews.com/2023/12/new-5g-modems-flaws-affect-ios-devices.html)
 - [N. Korea&#39;s Kimsuky Targeting South Korean Research Institutes with Backdoor Attacks](https://thehackernews.com/2023/12/n-korean-kimsuky-targeting-south-korean.html)
-- [Ransomware-as-a-Service: The Growing Threat You Can&#39;t Ignore](https://thehackernews.com/2023/12/ransomware-as-service-growing-threat.html)
 <!-- BLOG-POST-LIST:END -->
