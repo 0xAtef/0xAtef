@@ -126,6 +126,6 @@ BIO
 - [SpyLoan Scandal: 18 Malicious Loan Apps Defraud Millions of Android Users](https://thehackernews.com/2023/12/spyloan-scandal-18-malicious-loan-apps.html)
 - [New PoolParty Process Injection Techniques Outsmart Top EDR Solutions](https://thehackernews.com/2023/12/new-poolparty-process-injection.html)
 - [SLAM Attack: New Spectre-based Vulnerability Impacts Intel, AMD, and Arm CPUs](https://thehackernews.com/2023/12/slam-attack-new-spectre-based.html)
-- [Researchers Unveal GuLoader Malware&#39;s Latest Anti-Analysis Techniques](https://thehackernews.com/2023/12/researchers-unveal-guloader-malwares.html)
+- [Researchers Unveil GuLoader Malware&#39;s Latest Anti-Analysis Techniques](https://thehackernews.com/2023/12/researchers-unveal-guloader-malwares.html)
 - [New 5G Modem Flaws Affect iOS Devices and Android Models from Major Brands](https://thehackernews.com/2023/12/new-5g-modems-flaws-affect-ios-devices.html)
 <!-- BLOG-POST-LIST:END -->
