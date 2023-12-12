@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now](https://thehackernews.com/2023/12/new-critical-rce-vulnerability.html)
 - [Researchers Unmask Sandman APT&#39;s Hidden Link to China-Based KEYPLUG Backdoor](https://thehackernews.com/2023/12/researchers-unmask-sandman-apts-hidden.html)
 - [Lazarus Group Using Log4j Exploits to Deploy Remote Access Trojans](https://thehackernews.com/2023/12/lazarus-group-using-log4j-exploits-to.html)
 - [Playbook: Your First 100 Days as a vCISO - 5 Steps to Success](https://thehackernews.com/2023/12/playbook-your-first-100-days-as-vciso-5.html)
 - [SpyLoan Scandal: 18 Malicious Loan Apps Defraud Millions of Android Users](https://thehackernews.com/2023/12/spyloan-scandal-18-malicious-loan-apps.html)
-- [Webinar — Psychology of Social Engineering: Decoding the Mind of a Cyber Attacker](https://thehackernews.com/2023/12/webinar-psychology-of-social.html)
 <!-- BLOG-POST-LIST:END -->
