@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Non-Human Access is the Path of Least Resistance: A 2023 Recap](https://thehackernews.com/2023/12/non-human-access-is-path-of-least.html)
 - [New MrAnon Stealer Malware Targeting German Users via Booking-Themed Scam](https://thehackernews.com/2023/12/new-mranon-stealer-targeting-german-it.html)
 - [Apple Releases Security Updates to Patch Critical iOS and macOS Security Flaws](https://thehackernews.com/2023/12/apple-releases-security-updates-to.html)
 - [New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now](https://thehackernews.com/2023/12/new-critical-rce-vulnerability.html)
 - [Researchers Unmask Sandman APT&#39;s Hidden Link to China-Based KEYPLUG Backdoor](https://thehackernews.com/2023/12/researchers-unmask-sandman-apts-hidden.html)
-- [Lazarus Group Using Log4j Exploits to Deploy Remote Access Trojans](https://thehackernews.com/2023/12/lazarus-group-using-log4j-exploits-to.html)
 <!-- BLOG-POST-LIST:END -->
