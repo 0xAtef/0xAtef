@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s Final 2023 Patch Tuesday: 33 Flaws Fixed, Including 4 Critical](https://thehackernews.com/2023/12/microsofts-final-2023-patch-tuesday-33.html)
 - [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html)
 - [Russian APT28 Hackers Targeting 13 Nations in Ongoing Cyber Espionage Campaign](https://thehackernews.com/2023/12/russian-apt28-hackers-targeting-13.html)
 - [Non-Human Access is the Path of Least Resistance: A 2023 Recap](https://thehackernews.com/2023/12/non-human-access-is-path-of-least.html)
 - [New MrAnon Stealer Malware Targeting German Users via Booking-Themed Scam](https://thehackernews.com/2023/12/new-mranon-stealer-targeting-german-it.html)
-- [Apple Releases Security Updates to Patch Critical iOS and macOS Security Flaws](https://thehackernews.com/2023/12/apple-releases-security-updates-to.html)
 <!-- BLOG-POST-LIST:END -->
