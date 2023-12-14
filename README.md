@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iranian State-Sponsored OilRig Group Deploys 3 New Malware Downloaders](https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html)
 - [Reimagining Network Pentesting With Automation](https://thehackernews.com/2023/12/reimagining-network-pentesting-with.html)
 - [Russian SVR-Linked APT29 Targets JetBrains TeamCity Servers in Ongoing Attacks](https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html)
 - [New Hacker Group &#39;GambleForce&#39; Tageting APAC Firms Using SQL Injection Attacks](https://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html)
 - [Microsoft Takes Legal Action to Crack Down on Storm-1152&#39;s Cybercrime Network](https://thehackernews.com/2023/12/microsoft-takes-legal-action-to-crack.html)
-- [BazaCall Phishing Scammers Now Leveraging Google Forms for Deception](https://thehackernews.com/2023/12/bazacall-phishing-scammers-now.html)
 <!-- BLOG-POST-LIST:END -->
