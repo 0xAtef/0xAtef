@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Hacker Group &#39;GambleForce&#39; Tageting APAC Firms Using SQL Injection Attacks](https://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html)
 - [Microsoft Takes Legal Action to Crack Down on Storm-1152&#39;s Cybercrime Network](https://thehackernews.com/2023/12/microsoft-takes-legal-action-to-crack.html)
 - [BazaCall Phishing Scammers Now Leveraging Google Forms for Deception](https://thehackernews.com/2023/12/bazacall-phishing-scammers-now.html)
 - [Google Using Clang Sanitizers to Protect Android Against Cellular Baseband Vulnerabilities](https://thehackernews.com/2023/12/google-using-clang-sanitizers-to.html)
 - [How to Analyze Malware’s Network Traffic in A Sandbox](https://thehackernews.com/2023/12/how-to-analyze-malwares-network-traffic.html)
-- [Microsoft Warns of Hackers Exploiting OAuth for Cryptocurrency Mining and Phishing](https://thehackernews.com/2023/12/microsoft-warns-of-hackers-exploiting.html)
 <!-- BLOG-POST-LIST:END -->
