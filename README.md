@@ -126,6 +126,6 @@ BIO
 - [116 Malware Packages Found on PyPI Repository Infecting Windows and Linux Systems](https://thehackernews.com/2023/12/116-malware-packages-found-on-pypi.html)
 - [New Pierogi++ Malware by Gaza Cyber Gang Targeting Palestinian Entities](https://thehackernews.com/2023/12/new-pierogi-malware-by-gaza-cyber-gang.html)
 - [Iranian State-Sponsored OilRig Group Deploys 3 New Malware Downloaders](https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html)
-- [Reimagining Network Pentesting With Automation](https://thehackernews.com/2023/12/reimagining-network-pentesting-with.html)
+- [Reimagining Network Pentesting With Automation](https://thehackernews.com/2023/12/reimagining-network-pentesting-with-automation.html)
 - [Russian SVR-Linked APT29 Targets JetBrains TeamCity Servers in Ongoing Attacks](https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html)
 <!-- BLOG-POST-LIST:END -->
