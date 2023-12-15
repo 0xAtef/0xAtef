@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s New Tracking Protection in Chrome Blocks Third-Party Cookies](https://thehackernews.com/2023/12/googles-new-tracking-protection-in.html)
 - [New NKAbuse Malware Exploits NKN Blockchain Tech for DDoS Attacks](https://thehackernews.com/2023/12/new-nkabuse-malware-exploits-nkn.html)
 - [116 Malware Packages Found on PyPI Repository Infecting Windows and Linux Systems](https://thehackernews.com/2023/12/116-malware-packages-found-on-pypi.html)
 - [New Pierogi++ Malware by Gaza Cyber Gang Targeting Palestinian Entities](https://thehackernews.com/2023/12/new-pierogi-malware-by-gaza-cyber-gang.html)
 - [Iranian State-Sponsored OilRig Group Deploys 3 New Malware Downloaders](https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html)
-- [Reimagining Network Pentesting With Automation](https://thehackernews.com/2023/12/reimagining-network-pentesting-with-automation.html)
 <!-- BLOG-POST-LIST:END -->
