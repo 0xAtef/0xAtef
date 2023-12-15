@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New KV-Botnet Targeting Cisco, DrayTek, and Fortinet Devices for Stealthy Attacks](https://thehackernews.com/2023/12/new-kv-botnet-targeting-cisco-draytek.html)
 - [Crypto Hardware Wallet Ledger&#39;s Supply Chain Breach Results in $600,000 Theft](https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html)
 - [Bug or Feature? Hidden Web Application Vulnerabilities Uncovered](https://thehackernews.com/2023/12/bug-or-feature-hidden-web-application.html)
 - [New Security Vulnerabilities Uncovered in pfSense Firewall Software - Patch Now](https://thehackernews.com/2023/12/new-security-vulnerabilities-uncovered.html)
 - [Google&#39;s New Tracking Protection in Chrome Blocks Third-Party Cookies](https://thehackernews.com/2023/12/googles-new-tracking-protection-in.html)
-- [New NKAbuse Malware Exploits NKN Blockchain Tech for DDoS Attacks](https://thehackernews.com/2023/12/new-nkabuse-malware-exploits-nkn.html)
 <!-- BLOG-POST-LIST:END -->
