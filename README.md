@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Suffers Security Breach, Exposing Customer Data](https://thehackernews.com/2023/12/mongodb-suffers-security-breach.html)
 - [China&#39;s MIIT Introduces Color-Coded Action Plan for Data Security Incidents](https://thehackernews.com/2023/12/chinas-miit-introduces-color-coded.html)
 - [Microsoft Warns of Storm-0539: The Rising Threat Behind Holiday Gift Card Frauds](https://thehackernews.com/2023/12/microsoft-warns-of-storm-0539-rising.html)
 - [New KV-Botnet Targeting Cisco, DrayTek, and Fortinet Devices for Stealthy Attacks](https://thehackernews.com/2023/12/new-kv-botnet-targeting-cisco-draytek.html)
 - [Crypto Hardware Wallet Ledger&#39;s Supply Chain Breach Results in $600,000 Theft](https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html)
-- [Bug or Feature? Hidden Web Application Vulnerabilities Uncovered](https://thehackernews.com/2023/12/bug-or-feature-hidden-web-application.html)
 <!-- BLOG-POST-LIST:END -->
