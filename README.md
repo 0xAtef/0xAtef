@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rhadamanthys Malware: Swiss Army Knife of Information Stealers Emerges](https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html)
 - [Four U.S. Nationals Charged in $80 Million Pig Butchering Crypto Scam](https://thehackernews.com/2023/12/four-us-nationals-charged-in-80-million.html)
 - [Unmasking the Dark Side of Low-Code/No-Code Applications](https://thehackernews.com/2023/12/unmasking-dark-side-of-low-codeno-code.html)
 - [QakBot Malware Resurfaces with New Tactics, Targeting the Hospitality Industry](https://thehackernews.com/2023/12/qakbot-malware-resurfaces-with-new.html)
 - [CISA Urges Manufacturers Eliminate Default Passwords to Thwart Cyber Threats](https://thehackernews.com/2023/12/cisa-urges-manufacturers-eliminate.html)
-- [MongoDB Suffers Security Breach, Exposing Customer Data](https://thehackernews.com/2023/12/mongodb-suffers-security-breach.html)
 <!-- BLOG-POST-LIST:END -->
