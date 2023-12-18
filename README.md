@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Trends Shaping SaaS Security in 2024](https://thehackernews.com/2023/12/top-7-trends-shaping-saas-security-in.html)
 - [Rhadamanthys Malware: Swiss Army Knife of Information Stealers Emerges](https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html)
 - [Four U.S. Nationals Charged in $80 Million Pig Butchering Crypto Scam](https://thehackernews.com/2023/12/four-us-nationals-charged-in-80-million.html)
 - [Unmasking the Dark Side of Low-Code/No-Code Applications](https://thehackernews.com/2023/12/unmasking-dark-side-of-low-codeno-code.html)
 - [QakBot Malware Resurfaces with New Tactics, Targeting the Hospitality Industry](https://thehackernews.com/2023/12/qakbot-malware-resurfaces-with-new.html)
-- [CISA Urges Manufacturers Eliminate Default Passwords to Thwart Cyber Threats](https://thehackernews.com/2023/12/cisa-urges-manufacturers-eliminate.html)
 <!-- BLOG-POST-LIST:END -->
