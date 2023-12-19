@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8220 Gang Exploiting Oracle WebLogic Server Vulnerability to Spread Malware](https://thehackernews.com/2023/12/8220-gang-exploiting-oracle-weblogic.html)
 - [Double-Extortion Play Ransomware Strikes 300 Organizations Worldwide](https://thehackernews.com/2023/12/double-extortion-play-ransomware.html)
 - [Beware: Experts Reveal New Details on Zero-Click Outlook RCE Exploits](https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html)
 - [Top 7 Trends Shaping SaaS Security in 2024](https://thehackernews.com/2023/12/top-7-trends-shaping-saas-security-in.html)
 - [Rhadamanthys Malware: Swiss Army Knife of Information Stealers Emerges](https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html)
-- [Four U.S. Nationals Charged in $80 Million Pig Butchering Crypto Scam](https://thehackernews.com/2023/12/four-us-nationals-charged-in-80-million.html)
 <!-- BLOG-POST-LIST:END -->
