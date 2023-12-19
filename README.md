@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Abusing GitHub to Evade Detection and Control Compromised Hosts](https://thehackernews.com/2023/12/hackers-abusing-github-to-evade.html)
 - [Are We Ready to Give Up on Security Awareness Training?](https://thehackernews.com/2023/12/are-we-ready-to-give-up-on-security.html)
 - [Iranian Hackers Using MuddyC2Go in Telecom Espionage Attacks Across Africa](https://thehackernews.com/2023/12/iranian-hackers-using-muddyc2go-in-new.html)
 - [New Malvertising Campaign Distributing PikaBot Disguised as Popular Software](https://thehackernews.com/2023/12/new-malvertising-campaign-distributing.html)
 - [8220 Gang Exploiting Oracle WebLogic Server Vulnerability to Spread Malware](https://thehackernews.com/2023/12/8220-gang-exploiting-oracle-weblogic.html)
-- [Double-Extortion Play Ransomware Strikes 300 Organizations Worldwide](https://thehackernews.com/2023/12/double-extortion-play-ransomware.html)
 <!-- BLOG-POST-LIST:END -->
