@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote Encryption Attacks Surge: How One Vulnerable Device Can Spell Disaster](https://thehackernews.com/2023/12/remote-encryption-attacks-surge-how-one.html)
 - [Product Explained: Memcyco&#39;s Real-Time Defense Against Website Spoofing](https://thehackernews.com/2023/12/product-explained-memcycos-real-time.html)
 - [Alert: Chinese-Speaking Hackers Pose as UAE Authority in Latest Smishing Wave](https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html)
 - [3,500 Arrested in Global Operation HAECHI-IV Targeting Financial Criminals](https://thehackernews.com/2023/12/3500-arrested-in-global-operation.html)
 - [New Go-Based JaskaGO Malware Targeting Windows and macOS Systems](https://thehackernews.com/2023/12/new-go-based-jaskago-malware-targeting.html)
-- [FBI Takes Down BlackCat Ransomware, Releases Free Decryption Tool](https://thehackernews.com/2023/12/fbi-takes-down-blackcat-ransomware.html)
 <!-- BLOG-POST-LIST:END -->
