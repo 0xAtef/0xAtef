@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3,500 Arrested in Global Operation HAECHI-IV Targeting Financial Criminals](https://thehackernews.com/2023/12/3500-arrested-in-global-operation.html)
+- [New Go-Based JaskaGO Malware Targeting Windows and macOS Systems](https://thehackernews.com/2023/12/new-go-based-jaskago-malware-targeting.html)
 - [FBI Takes Down BlackCat Ransomware, Releases Free Decryption Tool](https://thehackernews.com/2023/12/fbi-takes-down-blackcat-ransomware.html)
 - [Behind the Scenes of Matveev&#39;s Ransomware Empire: Tactics and Team](https://thehackernews.com/2023/12/behind-scenes-of-matveevs-ransomware.html)
 - [Hackers Abusing GitHub to Evade Detection and Control Compromised Hosts](https://thehackernews.com/2023/12/hackers-abusing-github-to-evade.html)
-- [Are We Ready to Give Up on Security Awareness Training?](https://thehackernews.com/2023/12/are-we-ready-to-give-up-on-security.html)
-- [Iranian Hackers Using MuddyC2Go in Telecom Espionage Attacks Across Africa](https://thehackernews.com/2023/12/iranian-hackers-using-muddyc2go-in-new.html)
 <!-- BLOG-POST-LIST:END -->
