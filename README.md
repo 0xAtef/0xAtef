@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploiting Old MS Excel Vulnerability to Spread Agent Tesla Malware](https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html)
 - [Urgent: New Chrome Zero-Day Vulnerability Exploited in the Wild - Update ASAP](https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html)
 - [Remote Encryption Attacks Surge: How One Vulnerable Device Can Spell Disaster](https://thehackernews.com/2023/12/remote-encryption-attacks-surge-how-one.html)
 - [Product Explained: Memcyco&#39;s Real-Time Defense Against Website Spoofing](https://thehackernews.com/2023/12/product-explained-memcycos-real-time.html)
 - [Alert: Chinese-Speaking Hackers Pose as UAE Authority in Latest Smishing Wave](https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html)
-- [3,500 Arrested in Global Operation HAECHI-IV Targeting Financial Criminals](https://thehackernews.com/2023/12/3500-arrested-in-global-operation.html)
 <!-- BLOG-POST-LIST:END -->
