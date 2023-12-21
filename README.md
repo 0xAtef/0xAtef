@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Experts Detail Multi-Million Dollar Licensing Model of Predator Spyware](https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html)
+- [Chameleon Android Banking Trojan Variant Bypasses Biometric Authentication](https://thehackernews.com/2023/12/new-chameleon-android-banking-trojan.html)
 - [New JavaScript Malware Targeted 50,000+ Users at Dozens of Banks Worldwide](https://thehackernews.com/2023/12/new-javascript-malware-targeted-50000.html)
 - [Cost of a Data Breach Report 2023: Insights, Mitigators and Best Practices](https://thehackernews.com/2023/12/cost-of-data-breach-report-2023.html)
 - [German Authorities Dismantle Dark Web Hub &#39;Kingdom Market&#39; in Global Operation](https://thehackernews.com/2023/12/german-authorities-dismantle-dark-web.html)
-- [Hackers Exploiting Old MS Excel Vulnerability to Spread Agent Tesla Malware](https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html)
-- [Urgent: New Chrome Zero-Day Vulnerability Exploited in the Wild - Update ASAP](https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html)
 <!-- BLOG-POST-LIST:END -->
