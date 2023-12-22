@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Decoy Microsoft Word Documents Used to Deliver Nim-Based Malware](https://thehackernews.com/2023/12/decoy-microsoft-word-documents-used-to.html)
 - [UAC-0099 Using WinRAR Exploit to Target Ukrainian Firms with LONEPAGE Malware](https://thehackernews.com/2023/12/uac-0099-using-winrar-exploit-to-target.html)
 - [Microsoft Warns of New &#39;FalseFont&#39; Backdoor Targeting the Defense Sector](https://thehackernews.com/2023/12/microsoft-warns-of-new-falsefont.html)
 - [Experts Detail Multi-Million Dollar Licensing Model of Predator Spyware](https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html)
 - [Chameleon Android Banking Trojan Variant Bypasses Biometric Authentication](https://thehackernews.com/2023/12/new-chameleon-android-banking-trojan.html)
-- [New JavaScript Malware Targeted 50,000+ Users at Dozens of Banks Worldwide](https://thehackernews.com/2023/12/new-javascript-malware-targeted-50000.html)
 <!-- BLOG-POST-LIST:END -->
