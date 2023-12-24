@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [British LAPSUS$ Teen Members Sentenced for High-Profile Attacks](https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html)
 - [Rogue WordPress Plugin Exposes E-Commerce Sites to Credit Card Theft](https://thehackernews.com/2023/12/rogue-wordpress-plugin-exposes-e.html)
 - [Operation RusticWeb: Rust-Based Malware Targets Indian Government Entities](https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html)
 - [Decoy Microsoft Word Documents Used to Deliver Nim-Based Malware](https://thehackernews.com/2023/12/decoy-microsoft-word-documents-used-to.html)
 - [UAC-0099 Using WinRAR Exploit to Target Ukrainian Firms with LONEPAGE Malware](https://thehackernews.com/2023/12/uac-0099-using-winrar-exploit-to-target.html)
-- [Microsoft Warns of New &#39;FalseFont&#39; Backdoor Targeting the Defense Sector](https://thehackernews.com/2023/12/microsoft-warns-of-new-falsefont.html)
 <!-- BLOG-POST-LIST:END -->
