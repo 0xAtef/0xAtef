@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Carbanak Banking Malware Resurfaces with New Ransomware Tactics](https://thehackernews.com/2023/12/carbanak-banking-malware-resurfaces.html)
 - [Cloud Atlas&#39; Spear-Phishing Attacks Target Russian Agro and Research Companies](https://thehackernews.com/2023/12/cloud-atlas-spear-phishing-attacks.html)
 - [British LAPSUS$ Teen Members Sentenced for High-Profile Attacks](https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html)
 - [Rogue WordPress Plugin Exposes E-Commerce Sites to Credit Card Theft](https://thehackernews.com/2023/12/rogue-wordpress-plugin-exposes-e.html)
 - [Operation RusticWeb: Rust-Based Malware Targets Indian Government Entities](https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html)
-- [Decoy Microsoft Word Documents Used to Deliver Nim-Based Malware](https://thehackernews.com/2023/12/decoy-microsoft-word-documents-used-to.html)
 <!-- BLOG-POST-LIST:END -->
