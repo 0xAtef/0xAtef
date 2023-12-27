@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hackers Exploited New Zero-Day in Barracuda&#39;s ESG Appliances](https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html)
 - [New Sneaky Xamalicious Android Malware Hits Over 327,000 Devices](https://thehackernews.com/2023/12/new-sneaky-xamalicious-android-malware.html)
 - [Warning: Poorly Secured Linux SSH Servers Under Attack for Cryptocurrency Mining](https://thehackernews.com/2023/12/warning-poorly-secured-linux-ssh.html)
 - [Carbanak Banking Malware Resurfaces with New Ransomware Tactics](https://thehackernews.com/2023/12/carbanak-banking-malware-resurfaces.html)
 - [Cloud Atlas&#39; Spear-Phishing Attacks Target Russian Agro and Research Companies](https://thehackernews.com/2023/12/cloud-atlas-spear-phishing-attacks.html)
-- [British LAPSUS$ Teen Members Sentenced for High-Profile Attacks](https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html)
 <!-- BLOG-POST-LIST:END -->
