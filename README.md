@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Disables MSIX App Installer Protocol Widely Used in Malware Attacks](https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html)
 - [Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service](https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html)
 - [Most Sophisticated iPhone Hack Ever Exploited Apple&#39;s Hidden Hardware Feature](https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html)
 - [New Rugmi Malware Loader Surges with Hundreds of Daily Detections](https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html)
 - [Critical Zero-Day in Apache OfBiz ERP System Exposes Businesses to Attack](https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html)
-- [Chinese Hackers Exploited New Zero-Day in Barracuda&#39;s ESG Appliances](https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html)
 <!-- BLOG-POST-LIST:END -->
