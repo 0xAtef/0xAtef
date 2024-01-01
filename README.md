@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New JinxLoader Targeting Users with Formbook and XLoader Malware](https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html)
 - [Beware: Scam-as-a-Service Aiding Cybercriminals in Crypto Wallet-Draining Attacks](https://thehackernews.com/2023/12/beware-scam-as-service-aiding.html)
 - [Albanian Parliament and One Albania Telecom Hit by Cyber Attacks](https://thehackernews.com/2023/12/albanian-parliament-and-one-albania.html)
 - [CERT-UA Uncovers New Malware Wave Distributing OCEANMAP, MASEPIE, STEELHOOK](https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html)
 - [Kimsuky Hackers Deploying AppleSeed, Meterpreter, and TinyNuke in Latest Attacks](https://thehackernews.com/2023/12/kimsuky-hackers-deploying-appleseed.html)
-- [Microsoft Disables MSIX App Installer Protocol Widely Used in Malware Attacks](https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html)
 <!-- BLOG-POST-LIST:END -->
