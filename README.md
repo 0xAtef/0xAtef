@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections](https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html)
 - [New Terrapin Flaw Could Let Attackers Downgrade SSH Protocol Security](https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html)
 - [New JinxLoader Targeting Users with Formbook and XLoader Malware](https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html)
 - [Beware: Scam-as-a-Service Aiding Cybercriminals in Crypto Wallet-Draining Attacks](https://thehackernews.com/2023/12/beware-scam-as-service-aiding.html)
 - [Albanian Parliament and One Albania Telecom Hit by Cyber Attacks](https://thehackernews.com/2023/12/albanian-parliament-and-one-albania.html)
-- [CERT-UA Uncovers New Malware Wave Distributing OCEANMAP, MASEPIE, STEELHOOK](https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html)
 <!-- BLOG-POST-LIST:END -->
