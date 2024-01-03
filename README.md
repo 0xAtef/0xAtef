@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DOJ Slams XCast with $10 Million Fine Over Massive Illegal Robocall Operation](https://thehackernews.com/2024/01/doj-slams-xcast-with-10-million-fine.html)
 - [The Definitive Enterprise Browser Buyer&#39;s Guide](https://thehackernews.com/2024/01/the-definitive-enterprise-browser.html)
 - [Google Settles $5 Billion Privacy Lawsuit Over Tracking Users in &#39;Incognito Mode&#39;](https://thehackernews.com/2024/01/google-settles-5-billion-privacy.html)
 - [New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections](https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html)
 - [New Terrapin Flaw Could Let Attackers Downgrade SSH Protocol Security](https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html)
-- [New JinxLoader Targeting Users with Formbook and XLoader Malware](https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html)
 <!-- BLOG-POST-LIST:END -->
