@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beware: 3 Malicious PyPI Packages Found Targeting Linux with Crypto Miners](https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html)
 - [UAC-0050 Group Using New Phishing Tactics to Distribute Remcos RAT](https://thehackernews.com/2024/01/uac-0050-group-using-new-phishing.html)
 - [Mandiant&#39;s Twitter Account Restored After Six-Hour Crypto Scam Hack](https://thehackernews.com/2024/01/mandiants-twitter-account-restored.html)
 - [Malware Using Google MultiLogin Exploit to Maintain Access Despite Password Reset](https://thehackernews.com/2024/01/malware-using-google-multilogin-exploit.html)
 - [5 Ways to Reduce SaaS Security Risks](https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html)
-- [SMTP Smuggling: New Flaw Lets Attackers Bypass Security and Spoof Emails](https://thehackernews.com/2024/01/smtp-smuggling-new-threat-enables.html)
 <!-- BLOG-POST-LIST:END -->
