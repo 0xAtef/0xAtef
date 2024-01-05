@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SpectralBlur: New macOS Backdoor Threat from North Korean Hackers](https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html)
 - [Exposed Secrets are Everywhere. Here&#39;s How to Tackle Them](https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html)
 - [Orange Spain Faces BGP Traffic Hijack After RIPE Account Hacked by Malware](https://thehackernews.com/2024/01/orange-spain-faces-bgp-traffic-hijack.html)
 - [Alert: Ivanti Releases Patch for Critical Vulnerability in Endpoint Manager Solution](https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html)
 - [Russian Hackers Had Covert Access to Ukraine&#39;s Telecom Giant for Months](https://thehackernews.com/2024/01/russian-hackers-had-covert-access-to.html)
-- [New Bandook RAT Variant Resurfaces, Targeting Windows Machines](https://thehackernews.com/2024/01/new-bandook-rat-variant-resurfaces.html)
 <!-- BLOG-POST-LIST:END -->
