@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exposed Secrets are Everywhere. Here&#39;s How to Tackle Them](https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html)
+- [Orange Spain Faces BGP Traffic Hijack After RIPE Account Hacked by Malware](https://thehackernews.com/2024/01/orange-spain-faces-bgp-traffic-hijack.html)
 - [Alert: Ivanti Releases Patch for Critical Vulnerability in Endpoint Manager Solution](https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html)
 - [Russian Hackers Had Covert Access to Ukraine&#39;s Telecom Giant for Months](https://thehackernews.com/2024/01/russian-hackers-had-covert-access-to.html)
 - [New Bandook RAT Variant Resurfaces, Targeting Windows Machines](https://thehackernews.com/2024/01/new-bandook-rat-variant-resurfaces.html)
-- [Three Ways To Supercharge Your Software Supply Chain Security](https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html)
-- [Beware: 3 Malicious PyPI Packages Found Targeting Linux with Crypto Miners](https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html)
 <!-- BLOG-POST-LIST:END -->
