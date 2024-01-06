@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sea Turtle Cyber Espionage Campaign Targets Dutch IT and Telecom Companies](https://thehackernews.com/2024/01/sea-turtle-cyber-espionage-campaign.html)
 - [Pro-Iranian Hacker Group Targeting Albania with No-Justice Wiper Malware](https://thehackernews.com/2024/01/pro-iranian-hacker-group-targeting.html)
 - [SpectralBlur: New macOS Backdoor Threat from North Korean Hackers](https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html)
 - [Exposed Secrets are Everywhere. Here&#39;s How to Tackle Them](https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html)
 - [Orange Spain Faces BGP Traffic Hijack After RIPE Account Hacked by Malware](https://thehackernews.com/2024/01/orange-spain-faces-bgp-traffic-hijack.html)
-- [Alert: Ivanti Releases Patch for Critical Vulnerability in Endpoint Manager Solution](https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html)
 <!-- BLOG-POST-LIST:END -->
