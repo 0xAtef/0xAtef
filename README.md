@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar – Leverage Zero Trust Security to Minimize Your Attack Surface](https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html)
+- [NIST Warns of Security and Privacy Risks from Rapid AI System Deployment](https://thehackernews.com/2024/01/nist-warns-of-security-and-privacy.html)
 - [DoJ Charges 19 Worldwide in $68 Million xDedic Dark Web Marketplace Fraud](https://thehackernews.com/2024/01/doj-charges-19-worldwide-in-68-million.html)
 - [North Korea&#39;s Cyber Heist: DPRK Hackers Stole $600 Million in Cryptocurrency in 2023](https://thehackernews.com/2024/01/north-koreas-cyber-heist-dprk-hackers.html)
 - [Sea Turtle Cyber Espionage Campaign Targets Dutch IT and Telecom Companies](https://thehackernews.com/2024/01/sea-turtle-cyber-espionage-campaign.html)
-- [Pro-Iranian Hacker Group Targeting Albania with No-Justice Wiper Malware](https://thehackernews.com/2024/01/pro-iranian-hacker-group-targeting.html)
-- [SpectralBlur: New macOS Backdoor Threat from North Korean Hackers](https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html)
 <!-- BLOG-POST-LIST:END -->
