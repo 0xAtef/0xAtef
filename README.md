@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager](https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html)
 - [Beware! YouTube Videos Promoting Cracked Software Distribute Lumma Stealer](https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html)
 - [Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals](https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html)
 - [Unifying Security Tech Beyond the Stack: Integrating SecOps with Managed Risk and Strategy](https://thehackernews.com/2024/01/unifying-security-tech-beyond-stack.html)
 - [Webinar – Leverage Zero Trust Security to Minimize Your Attack Surface](https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html)
-- [NIST Warns of Security and Privacy Risks from Rapid AI System Deployment](https://thehackernews.com/2024/01/nist-warns-of-security-and-privacy.html)
 <!-- BLOG-POST-LIST:END -->
