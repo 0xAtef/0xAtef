@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NoaBot: Latest Mirai-Based Botnet Targeting SSH Servers for Crypto Mining](https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html)
 - [Getting off the Attack Surface Hamster Wheel: Identity Can Help](https://thehackernews.com/2024/01/getting-off-attack-surface-hamster.html)
 - [Free Decryptor Released for Black Basta and Babuk&#39;s Tortilla Ransomware Victims](https://thehackernews.com/2024/01/free-decryptor-released-for-black-basta.html)
 - [FTC Bans Outlogic &lpar;X-Mode&rpar; From Selling Sensitive Location Data](https://thehackernews.com/2024/01/ftc-bans-outlogic-x-mode-from-selling.html)
 - [Microsoft&#39;s January 2024 Windows Update Patches 48 New Vulnerabilities](https://thehackernews.com/2024/01/microsofts-january-2024-windows-update.html)
-- [CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack](https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html)
 <!-- BLOG-POST-LIST:END -->
