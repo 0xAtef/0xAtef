@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s January 2024 Windows Update Patches 48 New Vulnerabilities](https://thehackernews.com/2024/01/microsofts-january-2024-windows-update.html)
 - [CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack](https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html)
 - [Alert: Water Curupira Hackers Actively Distributing PikaBot Loader Malware](https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html)
 - [Turkish Hackers Exploiting Poorly Secured MS SQL Servers Across the Globe](https://thehackernews.com/2024/01/turkish-hackers-exploiting-poorly.html)
 - [Why Public Links Expose Your SaaS Attack Surface](https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html)
-- [Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager](https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html)
 <!-- BLOG-POST-LIST:END -->
