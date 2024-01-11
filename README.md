@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New PoC Exploit for Apache OfBiz Vulnerability Poses Risk to ERP Systems](https://thehackernews.com/2024/01/new-poc-exploit-for-apache-ofbiz.html)
+- [New Python-based FBot Hacking Toolkit Aims at Cloud and SaaS Platforms](https://thehackernews.com/2024/01/new-python-based-fbot-hacking-toolkit.html)
 - [There is a Ransomware Armageddon Coming for Us All](https://thehackernews.com/2024/01/there-is-ransomware-armageddon-coming.html)
 - [Atomic Stealer Gets an Upgrade - Targeting Mac Users with Encrypted Payload](https://thehackernews.com/2024/01/atomic-stealer-gets-upgrade-targeting.html)
 - [Mandiant&#39;s X Account Was Hacked Using Brute-Force Attack](https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html)
-- [Chinese Hackers Exploit Zero-Day Flaws in Ivanti Connect Secure and Policy Secure](https://thehackernews.com/2024/01/chinese-hackers-exploit-zero-day-flaws.html)
-- [Cisco Fixes High-Risk Vulnerability Impacting Unity Connection Software](https://thehackernews.com/2024/01/cisco-fixes-high-risk-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
