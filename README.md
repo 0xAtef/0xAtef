@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mandiant&#39;s X Account Was Hacked Using Brute-Force Attack](https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html)
 - [Chinese Hackers Exploit Zero-Day Flaws in Ivanti Connect Secure and Policy Secure](https://thehackernews.com/2024/01/chinese-hackers-exploit-zero-day-flaws.html)
 - [Cisco Fixes High-Risk Vulnerability Impacting Unity Connection Software](https://thehackernews.com/2024/01/cisco-fixes-high-risk-vulnerability.html)
 - [NoaBot: Latest Mirai-Based Botnet Targeting SSH Servers for Crypto Mining](https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html)
 - [Getting off the Attack Surface Hamster Wheel: Identity Can Help](https://thehackernews.com/2024/01/getting-off-attack-surface-hamster.html)
-- [Free Decryptor Released for Black Basta and Babuk&#39;s Tortilla Ransomware Victims](https://thehackernews.com/2024/01/free-decryptor-released-for-black-basta.html)
 <!-- BLOG-POST-LIST:END -->
