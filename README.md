@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Applying the Tyson Principle to Cybersecurity: Why Attack Simulation is Key to Avoiding a KO](https://thehackernews.com/2024/01/applying-tyson-principle-to.html)
 - [Cryptominers Targeting Misconfigured Apache Hadoop and Flink with Rootkit in New Attacks](https://thehackernews.com/2024/01/cryptominers-targeting-misconfigured.html)
 - [Act Now: CISA Flags Active Exploitation of Microsoft SharePoint Vulnerability](https://thehackernews.com/2024/01/act-now-cisa-flags-active-exploitation.html)
 - [Threat Actors Increasingly Abusing GitHub for Malicious Purposes](https://thehackernews.com/2024/01/threat-actors-increasingly-abusing.html)
 - [New PoC Exploit for Apache OfBiz Vulnerability Poses Risk to ERP Systems](https://thehackernews.com/2024/01/new-poc-exploit-for-apache-ofbiz.html)
-- [New Python-based FBot Hacking Toolkit Aims at Cloud and SaaS Platforms](https://thehackernews.com/2024/01/new-python-based-fbot-hacking-toolkit.html)
 <!-- BLOG-POST-LIST:END -->
