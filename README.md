@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Findings Challenge Attribution in Denmark&#39;s Energy Sector Cyberattacks](https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html)
 - [Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches](https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html)
 - [29-Year-Old Ukrainian Cryptojacking Kingpin Arrested for Exploiting Cloud Services](https://thehackernews.com/2024/01/29-year-old-ukrainian-cryptojacking.html)
 - [Nation-State Actors Weaponize Ivanti VPN Zero-Days, Deploying 5 Malware Families](https://thehackernews.com/2024/01/nation-state-actors-weaponize-ivanti.html)
 - [Medusa Ransomware on the Rise: From Data Leaks to Multi-Extortion](https://thehackernews.com/2024/01/medusa-ransomware-on-rise-from-data.html)
-- [Applying the Tyson Principle to Cybersecurity: Why Attack Simulation is Key to Avoiding a KO](https://thehackernews.com/2024/01/applying-tyson-principle-to.html)
 <!-- BLOG-POST-LIST:END -->
