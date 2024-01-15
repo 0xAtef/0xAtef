@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Opera MyFlaw Bug Could Let Hackers Run ANY File on Your Mac or Windows](https://thehackernews.com/2024/01/opera-myflaw-bug-could-let-hackers-run.html)
+- [3 Ransomware Group Newcomers to Watch in 2024](https://thehackernews.com/2024/01/3-ransomware-group-newcomers-to-watch.html)
 - [High-Severity Flaws Uncovered in Bosch Thermostats and Smart Nutrunners](https://thehackernews.com/2024/01/high-severity-flaws-uncovered-in-bosch.html)
 - [Balada Injector Infects Over 7,100 WordPress Sites Using Plugin Vulnerability](https://thehackernews.com/2024/01/balada-injector-infects-over-7100.html)
 - [DDoS Attacks on the Environmental Services Industry Surge by 61,839% in 2023](https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html)
-- [New Findings Challenge Attribution in Denmark&#39;s Energy Sector Cyberattacks](https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html)
-- [Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches](https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html)
 <!-- BLOG-POST-LIST:END -->
