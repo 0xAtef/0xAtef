@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Case Study: The Cookie Privacy Monster in Big Global Retail](https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html)
 - [Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims](https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html)
 - [Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer](https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html)
 - [Opera MyFlaw Bug Could Let Hackers Run ANY File on Your Mac or Windows](https://thehackernews.com/2024/01/opera-myflaw-bug-could-let-hackers-run.html)
 - [3 Ransomware Group Newcomers to Watch in 2024](https://thehackernews.com/2024/01/3-ransomware-group-newcomers-to-watch.html)
-- [High-Severity Flaws Uncovered in Bosch Thermostats and Smart Nutrunners](https://thehackernews.com/2024/01/high-severity-flaws-uncovered-in-bosch.html)
 <!-- BLOG-POST-LIST:END -->
