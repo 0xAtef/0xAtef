@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Remcos RAT Spreading Through Adult Games in New Attack Wave](https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html)
+- [Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now](https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html)
 - [Case Study: The Cookie Privacy Monster in Big Global Retail](https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html)
+- [Remcos RAT Spreading Through Adult Games in New Attack Wave](https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html)
 - [Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims](https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html)
 - [Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer](https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html)
-- [Opera MyFlaw Bug Could Let Hackers Run ANY File on Your Mac or Windows](https://thehackernews.com/2024/01/opera-myflaw-bug-could-let-hackers-run.html)
 <!-- BLOG-POST-LIST:END -->
