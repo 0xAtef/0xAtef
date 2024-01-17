@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions](https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html)
+- [Combating IP Leaks into AI Applications with Free Discovery and Risk Reduction Automation](https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html)
 - [Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials](https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html)
 - [Webinar: The Art of Privilege Escalation - How Hackers Become Admins](https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html)
 - [New iShutdown Method Exposes Hidden Spyware Like Pegasus on Your iPhone](https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html)
-- [GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials](https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html)
-- [Citrix, VMware, and Atlassian Hit with Critical Flaws — Patch ASAP!](https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html)
 <!-- BLOG-POST-LIST:END -->
