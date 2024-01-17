@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Citrix, VMware, and Atlassian Hit with Critical Flaws — Patch ASAP!](https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html)
 - [Zero-Day Alert: Update Chrome Now to Fix New Actively Exploited Vulnerability](https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html)
 - [Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now](https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html)
 - [Case Study: The Cookie Privacy Monster in Big Global Retail](https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html)
 - [Remcos RAT Spreading Through Adult Games in New Attack Wave](https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html)
-- [Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims](https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html)
 <!-- BLOG-POST-LIST:END -->
