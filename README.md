@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials](https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html)
+- [Webinar: The Art of Privilege Escalation - How Hackers Become Admins](https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html)
 - [New iShutdown Method Exposes Hidden Spyware Like Pegasus on Your iPhone](https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html)
 - [GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials](https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html)
 - [Citrix, VMware, and Atlassian Hit with Critical Flaws — Patch ASAP!](https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html)
-- [Zero-Day Alert: Update Chrome Now to Fix New Actively Exploited Vulnerability](https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html)
-- [Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now](https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html)
 <!-- BLOG-POST-LIST:END -->
