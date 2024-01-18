@@ -125,7 +125,7 @@ BIO
 <!-- BLOG-POST-LIST:START -->
 - [Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts](https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html)
 - [PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions](https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html)
-- [Combating IP Leaks into AI Applications with Free Discovery and Risk Reduction Automation](https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html)
+- [This Free Discovery Tool Finds and Mitigates AI-SaaS Risks](https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html)
 - [Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials](https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html)
 - [Webinar: The Art of Privilege Escalation - How Hackers Become Admins](https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html)
 <!-- BLOG-POST-LIST:END -->
