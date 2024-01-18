@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Docker Malware Steals CPU for Crypto &amp; Drives Fake Website Traffic](https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html)
 - [Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware](https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html)
 - [TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks](https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html)
 - [MFA Spamming and Fatigue: When Security Measures Go Wrong](https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html)
 - [PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft](https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html)
-- [Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts](https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html)
 <!-- BLOG-POST-LIST:END -->
