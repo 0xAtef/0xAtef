@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Npm Trojan Bypasses UAC, Installs AnyDesk with &quot;Oscompatible&quot; Package](https://thehackernews.com/2024/01/npm-trojan-bypasses-uac-installs.html)
 - [U.S. Cybersecurity Agency Warns of Actively Exploited Ivanti EPMM Vulnerability](https://thehackernews.com/2024/01/us-cybersecurity-agency-warns-of.html)
 - [New Docker Malware Steals CPU for Crypto &amp; Drives Fake Website Traffic](https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html)
 - [Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware](https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html)
 - [TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks](https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html)
-- [MFA Spamming and Fatigue: When Security Measures Go Wrong](https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html)
 <!-- BLOG-POST-LIST:END -->
