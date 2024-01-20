@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s Top Execs&#39; Emails Breached in Sophisticated Russia-Linked APT Attack](https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html)
 - [Invoice Phishing Alert: TA866 Deploys WasabiSeed &amp; Screenshotter Malware](https://thehackernews.com/2024/01/invoice-phishing-alert-ta866-deploys.html)
 - [Experts Warn of macOS Backdoor Hidden in Pirated Versions of Popular Software](https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html)
 - [Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators](https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html)
 - [Npm Trojan Bypasses UAC, Installs AnyDesk with &quot;Oscompatible&quot; Package](https://thehackernews.com/2024/01/npm-trojan-bypasses-uac-installs.html)
-- [U.S. Cybersecurity Agency Warns of Actively Exploited Ivanti EPMM Vulnerability](https://thehackernews.com/2024/01/us-cybersecurity-agency-warns-of.html)
 <!-- BLOG-POST-LIST:END -->
