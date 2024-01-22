@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Weaponize Fake Research to Deliver RokRAT Backdoor](https://thehackernews.com/2024/01/north-korean-hackers-weaponize-fake.html)
+- [MavenGate Attack Could Let Hackers Hijack Java and Android via Abandoned Libraries](https://thehackernews.com/2024/01/hackers-hijack-popular-java-and-android.html)
 - [52% of Serious Vulnerabilities We Find are Related to Windows 10](https://thehackernews.com/2024/01/52-of-serious-vulnerabilities-we-find.html)
 - [NS-STEALER Uses Discord Bots to Exfiltrate Your Secrets from Popular Browsers](https://thehackernews.com/2024/01/ns-stealer-uses-discord-bots-to.html)
 - [FTC Bans InMarket for Selling Precise User Location Without Consent](https://thehackernews.com/2024/01/ftc-bans-inmarket-for-selling-precise.html)
-- [Apache ActiveMQ Flaw Exploited in New Godzilla Web Shell Attacks](https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html)
-- [Chinese Hackers Silently Weaponized VMware Zero-Day Flaw for 2 Years](https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html)
 <!-- BLOG-POST-LIST:END -->
