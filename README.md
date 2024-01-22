@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache ActiveMQ Flaw Exploited in New Godzilla Web Shell Attacks](https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html)
 - [Chinese Hackers Silently Weaponized VMware Zero-Day Flaw for 2 Years](https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html)
 - [CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits](https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html)
 - [Microsoft&#39;s Top Execs&#39; Emails Breached in Sophisticated Russia-Linked APT Attack](https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html)
 - [Invoice Phishing Alert: TA866 Deploys WasabiSeed &amp; Screenshotter Malware](https://thehackernews.com/2024/01/invoice-phishing-alert-ta866-deploys.html)
-- [Experts Warn of macOS Backdoor Hidden in Pirated Versions of Popular Software](https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html)
 <!-- BLOG-POST-LIST:END -->
