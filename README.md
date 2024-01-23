@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VexTrio: The Uber of Cybercrime - Brokering Malware for 60+ Affiliates](https://thehackernews.com/2024/01/vextrio-uber-of-cybercrime-brokering.html)
+- [Malicious NPM Packages Exfiltrate Hundreds of Developer SSH Keys via GitHub](https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html)
 - [&quot;Activator&quot; Alert: MacOS Malware Hides in Cracked Apps, Targeting Crypto Wallets](https://thehackernews.com/2024/01/activator-alert-macos-malware-hides-in.html)
 - [From Megabits to Terabits: Gcore Radar Warns of a New Era of DDoS Attacks](https://thehackernews.com/2024/01/from-megabits-to-terabits-gcore-radar.html)
 - [BreachForums Founder Sentenced to 20 Years of Supervised Release, No Jail Time](https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html)
-- [~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation](https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html)
-- [Apple Issues Patch for Critical Zero-Day in iPhones, Macs - Update Now](https://thehackernews.com/2024/01/apple-issues-patch-for-critical-zero.html)
 <!-- BLOG-POST-LIST:END -->
