@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Activator&quot; Alert: MacOS Malware Hides in Cracked Apps, Targeting Crypto Wallets](https://thehackernews.com/2024/01/activator-alert-macos-malware-hides-in.html)
 - [From Megabits to Terabits: Gcore Radar Warns of a New Era of DDoS Attacks](https://thehackernews.com/2024/01/from-megabits-to-terabits-gcore-radar.html)
 - [BreachForums Founder Sentenced to 20 Years of Supervised Release, No Jail Time](https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html)
 - [~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation](https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html)
 - [Apple Issues Patch for Critical Zero-Day in iPhones, Macs - Update Now](https://thehackernews.com/2024/01/apple-issues-patch-for-critical-zero.html)
-- [North Korean Hackers Weaponize Fake Research to Deliver RokRAT Backdoor](https://thehackernews.com/2024/01/north-korean-hackers-weaponize-fake.html)
 <!-- BLOG-POST-LIST:END -->
