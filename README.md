@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BreachForums Founder Sentenced to 20 Years of Supervised Release, No Jail Time](https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html)
 - [~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation](https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html)
 - [Apple Issues Patch for Critical Zero-Day in iPhones, Macs - Update Now](https://thehackernews.com/2024/01/apple-issues-patch-for-critical-zero.html)
 - [North Korean Hackers Weaponize Fake Research to Deliver RokRAT Backdoor](https://thehackernews.com/2024/01/north-korean-hackers-weaponize-fake.html)
 - [MavenGate Attack Could Let Hackers Hijack Java and Android via Abandoned Libraries](https://thehackernews.com/2024/01/hackers-hijack-popular-java-and-android.html)
-- [52% of Serious Vulnerabilities We Find are Related to Windows 10](https://thehackernews.com/2024/01/52-of-serious-vulnerabilities-we-find.html)
 <!-- BLOG-POST-LIST:END -->
