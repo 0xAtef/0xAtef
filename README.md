@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Nudge Security and How Does it Work?](https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html)
+- [Kasseika Ransomware Using BYOVD Trick to Disarms Security Pre-Encryption](https://thehackernews.com/2024/01/kasseika-ransomware-using-byovd-trick.html)
 - [The Unknown Risks of The Software Supply Chain: A Deep-Dive](https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html)
 - [U.S., U.K., Australia Sanction Russian REvil Hacker Behind Medibank Breach](https://thehackernews.com/2024/01/us-uk-australia-sanction-russian-revil.html)
 - [Patch Your GoAnywhere MFT Immediately - Critical Flaw Lets Anyone Be Admin](https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html)
-- [VexTrio: The Uber of Cybercrime - Brokering Malware for 60+ Affiliates](https://thehackernews.com/2024/01/vextrio-uber-of-cybercrime-brokering.html)
-- [Malicious NPM Packages Exfiltrate Hundreds of Developer SSH Keys via GitHub](https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html)
 <!-- BLOG-POST-LIST:END -->
