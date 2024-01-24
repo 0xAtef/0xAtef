@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Kubernetes Misconfig Lets Any Gmail Account Control Your Clusters](https://thehackernews.com/2024/01/google-kubernetes-misconfig-lets-any.html)
 - [What is Nudge Security and How Does it Work?](https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html)
 - [Kasseika Ransomware Using BYOVD Trick to Disarms Security Pre-Encryption](https://thehackernews.com/2024/01/kasseika-ransomware-using-byovd-trick.html)
 - [The Unknown Risks of The Software Supply Chain: A Deep-Dive](https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html)
 - [U.S., U.K., Australia Sanction Russian REvil Hacker Behind Medibank Breach](https://thehackernews.com/2024/01/us-uk-australia-sanction-russian-revil.html)
-- [Patch Your GoAnywhere MFT Immediately - Critical Flaw Lets Anyone Be Admin](https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html)
 <!-- BLOG-POST-LIST:END -->
