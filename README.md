@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Unknown Risks of The Software Supply Chain: A Deep-Dive](https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html)
+- [U.S., U.K., Australia Sanction Russian REvil Hacker Behind Medibank Breach](https://thehackernews.com/2024/01/us-uk-australia-sanction-russian-revil.html)
 - [Patch Your GoAnywhere MFT Immediately - Critical Flaw Lets Anyone Be Admin](https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html)
 - [VexTrio: The Uber of Cybercrime - Brokering Malware for 60+ Affiliates](https://thehackernews.com/2024/01/vextrio-uber-of-cybercrime-brokering.html)
 - [Malicious NPM Packages Exfiltrate Hundreds of Developer SSH Keys via GitHub](https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html)
-- [&quot;Activator&quot; Alert: MacOS Malware Hides in Cracked Apps, Targeting Crypto Wallets](https://thehackernews.com/2024/01/activator-alert-macos-malware-hides-in.html)
-- [From Megabits to Terabits: Gcore Radar Warns of a New Era of DDoS Attacks](https://thehackernews.com/2024/01/from-megabits-to-terabits-gcore-radar.html)
 <!-- BLOG-POST-LIST:END -->
