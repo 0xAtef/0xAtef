@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New CherryLoader Malware Mimics CherryTree to Deploy PrivEsc Exploits](https://thehackernews.com/2024/01/new-cherryloader-malware-mimics.html)
 - [Tech Giant HP Enterprise Hacked by Russian Hackers Linked to DNC Breach](https://thehackernews.com/2024/01/tech-giant-hp-enterprise-hacked-by.html)
 - [Google Kubernetes Misconfig Lets Any Gmail Account Control Your Clusters](https://thehackernews.com/2024/01/google-kubernetes-misconfig-lets-any.html)
 - [What is Nudge Security and How Does it Work?](https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html)
 - [Kasseika Ransomware Using BYOVD Trick to Disarm Security Pre-Encryption](https://thehackernews.com/2024/01/kasseika-ransomware-using-byovd-trick.html)
-- [The Unknown Risks of The Software Supply Chain: A Deep-Dive](https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html)
 <!-- BLOG-POST-LIST:END -->
