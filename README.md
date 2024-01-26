@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree](https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html)
+- [Critical Cisco Flaw Lets Hackers Remotely Take Over Unified Comms Systems](https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html)
 - [SystemBC Malware&#39;s C2 Server Analysis Exposes Payload Delivery Tricks](https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html)
 - [Critical Jenkins Vulnerability Exposes Servers to RCE Attacks - Patch ASAP!](https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html)
 - [LODEINFO Fileless Malware Evolves with Anti-Analysis and Remote Code Tricks](https://thehackernews.com/2024/01/lodeinfo-fileless-malware-evolves-with.html)
-- [Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024](https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html)
-- [China-backed Hackers Hijack Software Updates to Implant &quot;NSPX30&quot; Spyware](https://thehackernews.com/2024/01/china-backed-hackers-hijack-software.html)
 <!-- BLOG-POST-LIST:END -->
