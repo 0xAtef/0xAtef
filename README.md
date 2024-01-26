@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Perfecting the Defense-in-Depth Strategy with Automation](https://thehackernews.com/2024/01/perfecting-defense-in-depth-strategy.html)
 - [Malicious Ads on Google Target Chinese Users with Fake Messaging Apps](https://thehackernews.com/2024/01/malicious-ads-on-google-target-chinese.html)
 - [Microsoft Warns of Widening APT29 Espionage Attacks Targeting Global Orgs](https://thehackernews.com/2024/01/microsoft-warns-of-widening-apt29.html)
 - [Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree](https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html)
 - [Critical Cisco Flaw Lets Hackers Remotely Take Over Unified Comms Systems](https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html)
-- [SystemBC Malware&#39;s C2 Server Analysis Exposes Payload Delivery Tricks](https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html)
 <!-- BLOG-POST-LIST:END -->
