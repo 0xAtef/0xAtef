@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [493 Companies Share Their SaaS Security Battles – Get Insights in this Webinar](https://thehackernews.com/2024/01/493-companies-share-their-saas-security.html)
+- [Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats](https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html)
+- [Albabat, Kasseika, Kuiper: New Ransomware Gangs Rise with Rust and Golang](https://thehackernews.com/2024/01/albabat-kasseika-kuiper-new-ransomware.html)
 - [NSA Admits Secretly Buying Your Internet Browsing Data without Warrants](https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html)
 - [Malicious PyPI Packages Slip WhiteSnake InfoStealer Malware onto Windows Machines](https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html)
-- [AllaKore RAT Malware Targeting Mexican Firms with Financial Fraud Tricks](https://thehackernews.com/2024/01/allakore-rat-malware-targeting-mexican.html)
-- [Perfecting the Defense-in-Depth Strategy with Automation](https://thehackernews.com/2024/01/perfecting-defense-in-depth-strategy.html)
-- [Malicious Ads on Google Target Chinese Users with Fake Messaging Apps](https://thehackernews.com/2024/01/malicious-ads-on-google-target-chinese.html)
 <!-- BLOG-POST-LIST:END -->
