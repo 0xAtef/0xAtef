@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious PyPI Packages Slip WhiteSnake InfoStealer Malware onto Windows Machines](https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html)
 - [AllaKore RAT Malware Targeting Mexican Firms with Financial Fraud Tricks](https://thehackernews.com/2024/01/allakore-rat-malware-targeting-mexican.html)
 - [Perfecting the Defense-in-Depth Strategy with Automation](https://thehackernews.com/2024/01/perfecting-defense-in-depth-strategy.html)
 - [Malicious Ads on Google Target Chinese Users with Fake Messaging Apps](https://thehackernews.com/2024/01/malicious-ads-on-google-target-chinese.html)
 - [Microsoft Warns of Widening APT29 Espionage Attacks Targeting Global Orgs](https://thehackernews.com/2024/01/microsoft-warns-of-widening-apt29.html)
-- [Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree](https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html)
 <!-- BLOG-POST-LIST:END -->
