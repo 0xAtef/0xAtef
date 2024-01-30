@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility](https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html)
 - [Juniper Networks Releases Urgent Junos OS Updates for High-Severity Flaws](https://thehackernews.com/2024/01/juniper-networks-releases-urgent-junos.html)
 - [Researchers Uncover How Outlook Vulnerability Could Leak Your NTLM Passwords](https://thehackernews.com/2024/01/researchers-uncover-outlook.html)
 - [493 Companies Share Their SaaS Security Battles – Get Insights in this Webinar](https://thehackernews.com/2024/01/493-companies-share-their-saas-security.html)
 - [Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats](https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html)
-- [Albabat, Kasseika, Kuiper: New Ransomware Gangs Rise with Rust and Golang](https://thehackernews.com/2024/01/albabat-kasseika-kuiper-new-ransomware.html)
 <!-- BLOG-POST-LIST:END -->
