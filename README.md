@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China-Linked Hackers Target Myanmar&#39;s Top Ministries with Backdoor Blitz](https://thehackernews.com/2024/01/china-linked-hackers-target-myanmars.html)
 - [Top Security Posture Vulnerabilities Revealed](https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html)
 - [Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations](https://thehackernews.com/2024/01/italian-data-protection-watchdog.html)
 - [New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility](https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html)
 - [Juniper Networks Releases Urgent Junos OS Updates for High-Severity Flaws](https://thehackernews.com/2024/01/juniper-networks-releases-urgent-junos.html)
-- [Researchers Uncover How Outlook Vulnerability Could Leak Your NTLM Passwords](https://thehackernews.com/2024/01/researchers-uncover-outlook.html)
 <!-- BLOG-POST-LIST:END -->
