@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The SEC Won&#39;t Let CISOs Be: Understanding New SaaS Cybersecurity Rules](https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html)
+- [Telegram Marketplaces Fuel Phishing Attacks with Easy-to-Use Kits and Malware](https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html)
 - [Italian Businesses Hit by Weaponized USBs Spreading Cryptojacking Malware](https://thehackernews.com/2024/01/italian-businesses-hit-by-weaponized.html)
+- [The SEC Won&#39;t Let CISOs Be: Understanding New SaaS Cybersecurity Rules](https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html)
 - [Hackers Exploiting Ivanti VPN Flaws to Deploy KrustyLoader Malware](https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html)
 - [New Glibc Flaw Grants Attackers Root Access on Major Linux Distros](https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html)
-- [Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives](https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html)
 <!-- BLOG-POST-LIST:END -->
