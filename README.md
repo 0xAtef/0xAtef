@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RunC Flaws Enable Container Escapes, Granting Attackers Host Access](https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html)
 - [Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation](https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html)
 - [Telegram Marketplaces Fuel Phishing Attacks with Easy-to-Use Kits and Malware](https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html)
 - [The SEC Won&#39;t Let CISOs Be: Understanding New SaaS Cybersecurity Rules](https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html)
 - [Italian Businesses Hit by Weaponized USBs Spreading Cryptojacking Malware](https://thehackernews.com/2024/01/italian-businesses-hit-by-weaponized.html)
-- [Hackers Exploiting Ivanti VPN Flaws to Deploy KrustyLoader Malware](https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html)
 <!-- BLOG-POST-LIST:END -->
