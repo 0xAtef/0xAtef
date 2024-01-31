@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chinese Hackers Exploiting VPN Flaws to Deploy KrustyLoader Malware](https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html)
+- [The SEC Won&#39;t Let CISOs Be: Understanding New SaaS Cybersecurity Rules](https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html)
+- [Italian Businesses Hit by Weaponized USBs Spreading Cryptojacking Malware](https://thehackernews.com/2024/01/italian-businesses-hit-by-weaponized.html)
+- [Hackers Exploiting Ivanti VPN Flaws to Deploy KrustyLoader Malware](https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html)
 - [New Glibc Flaw Grants Attackers Root Access on Major Linux Distros](https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html)
 - [Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives](https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html)
-- [URGENT: Upgrade GitLab - Critical Workspace Creation Flaw Allows File Overwrite](https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html)
-- [China-Linked Hackers Target Myanmar&#39;s Top Ministries with Backdoor Blitz](https://thehackernews.com/2024/01/china-linked-hackers-target-myanmars.html)
 <!-- BLOG-POST-LIST:END -->
