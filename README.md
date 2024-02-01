@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why the Right Metrics Matter When it Comes to Vulnerability Management](https://thehackernews.com/2024/02/why-right-metrics-matter-when-it-comes.html)
+- [HeadCrab 2.0 Goes Fileless, Targeting Redis Servers for Crypto Mining](https://thehackernews.com/2024/02/headcrab-20-goes-fileless-targeting.html)
 - [Warning: New Malware Emerges in Attacks Exploiting Ivanti VPN Vulnerabilities](https://thehackernews.com/2024/02/warning-new-malware-emerges-in-attacks.html)
 - [CISA Warns of Active Exploitation of Critical Flaws in Apple iOS and macOS](https://thehackernews.com/2024/02/cisa-warns-of-active-exploitation-of.html)
 - [RunC Flaws Enable Container Escapes, Granting Attackers Host Access](https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html)
-- [Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation](https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html)
-- [Telegram Marketplaces Fuel Phishing Attacks with Easy-to-Use Kits and Malware](https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html)
 <!-- BLOG-POST-LIST:END -->
