@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network](https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html)
 - [Exposed Docker APIs Under Attack in &#39;Commando Cat&#39; Cryptojacking Campaign](https://thehackernews.com/2024/02/exposed-docker-apis-under-attack-in.html)
 - [Why the Right Metrics Matter When it Comes to Vulnerability Management](https://thehackernews.com/2024/02/why-right-metrics-matter-when-it-comes.html)
 - [U.S. Feds Shut Down China-Linked &quot;KV-Botnet&quot; Targeting SOHO Routers](https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html)
 - [HeadCrab 2.0 Goes Fileless, Targeting Redis Servers for Crypto Mining](https://thehackernews.com/2024/02/headcrab-20-goes-fileless-targeting.html)
-- [Warning: New Malware Emerges in Attacks Exploiting Ivanti VPN Vulnerabilities](https://thehackernews.com/2024/02/warning-new-malware-emerges-in-attacks.html)
 <!-- BLOG-POST-LIST:END -->
