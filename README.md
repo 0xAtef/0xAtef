@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AnyDesk Hacked: Popular Remote Desktop Software Mandates Password Reset](https://thehackernews.com/2024/02/anydesk-hacked-popular-remote-desktop.html)
 - [Russian APT28 Hackers Targeting High-Value Orgs with NTLM Relay Attacks](https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html)
 - [DirtyMoe Malware Infects 2,000+ Ukrainian Computers for DDoS and Cryptojacking](https://thehackernews.com/2024/02/dirtymoe-malware-infects-2000-ukrainian.html)
 - [Former CIA Engineer Sentenced to 40 Years for Leaking Classified Documents](https://thehackernews.com/2024/02/former-cia-engineer-sentenced-to-40.html)
 - [Cloudzy Elevates Cybersecurity: Integrating Insights from Recorded Future to Revolutionize Cloud Security](https://thehackernews.com/2024/02/cloudzy-elevates-cybersecurity.html)
-- [INTERPOL Arrests 31 in Global Operation, Identifies 1,900+ Ransomware-Linked IPs](https://thehackernews.com/2024/02/interpol-arrests-31-in-global-operation.html)
 <!-- BLOG-POST-LIST:END -->
