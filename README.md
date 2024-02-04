@@ -8,9 +8,9 @@
 
 <h1 align="center">I'm Mohamed Atef</h1>
   
-Sr.SOC Engineer Specializing in ( Thread Detection | Threat Hunting | Incident Response | Automation )
+Sr.SOC Engineer Specializing in ( Thread Detection | Threat Hunting | Incident Response | Automation | Administration )
 
-I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOC, Develope (Process, use cases, playbooks, automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting
+I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOCs, developing (Processes, use cases, playbooks, and automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting
 
 In the online realm, I am recognized as 0xAtef. My professional passion revolves around SOC, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, as well as SOC Automation, with a specific focus on Blue/Purple teaming
 
