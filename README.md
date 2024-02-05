@@ -124,8 +124,8 @@ BIO
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Combined Security Practices Changing the Game for Risk Management](https://thehackernews.com/2024/02/combined-security-practices-changing.html)
+- [Patchwork Using Romance Scam Lures to Infect Android Devices with VajraSpy Malware](https://thehackernews.com/2024/02/patchwork-using-romance-scam-lures-to.html)
+- [Hands-On Review: SASE-based XDR from Cato Networks](https://thehackernews.com/2024/02/hands-on-review-sase-based-xdr-from.html)
 - [Pegasus Spyware Targeted iPhones of Journalists and Activists in Jordan](https://thehackernews.com/2024/02/pegasus-spyware-targeted-iphones-of.html)
 - [New Mispadu Banking Trojan Exploiting Windows SmartScreen Flaw](https://thehackernews.com/2024/02/new-mispadu-banking-trojan-exploiting.html)
-- [U.S. Sanctions 6 Iranian Officials for Critical Infrastructure Cyber Attacks](https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html)
-- [Mastodon Vulnerability Allows Hackers to Hijack Any Decentralized Account](https://thehackernews.com/2024/02/mastodon-vulnerability-allows-hackers.html)
 <!-- BLOG-POST-LIST:END -->
