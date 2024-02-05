@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Combined Security Practices Changing the Game for Risk Management](https://thehackernews.com/2024/02/combined-security-practices-changing.html)
 - [Pegasus Spyware Targeted iPhones of Journalists and Activists in Jordan](https://thehackernews.com/2024/02/pegasus-spyware-targeted-iphones-of.html)
 - [New Mispadu Banking Trojan Exploiting Windows SmartScreen Flaw](https://thehackernews.com/2024/02/new-mispadu-banking-trojan-exploiting.html)
 - [U.S. Sanctions 6 Iranian Officials for Critical Infrastructure Cyber Attacks](https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html)
 - [Mastodon Vulnerability Allows Hackers to Hijack Any Decentralized Account](https://thehackernews.com/2024/02/mastodon-vulnerability-allows-hackers.html)
-- [AnyDesk Hacked: Popular Remote Desktop Software Mandates Password Reset](https://thehackernews.com/2024/02/anydesk-hacked-popular-remote-desktop.html)
 <!-- BLOG-POST-LIST:END -->
