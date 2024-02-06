@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploit Job Boards in APAC, Steal Data of Millions of Job Seekers](https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html)
 - [Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation](https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html)
 - [U.S. Imposes Visa Restrictions on those Involved in Illegal Spyware Surveillance](https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html)
 - [Belarusian National Linked to BTC-e Faces 25 Years for $4 Billion Crypto Money Laundering](https://thehackernews.com/2024/02/belarusian-national-linked-to-btc-e.html)
 - [Combined Security Practices Changing the Game for Risk Management](https://thehackernews.com/2024/02/combined-security-practices-changing.html)
-- [Patchwork Using Romance Scam Lures to Infect Android Devices with VajraSpy Malware](https://thehackernews.com/2024/02/patchwork-using-romance-scam-lures-to.html)
 <!-- BLOG-POST-LIST:END -->
