@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beware: Fake Facebook Job Ads Spreading &#39;Ov3r_Stealer&#39; to Steal Crypto and Credentials](https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html)
+- [Experts Detail New Flaws in Azure HDInsight Spark, Kafka, and Hadoop Services](https://thehackernews.com/2024/02/high-severity-flaws-found-in-azure.html)
 - [How a $10B Enterprise Customer Drastically Increased their SaaS Security Posture with 201% ROI by Using SSPM](https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html)
 - [Hackers Exploit Job Boards, Stealing Millions of Resumes and Personal Data](https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html)
 - [Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation](https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html)
-- [U.S. Imposes Visa Restrictions on those Involved in Illegal Spyware Surveillance](https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html)
-- [Belarusian National Linked to BTC-e Faces 25 Years for $4 Billion Crypto Money Laundering](https://thehackernews.com/2024/02/belarusian-national-linked-to-btc-e.html)
 <!-- BLOG-POST-LIST:END -->
