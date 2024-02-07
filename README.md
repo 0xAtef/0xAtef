@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [After FBI Takedown, KV-Botnet Operators Shift Tactics in Attempt to Bounce Back](https://thehackernews.com/2024/02/after-fbi-takedown-kv-botnet-operators.html)
 - [Critical Bootloader Vulnerability in Shim Impacts Nearly All Linux Distros](https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html)
 - [New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs](https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html)
 - [Global Coalition and Tech Giants Unite Against Commercial Spyware Abuse](https://thehackernews.com/2024/02/global-coalition-and-tech-giants-unite.html)
 - [Chinese Hackers Exploited FortiGate Flaw to Breach Dutch Military Network](https://thehackernews.com/2024/02/chinese-hackers-exploited-fortigate.html)
-- [Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now](https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html)
 <!-- BLOG-POST-LIST:END -->
