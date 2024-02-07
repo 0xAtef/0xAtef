@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now](https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html)
 - [Beware: Fake Facebook Job Ads Spreading &#39;Ov3r_Stealer&#39; to Steal Crypto and Credentials](https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html)
 - [Experts Detail New Flaws in Azure HDInsight Spark, Kafka, and Hadoop Services](https://thehackernews.com/2024/02/high-severity-flaws-found-in-azure.html)
 - [How a $10B Enterprise Customer Drastically Increased their SaaS Security Posture with 201% ROI by Using SSPM](https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html)
 - [Hackers Exploit Job Boards, Stealing Millions of Resumes and Personal Data](https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html)
-- [Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation](https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html)
 <!-- BLOG-POST-LIST:END -->
