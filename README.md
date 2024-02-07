@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs](https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html)
+- [Global Coalition and Tech Giants Unite Against Commercial Spyware Abuse](https://thehackernews.com/2024/02/global-coalition-and-tech-giants-unite.html)
 - [Chinese Hackers Exploited FortiGate Flaw to Breach Dutch Military Network](https://thehackernews.com/2024/02/chinese-hackers-exploited-fortigate.html)
 - [Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now](https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html)
 - [Beware: Fake Facebook Job Ads Spreading &#39;Ov3r_Stealer&#39; to Steal Crypto and Credentials](https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html)
-- [Experts Detail New Flaws in Azure HDInsight Spark, Kafka, and Hadoop Services](https://thehackernews.com/2024/02/high-severity-flaws-found-in-azure.html)
-- [How a $10B Enterprise Customer Drastically Increased their SaaS Security Posture with 201% ROI by Using SSPM](https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html)
 <!-- BLOG-POST-LIST:END -->
