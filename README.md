@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kimsuky&#39;s New Golang Stealer &#39;Troll&#39; and &#39;GoBear&#39; Backdoor Target South Korea](https://thehackernews.com/2024/02/kimsukys-new-golang-stealer-troll-and.html)
 - [Critical Patches Released for New Flaws in Cisco, Fortinet, VMware Products](https://thehackernews.com/2024/02/critical-patches-released-for-new-flaws.html)
 - [After FBI Takedown, KV-Botnet Operators Shift Tactics in Attempt to Bounce Back](https://thehackernews.com/2024/02/after-fbi-takedown-kv-botnet-operators.html)
 - [Critical Boot Loader Vulnerability in Shim Impacts Nearly All Linux Distros](https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html)
 - [New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs](https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html)
-- [Global Coalition and Tech Giants Unite Against Commercial Spyware Abuse](https://thehackernews.com/2024/02/global-coalition-and-tech-giants-unite.html)
 <!-- BLOG-POST-LIST:END -->
