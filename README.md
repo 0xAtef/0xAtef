@@ -123,9 +123,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade](https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html)
 - [Unified Identity – look for the meaning behind the hype!](https://thehackernews.com/2024/02/unified-identity-look-for-meaning.html)
 - [HijackLoader Evolves: Researchers Decode the Latest Evasion Methods](https://thehackernews.com/2024/02/hijackloader-evolves-researchers-decode.html)
 - [Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore](https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html)
 - [Kimsuky&#39;s New Golang Stealer &#39;Troll&#39; and &#39;GoBear&#39; Backdoor Target South Korea](https://thehackernews.com/2024/02/kimsukys-new-golang-stealer-troll-and.html)
-- [Critical Patches Released for New Flaws in Cisco, Fortinet, VMware Products](https://thehackernews.com/2024/02/critical-patches-released-for-new-flaws.html)
 <!-- BLOG-POST-LIST:END -->
