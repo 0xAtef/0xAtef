@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fortinet Warns of Critical FortiOS SSL VPN Vulnerability Under Active Exploitation](https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html)
 - [Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways](https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html)
 - [Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade](https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html)
 - [Unified Identity – look for the meaning behind the hype!](https://thehackernews.com/2024/02/unified-identity-look-for-meaning.html)
 - [HijackLoader Evolves: Researchers Decode the Latest Evasion Methods](https://thehackernews.com/2024/02/hijackloader-evolves-researchers-decode.html)
-- [Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore](https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html)
 <!-- BLOG-POST-LIST:END -->
