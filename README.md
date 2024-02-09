@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MoqHao Android Malware Evolves with Auto-Execution Capability](https://thehackernews.com/2024/02/new-variant-of-moqhao-android-malware.html)
 - [Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA](https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html)
 - [New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack](https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html)
 - [Fortinet Warns of Critical FortiOS SSL VPN Flaw Likely Under Active Exploitation](https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html)
 - [Wazuh in the Cloud Era: Navigating the Challenges of Cybersecurity](https://thehackernews.com/2024/02/wazuh-in-cloud-era-navigating.html)
-- [Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways](https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html)
 <!-- BLOG-POST-LIST:END -->
