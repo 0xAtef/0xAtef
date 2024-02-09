@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack](https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html)
 - [Wazuh in the Cloud Era: Navigating the Challenges of Cybersecurity](https://thehackernews.com/2024/02/wazuh-in-cloud-era-navigating.html)
 - [Stealthy Zardoor Backdoor Targets Saudi Islamic Charity Organization](https://thehackernews.com/2024/02/stealthy-zardoor-backdoor-targets-saudi.html)
 - [Fortinet Warns of Critical FortiOS SSL VPN Flaw Likely Under Active Exploitation](https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html)
 - [Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways](https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html)
-- [Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade](https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html)
 <!-- BLOG-POST-LIST:END -->
