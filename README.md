@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. DoJ Dismantles Warzone RAT Infrastructure, Arrests Key Operators](https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html)
 - [Alert: New Stealthy &quot;RustDoor&quot; Backdoor Targeting Apple macOS Devices](https://thehackernews.com/2024/02/alert-new-stealthy-rustdoor-backdoor.html)
 - [Raspberry Robin Malware Upgrades with Discord Spread and New Exploits](https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html)
 - [MoqHao Android Malware Evolves with Auto-Execution Capability](https://thehackernews.com/2024/02/new-variant-of-moqhao-android-malware.html)
 - [Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA](https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html)
-- [New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack](https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html)
 <!-- BLOG-POST-LIST:END -->
