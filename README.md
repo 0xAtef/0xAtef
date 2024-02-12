@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Ways Hackers use Social Engineering to Bypass MFA](https://thehackernews.com/2024/02/4-ways-hackers-use-social-engineering.html)
+- [CISA and OpenSSF Release Framework for Package Repository Security](https://thehackernews.com/2024/02/cisa-and-openssf-release-framework-for.html)
 - [Why Are Compromised Identities the Nightmare to IR Speed and Efficiency?](https://thehackernews.com/2024/02/why-are-compromised-identities.html)
 - [Microsoft Introduces Linux-Like &#39;sudo&#39; Command to Windows 11](https://thehackernews.com/2024/02/microsoft-introduces-linux-like-sudo.html)
 - [U.S. Offers $10 Million Bounty for Info Leading to Arrest of Hive Ransomware Leaders](https://thehackernews.com/2024/02/us-offers-10-million-bounty-for-info.html)
-- [U.S. DoJ Dismantles Warzone RAT Infrastructure, Arrests Key Operators](https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html)
-- [Alert: New Stealthy &quot;RustDoor&quot; Backdoor Targeting Apple macOS Devices](https://thehackernews.com/2024/02/alert-new-stealthy-rustdoor-backdoor.html)
 <!-- BLOG-POST-LIST:END -->
