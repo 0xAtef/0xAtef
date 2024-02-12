@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Offers $10 Million Bounty for Info Leading to Arrest of Hive Ransomware Leaders](https://thehackernews.com/2024/02/us-offers-10-million-bounty-for-info.html)
 - [U.S. DoJ Dismantles Warzone RAT Infrastructure, Arrests Key Operators](https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html)
 - [Alert: New Stealthy &quot;RustDoor&quot; Backdoor Targeting Apple macOS Devices](https://thehackernews.com/2024/02/alert-new-stealthy-rustdoor-backdoor.html)
 - [Raspberry Robin Malware Upgrades with Discord Spread and New Exploits](https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html)
 - [MoqHao Android Malware Evolves with Auto-Execution Capability](https://thehackernews.com/2024/02/new-variant-of-moqhao-android-malware.html)
-- [Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA](https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html)
 <!-- BLOG-POST-LIST:END -->
