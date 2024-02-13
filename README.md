@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Midnight Blizzard and Cloudflare-Atlassian Cybersecurity Incidents: What to Know](https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html)
 - [Ivanti Vulnerability Exploited to Install &#39;DSLog&#39; Backdoor on 670+ IT Infrastructures](https://thehackernews.com/2024/02/ivanti-vulnerability-exploited-to.html)
 - [Alert: CISA Warns of Active &#39;Roundcube&#39; Email Attacks - Patch Now](https://thehackernews.com/2024/02/alert-cisa-warns-of-active-roundcube.html)
 - [Rhysida Ransomware Cracked, Free Decryption Tool Released](https://thehackernews.com/2024/02/rhysida-ransomware-cracked-free.html)
 - [4 Ways Hackers use Social Engineering to Bypass MFA](https://thehackernews.com/2024/02/4-ways-hackers-use-social-engineering.html)
-- [CISA and OpenSSF Release Framework for Package Repository Security](https://thehackernews.com/2024/02/cisa-and-openssf-release-framework-for.html)
 <!-- BLOG-POST-LIST:END -->
