@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Tactics FinServ Institutions Can Bank On in 2024](https://thehackernews.com/2024/02/cybersecurity-tactics-finserv.html)
+- [Bumblebee Malware Returns with New Tricks, Targeting U.S. Businesses](https://thehackernews.com/2024/02/bumblebee-malware-returns-with-new.html)
 - [DarkMe Malware Targets Traders Using Microsoft SmartScreen Zero-Day Vulnerability](https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html)
 - [Microsoft Rolls Out Patches for 73 Flaws, Including 2 Windows Zero-Days](https://thehackernews.com/2024/02/microsoft-rolls-out-patches-for-73.html)
 - [Glupteba Botnet Evades Detection with Undocumented UEFI Bootkit](https://thehackernews.com/2024/02/glupteba-botnet-evades-detection-with.html)
-- [PikaBot Resurfaces with Streamlined Code and Deceptive Tactics](https://thehackernews.com/2024/02/pikabot-resurfaces-with-streamlined.html)
-- [Midnight Blizzard and Cloudflare-Atlassian Cybersecurity Incidents: What to Know](https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html)
 <!-- BLOG-POST-LIST:END -->
