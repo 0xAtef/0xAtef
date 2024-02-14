@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Rolls Out Patches for 73 Flaws, Including 2 Windows Zero-Days](https://thehackernews.com/2024/02/microsoft-rolls-out-patches-for-73.html)
 - [Glupteba Botnet Evades Detection with Undocumented UEFI Bootkit](https://thehackernews.com/2024/02/glupteba-botnet-evades-detection-with.html)
 - [PikaBot Resurfaces with Streamlined Code and Deceptive Tactics](https://thehackernews.com/2024/02/pikabot-resurfaces-with-streamlined.html)
 - [Midnight Blizzard and Cloudflare-Atlassian Cybersecurity Incidents: What to Know](https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html)
 - [Ivanti Vulnerability Exploited to Install &#39;DSLog&#39; Backdoor on 670+ IT Infrastructures](https://thehackernews.com/2024/02/ivanti-vulnerability-exploited-to.html)
-- [Alert: CISA Warns of Active &#39;Roundcube&#39; Email Attacks - Patch Now](https://thehackernews.com/2024/02/alert-cisa-warns-of-active-roundcube.html)
 <!-- BLOG-POST-LIST:END -->
