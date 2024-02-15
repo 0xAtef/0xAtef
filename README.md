@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft, OpenAI Warn of Nation-State Hackers Weaponizing AI for Cyberattacks](https://thehackernews.com/2024/02/microsoft-openai-warn-of-nation-state.html)
+- [Critical Exchange Server Flaw &lpar;CVE-2024-21410&rpar; Under Active Exploitation](https://thehackernews.com/2024/02/critical-exchange-server-flaw-cve-2024.html)
+- [Microsoft, OpenAI Warn of Nation-State Hackers Weaponizing AI for Cyber Attacks](https://thehackernews.com/2024/02/microsoft-openai-warn-of-nation-state.html)
 - [Ubuntu &#39;command-not-found&#39; Tool Could Trick Users into Installing Rogue Packages](https://thehackernews.com/2024/02/ubuntu-command-not-found-tool-could.html)
 - [Cybersecurity Tactics FinServ Institutions Can Bank On in 2024](https://thehackernews.com/2024/02/cybersecurity-tactics-finserv.html)
 - [Bumblebee Malware Returns with New Tricks, Targeting U.S. Businesses](https://thehackernews.com/2024/02/bumblebee-malware-returns-with-new.html)
-- [DarkMe Malware Targets Traders Using Microsoft SmartScreen Zero-Day Vulnerability](https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html)
 <!-- BLOG-POST-LIST:END -->
