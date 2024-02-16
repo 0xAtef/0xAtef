@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RustDoor macOS Backdoor Targets Cryptocurrency Firms with Fake Job Offers](https://thehackernews.com/2024/02/rustdoor-macos-backdoor-targets.html)
 - [Why We Must Democratize Cybersecurity](https://thehackernews.com/2024/02/why-we-must-democratize-cybersecurity.html)
 - [Malicious &#39;SNS Sender&#39; Script Abuses AWS for Bulk Smishing Attacks](https://thehackernews.com/2024/02/malicious-sns-sender-script-abuses-aws.html)
 - [U.S. State Government Network Breached via Former Employee&#39;s Account](https://thehackernews.com/2024/02/us-state-government-network-breached.html)
 - [U.S. Government Disrupts Russia-Linked Botnet Engaged in Cyber Espionage](https://thehackernews.com/2024/02/us-government-disrupts-russian-linked.html)
-- [Russian Turla Hackers Target Polish NGOs with New TinyTurla-NG Backdoor](https://thehackernews.com/2024/02/russian-turla-hackers-target-polish.html)
 <!-- BLOG-POST-LIST:END -->
