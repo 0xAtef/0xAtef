@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why We Must Democratize Cybersecurity](https://thehackernews.com/2024/02/why-we-must-democratize-cybersecurity.html)
+- [Malicious &#39;SNS Sender&#39; Script Abuses AWS for Bulk Smishing Attacks](https://thehackernews.com/2024/02/malicious-sns-sender-script-abuses-aws.html)
 - [U.S. State Government Network Breached via Former Employee&#39;s Account](https://thehackernews.com/2024/02/us-state-government-network-breached.html)
 - [U.S. Government Disrupts Russia-Linked Botnet Engaged in Cyber Espionage](https://thehackernews.com/2024/02/us-government-disrupts-russian-linked.html)
 - [Russian Turla Hackers Target Polish NGOs with New TinyTurla-NG Backdoor](https://thehackernews.com/2024/02/russian-turla-hackers-target-polish.html)
-- [Ivanti Pulse Secure Found Using 11-Year-Old Linux Version and Outdated Libraries](https://thehackernews.com/2024/02/ivanti-pulse-secure-found-using-11-year.html)
-- [How Nation-State Actors Target Your Business: New Research Exposes Major SaaS Vulnerabilities](https://thehackernews.com/2024/02/how-nation-state-actors-target-your.html)
 <!-- BLOG-POST-LIST:END -->
