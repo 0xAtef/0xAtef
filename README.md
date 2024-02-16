@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Government Disrupts Russian-Linked Botnet Engaged in Cyber Espionage](https://thehackernews.com/2024/02/us-government-disrupts-russian-linked.html)
 - [Russian Turla Hackers Target Polish NGOs with New TinyTurla-NG Backdoor](https://thehackernews.com/2024/02/russian-turla-hackers-target-polish.html)
 - [Ivanti Pulse Secure Found Using 11-Year-Old Linux Version and Outdated Libraries](https://thehackernews.com/2024/02/ivanti-pulse-secure-found-using-11-year.html)
 - [How Nation-State Actors Target Your Business: New Research Exposes Major SaaS Vulnerabilities](https://thehackernews.com/2024/02/how-nation-state-actors-target-your.html)
 - [Chinese Hackers Using Deepfakes in Advanced Mobile Banking Malware Attacks](https://thehackernews.com/2024/02/chinese-hackers-using-deepfakes-in.html)
-- [Critical Exchange Server Flaw &lpar;CVE-2024-21410&rpar; Under Active Exploitation](https://thehackernews.com/2024/02/critical-exchange-server-flaw-cve-2024.html)
 <!-- BLOG-POST-LIST:END -->
