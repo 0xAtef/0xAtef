@@ -126,7 +126,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws](https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html)
+- [Russian-Linked Hackers Target 80+ Organizations via Roundcube Flaws](https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html)
 - [Iranian Hackers Target Middle East Policy Experts with New BASICSTAR Backdoor](https://thehackernews.com/2024/02/iranian-hackers-target-middle-east.html)
 - [FBI&#39;s Most-Wanted Zeus and IcedID Malware Mastermind Pleads Guilty](https://thehackernews.com/2024/02/fbis-most-wanted-zeus-and-icedid.html)
 - [How Businesses Can Safeguard Their Communication Channels Against Hackers](https://thehackernews.com/2024/02/how-businesses-can-safeguard-their.html)
