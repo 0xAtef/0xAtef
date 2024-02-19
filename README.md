@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iranian Hackers Target Middle East Policy Experts with New BASICSTAR Backdoor](https://thehackernews.com/2024/02/iranian-hackers-target-middle-east.html)
 - [FBI&#39;s Most-Wanted Zeus and IcedID Malware Mastermind Pleads Guilty](https://thehackernews.com/2024/02/fbis-most-wanted-zeus-and-icedid.html)
 - [How Businesses Can Safeguard Their Communication Channels Against Hackers](https://thehackernews.com/2024/02/how-businesses-can-safeguard-their.html)
 - [Google Open Sources Magika: AI-Powered File Identification Tool](https://thehackernews.com/2024/02/google-open-sources-magika-ai-powered.html)
 - [CISA Warning: Akira Ransomware Exploiting Cisco ASA/FTD Vulnerability](https://thehackernews.com/2024/02/cisa-warning-akira-ransomware.html)
-- [RustDoor macOS Backdoor Targets Cryptocurrency Firms with Fake Job Offers](https://thehackernews.com/2024/02/rustdoor-macos-backdoor-targets.html)
 <!-- BLOG-POST-LIST:END -->
