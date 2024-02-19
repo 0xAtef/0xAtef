@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anatsa Android Trojan Bypasses Google Play Security, Expands Reach to New Countries](https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html)
 - [Russian-Linked Hackers Target 80+ Organizations via Roundcube Flaws](https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html)
 - [Iranian Hackers Target Middle East Policy Experts with New BASICSTAR Backdoor](https://thehackernews.com/2024/02/iranian-hackers-target-middle-east.html)
 - [FBI&#39;s Most-Wanted Zeus and IcedID Malware Mastermind Pleads Guilty](https://thehackernews.com/2024/02/fbis-most-wanted-zeus-and-icedid.html)
 - [How Businesses Can Safeguard Their Communication Channels Against Hackers](https://thehackernews.com/2024/02/how-businesses-can-safeguard-their.html)
-- [Google Open Sources Magika: AI-Powered File Identification Tool](https://thehackernews.com/2024/02/google-open-sources-magika-ai-powered.html)
 <!-- BLOG-POST-LIST:END -->
