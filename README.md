@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LockBit Ransomware&#39;s Darknet Domains Seized in Global Law Enforcement Raid](https://thehackernews.com/2024/02/lockbit-ransomwares-darknet-domains.html)
 - [Meta Warns of 8 Spyware Firms Targeting iOS, Android, and Windows Devices](https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html)
 - [How to Achieve the Best Risk-Based Alerting &lpar;Bye-Bye SIEM&rpar;](https://thehackernews.com/2024/02/bye-bye-siem-hello-risk-based-alerting.html)
 - [Anatsa Android Trojan Bypasses Google Play Security, Expands Reach to New Countries](https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html)
 - [Russian-Linked Hackers Target 80+ Organizations via Roundcube Flaws](https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html)
-- [Iranian Hackers Target Middle East Policy Experts with New BASICSTAR Backdoor](https://thehackernews.com/2024/02/iranian-hackers-target-middle-east.html)
 <!-- BLOG-POST-LIST:END -->
