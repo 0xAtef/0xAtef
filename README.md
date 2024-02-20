@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Bricks Theme Under Active Attack: Critical Flaw Impacts 25,000+ Sites](https://thehackernews.com/2024/02/wordpress-bricks-theme-under-active.html)
 - [Iran and Hezbollah Hackers Launch Attacks to Influence Israel-Hamas Narrative](https://thehackernews.com/2024/02/iran-and-hezbollah-hackers-launch.html)
 - [LockBit Ransomware&#39;s Darknet Domains Seized in Global Law Enforcement Raid](https://thehackernews.com/2024/02/lockbit-ransomwares-darknet-domains.html)
 - [Meta Warns of 8 Spyware Firms Targeting iOS, Android, and Windows Devices](https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html)
 - [How to Achieve the Best Risk-Based Alerting &lpar;Bye-Bye SIEM&rpar;](https://thehackernews.com/2024/02/bye-bye-siem-hello-risk-based-alerting.html)
-- [Anatsa Android Trojan Bypasses Google Play Security, Expands Reach to New Countries](https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html)
 <!-- BLOG-POST-LIST:END -->
