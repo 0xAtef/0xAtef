@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LockBit Ransomware Operation Shut Down; Criminals Arrested; Decryption Keys Released](https://thehackernews.com/2024/02/lockbit-ransomware-operation-shut-down.html)
 - [New Report Reveals North Korean Hackers Targeting Defense Firms Worldwide](https://thehackernews.com/2024/02/new-report-reveals-north-korean-hackers.html)
 - [SaaS Compliance through the NIST Cybersecurity Framework](https://thehackernews.com/2024/02/saas-compliance-through-nist.html)
 - [Learn How to Build an Incident Response Playbook Against Scattered Spider in Real-Time](https://thehackernews.com/2024/02/learn-how-to-build-incident-response.html)
 - [Critical Flaws Found in ConnectWise ScreenConnect Software  - Patch Now](https://thehackernews.com/2024/02/critical-flaws-found-in-connectwise.html)
-- [WordPress Bricks Theme Under Active Attack: Critical Flaw Impacts 25,000+ Sites](https://thehackernews.com/2024/02/wordpress-bricks-theme-under-active.html)
 <!-- BLOG-POST-LIST:END -->
