@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SaaS Compliance through the NIST Cybersecurity Framework](https://thehackernews.com/2024/02/saas-compliance-through-nist.html)
+- [Learn How to Build an Incident Response Playbook Against Scattered Spider in Real-Time](https://thehackernews.com/2024/02/learn-how-to-build-incident-response.html)
+- [New Report Reveals North Korean Hackers Targeting Defense Firms Worldwide](https://thehackernews.com/2024/02/new-report-reveals-north-korean-hackers.html)
+- [Critical Flaws Found in ConnectWise ScreenConnect Software  - Patch Now](https://thehackernews.com/2024/02/critical-flaws-found-in-connectwise.html)
 - [WordPress Bricks Theme Under Active Attack: Critical Flaw Impacts 25,000+ Sites](https://thehackernews.com/2024/02/wordpress-bricks-theme-under-active.html)
-- [Iran and Hezbollah Hackers Launch Attacks to Influence Israel-Hamas Narrative](https://thehackernews.com/2024/02/iran-and-hezbollah-hackers-launch.html)
-- [LockBit Ransomware&#39;s Darknet Domains Seized in Global Law Enforcement Raid](https://thehackernews.com/2024/02/lockbit-ransomwares-darknet-domains.html)
-- [Meta Warns of 8 Spyware Firms Targeting iOS, Android, and Windows Devices](https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html)
-- [How to Achieve the Best Risk-Based Alerting &lpar;Bye-Bye SIEM&rpar;](https://thehackernews.com/2024/02/bye-bye-siem-hello-risk-based-alerting.html)
 <!-- BLOG-POST-LIST:END -->
