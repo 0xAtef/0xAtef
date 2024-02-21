@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mustang Panda Targets Asia with Advanced PlugX Variant DOPLUGS](https://thehackernews.com/2024/02/mustang-panda-targets-asia-with.html)
 - [6 Ways to Simplify SaaS Identity Governance](https://thehackernews.com/2024/02/6-ways-to-simplify-saas-identity.html)
 - [New &#39;VietCredCare&#39; Stealer Targeting Facebook Advertisers in Vietnam](https://thehackernews.com/2024/02/new-vietcredcare-stealer-targeting.html)
 - [Cybersecurity for Healthcare—Diagnosing the Threat Landscape and Prescribing Solutions for Recovery](https://thehackernews.com/2024/02/cybersecurity-for-healthcarediagnosing.html)
 - [Signal Introduces Usernames, Allowing Users to Keep Their Phone Numbers Private](https://thehackernews.com/2024/02/signal-introduces-usernames-allowing.html)
-- [Russian Hackers Target Ukraine with Disinformation and Credential-Harvesting Attacks](https://thehackernews.com/2024/02/russian-hackers-target-ukraine-with.html)
 <!-- BLOG-POST-LIST:END -->
