@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian Hackers Target Ukraine with Disinformation and Credential-Harvesting Attacks](https://thehackernews.com/2024/02/russian-hackers-target-ukraine-with.html)
+- [VMware Alert: Uninstall EAP Now - Critical Flaw Puts Active Directory at Risk](https://thehackernews.com/2024/02/vmware-alert-uninstall-eap-now-critical.html)
 - [New Migo Malware Targeting Redis Servers for Cryptocurrency Mining](https://thehackernews.com/2024/02/new-migo-malware-targeting-redis.html)
 - [LockBit Ransomware Operation Shut Down; Criminals Arrested; Decryption Keys Released](https://thehackernews.com/2024/02/lockbit-ransomware-operation-shut-down.html)
 - [New Malicious PyPI Packages Caught Using Covert Side-Loading Tactics](https://thehackernews.com/2024/02/new-malicious-pypi-packages-caught.html)
-- [New Report Reveals North Korean Hackers Targeting Defense Firms Worldwide](https://thehackernews.com/2024/02/new-report-reveals-north-korean-hackers.html)
-- [SaaS Compliance through the NIST Cybersecurity Framework](https://thehackernews.com/2024/02/saas-compliance-through-nist.html)
 <!-- BLOG-POST-LIST:END -->
