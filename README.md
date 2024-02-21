@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;VietCredCare&#39; Stealer Targeting Facebook Advertisers in Vietnam](https://thehackernews.com/2024/02/new-vietcredcare-stealer-targeting.html)
+- [Signal Introduces Usernames, Allowing Users to Keep Their Phone Numbers Private](https://thehackernews.com/2024/02/signal-introduces-usernames-allowing.html)
 - [Russian Hackers Target Ukraine with Disinformation and Credential-Harvesting Attacks](https://thehackernews.com/2024/02/russian-hackers-target-ukraine-with.html)
 - [VMware Alert: Uninstall EAP Now - Critical Flaw Puts Active Directory at Risk](https://thehackernews.com/2024/02/vmware-alert-uninstall-eap-now-critical.html)
 - [New Migo Malware Targeting Redis Servers for Cryptocurrency Mining](https://thehackernews.com/2024/02/new-migo-malware-targeting-redis.html)
-- [LockBit Ransomware Operation Shut Down; Criminals Arrested; Decryption Keys Released](https://thehackernews.com/2024/02/lockbit-ransomware-operation-shut-down.html)
-- [New Malicious PyPI Packages Caught Using Covert Side-Loading Tactics](https://thehackernews.com/2024/02/new-malicious-pypi-packages-caught.html)
 <!-- BLOG-POST-LIST:END -->
