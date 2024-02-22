@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Unveils PQ3 Protocol - Post-Quantum Encryption for iMessage](https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html)
 - [Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks](https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html)
 - [A New Age of Hacktivism](https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html)
 - [Russian Government Software Backdoored to Deploy Konni RAT Malware](https://thehackernews.com/2024/02/russian-government-software-backdoored.html)
 - [U.S. Offers $15 Million Bounty to Hunt Down LockBit Ransomware Leaders](https://thehackernews.com/2024/02/us-offers-15-million-bounty-to-hunt.html)
-- [New Wi-Fi Vulnerabilities Expose Android and Linux Devices to Hackers](https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html)
 <!-- BLOG-POST-LIST:END -->
