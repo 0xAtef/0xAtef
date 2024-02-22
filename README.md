@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Offers $15 Million Bounty to Hunt Down LockBit Ransomware Leaders](https://thehackernews.com/2024/02/us-offers-15-million-bounty-to-hunt.html)
 - [New Wi-Fi Vulnerabilities Expose Android and Linux Devices to Hackers](https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html)
 - [Mustang Panda Targets Asia with Advanced PlugX Variant DOPLUGS](https://thehackernews.com/2024/02/mustang-panda-targets-asia-with.html)
 - [6 Ways to Simplify SaaS Identity Governance](https://thehackernews.com/2024/02/6-ways-to-simplify-saas-identity.html)
 - [New &#39;VietCredCare&#39; Stealer Targeting Facebook Advertisers in Vietnam](https://thehackernews.com/2024/02/new-vietcredcare-stealer-targeting.html)
-- [Cybersecurity for Healthcare—Diagnosing the Threat Landscape and Prescribing Solutions for Recovery](https://thehackernews.com/2024/02/cybersecurity-for-healthcarediagnosing.html)
 <!-- BLOG-POST-LIST:END -->
