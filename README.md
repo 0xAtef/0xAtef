@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Releases PyRIT - A Red Teaming Tool for Generative AI](https://thehackernews.com/2024/02/microsoft-releases-pyrit-red-teaming.html)
+- [How to Use Tines&#39;s SOC Automation Capability Matrix](https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html)
 - [Researchers Detail Apple&#39;s Recent Zero-Click Shortcuts Vulnerability](https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html)
 - [FTC Slams Avast with $16.5 Million Fine for Selling Users&#39; Browsing Data](https://thehackernews.com/2024/02/ftc-slams-avast-with-165-million-fine.html)
 - [Apple Unveils PQ3 Protocol - Post-Quantum Encryption for iMessage](https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html)
-- [Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks](https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html)
-- [A New Age of Hacktivism](https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html)
 <!-- BLOG-POST-LIST:END -->
