@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Detail Apple&#39;s Recent Zero-Click Shortcuts Vulnerability](https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html)
 - [FTC Slams Avast with $16.5 Million Fine for Selling Users&#39; Browsing Data](https://thehackernews.com/2024/02/ftc-slams-avast-with-165-million-fine.html)
 - [Apple Unveils PQ3 Protocol - Post-Quantum Encryption for iMessage](https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html)
 - [Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks](https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html)
 - [A New Age of Hacktivism](https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html)
-- [Russian Government Software Backdoored to Deploy Konni RAT Malware](https://thehackernews.com/2024/02/russian-government-software-backdoored.html)
 <!-- BLOG-POST-LIST:END -->
