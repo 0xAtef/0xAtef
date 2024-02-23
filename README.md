@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FTC Slams Avast with $16.5 Million Fine for Selling Users&#39; Browsing Data](https://thehackernews.com/2024/02/ftc-slams-avast-with-165-million-fine.html)
 - [Apple Unveils PQ3 Protocol - Post-Quantum Encryption for iMessage](https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html)
 - [Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks](https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html)
 - [A New Age of Hacktivism](https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html)
 - [Russian Government Software Backdoored to Deploy Konni RAT Malware](https://thehackernews.com/2024/02/russian-government-software-backdoored.html)
-- [U.S. Offers $15 Million Bounty to Hunt Down LockBit Ransomware Leaders](https://thehackernews.com/2024/02/us-offers-15-million-bounty-to-hunt.html)
 <!-- BLOG-POST-LIST:END -->
