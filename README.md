@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Expands Free Logging Capabilities for all U.S. Federal Agencies](https://thehackernews.com/2024/02/microsoft-expands-free-logging.html)
 - [Dormant PyPI Package Compromised to Spread Nova Sentinel Malware](https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html)
 - [Microsoft Releases PyRIT - A Red Teaming Tool for Generative AI](https://thehackernews.com/2024/02/microsoft-releases-pyrit-red-teaming.html)
 - [How to Use Tines&#39;s SOC Automation Capability Matrix](https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html)
 - [Researchers Detail Apple&#39;s Recent Zero-Click Shortcuts Vulnerability](https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html)
-- [FTC Slams Avast with $16.5 Million Fine for Selling Users&#39; Browsing Data](https://thehackernews.com/2024/02/ftc-slams-avast-with-165-million-fine.html)
 <!-- BLOG-POST-LIST:END -->
