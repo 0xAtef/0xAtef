@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Targeting Developers with Malicious npm Packages](https://thehackernews.com/2024/02/north-korean-hackers-targeting.html)
 - [Three Tips to Protect Your Secrets from AI Accidents](https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html)
 - [Banking Trojans Target Latin America and Europe Through Google Cloud Run](https://thehackernews.com/2024/02/banking-trojans-target-latin-america.html)
 - [LockBit Ransomware Group Resurfaces After Law Enforcement Takedown](https://thehackernews.com/2024/02/lockbit-ransomware-group-resurfaces.html)
 - [Authorities Claim LockBit Admin &quot;LockBitSupp&quot; Has Engaged with Law Enforcement](https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html)
-- [Microsoft Expands Free Logging Capabilities for all U.S. Federal Agencies](https://thehackernews.com/2024/02/microsoft-expands-free-logging.html)
 <!-- BLOG-POST-LIST:END -->
