@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LockBit Ransomware Group Resurfaces After Law Enforcement Takedown](https://thehackernews.com/2024/02/lockbit-ransomware-group-resurfaces.html)
 - [Authorities Claim LockBit Admin &quot;LockBitSupp&quot; Has Engaged with Law Enforcement](https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html)
 - [Microsoft Expands Free Logging Capabilities for all U.S. Federal Agencies](https://thehackernews.com/2024/02/microsoft-expands-free-logging.html)
 - [Dormant PyPI Package Compromised to Spread Nova Sentinel Malware](https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html)
 - [Microsoft Releases PyRIT - A Red Teaming Tool for Generative AI](https://thehackernews.com/2024/02/microsoft-releases-pyrit-red-teaming.html)
-- [How to Use Tines&#39;s SOC Automation Capability Matrix](https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html)
 <!-- BLOG-POST-LIST:END -->
