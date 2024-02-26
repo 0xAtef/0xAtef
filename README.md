@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8,000+ Subdomains of Trusted Brands Hijacked for Massive Spam Operation](https://thehackernews.com/2024/02/8000-subdomains-of-trusted-brands.html)
 - [North Korean Hackers Targeting Developers with Malicious npm Packages](https://thehackernews.com/2024/02/north-korean-hackers-targeting.html)
 - [Three Tips to Protect Your Secrets from AI Accidents](https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html)
 - [Banking Trojans Target Latin America and Europe Through Google Cloud Run](https://thehackernews.com/2024/02/banking-trojans-target-latin-america.html)
 - [LockBit Ransomware Group Resurfaces After Law Enforcement Takedown](https://thehackernews.com/2024/02/lockbit-ransomware-group-resurfaces.html)
-- [Authorities Claim LockBit Admin &quot;LockBitSupp&quot; Has Engaged with Law Enforcement](https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html)
 <!-- BLOG-POST-LIST:END -->
