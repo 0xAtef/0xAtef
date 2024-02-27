@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress LiteSpeed Plugin Vulnerability Puts 5 Million Sites at Risk](https://thehackernews.com/2024/02/wordpress-litespeed-plugin.html)
 - [Open-Source Xeno RAT Trojan Emerges as a Potent Threat on GitHub](https://thehackernews.com/2024/02/open-source-xeno-rat-trojan-emerges-as.html)
 - [From Alert to Action: How to Speed Up Your SOC Investigations](https://thehackernews.com/2024/02/from-alert-to-action-how-to-speed-up.html)
 - [Five Eyes Agencies Expose APT29&#39;s Evolving Cloud Attack Tactics](https://thehackernews.com/2024/02/five-eyes-agencies-expose-apt29s.html)
 - [New Hugging Face Vulnerability Exposes AI Models to Supply Chain Attacks](https://thehackernews.com/2024/02/new-hugging-face-vulnerability-exposes.html)
-- [WordPress Plugin Alert - Critical SQLi Vulnerability Threatens 200K+ Websites](https://thehackernews.com/2024/02/wordpress-plugin-alert-critical-sqli.html)
 <!-- BLOG-POST-LIST:END -->
