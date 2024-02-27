@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five Eyes Agencies Expose APT29&#39;s Evolving Cloud Attack Tactics](https://thehackernews.com/2024/02/five-eyes-agencies-expose-apt29s.html)
+- [New Hugging Face Vulnerability Exposes AI Models to Supply Chain Attacks](https://thehackernews.com/2024/02/new-hugging-face-vulnerability-exposes.html)
 - [WordPress Plugin Alert - Critical SQLi Vulnerability Threatens 200K+ Websites](https://thehackernews.com/2024/02/wordpress-plugin-alert-critical-sqli.html)
 - [New IDAT Loader Attacks Using Steganography to Deploy Remcos RAT](https://thehackernews.com/2024/02/new-idat-loader-attacks-using.html)
 - [8,000+ Domains of Trusted Brands Hijacked for Massive Spam Operation](https://thehackernews.com/2024/02/8000-subdomains-of-trusted-brands.html)
-- [North Korean Hackers Targeting Developers with Malicious npm Packages](https://thehackernews.com/2024/02/north-korean-hackers-targeting.html)
-- [Three Tips to Protect Your Secrets from AI Accidents](https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html)
 <!-- BLOG-POST-LIST:END -->
