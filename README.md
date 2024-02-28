@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Superusers Need Super Protection: How to Bridge Privileged Access Management and Identity Management](https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html)
 - [TimbreStealer Malware Spreading via Tax-themed Phishing Scam Targets IT Users](https://thehackernews.com/2024/02/timbrestealer-malware-spreading-via-tax.html)
 - [Cybersecurity Agencies Warn Ubiquiti EdgeRouter Users of APT28&#39;s MooBot Threat](https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html)
 - [WordPress LiteSpeed Plugin Vulnerability Puts 5 Million Sites at Risk](https://thehackernews.com/2024/02/wordpress-litespeed-plugin.html)
 - [Open-Source Xeno RAT Trojan Emerges as a Potent Threat on GitHub](https://thehackernews.com/2024/02/open-source-xeno-rat-trojan-emerges-as.html)
-- [From Alert to Action: How to Speed Up Your SOC Investigations](https://thehackernews.com/2024/02/from-alert-to-action-how-to-speed-up.html)
 <!-- BLOG-POST-LIST:END -->
