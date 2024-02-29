@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Backdoor Targeting European Officials Linked to Indian Diplomatic Events](https://thehackernews.com/2024/02/new-backdoor-targeting-european.html)
+- [Lazarus Exploits Typos to Sneak PyPI Malware into Dev Systems](https://thehackernews.com/2024/02/lazarus-exploits-typos-to-sneak-pypi.html)
 - [Chinese Hackers Exploiting Ivanti VPN Flaws to Deploy New Malware](https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html)
 - [President Biden Blocks Mass Transfer of Personal Data to High-Risk Nations](https://thehackernews.com/2024/02/president-biden-blocks-mass-transfer-of.html)
 - [Iran-Linked UNC1549 Hackers Target Middle East Aerospace &amp; Defense Sectors](https://thehackernews.com/2024/02/iran-linked-unc1549-hackers-target.html)
-- [FBI Warns U.S. Healthcare Sector of Targeted BlackCat Ransomware Attacks](https://thehackernews.com/2024/02/fbi-warns-us-healthcare-sector-of.html)
-- [Building Your Privacy-Compliant Customer Data Platform &lpar;CDP&rpar; with First-Party Data](https://thehackernews.com/2024/02/building-your-privacy-compliant.html)
 <!-- BLOG-POST-LIST:END -->
