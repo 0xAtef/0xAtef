@@ -127,8 +127,8 @@ BIO
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks](https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html)
-- [How to Prioritize Cybersecurity Spending: A Risk-Based Strategy for the Highest ROI](https://thehackernews.com/2024/02/why-risk-based-approach-to.html)
 - [Lazarus Hackers Exploited Windows Kernel Flaw as Zero-Day in Recent Attacks](https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html)
+- [How to Prioritize Cybersecurity Spending: A Risk-Based Strategy for the Highest ROI](https://thehackernews.com/2024/02/why-risk-based-approach-to.html)
 - [New Backdoor Targeting European Officials Linked to Indian Diplomatic Events](https://thehackernews.com/2024/02/new-backdoor-targeting-european.html)
 - [Lazarus Exploits Typos to Sneak PyPI Malware into Dev Systems](https://thehackernews.com/2024/02/lazarus-exploits-typos-to-sneak-pypi.html)
 <!-- BLOG-POST-LIST:END -->
