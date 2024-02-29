@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks](https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html)
+- [How to Prioritize Cybersecurity Spending: A Risk-Based Strategy for the Highest ROI](https://thehackernews.com/2024/02/why-risk-based-approach-to.html)
+- [Lazarus Hackers Exploited Windows Kernel Flaw as Zero-Day in Recent Attacks](https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html)
 - [New Backdoor Targeting European Officials Linked to Indian Diplomatic Events](https://thehackernews.com/2024/02/new-backdoor-targeting-european.html)
 - [Lazarus Exploits Typos to Sneak PyPI Malware into Dev Systems](https://thehackernews.com/2024/02/lazarus-exploits-typos-to-sneak-pypi.html)
-- [Chinese Hackers Exploiting Ivanti VPN Flaws to Deploy New Malware](https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html)
-- [President Biden Blocks Mass Transfer of Personal Data to High-Risk Nations](https://thehackernews.com/2024/02/president-biden-blocks-mass-transfer-of.html)
-- [Iran-Linked UNC1549 Hackers Target Middle East Aerospace &amp; Defense Sectors](https://thehackernews.com/2024/02/iran-linked-unc1549-hackers-target.html)
 <!-- BLOG-POST-LIST:END -->
