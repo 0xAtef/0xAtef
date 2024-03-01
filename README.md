@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five Eyes Agencies Warn of Active Exploitation of Ivanti Gateway Vulnerabilities](https://thehackernews.com/2024/03/five-eyes-agencies-warn-of-active.html)
 - [GitHub Rolls Out Default Secret Scanning Push Protection for Public Repositories](https://thehackernews.com/2024/03/github-rolls-out-default-secret.html)
 - [New Silver SAML Attack Evades Golden SAML Defenses in Identity Systems](https://thehackernews.com/2024/02/new-silver-saml-attack-evades-golden.html)
 - [GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks](https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html)
 - [Lazarus Hackers Exploited Windows Kernel Flaw as Zero-Day in Recent Attacks](https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html)
-- [How to Prioritize Cybersecurity Spending: A Risk-Based Strategy for the Highest ROI](https://thehackernews.com/2024/02/why-risk-based-approach-to.html)
 <!-- BLOG-POST-LIST:END -->
