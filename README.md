@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Phishing Kit Leverages SMS, Voice Calls to Target Cryptocurrency Users](https://thehackernews.com/2024/03/new-phishing-kit-leverages-sms-voice.html)
 - [4 Instructive Postmortems on Data Downtime and Loss](https://thehackernews.com/2024/03/4-instructive-postmortems-on-data.html)
 - [New BIFROSE Linux Malware Variant Using Deceptive VMware Domain for Evasion](https://thehackernews.com/2024/03/new-bifrose-linux-malware-variant-using.html)
 - [Five Eyes Agencies Warn of Active Exploitation of Ivanti Gateway Vulnerabilities](https://thehackernews.com/2024/03/five-eyes-agencies-warn-of-active.html)
 - [GitHub Rolls Out Default Secret Scanning Push Protection for Public Repositories](https://thehackernews.com/2024/03/github-rolls-out-default-secret.html)
-- [New Silver SAML Attack Evades Golden SAML Defenses in Identity Systems](https://thehackernews.com/2024/02/new-silver-saml-attack-evades-golden.html)
 <!-- BLOG-POST-LIST:END -->
