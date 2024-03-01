@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Instructive Postmortems on Data Downtime and Loss](https://thehackernews.com/2024/03/4-instructive-postmortems-on-data.html)
+- [New BIFROSE Linux Malware Variant Using Deceptive VMware Domain for Evasion](https://thehackernews.com/2024/03/new-bifrose-linux-malware-variant-using.html)
 - [Five Eyes Agencies Warn of Active Exploitation of Ivanti Gateway Vulnerabilities](https://thehackernews.com/2024/03/five-eyes-agencies-warn-of-active.html)
 - [GitHub Rolls Out Default Secret Scanning Push Protection for Public Repositories](https://thehackernews.com/2024/03/github-rolls-out-default-secret.html)
 - [New Silver SAML Attack Evades Golden SAML Defenses in Identity Systems](https://thehackernews.com/2024/02/new-silver-saml-attack-evades-golden.html)
-- [GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks](https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html)
-- [Lazarus Hackers Exploited Windows Kernel Flaw as Zero-Day in Recent Attacks](https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html)
 <!-- BLOG-POST-LIST:END -->
