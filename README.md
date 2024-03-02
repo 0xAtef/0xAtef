@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Court Orders NSO Group to Hand Over Pegasus Spyware Code to WhatsApp](https://thehackernews.com/2024/03/us-court-orders-nso-group-to-hand-over.html)
 - [U.S. Charges Iranian Hacker, Offers $10 Million Reward for Capture](https://thehackernews.com/2024/03/us-charges-iranian-hacker-offers-10.html)
 - [New Phishing Kit Leverages SMS, Voice Calls to Target Cryptocurrency Users](https://thehackernews.com/2024/03/new-phishing-kit-leverages-sms-voice.html)
 - [4 Instructive Postmortems on Data Downtime and Loss](https://thehackernews.com/2024/03/4-instructive-postmortems-on-data.html)
 - [New BIFROSE Linux Malware Variant Using Deceptive VMware Domain for Evasion](https://thehackernews.com/2024/03/new-bifrose-linux-malware-variant-using.html)
-- [Five Eyes Agencies Warn of Active Exploitation of Ivanti Gateway Vulnerabilities](https://thehackernews.com/2024/03/five-eyes-agencies-warn-of-active.html)
 <!-- BLOG-POST-LIST:END -->
