@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Over 100 Malicious AI/ML Models Found on Hugging Face Platform](https://thehackernews.com/2024/03/over-100-malicious-aiml-models-found-on.html)
 - [Phobos Ransomware Aggressively Targeting U.S. Critical Infrastructure](https://thehackernews.com/2024/03/phobos-ransomware-aggressively.html)
 - [U.S. Court Orders NSO Group to Hand Over Pegasus Spyware Code to WhatsApp](https://thehackernews.com/2024/03/us-court-orders-nso-group-to-hand-over.html)
 - [U.S. Charges Iranian Hacker, Offers $10 Million Reward for Capture](https://thehackernews.com/2024/03/us-charges-iranian-hacker-offers-10.html)
 - [New Phishing Kit Leverages SMS, Voice Calls to Target Cryptocurrency Users](https://thehackernews.com/2024/03/new-phishing-kit-leverages-sms-voice.html)
-- [4 Instructive Postmortems on Data Downtime and Loss](https://thehackernews.com/2024/03/4-instructive-postmortems-on-data.html)
 <!-- BLOG-POST-LIST:END -->
