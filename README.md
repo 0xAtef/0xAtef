@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploit ConnectWise ScreenConnect Flaws to Deploy TODDLERSHARK Malware](https://thehackernews.com/2024/03/hackers-exploit-connectwise.html)
 - [What is Exposure Management and How Does it Differ from ASM?](https://thehackernews.com/2024/03/what-is-exposure-management-and-how.html)
 - [Cybercriminals Using Novel DNS Hijacking Technique for Investment Scams](https://thehackernews.com/2024/03/cybercriminals-using-novel-dns.html)
 - [Over 225,000 Compromised ChatGPT Credentials Up for Sale on Dark Web Markets](https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html)
 - [Warning: Thread Hijacking Attack Targets IT Networks, Stealing NTLM Hashes](https://thehackernews.com/2024/03/warning-thread-hijacking-attack-targets.html)
-- [Critical JetBrains TeamCity On-Premises Flaws Could Lead to Server Takeovers](https://thehackernews.com/2024/03/critical-jetbrains-teamcity-on-premises.html)
 <!-- BLOG-POST-LIST:END -->
