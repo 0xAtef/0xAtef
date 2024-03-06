@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploit Misconfigured YARN, Docker, Confluence, Redis Servers for Crypto Mining](https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html)
 - [Exit Scam: BlackCat Ransomware Group Vanishes After $22 Million Payout](https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html)
 - [A New Way To Manage Your Web Exposure: The Reflectiz Product Explained](https://thehackernews.com/2024/03/a-new-way-to-manage-your-web-exposure.html)
 - [How to Find and Fix Risky Sharing in Google Drive](https://thehackernews.com/2024/03/how-to-find-and-fix-risky-sharing-in.html)
 - [U.S. Cracks Down on Predatory Spyware Firm for Targeting Officials and Journalists](https://thehackernews.com/2024/03/us-cracks-down-on-predatory-spyware.html)
-- [VMware Issues Security Patches for ESXi, Workstation, and Fusion Flaws](https://thehackernews.com/2024/03/vmware-issues-security-patches-for-esxi.html)
 <!-- BLOG-POST-LIST:END -->
