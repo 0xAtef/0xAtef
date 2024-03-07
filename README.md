@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Human vs. Non-Human Identity in SaaS](https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html)
 - [Ex-Google Engineer Arrested for Stealing AI Technology Secrets for China](https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html)
 - [New Python-Based Snake Info Stealer Spreading Through Facebook Messages](https://thehackernews.com/2024/03/new-python-based-snake-info-stealer.html)
 - [Watch Out for Spoofed Zoom, Skype, Google Meet Sites Delivering Malware](https://thehackernews.com/2024/03/watch-out-for-spoofed-zoom-skype-google.html)
 - [Hackers Exploit Misconfigured YARN, Docker, Confluence, Redis Servers for Crypto Mining](https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html)
-- [Exit Scam: BlackCat Ransomware Group Vanishes After $22 Million Payout](https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html)
 <!-- BLOG-POST-LIST:END -->
