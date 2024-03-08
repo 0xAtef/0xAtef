@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Secrets Sensei: Conquering Secrets Management Challenges](https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html)
 - [Cisco Issues Patch for High-Severity VPN Hijacking Bug in Secure Client](https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html)
 - [QEMU Emulator Exploited as Tunneling Tool to Breach Company Network](https://thehackernews.com/2024/03/cybercriminals-utilize-qemu-emulator-as.html)
 - [CISA Warns of Actively Exploited JetBrains TeamCity Vulnerability](https://thehackernews.com/2024/03/cisa-warns-of-actively-exploited.html)
 - [Hacked WordPress Sites Abusing Visitors&#39; Browsers for Distributed Brute-Force Attacks](https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html)
-- [Chinese State Hackers Target Tibetans with Supply Chain, Watering Hole Attacks](https://thehackernews.com/2024/03/chinese-state-hackers-target-tibetans.html)
 <!-- BLOG-POST-LIST:END -->
