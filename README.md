@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Embracing the Cloud: Revolutionizing Privileged Access Management with One Identity PAM Essentials](https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html)
+- [New Banking Trojan CHAVECLOAK Targets Brazilian Users via Phishing Tactics](https://thehackernews.com/2024/03/new-banking-trojan-chavecloak-targets.html)
 - [Data Leakage Prevention in the Age of Cloud Computing: A New Approach](https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html)
 - [BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks](https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html)
 - [Proof-of-Concept Exploit Released for Progress Software OpenEdge Vulnerability](https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html)
-- [Magnet Goblin Hacker Group Leveraging 1-Day Exploits to Deploy Nerbian RAT](https://thehackernews.com/2024/03/magnet-goblin-hacker-group-leveraging-1.html)
-- [Microsoft Confirms Russian Hackers Stole Source Code, Some Customer Secrets](https://thehackernews.com/2024/03/microsoft-confirms-russian-hackers.html)
 <!-- BLOG-POST-LIST:END -->
