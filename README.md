@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks](https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html)
 - [Proof-of-Concept Exploit Released for Progress Software OpenEdge Vulnerability](https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html)
 - [Magnet Goblin Hacker Group Leveraging 1-Day Exploits to Deploy Nerbian RAT](https://thehackernews.com/2024/03/magnet-goblin-hacker-group-leveraging-1.html)
 - [Microsoft Confirms Russian Hackers Stole Source Code, Some Customer Secrets](https://thehackernews.com/2024/03/microsoft-confirms-russian-hackers.html)
 - [Meta Details WhatsApp and Messenger Interoperability to Comply with EU&#39;s DMA Regulations](https://thehackernews.com/2024/03/meta-details-whatsapp-and-messenger.html)
-- [Secrets Sensei: Conquering Secrets Management Challenges](https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html)
 <!-- BLOG-POST-LIST:END -->
