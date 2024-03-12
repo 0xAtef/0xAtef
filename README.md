@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch Out: These PyPI Python Packages Can Drain Your Crypto Wallets](https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html)
 - [CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management](https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html)
 - [Malware Campaign Exploits Popup Builder WordPress Plugin to Infect 3,900+ Sites](https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html)
 - [South Korean Citizen Detained in Russia on Cyber Espionage Charges](https://thehackernews.com/2024/03/south-korean-citizen-detained-in-russia.html)
 - [New Banking Trojan CHAVECLOAK Targets Brazilian Users via Phishing Tactics](https://thehackernews.com/2024/03/new-banking-trojan-chavecloak-targets.html)
-- [Guide: On-Prem is Dead. Have You Adjusted Your Web DLP Plan?](https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html)
 <!-- BLOG-POST-LIST:END -->
