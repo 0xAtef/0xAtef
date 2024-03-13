@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying a Common Cybersecurity Myth](https://thehackernews.com/2024/03/demystifying-common-cybersecurity-myth.html)
 - [PixPirate Android Banking Trojan Using New Evasion Tactic to Target Brazilian Users](https://thehackernews.com/2024/03/pixpirate-android-banking-trojan-using.html)
 - [Join Our Webinar on Protecting Human and Non-Human Identities in SaaS Platforms](https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html)
 - [Researchers Highlight Google&#39;s Gemini AI Susceptibility to LLM Threats](https://thehackernews.com/2024/03/researchers-highlight-googles-gemini-ai.html)
 - [Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub](https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html)
-- [Microsoft&#39;s March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws](https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html)
 <!-- BLOG-POST-LIST:END -->
