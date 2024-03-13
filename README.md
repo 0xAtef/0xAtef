@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Join Our Webinar on Protecting Human and Non-Human Identities in SaaS Platforms](https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html)
+- [Researchers Highlight Google&#39;s Gemini AI Susceptibility to LLM Threats](https://thehackernews.com/2024/03/researchers-highlight-googles-gemini-ai.html)
+- [Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub](https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html)
 - [Microsoft&#39;s March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws](https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html)
 - [Watch Out: These PyPI Python Packages Can Drain Your Crypto Wallets](https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html)
-- [CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management](https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html)
-- [Malware Campaign Exploits Popup Builder WordPress Plugin to Infect 3,900+ Sites](https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html)
-- [South Korean Citizen Detained in Russia on Cyber Espionage Charges](https://thehackernews.com/2024/03/south-korean-citizen-detained-in-russia.html)
 <!-- BLOG-POST-LIST:END -->
