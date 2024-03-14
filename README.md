@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ande Loader Malware Targets Manufacturing Sector in North America](https://thehackernews.com/2024/03/ande-loader-malware-targets.html)
 - [DarkGate Malware Exploits Recently Patched Microsoft Flaw in Zero-Day Attack](https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html)
 - [Fortinet Warns of Severe SQLi Vulnerability in FortiClientEMS Software](https://thehackernews.com/2024/03/fortinet-warns-of-severe-sqli.html)
 - [Demystifying a Common Cybersecurity Myth](https://thehackernews.com/2024/03/demystifying-common-cybersecurity-myth.html)
 - [PixPirate Android Banking Trojan Using New Evasion Tactic to Target Brazilian Users](https://thehackernews.com/2024/03/pixpirate-android-banking-trojan-using.html)
-- [Join Our Webinar on Protecting Human and Non-Human Identities in SaaS Platforms](https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html)
 <!-- BLOG-POST-LIST:END -->
