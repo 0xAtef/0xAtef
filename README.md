@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Detail Kubernetes Vulnerability That Enables Windows Node Takeover](https://thehackernews.com/2024/03/researchers-detail-kubernetes.html)
 - [3 Things CISOs Achieve with Cato](https://thehackernews.com/2024/03/3-things-cisos-achieve-with-cato.html)
 - [RedCurl Cybercrime Group Abuses Windows PCA Tool for Corporate Espionage](https://thehackernews.com/2024/03/redcurl-cybercrime-group-abuses-windows.html)
 - [Ande Loader Malware Targets Manufacturing Sector in North America](https://thehackernews.com/2024/03/ande-loader-malware-targets.html)
 - [DarkGate Malware Exploited Recently Patched Microsoft Flaw in Zero-Day Attack](https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html)
-- [Fortinet Warns of Severe SQLi Vulnerability in FortiClientEMS Software](https://thehackernews.com/2024/03/fortinet-warns-of-severe-sqli.html)
 <!-- BLOG-POST-LIST:END -->
