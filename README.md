@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DarkGate Malware Exploits Recently Patched Microsoft Flaw in Zero-Day Attack](https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html)
+- [Fortinet Warns of Severe SQLi Vulnerability in FortiClientEMS Software](https://thehackernews.com/2024/03/fortinet-warns-of-severe-sqli.html)
 - [Demystifying a Common Cybersecurity Myth](https://thehackernews.com/2024/03/demystifying-common-cybersecurity-myth.html)
 - [PixPirate Android Banking Trojan Using New Evasion Tactic to Target Brazilian Users](https://thehackernews.com/2024/03/pixpirate-android-banking-trojan-using.html)
 - [Join Our Webinar on Protecting Human and Non-Human Identities in SaaS Platforms](https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html)
-- [Researchers Highlight Google&#39;s Gemini AI Susceptibility to LLM Threats](https://thehackernews.com/2024/03/researchers-highlight-googles-gemini-ai.html)
-- [Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub](https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html)
 <!-- BLOG-POST-LIST:END -->
