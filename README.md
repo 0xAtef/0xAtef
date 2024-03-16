@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Using Cracked Software on GitHub to Spread RisePro Info Stealer](https://thehackernews.com/2024/03/hackers-using-cracked-software-on.html)
 - [GhostRace – New Data Leak Vulnerability Affects Modern CPUs](https://thehackernews.com/2024/03/ghostrace-new-data-leak-vulnerability.html)
 - [Third-Party ChatGPT Plugins Could Lead to Account Takeovers](https://thehackernews.com/2024/03/third-party-chatgpt-plugins-could-lead.html)
 - [Google Introduces Enhanced Real-Time URL Protection for Chrome Users](https://thehackernews.com/2024/03/google-introduces-enhanced-real-time.html)
 - [Malicious Ads Targeting Chinese Users with Fake Notepad++ and VNote Installers](https://thehackernews.com/2024/03/malicious-ads-targeting-chinese-users.html)
-- [LockBit Ransomware Hacker Ordered to Pay $860,000 After Guilty Plea in Canada](https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html)
 <!-- BLOG-POST-LIST:END -->
