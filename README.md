@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fortra Patches Critical RCE Vulnerability in FileCatalyst Transfer Tool](https://thehackernews.com/2024/03/fortra-patches-critical-rce.html)
 - [Hackers Using Sneaky HTML Smuggling to Deliver Malware via Fake Google Sites](https://thehackernews.com/2024/03/hackers-using-sneaky-html-smuggling-to.html)
 - [WordPress Admins Urged to Remove miniOrange Plugins Due to Critical Flaw](https://thehackernews.com/2024/03/wordpress-admins-urged-to-remove.html)
 - [APT28 Hacker Group Targeting Europe, Americas, Asia in Widespread Phishing Scheme](https://thehackernews.com/2024/03/apt28-hacker-group-targeting-europe.html)
 - [Hackers Using Cracked Software on GitHub to Spread RisePro Info Stealer](https://thehackernews.com/2024/03/hackers-using-cracked-software-on.html)
-- [GhostRace – New Data Leak Vulnerability Affects Modern CPUs](https://thehackernews.com/2024/03/ghostrace-new-data-leak-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
