@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Admins Urged to Remove miniOrange Plugins Due to Critical Flaw](https://thehackernews.com/2024/03/wordpress-admins-urged-to-remove.html)
 - [APT28 Hacker Group Targeting Europe, Americas, Asia in Widespread Phishing Scheme](https://thehackernews.com/2024/03/apt28-hacker-group-targeting-europe.html)
 - [Hackers Using Cracked Software on GitHub to Spread RisePro Info Stealer](https://thehackernews.com/2024/03/hackers-using-cracked-software-on.html)
 - [GhostRace – New Data Leak Vulnerability Affects Modern CPUs](https://thehackernews.com/2024/03/ghostrace-new-data-leak-vulnerability.html)
 - [Third-Party ChatGPT Plugins Could Lead to Account Takeovers](https://thehackernews.com/2024/03/third-party-chatgpt-plugins-could-lead.html)
-- [Google Introduces Enhanced Real-Time URL Protection for Chrome Users](https://thehackernews.com/2024/03/google-introduces-enhanced-real-time.html)
 <!-- BLOG-POST-LIST:END -->
