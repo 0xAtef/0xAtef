@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Deepfakes to Malware: AI&#39;s Expanding Role in Cyber Attacks](https://thehackernews.com/2024/03/from-deepfakes-to-malware-ais-expanding.html)
 - [Crafting and Communicating Your Cybersecurity Strategy for Board Buy-In](https://thehackernews.com/2024/03/crafting-and-communicating-your.html)
 - [Hackers Exploiting Popular Document Publishing Sites for Phishing Attacks](https://thehackernews.com/2024/03/hackers-exploiting-popular-document.html)
 - [Suspected Russian Data-Wiping &#39;AcidPour&#39; Malware Targeting Linux x86 Devices](https://thehackernews.com/2024/03/suspected-russian-data-wiping-acidpour.html)
 - [New Phishing Attack Uses Clever Microsoft Office Trick to Deploy NetSupport RAT](https://thehackernews.com/2024/03/new-phishing-attack-uses-clever.html)
-- [E-Root Marketplace Admin Sentenced to 42 Months for Selling 350K Stolen Credentials](https://thehackernews.com/2024/03/e-root-marketplace-admin-sentenced-to.html)
 <!-- BLOG-POST-LIST:END -->
