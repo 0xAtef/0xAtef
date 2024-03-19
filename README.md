@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [E-Root Marketplace Admin Sentenced to 42 Months for Selling 350K Stolen Credentials](https://thehackernews.com/2024/03/e-root-marketplace-admin-sentenced-to.html)
 - [New DEEP#GOSU Malware Campaign Targets Windows Users with Advanced Tactics](https://thehackernews.com/2024/03/new-deepgosu-malware-campaign-targets.html)
 - [Fortra Patches Critical RCE Vulnerability in FileCatalyst Transfer Tool](https://thehackernews.com/2024/03/fortra-patches-critical-rce.html)
 - [Hackers Using Sneaky HTML Smuggling to Deliver Malware via Fake Google Sites](https://thehackernews.com/2024/03/hackers-using-sneaky-html-smuggling-to.html)
 - [WordPress Admins Urged to Remove miniOrange Plugins Due to Critical Flaw](https://thehackernews.com/2024/03/wordpress-admins-urged-to-remove.html)
-- [APT28 Hacker Group Targeting Europe, Americas, Asia in Widespread Phishing Scheme](https://thehackernews.com/2024/03/apt28-hacker-group-targeting-europe.html)
 <!-- BLOG-POST-LIST:END -->
