@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Loop DoS&#39; Attack Impacts Hundreds of Thousands of Systems](https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html)
 - [Generative AI Security - Secure Your Business in a World Powered by LLMs](https://thehackernews.com/2024/03/generative-ai-security-secure-your.html)
 - [TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks](https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html)
 - [New BunnyLoader Malware Variant Surfaces with Modular Attack Features](https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html)
 - [Ukraine Arrests Trio for Hijacking Over 100 Million Email and Instagram Accounts](https://thehackernews.com/2024/03/ukraine-arrests-trio-for-hijacking-over.html)
-- [U.S. EPA Forms Task Force to Protect Water Systems from Cyberattacks](https://thehackernews.com/2024/03/us-epa-forms-task-force-to-protect.html)
 <!-- BLOG-POST-LIST:END -->
