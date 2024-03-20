@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI Security - Secure Your Business in a World Powered by LLMs](https://thehackernews.com/2024/03/generative-ai-security-secure-your.html)
+- [TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks](https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html)
 - [New BunnyLoader Malware Variant Surfaces with Modular Attack Features](https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html)
 - [Ukraine Arrests Trio for Hijacking Over 100 Million Email and Instagram Accounts](https://thehackernews.com/2024/03/ukraine-arrests-trio-for-hijacking-over.html)
 - [U.S. EPA Forms Task Force to Protect Water Systems from Cyberattacks](https://thehackernews.com/2024/03/us-epa-forms-task-force-to-protect.html)
-- [APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage](https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html)
-- [From Deepfakes to Malware: AI&#39;s Expanding Role in Cyber Attacks](https://thehackernews.com/2024/03/from-deepfakes-to-malware-ais-expanding.html)
 <!-- BLOG-POST-LIST:END -->
