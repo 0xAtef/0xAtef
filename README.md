@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability](https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html)
 - [Atlassian Releases Fixes for Over 2 Dozen Flaws, Including Critical Bamboo Bug](https://thehackernews.com/2024/03/atlassian-releases-fixes-for-over-2.html)
 - [New &#39;Loop DoS&#39; Attack Impacts Hundreds of Thousands of Systems](https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html)
 - [Generative AI Security - Secure Your Business in a World Powered by LLMs](https://thehackernews.com/2024/03/generative-ai-security-secure-your.html)
 - [TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks](https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html)
-- [New BunnyLoader Malware Variant Surfaces with Modular Attack Features](https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html)
 <!-- BLOG-POST-LIST:END -->
