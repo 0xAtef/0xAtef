@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Sanctions Russians Behind &#39;Doppelganger&#39; Cyber Influence Campaign](https://thehackernews.com/2024/03/us-sanctions-russians-behind.html)
 - [Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability](https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html)
 - [Atlassian Releases Fixes for Over 2 Dozen Flaws, Including Critical Bamboo Bug](https://thehackernews.com/2024/03/atlassian-releases-fixes-for-over-2.html)
 - [New &#39;Loop DoS&#39; Attack Impacts Hundreds of Thousands of Systems](https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html)
 - [Generative AI Security - Secure Your Business in a World Powered by LLMs](https://thehackernews.com/2024/03/generative-ai-security-secure-your.html)
-- [TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks](https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html)
 <!-- BLOG-POST-LIST:END -->
