@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AndroxGh0st Malware Targets Laravel Apps to Steal Cloud Credentials](https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html)
 - [How to Accelerate Vendor Risk Assessments in the Age of SaaS Sprawl](https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html)
 - [GitHub Launches AI-Powered Autofix Tool to Assist Devs in Patching Security Flaws](https://thehackernews.com/2024/03/github-launches-ai-powered-autofix-tool.html)
 - [Making Sense of Operational Technology Attacks: The Past, Present, and Future](https://thehackernews.com/2024/03/making-sense-of-operational-technology.html)
 - [U.S. Sanctions Russians Behind &#39;Doppelganger&#39; Cyber Influence Campaign](https://thehackernews.com/2024/03/us-sanctions-russians-behind.html)
-- [Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability](https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html)
 <!-- BLOG-POST-LIST:END -->
