@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China-Linked Group Breaches Networks via Connectwise, F5 Software Flaws](https://thehackernews.com/2024/03/china-linked-group-breaches-networks.html)
 - [Implementing Zero Trust Controls for Compliance](https://thehackernews.com/2024/03/implementing-zero-trust-controls-for.html)
+- [Massive Sign1 Campaign Infects 39,000+ WordPress Sites with Scam Redirects](https://thehackernews.com/2024/03/massive-sign1-campaign-infects-39000.html)
 - [U.S. Justice Department Sues Apple Over Monopoly and Messaging Security](https://thehackernews.com/2024/03/us-justice-department-sues-apple-over.html)
 - [Russian Hackers May Have Targeted Ukrainian Telecoms with Upgraded &#39;AcidPour&#39; Malware](https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html)
-- [Russia Hackers Using TinyTurla-NG to Breach European NGO&#39;s Systems](https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html)
-- [Over 800 npm Packages Found with Discrepancies, 18 Exploitable to &#39;Manifest Confusion&#39;](https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html)
 <!-- BLOG-POST-LIST:END -->
