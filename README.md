@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Zero Trust Controls for Compliance](https://thehackernews.com/2024/03/implementing-zero-trust-controls-for.html)
 - [U.S. Justice Department Sues Apple Over Monopoly and Messaging Security](https://thehackernews.com/2024/03/us-justice-department-sues-apple-over.html)
 - [Russian Hackers May Have Targeted Ukrainian Telecoms with Upgraded &#39;AcidPour&#39; Malware](https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html)
 - [Russia Hackers Using TinyTurla-NG to Breach European NGO&#39;s Systems](https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html)
 - [Over 800 npm Packages Found with Discrepancies, 18 Exploitable to &#39;Manifest Confusion&#39;](https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html)
-- [AndroxGh0st Malware Targets Laravel Apps to Steal Cloud Credentials](https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html)
 <!-- BLOG-POST-LIST:END -->
