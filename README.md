@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian Hackers Target Ukrainian Telecoms with Upgraded &#39;AcidPour&#39; Malware](https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html)
 - [Russia Hackers Using TinyTurla-NG to Breach European NGO&#39;s Systems](https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html)
 - [Over 800 npm Packages Found with Discrepancies, 18 Exploitable to &#39;Manifest Confusion&#39;](https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html)
 - [AndroxGh0st Malware Targets Laravel Apps to Steal Cloud Credentials](https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html)
 - [How to Accelerate Vendor Risk Assessments in the Age of SaaS Sprawl](https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html)
-- [GitHub Launches AI-Powered Autofix Tool to Assist Devs in Patching Security Flaws](https://thehackernews.com/2024/03/github-launches-ai-powered-autofix-tool.html)
 <!-- BLOG-POST-LIST:END -->
