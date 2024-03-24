@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [German Police Seize &#39;Nemesis Market&#39; in Major International Darknet Raid](https://thehackernews.com/2024/03/german-police-seize-nemesis-market-in.html)
 - [Russian Hackers Use &#39;WINELOADER&#39; Malware to Target German Political Parties](https://thehackernews.com/2024/03/russian-hackers-use-wineloader-malware.html)
 - [New StrelaStealer Phishing Attacks Hit Over 100 Organizations in E.U. and U.S.](https://thehackernews.com/2024/03/new-strelastealer-phishing-attacks-hit.html)
 - [AWS Patches Critical &#39;FlowFixation&#39; Bug in Airflow Service to Prevent Session Hijacking](https://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html)
 - [China-Linked Group Breaches Networks via Connectwise, F5 Software Flaws](https://thehackernews.com/2024/03/china-linked-group-breaches-networks.html)
-- [Implementing Zero Trust Controls for Compliance](https://thehackernews.com/2024/03/implementing-zero-trust-controls-for.html)
 <!-- BLOG-POST-LIST:END -->
