@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Hijack GitHub Accounts in Supply Chain Attack Affecting Top-gg and Others](https://thehackernews.com/2024/03/hackers-hijack-github-accounts-in.html)
+- [Key Lesson from Microsoft’s Password Spray Hack: Secure Every Account](https://thehackernews.com/2024/03/key-lesson-from-microsofts-password.html)
 - [New &quot;GoFetch&quot; Vulnerability in Apple M-Series Chips Leaks Secret Encryption Keys](https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html)
 - [Iran-Linked MuddyWater Deploys Atera for Surveillance in Phishing Attacks](https://thehackernews.com/2024/03/iran-linked-muddywater-deploys-atera.html)
 - [N. Korea-linked Kimsuky Shifts to Compiled HTML Help Files in Ongoing Cyberattacks](https://thehackernews.com/2024/03/n-korea-linked-kimsuky-shifts-to.html)
-- [German Police Seize &#39;Nemesis Market&#39; in Major International Darknet Raid](https://thehackernews.com/2024/03/german-police-seize-nemesis-market-in.html)
-- [Russian Hackers Use &#39;WINELOADER&#39; Malware to Target German Political Parties](https://thehackernews.com/2024/03/russian-hackers-use-wineloader-malware.html)
 <!-- BLOG-POST-LIST:END -->
