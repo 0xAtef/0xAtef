@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Sanctions 3 Cryptocurrency Exchanges for Helping Russia Evade Sanctions](https://thehackernews.com/2024/03/us-sanctions-3-cryptocurrency-exchanges.html)
 - [CISA Alerts on Active Exploitation of Flaws in Fortinet, Ivanti, and Nice Products](https://thehackernews.com/2024/03/cisa-alerts-on-active-exploitation-of.html)
 - [Hackers Hijack GitHub Accounts in Supply Chain Attack Affecting Top-gg and Others](https://thehackernews.com/2024/03/hackers-hijack-github-accounts-in.html)
 - [Key Lesson from Microsoft’s Password Spray Hack: Secure Every Account](https://thehackernews.com/2024/03/key-lesson-from-microsofts-password.html)
 - [New &quot;GoFetch&quot; Vulnerability in Apple M-Series Chips Leaks Secret Encryption Keys](https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html)
-- [Iran-Linked MuddyWater Deploys Atera for Surveillance in Phishing Attacks](https://thehackernews.com/2024/03/iran-linked-muddywater-deploys-atera.html)
 <!-- BLOG-POST-LIST:END -->
