@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Warns: Hackers Actively Attacking Microsoft SharePoint Vulnerability](https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html)
 - [Microsoft Edge Bug Could Have Allowed Attackers to Silently Install Malicious Extensions](https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html)
 - [SASE Solutions Fall Short Without Enterprise Browser Extensions, New Report Reveals](https://thehackernews.com/2024/03/sase-solutions-fall-short-without.html)
 - [Critical Unpatched Ray AI Platform Vulnerability Exploited for Cryptocurrency Mining](https://thehackernews.com/2024/03/critical-unpatched-ray-ai-platform.html)
 - [Alert: New Phishing Attack Delivers Keylogger Disguised as Bank Payment Notice](https://thehackernews.com/2024/03/alert-new-phishing-attack-delivers.html)
-- [Two Chinese APT Groups Ramp Up Cyber Espionage Against ASEAN Countries](https://thehackernews.com/2024/03/two-chinese-apt-groups-ramp-up-cyber.html)
 <!-- BLOG-POST-LIST:END -->
