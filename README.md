@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Two Chinese APT Groups Ramp Up Cyber Espionage Against ASEAN Countries](https://thehackernews.com/2024/03/two-chinese-apt-groups-ramp-up-cyber.html)
 - [Sketchy NuGet Package Likely Linked to Industrial Espionage Targets Developers](https://thehackernews.com/2024/03/malicious-nuget-package-linked-to.html)
 - [U.S. Charges 7 Chinese Nationals in Major 14-Year Cyber Espionage Operation](https://thehackernews.com/2024/03/us-charges-7-chinese-nationals-in-major.html)
 - [Crafting Shields: Defending Minecraft Servers Against DDoS Attacks](https://thehackernews.com/2024/03/crafting-shields-defending-minecraft.html)
 - [U.S. Sanctions 3 Cryptocurrency Exchanges for Helping Russia Evade Sanctions](https://thehackernews.com/2024/03/us-sanctions-3-cryptocurrency-exchanges.html)
-- [CISA Alerts on Active Exploitation of Flaws in Fortinet, Ivanti, and Nice Products](https://thehackernews.com/2024/03/cisa-alerts-on-active-exploitation-of.html)
 <!-- BLOG-POST-LIST:END -->
