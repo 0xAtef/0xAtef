@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Webinar: Avoiding Application Security Blind Spots with OPSWAT and F5](https://thehackernews.com/2024/03/new-webinar-avoiding-application.html)
 - [Behind the Scenes: The Art of Safeguarding Non-Human Identities](https://thehackernews.com/2024/03/behind-scenes-art-of-safeguarding-non.html)
 - [New ZenHammer Attack Bypasses Rowhammer Defenses on AMD CPUs](https://thehackernews.com/2024/03/new-zenhammer-attack-bypasses-rowhammer.html)
 - [Telegram Offers Premium Subscription in Exchange for Using Your Number to Send OTPs](https://thehackernews.com/2024/03/telegram-offers-premium-subscription-in.html)
 - [Hackers Hit Indian Defense, Energy Sectors with Malware Posing as Air Force Invite](https://thehackernews.com/2024/03/hackers-target-indian-defense-and.html)
-- [CISA Warns: Hackers Actively Attacking Microsoft SharePoint Vulnerability](https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html)
 <!-- BLOG-POST-LIST:END -->
