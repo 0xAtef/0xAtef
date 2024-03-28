@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Behind the Scenes: The Art of Safeguarding Non-Human Identities](https://thehackernews.com/2024/03/behind-scenes-art-of-safeguarding-non.html)
+- [New ZenHammer Attack Bypasses Rowhammer Defenses on AMD CPUs](https://thehackernews.com/2024/03/new-zenhammer-attack-bypasses-rowhammer.html)
 - [Telegram Offers Premium Subscription in Exchange for Using Your Number to Send OTPs](https://thehackernews.com/2024/03/telegram-offers-premium-subscription-in.html)
 - [Hackers Hit Indian Defense, Energy Sectors with Malware Posing as Air Force Invite](https://thehackernews.com/2024/03/hackers-target-indian-defense-and.html)
 - [CISA Warns: Hackers Actively Attacking Microsoft SharePoint Vulnerability](https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html)
-- [Microsoft Edge Bug Could Have Allowed Attackers to Silently Install Malicious Extensions](https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html)
-- [SASE Solutions Fall Short Without Enterprise Browser Extensions, New Report Reveals](https://thehackernews.com/2024/03/sase-solutions-fall-short-without.html)
 <!-- BLOG-POST-LIST:END -->
