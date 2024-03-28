@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Finland Blames Chinese Hacking Group APT31 for Parliament Cyber Attack](https://thehackernews.com/2024/03/finland-blames-chinese-hacking-group.html)
 - [Darcula Phishing Network Leveraging RCS and iMessage to Evade Detection](https://thehackernews.com/2024/03/darcula-phishing-network-leveraging-rcs.html)
 - [New ZenHammer Attack Bypasses RowHammer Defenses on AMD CPUs](https://thehackernews.com/2024/03/new-zenhammer-attack-bypasses-rowhammer.html)
 - [New Webinar: Avoiding Application Security Blind Spots with OPSWAT and F5](https://thehackernews.com/2024/03/new-webinar-avoiding-application.html)
 - [Behind the Scenes: The Art of Safeguarding Non-Human Identities](https://thehackernews.com/2024/03/behind-scenes-art-of-safeguarding-non.html)
-- [Telegram Offers Premium Subscription in Exchange for Using Your Number to Send OTPs](https://thehackernews.com/2024/03/telegram-offers-premium-subscription-in.html)
 <!-- BLOG-POST-LIST:END -->
