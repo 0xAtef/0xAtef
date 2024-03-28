@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Offers Premium Subscription in Exchange for Using Your Number to Send OTPs](https://thehackernews.com/2024/03/telegram-offers-premium-subscription-in.html)
 - [Hackers Hit Indian Defense, Energy Sectors with Malware Posing as Air Force Invite](https://thehackernews.com/2024/03/hackers-target-indian-defense-and.html)
 - [CISA Warns: Hackers Actively Attacking Microsoft SharePoint Vulnerability](https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html)
 - [Microsoft Edge Bug Could Have Allowed Attackers to Silently Install Malicious Extensions](https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html)
 - [SASE Solutions Fall Short Without Enterprise Browser Extensions, New Report Reveals](https://thehackernews.com/2024/03/sase-solutions-fall-short-without.html)
-- [Critical Unpatched Ray AI Platform Vulnerability Exploited for Cryptocurrency Mining](https://thehackernews.com/2024/03/critical-unpatched-ray-ai-platform.html)
 <!-- BLOG-POST-LIST:END -->
