@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPI Halts Sign-Ups Amid Surge of Malicious Package Uploads Targeting Developers](https://thehackernews.com/2024/03/pypi-halts-sign-ups-amid-surge-of.html)
 - [Linux Version of DinodasRAT Spotted in Cyber Attacks Across Several Countries](https://thehackernews.com/2024/03/linux-version-of-dinodasrat-spotted-in.html)
 - [Finland Blames Chinese Hacking Group APT31 for Parliament Cyber Attack](https://thehackernews.com/2024/03/finland-blames-chinese-hacking-group.html)
 - [New ZenHammer Attack Bypasses RowHammer Defenses on AMD CPUs](https://thehackernews.com/2024/03/new-zenhammer-attack-bypasses-rowhammer.html)
 - [New Webinar: Avoiding Application Security Blind Spots with OPSWAT and F5](https://thehackernews.com/2024/03/new-webinar-avoiding-application.html)
-- [Behind the Scenes: The Art of Safeguarding Non-Human Identities](https://thehackernews.com/2024/03/behind-scenes-art-of-safeguarding-non.html)
 <!-- BLOG-POST-LIST:END -->
