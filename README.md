@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Golden Age of Automated Penetration Testing is Here](https://thehackernews.com/2024/03/the-golden-age-of-automated-penetration.html)
 - [New Linux Bug Could Lead to User Password Leaks and Clipboard Hijacking](https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html)
 - [PyPI Halts Sign-Ups Amid Surge of Malicious Package Uploads Targeting Developers](https://thehackernews.com/2024/03/pypi-halts-sign-ups-amid-surge-of.html)
 - [Linux Version of DinodasRAT Spotted in Cyber Attacks Across Several Countries](https://thehackernews.com/2024/03/linux-version-of-dinodasrat-spotted-in.html)
 - [Finland Blames Chinese Hacking Group APT31 for Parliament Cyber Attack](https://thehackernews.com/2024/03/finland-blames-chinese-hacking-group.html)
-- [New ZenHammer Attack Bypasses RowHammer Defenses on AMD CPUs](https://thehackernews.com/2024/03/new-zenhammer-attack-bypasses-rowhammer.html)
 <!-- BLOG-POST-LIST:END -->
