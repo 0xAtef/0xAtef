@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros](https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html)
 - [Dormakaba Locks Used in Millions of Hotel Rooms Could Be Cracked in Seconds](https://thehackernews.com/2024/03/dormakaba-locks-used-in-millions-of.html)
 - [TheMoon Botnet Resurfaces, Exploiting EoL Devices to Power Criminal Proxy](https://thehackernews.com/2024/03/themoon-botnet-resurfaces-exploiting.html)
 - [The Golden Age of Automated Penetration Testing is Here](https://thehackernews.com/2024/03/the-golden-age-of-automated-penetration.html)
 - [New Linux Bug Could Lead to User Password Leaks and Clipboard Hijacking](https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html)
-- [PyPI Halts Sign-Ups Amid Surge of Malicious Package Uploads Targeting Developers](https://thehackernews.com/2024/03/pypi-halts-sign-ups-amid-surge-of.html)
 <!-- BLOG-POST-LIST:END -->
