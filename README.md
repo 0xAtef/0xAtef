@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Indian Government Rescues 250 Citizens Forced into Cybercrime in Cambodia](https://thehackernews.com/2024/04/indian-government-rescues-250-citizens.html)
 - [Detecting Windows-based Malware Through Better Visibility](https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html)
 - [Malicious Apps Caught Secretly Turning Android Phones into Proxies for Cybercriminals](https://thehackernews.com/2024/04/malicious-apps-caught-secretly-turning.html)
 - [Vultur Android Banking Trojan Returns with Upgraded Remote Control Capabilities](https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html)
 - [Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware](https://thehackernews.com/2024/03/hackers-target-macos-users-with.html)
-- [Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros](https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html)
 <!-- BLOG-POST-LIST:END -->
