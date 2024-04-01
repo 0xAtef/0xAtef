@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Apps Caught Secretly Turning Android Phones into Proxies for Cybercriminals](https://thehackernews.com/2024/04/malicious-apps-caught-secretly-turning.html)
 - [Vultur Android Banking Trojan Returns with Upgraded Remote Control Capabilities](https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html)
 - [Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware](https://thehackernews.com/2024/03/hackers-target-macos-users-with.html)
 - [Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros](https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html)
 - [Dormakaba Locks Used in Millions of Hotel Rooms Could Be Cracked in Seconds](https://thehackernews.com/2024/03/dormakaba-locks-used-in-millions-of.html)
-- [TheMoon Botnet Resurfaces, Exploiting EoL Devices to Power Criminal Proxy](https://thehackernews.com/2024/03/themoon-botnet-resurfaces-exploiting.html)
 <!-- BLOG-POST-LIST:END -->
