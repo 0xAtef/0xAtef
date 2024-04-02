@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Code in XZ Utils for Linux Systems Enables Remote Code Execution](https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html)
 - [Harnessing the Power of CTEM for Cloud Security](https://thehackernews.com/2024/04/harnessing-power-of-ctem-for-cloud.html)
 - [China-linked Hackers Deploy New &#39;UNAPIMON&#39; Malware for Stealthy Operations](https://thehackernews.com/2024/04/china-linked-hackers-deploy-new.html)
 - [Google to Delete Billions of Browsing Records in &#39;Incognito Mode&#39; Privacy Lawsuit Settlement](https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html)
 - [Massive Phishing Campaign Strikes Latin America: Venom RAT Targeting Multiple Sectors](https://thehackernews.com/2024/04/massive-phishing-campaign-strikes-latin.html)
-- [Indian Government Rescues 250 Citizens Forced into Cybercrime in Cambodia](https://thehackernews.com/2024/04/indian-government-rescues-250-citizens.html)
 <!-- BLOG-POST-LIST:END -->
