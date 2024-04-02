@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google to Delete Billions of Browsing Records in &#39;Incognito Mode&#39; Privacy Lawsuit Settlement](https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html)
 - [Massive Phishing Campaign Strikes Latin America: Venom RAT Targeting Multiple Sectors](https://thehackernews.com/2024/04/massive-phishing-campaign-strikes-latin.html)
 - [Indian Government Rescues 250 Citizens Forced into Cybercrime in Cambodia](https://thehackernews.com/2024/04/indian-government-rescues-250-citizens.html)
 - [Detecting Windows-based Malware Through Better Visibility](https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html)
 - [Malicious Apps Caught Secretly Turning Android Phones into Proxies for Cybercriminals](https://thehackernews.com/2024/04/malicious-apps-caught-secretly-turning.html)
-- [Vultur Android Banking Trojan Returns with Upgraded Remote Control Capabilities](https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html)
 <!-- BLOG-POST-LIST:END -->
