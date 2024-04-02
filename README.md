@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Massive Phishing Campaign Strikes Latin America: Venom RAT Targeting Multiple Sectors](https://thehackernews.com/2024/04/massive-phishing-campaign-strikes-latin.html)
 - [Indian Government Rescues 250 Citizens Forced into Cybercrime in Cambodia](https://thehackernews.com/2024/04/indian-government-rescues-250-citizens.html)
 - [Detecting Windows-based Malware Through Better Visibility](https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html)
 - [Malicious Apps Caught Secretly Turning Android Phones into Proxies for Cybercriminals](https://thehackernews.com/2024/04/malicious-apps-caught-secretly-turning.html)
 - [Vultur Android Banking Trojan Returns with Upgraded Remote Control Capabilities](https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html)
-- [Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware](https://thehackernews.com/2024/03/hackers-target-macos-users-with.html)
 <!-- BLOG-POST-LIST:END -->
