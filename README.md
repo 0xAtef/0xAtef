@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome Beta Tests New DBSC Protection Against Cookie-Stealing Attacks](https://thehackernews.com/2024/04/google-chrome-beta-tests-new-dbsc.html)
 - [Attack Surface Management vs. Vulnerability Management](https://thehackernews.com/2024/04/attack-surface-management-vs.html)
 - [Mispadu Trojan Targets Europe, Thousands of Credentials Compromised](https://thehackernews.com/2024/04/mispadu-trojan-targets-europe-thousands.html)
 - [Critical Security Flaw Found in Popular LayerSlider WordPress Plugin](https://thehackernews.com/2024/04/critical-security-flaw-found-in-popular.html)
 - [Malicious Code in XZ Utils for Linux Systems Enables Remote Code Execution](https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html)
-- [Harnessing the Power of CTEM for Cloud Security](https://thehackernews.com/2024/04/harnessing-power-of-ctem-for-cloud.html)
 <!-- BLOG-POST-LIST:END -->
