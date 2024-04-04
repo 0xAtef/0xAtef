@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Considerations for Operational Technology Cybersecurity](https://thehackernews.com/2024/04/considerations-for-operational.html)
+- [New HTTP/2 Vulnerability Exposes Web Servers to DoS Attacks](https://thehackernews.com/2024/04/new-http2-vulnerability-exposes-web.html)
 - [Ivanti Rushes Patches for 4 New Flaws in Connect Secure and Policy Secure](https://thehackernews.com/2024/04/ivanti-rushes-patches-for-4-new-flaw-in.html)
 - [Google Warns: Android Zero-Day Flaws in Pixel Phones Exploited by Forensic Companies](https://thehackernews.com/2024/04/google-warns-android-zero-day-flaws-in.html)
 - [U.S. Cyber Safety Board Slams Microsoft Over Breach by China-Based Hackers](https://thehackernews.com/2024/04/us-cyber-safety-board-slams-microsoft.html)
-- [Google Chrome Beta Tests New DBSC Protection Against Cookie-Stealing Attacks](https://thehackernews.com/2024/04/google-chrome-beta-tests-new-dbsc.html)
-- [Attack Surface Management vs. Vulnerability Management](https://thehackernews.com/2024/04/attack-surface-management-vs.html)
 <!-- BLOG-POST-LIST:END -->
