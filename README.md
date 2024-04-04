@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vietnam-Based Hackers Steal Financial Data Across Asia with Malware](https://thehackernews.com/2024/04/vietnam-based-hackers-steal-financial.html)
+- [New Phishing Campaign Targets Oil &amp; Gas with Evolved Data-Stealing Malware](https://thehackernews.com/2024/04/new-phishing-campaign-targets-oil-gas.html)
 - [Considerations for Operational Technology Cybersecurity](https://thehackernews.com/2024/04/considerations-for-operational.html)
 - [New HTTP/2 Vulnerability Exposes Web Servers to DoS Attacks](https://thehackernews.com/2024/04/new-http2-vulnerability-exposes-web.html)
 - [Ivanti Rushes Patches for 4 New Flaws in Connect Secure and Policy Secure](https://thehackernews.com/2024/04/ivanti-rushes-patches-for-4-new-flaw-in.html)
-- [Google Warns: Android Zero-Day Flaws in Pixel Phones Exploited by Forensic Companies](https://thehackernews.com/2024/04/google-warns-android-zero-day-flaws-in.html)
-- [U.S. Cyber Safety Board Slams Microsoft Over Breach by China-Based Hackers](https://thehackernews.com/2024/04/us-cyber-safety-board-slams-microsoft.html)
 <!-- BLOG-POST-LIST:END -->
