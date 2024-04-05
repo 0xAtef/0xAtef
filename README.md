@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From PDFs to Payload: Bogus Adobe Acrobat Reader Installers Distribute Byakugan Malware](https://thehackernews.com/2024/04/from-pdfs-to-payload-bogus-adobe.html)
 - [New Wave of JSOutProx Malware Targeting Financial Firms in APAC and MENA](https://thehackernews.com/2024/04/new-wave-of-jsoutprox-malware-targeting.html)
 - [Researchers Identify Multiple China Hacker Groups Exploiting Ivanti Security Flaws](https://thehackernews.com/2024/04/researchers-identify-multiple-china.html)
 - [Vietnam-Based Hackers Steal Financial Data Across Asia with Malware](https://thehackernews.com/2024/04/vietnam-based-hackers-steal-financial.html)
 - [New Phishing Campaign Targets Oil &amp; Gas with Evolved Data-Stealing Malware](https://thehackernews.com/2024/04/new-phishing-campaign-targets-oil-gas.html)
-- [Considerations for Operational Technology Cybersecurity](https://thehackernews.com/2024/04/considerations-for-operational.html)
 <!-- BLOG-POST-LIST:END -->
