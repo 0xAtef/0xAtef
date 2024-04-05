@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-as-a-Service Providers Vulnerable to PrivEsc and Cross-Tenant Attacks](https://thehackernews.com/2024/04/ai-as-service-providers-vulnerable-to.html)
 - [CISO Perspectives on Complying with Cybersecurity Regulations](https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html)
 - [From PDFs to Payload: Bogus Adobe Acrobat Reader Installers Distribute Byakugan Malware](https://thehackernews.com/2024/04/from-pdfs-to-payload-bogus-adobe.html)
 - [New Wave of JSOutProx Malware Targeting Financial Firms in APAC and MENA](https://thehackernews.com/2024/04/new-wave-of-jsoutprox-malware-targeting.html)
 - [Researchers Identify Multiple China Hacker Groups Exploiting Ivanti Security Flaws](https://thehackernews.com/2024/04/researchers-identify-multiple-china.html)
-- [Vietnam-Based Hackers Steal Financial Data Across Asia with Malware](https://thehackernews.com/2024/04/vietnam-based-hackers-steal-financial.html)
 <!-- BLOG-POST-LIST:END -->
