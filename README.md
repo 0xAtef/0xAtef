@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Discover LG Smart TV Vulnerabilities Allowing Root Access](https://thehackernews.com/2024/04/researchers-discover-lg-smart-tv.html)
 - [CL0P&#39;s Ransomware Rampage - Security Measures for 2024](https://thehackernews.com/2024/04/cl0ps-ransomware-rampage-security.html)
 - [Attackers Using Obfuscation Tools to Deliver Multi-Stage Malware via Invoice Phishing](https://thehackernews.com/2024/04/attackers-using-obfuscation-tools-to.html)
 - [Critical Flaws Leave 92,000 D-Link NAS Devices Vulnerable to Malware Attacks](https://thehackernews.com/2024/04/critical-flaws-leave-92000-d-link-nas.html)
 - [Embracing the Cloud: Revolutionizing Privileged Access Management with One Identity Cloud PAM Essentials](https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html)
-- [Google Chrome Adds V8 Sandbox - A New Defense Against Browser Attacks](https://thehackernews.com/2024/04/google-chrome-adds-v8-sandbox-new.html)
 <!-- BLOG-POST-LIST:END -->
