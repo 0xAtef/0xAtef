@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Flaws Leave 92,000 D-Link NAS Devices Vulnerable to Malware Attacks](https://thehackernews.com/2024/04/critical-flaws-leave-92000-d-link-nas.html)
+- [Embracing the Cloud: Revolutionizing Privileged Access Management with One Identity Cloud PAM Essentials](https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html)
 - [Google Chrome Adds V8 Sandbox - A New Defense Against Browser Attacks](https://thehackernews.com/2024/04/google-chrome-adds-v8-sandbox-new.html)
 - [Watch Out for &#39;Latrodectus&#39; - This Malware Could Be In Your Inbox](https://thehackernews.com/2024/04/watch-out-for-latrodectus-this-malware.html)
 - [The Drop in Ransomware Attacks in 2024 and What it Means](https://thehackernews.com/2024/04/the-drop-in-ransomware-attacks-in-2024.html)
-- [Cybercriminals Targeting Latin America with Sophisticated Phishing Scheme](https://thehackernews.com/2024/04/cybercriminals-targeting-latin-america.html)
-- [Google Sues App Developers Over Fake Crypto Investment App Scam](https://thehackernews.com/2024/04/google-sues-app-developers-over-fake.html)
 <!-- BLOG-POST-LIST:END -->
