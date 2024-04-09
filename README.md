@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10-Year-Old &#39;RUBYCARP&#39; Romanian Hacker Group Surfaces with Botnet](https://thehackernews.com/2024/04/10-year-old-rubycarp-romanian-hacker.html)
+- [Hackers Targeting Human Rights Activists in Morocco and Western Sahara](https://thehackernews.com/2024/04/hackers-targeting-human-rights.html)
 - [Researchers Discover LG Smart TV Vulnerabilities Allowing Root Access](https://thehackernews.com/2024/04/researchers-discover-lg-smart-tv.html)
 - [CL0P&#39;s Ransomware Rampage - Security Measures for 2024](https://thehackernews.com/2024/04/cl0ps-ransomware-rampage-security.html)
 - [Attackers Using Obfuscation Tools to Deliver Multi-Stage Malware via Invoice Phishing](https://thehackernews.com/2024/04/attackers-using-obfuscation-tools-to.html)
-- [Critical Flaws Leave 92,000 D-Link NAS Devices Vulnerable to Malware Attacks](https://thehackernews.com/2024/04/critical-flaws-leave-92000-d-link-nas.html)
-- [Embracing the Cloud: Revolutionizing Privileged Access Management with One Identity Cloud PAM Essentials](https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html)
 <!-- BLOG-POST-LIST:END -->
