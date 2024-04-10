@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Fixes 149 Flaws in Huge April Patch Release, Zero-Days Included](https://thehackernews.com/2024/04/microsoft-fixes-149-flaws-in-huge-april.html)
 - [Critical &#39;BatBadBut&#39; Rust Vulnerability Exposes Windows Systems to Attacks](https://thehackernews.com/2024/04/critical-batbadbut-rust-vulnerability.html)
 - [10-Year-Old &#39;RUBYCARP&#39; Romanian Hacker Group Surfaces with Botnet](https://thehackernews.com/2024/04/10-year-old-rubycarp-romanian-hacker.html)
 - [Hackers Targeting Human Rights Activists in Morocco and Western Sahara](https://thehackernews.com/2024/04/hackers-targeting-human-rights.html)
 - [Researchers Discover LG Smart TV Vulnerabilities Allowing Root Access](https://thehackernews.com/2024/04/researchers-discover-lg-smart-tv.html)
-- [CL0P&#39;s Ransomware Rampage - Security Measures for 2024](https://thehackernews.com/2024/04/cl0ps-ransomware-rampage-security.html)
 <!-- BLOG-POST-LIST:END -->
