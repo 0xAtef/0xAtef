@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hands-on Review: Cynomi AI-powered vCISO Platform](https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html)
 - [Researchers Uncover First Native Spectre v2 Exploit Against Linux Kernel](https://thehackernews.com/2024/04/researchers-uncover-first-native.html)
 - [Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses](https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html)
 - [Microsoft Fixes 149 Flaws in Huge April Patch Release, Zero-Days Included](https://thehackernews.com/2024/04/microsoft-fixes-149-flaws-in-huge-april.html)
 - [Critical &#39;BatBadBut&#39; Rust Vulnerability Exposes Windows Systems to Attacks](https://thehackernews.com/2024/04/critical-batbadbut-rust-vulnerability.html)
-- [10-Year-Old &#39;RUBYCARP&#39; Romanian Hacker Group Surfaces with Botnet](https://thehackernews.com/2024/04/10-year-old-rubycarp-romanian-hacker.html)
 <!-- BLOG-POST-LIST:END -->
