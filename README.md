@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Robin Returns: New Malware Campaign Spreading Through WSF Files](https://thehackernews.com/2024/04/raspberry-robin-returns-new-malware.html)
 - [Beware: GitHub&#39;s Fake Popularity Scam Tricking Developers into Downloading Malware](https://thehackernews.com/2024/04/beware-githubs-fake-popularity-scam.html)
 - [Hands-on Review: Cynomi AI-powered vCISO Platform](https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html)
 - [Researchers Uncover First Native Spectre v2 Exploit Against Linux Kernel](https://thehackernews.com/2024/04/researchers-uncover-first-native.html)
 - [Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses](https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html)
-- [Microsoft Fixes 149 Flaws in Huge April Patch Release, Zero-Days Included](https://thehackernews.com/2024/04/microsoft-fixes-149-flaws-in-huge-april.html)
 <!-- BLOG-POST-LIST:END -->
