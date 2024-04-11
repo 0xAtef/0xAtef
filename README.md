@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python&#39;s PyPI Reveals Its Secrets](https://thehackernews.com/2024/04/blog-post.html)
+- [TA547 Phishing Attack Hits German Firms with Rhadamanthys Stealer](https://thehackernews.com/2024/04/ta547-phishing-attack-hits-german-firms.html)
 - [Apple Updates Spyware Alert System to Warn Victims of Mercenary Attacks](https://thehackernews.com/2024/04/apple-expands-spyware-alert-system-to.html)
 - [Fortinet Rolls Out Critical Security Patches for FortiClientLinux Vulnerability](https://thehackernews.com/2024/04/fortinet-has-released-patches-to.html)
 - [&#39;eXotic Visit&#39; Spyware Campaign Targets Android Users in India and Pakistan](https://thehackernews.com/2024/04/exotic-visit-spyware-campaign-targets.html)
-- [Raspberry Robin Returns: New Malware Campaign Spreading Through WSF Files](https://thehackernews.com/2024/04/raspberry-robin-returns-new-malware.html)
-- [Beware: GitHub&#39;s Fake Popularity Scam Tricking Developers into Downloading Malware](https://thehackernews.com/2024/04/beware-githubs-fake-popularity-scam.html)
 <!-- BLOG-POST-LIST:END -->
