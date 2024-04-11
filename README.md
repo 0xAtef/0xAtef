@@ -126,7 +126,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apple Expands Spyware Alert System to Warn Users of Mercenary Attacks](https://thehackernews.com/2024/04/apple-expands-spyware-alert-system-to.html)
+- [Apple Updates Spyware Alert System to Warn Victims of Mercenary Attacks](https://thehackernews.com/2024/04/apple-expands-spyware-alert-system-to.html)
 - [Fortinet Rolls Out Critical Security Patches for FortiClientLinux Vulnerability](https://thehackernews.com/2024/04/fortinet-has-released-patches-to.html)
 - [&#39;eXotic Visit&#39; Spyware Campaign Targets Android Users in India and Pakistan](https://thehackernews.com/2024/04/exotic-visit-spyware-campaign-targets.html)
 - [Raspberry Robin Returns: New Malware Campaign Spreading Through WSF Files](https://thehackernews.com/2024/04/raspberry-robin-returns-new-malware.html)
