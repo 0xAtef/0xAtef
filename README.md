@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Keepers: Mastering Non-Human Identity Management](https://thehackernews.com/2024/04/code-keepers-mastering-non-human.html)
 - [Iranian MuddyWater Hackers Adopt New C2 Tool &#39;DarkBeatC2&#39; in Latest Campaign](https://thehackernews.com/2024/04/iranian-muddywater-hackers-adopt-new-c2.html)
 - [Zero-Day Alert: Critical Palo Alto Networks PAN-OS Flaw Under Active Attack](https://thehackernews.com/2024/04/zero-day-alert-critical-palo-alto.html)
 - [Sneaky Credit Card Skimmer Disguised as Harmless Facebook Tracker](https://thehackernews.com/2024/04/sneaky-credit-card-skimmer-disguised-as.html)
 - [U.S. Federal Agencies Ordered to Hunt for Signs of Microsoft Breach and Mitigate Risks](https://thehackernews.com/2024/04/us-federal-agencies-ordered-to-hunt-for.html)
-- [Python&#39;s PyPI Reveals Its Secrets](https://thehackernews.com/2024/04/gitguardian-report-pypi-secrets.html)
 <!-- BLOG-POST-LIST:END -->
