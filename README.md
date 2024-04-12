@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sneaky Credit Card Skimmer Disguised as Harmless Facebook Tracker](https://thehackernews.com/2024/04/sneaky-credit-card-skimmer-disguised-as.html)
 - [U.S. Federal Agencies Ordered to Hunt for Signs of Microsoft Breach and Mitigate Risks](https://thehackernews.com/2024/04/us-federal-agencies-ordered-to-hunt-for.html)
 - [Python&#39;s PyPI Reveals Its Secrets](https://thehackernews.com/2024/04/gitguardian-report-pypi-secrets.html)
 - [TA547 Phishing Attack Hits German Firms with Rhadamanthys Stealer](https://thehackernews.com/2024/04/ta547-phishing-attack-hits-german-firms.html)
 - [Apple Updates Spyware Alert System to Warn Victims of Mercenary Attacks](https://thehackernews.com/2024/04/apple-expands-spyware-alert-system-to.html)
-- [Fortinet Rolls Out Critical Security Patches for FortiClientLinux Vulnerability](https://thehackernews.com/2024/04/fortinet-has-released-patches-to.html)
 <!-- BLOG-POST-LIST:END -->
