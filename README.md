@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Security Engineer Jailed 3 Years for $12.3 Million Crypto Exchange Thefts](https://thehackernews.com/2024/04/ex-security-engineer-jailed-3-years-for.html)
+- [U.S. Treasury Hamas Spokesperson for Cyber Influence Operations](https://thehackernews.com/2024/04/us-treasury-hamas-spokesperson-for.html)
 - [Hackers Deploy Python Backdoor in Palo Alto Zero-Day Attack](https://thehackernews.com/2024/04/hackers-deploy-python-backdoor-in-palo.html)
 - [Popular Rust Crate liblzma-sys Compromised with XZ Utils Backdoor Files](https://thehackernews.com/2024/04/popular-rust-crate-liblzma-sys.html)
 - [Code Keepers: Mastering Non-Human Identity Management](https://thehackernews.com/2024/04/code-keepers-mastering-non-human.html)
-- [Iranian MuddyWater Hackers Adopt New C2 Tool &#39;DarkBeatC2&#39; in Latest Campaign](https://thehackernews.com/2024/04/iranian-muddywater-hackers-adopt-new-c2.html)
-- [Zero-Day Alert: Critical Palo Alto Networks PAN-OS Flaw Under Active Attack](https://thehackernews.com/2024/04/zero-day-alert-critical-palo-alto.html)
 <!-- BLOG-POST-LIST:END -->
