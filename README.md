@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead](https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html)
+- [Muddled Libra Shifts Focus to SaaS and Cloud for Extortion and Data Theft Attacks](https://thehackernews.com/2024/04/muddled-libra-shifts-focus-to-saas-and.html)
 - [Timing is Everything: The Role of Just-in-Time Privileged Access in Security Evolution](https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html)
 - [Chinese-Linked LightSpy iOS Spyware Targets South Asian iPhone Users](https://thehackernews.com/2024/04/chinese-linked-lightspy-ios-spyware.html)
 - [Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability](https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html)
-- [Ex-Security Engineer Jailed 3 Years for $12.3 Million Crypto Exchange Thefts](https://thehackernews.com/2024/04/ex-security-engineer-jailed-3-years-for.html)
-- [U.S. Treasury Hamas Spokesperson for Cyber Influence Operations](https://thehackernews.com/2024/04/us-treasury-hamas-spokesperson-for.html)
 <!-- BLOG-POST-LIST:END -->
