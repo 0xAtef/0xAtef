@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Intel and Lenovo BMCs Contain Unpatched Lighttpd Server Flaw](https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html)
 - [AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead](https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html)
 - [Muddled Libra Shifts Focus to SaaS and Cloud for Extortion and Data Theft Attacks](https://thehackernews.com/2024/04/muddled-libra-shifts-focus-to-saas-and.html)
 - [Timing is Everything: The Role of Just-in-Time Privileged Access in Security Evolution](https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html)
 - [Chinese-Linked LightSpy iOS Spyware Targets South Asian iPhone Users](https://thehackernews.com/2024/04/chinese-linked-lightspy-ios-spyware.html)
-- [Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability](https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html)
 <!-- BLOG-POST-LIST:END -->
