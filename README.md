@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Timing is Everything: The Role of Just-in-Time Privileged Access in Security Evolution](https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html)
 - [Chinese-Linked LightSpy iOS Spyware Targets South Asian iPhone Users](https://thehackernews.com/2024/04/chinese-linked-lightspy-ios-spyware.html)
 - [Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability](https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html)
 - [Ex-Security Engineer Jailed 3 Years for $12.3 Million Crypto Exchange Thefts](https://thehackernews.com/2024/04/ex-security-engineer-jailed-3-years-for.html)
 - [U.S. Treasury Hamas Spokesperson for Cyber Influence Operations](https://thehackernews.com/2024/04/us-treasury-hamas-spokesperson-for.html)
-- [Hackers Deploy Python Backdoor in Palo Alto Zero-Day Attack](https://thehackernews.com/2024/04/hackers-deploy-python-backdoor-in-palo.html)
 <!-- BLOG-POST-LIST:END -->
