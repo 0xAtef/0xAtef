@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability](https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html)
 - [Ex-Security Engineer Jailed 3 Years for $12.3 Million Crypto Exchange Thefts](https://thehackernews.com/2024/04/ex-security-engineer-jailed-3-years-for.html)
 - [U.S. Treasury Hamas Spokesperson for Cyber Influence Operations](https://thehackernews.com/2024/04/us-treasury-hamas-spokesperson-for.html)
 - [Hackers Deploy Python Backdoor in Palo Alto Zero-Day Attack](https://thehackernews.com/2024/04/hackers-deploy-python-backdoor-in-palo.html)
 - [Popular Rust Crate liblzma-sys Compromised with XZ Utils Backdoor Files](https://thehackernews.com/2024/04/popular-rust-crate-liblzma-sys.html)
-- [Code Keepers: Mastering Non-Human Identity Management](https://thehackernews.com/2024/04/code-keepers-mastering-non-human.html)
 <!-- BLOG-POST-LIST:END -->
