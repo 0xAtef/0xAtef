@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenJS Foundation Targeted in Potential JavaScript Project Takeover Attempt](https://thehackernews.com/2024/04/openjs-foundation-targeted-in-potential.html)
 - [TA558 Hackers Weaponize Images for Wide-Scale Malware Attacks](https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html)
 - [AWS, Google, and Azure CLI Tools Could Leak Credentials in Build Logs](https://thehackernews.com/2024/04/aws-google-and-azure-cli-tools-could.html)
 - [Widely-Used PuTTY SSH Client Found Vulnerable to Key Recovery Attack](https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html)
 - [Identity in the Shadows: Shedding Light on Cybersecurity&#39;s Unseen Threats](https://thehackernews.com/2024/04/identity-in-shadows-shedding-light-on.html)
-- [FTC Fines Mental Health Startup Cerebral $7 Million for Major Privacy Violations](https://thehackernews.com/2024/04/ftc-fines-mental-health-startup.html)
 <!-- BLOG-POST-LIST:END -->
