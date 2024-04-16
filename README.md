@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Widely-Used PuTTY SSH Client Found Vulnerable to Key Recovery Attack](https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html)
+- [Identity in the Shadows: Shedding Light on Cybersecurity&#39;s Unseen Threats](https://thehackernews.com/2024/04/identity-in-shadows-shedding-light-on.html)
 - [FTC Fines Mental Health Startup Cerebral $7 Million for Major Privacy Violations](https://thehackernews.com/2024/04/ftc-fines-mental-health-startup.html)
 - [Hive RAT Creators and $3.5M Cryptojacking Mastermind Arrested in Global Crackdown](https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html)
 - [Intel and Lenovo BMCs Contain Unpatched Lighttpd Server Flaw](https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html)
-- [AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead](https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html)
-- [Muddled Libra Shifts Focus to SaaS and Cloud for Extortion and Data Theft Attacks](https://thehackernews.com/2024/04/muddled-libra-shifts-focus-to-saas-and.html)
 <!-- BLOG-POST-LIST:END -->
