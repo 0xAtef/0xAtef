@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian APT Deploys New &#39;Kapeka&#39; Backdoor in Eastern European Attacks](https://thehackernews.com/2024/04/russian-apt-deploys-new-kapeka-backdoor.html)
 - [GenAI: A New Headache for SaaS Security Teams](https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html)
 - [Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware](https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html)
 - [Hackers Exploit Fortinet Flaw, Deploy ScreenConnect, Metasploit in New Campaign](https://thehackernews.com/2024/04/hackers-exploit-fortinet-flaw-deploy.html)
 - [Cisco Warns of Global Surge in Brute-Force Attacks Targeting VPN and SSH Services](https://thehackernews.com/2024/04/cisco-warns-of-global-surge-in-brute.html)
-- [OpenJS Foundation Targeted in Potential JavaScript Project Takeover Attempt](https://thehackernews.com/2024/04/openjs-foundation-targeted-in-potential.html)
 <!-- BLOG-POST-LIST:END -->
