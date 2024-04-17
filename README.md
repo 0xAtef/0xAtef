@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware](https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html)
+- [Hackers Exploit Fortinet Flaw, Deploy ScreenConnect, Metasploit in New Campaign](https://thehackernews.com/2024/04/hackers-exploit-fortinet-flaw-deploy.html)
 - [Cisco Warns of Global Surge in Brute-Force Attacks Targeting VPN and SSH Services](https://thehackernews.com/2024/04/cisco-warns-of-global-surge-in-brute.html)
 - [OpenJS Foundation Targeted in Potential JavaScript Project Takeover Attempt](https://thehackernews.com/2024/04/openjs-foundation-targeted-in-potential.html)
 - [TA558 Hackers Weaponize Images for Wide-Scale Malware Attacks](https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html)
-- [AWS, Google, and Azure CLI Tools Could Leak Credentials in Build Logs](https://thehackernews.com/2024/04/aws-google-and-azure-cli-tools-could.html)
-- [Widely-Used PuTTY SSH Client Found Vulnerable to Key Recovery Attack](https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html)
 <!-- BLOG-POST-LIST:END -->
