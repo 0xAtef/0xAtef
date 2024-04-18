@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recover from Ransomware in 5 Minutes—We will Teach You How!](https://thehackernews.com/2024/04/recover-from-ransomware-in-5-minuteswe.html)
+- [New Android Trojan &#39;SoumniBot&#39; Evades Detection with Clever Tricks](https://thehackernews.com/2024/04/new-android-trojan-soumnibot-evades.html)
+- [How to Conduct Advanced Static Analysis in a Malware Sandbox](https://thehackernews.com/2024/04/how-to-conduct-advanced-static-analysis.html)
+- [Global Police Operation Disrupts &#39;LabHost&#39; Phishing Service, Over 30 Arrested Worldwide](https://thehackernews.com/2024/04/global-police-operation-disrupts.html)
 - [Hackers Exploit OpenMetadata Flaws to Mine Crypto on Kubernetes](https://thehackernews.com/2024/04/hackers-exploit-openmetadata-flaws-to.html)
-- [Malicious Google Ads Pushing Fake IP Scanner Software with Hidden Backdoor](https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html)
-- [Russian APT Deploys New &#39;Kapeka&#39; Backdoor in Eastern European Attacks](https://thehackernews.com/2024/04/russian-apt-deploys-new-kapeka-backdoor.html)
-- [GenAI: A New Headache for SaaS Security Teams](https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html)
-- [Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware](https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html)
 <!-- BLOG-POST-LIST:END -->
