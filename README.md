@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploit OpenMetadata Flaws to Mine Crypto on Kubernetes](https://thehackernews.com/2024/04/hackers-exploit-openmetadata-flaws-to.html)
 - [Malicious Google Ads Pushing Fake IP Scanner Software with Hidden Backdoor](https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html)
 - [Russian APT Deploys New &#39;Kapeka&#39; Backdoor in Eastern European Attacks](https://thehackernews.com/2024/04/russian-apt-deploys-new-kapeka-backdoor.html)
 - [GenAI: A New Headache for SaaS Security Teams](https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html)
 - [Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware](https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html)
-- [Hackers Exploit Fortinet Flaw, Deploy ScreenConnect, Metasploit in New Campaign](https://thehackernews.com/2024/04/hackers-exploit-fortinet-flaw-deploy.html)
 <!-- BLOG-POST-LIST:END -->
