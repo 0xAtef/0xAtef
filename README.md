@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BlackTech Targets Tech, Research, and Gov Sectors New &#39;Deuterbear&#39; Tool](https://thehackernews.com/2024/04/blacktech-targets-tech-research-and-gov.html)
 - [How Attackers Can Own a Business Without Touching the Endpoint](https://thehackernews.com/2024/04/showcasing-networkless-identity-attacks.html)
 - [Akira Ransomware Gang Extorts $42 Million; Now Targets Linux Servers](https://thehackernews.com/2024/04/akira-ransomware-gang-extorts-42.html)
 - [Hackers Target Middle East Governments with Evasive &quot;CR4T&quot; Backdoor](https://thehackernews.com/2024/04/hackers-target-middle-east-governments.html)
 - [OfflRouter Malware Evades Detection in Ukraine for Almost a Decade](https://thehackernews.com/2024/04/offlrouter-malware-evades-detection-in.html)
-- [FIN7 Cybercrime Group Targeting U.S. Auto Industry with Carbanak Backdoor](https://thehackernews.com/2024/04/fin7-cybercrime-group-targeting-us-auto.html)
 <!-- BLOG-POST-LIST:END -->
