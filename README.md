@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian Hacker Group ToddyCat Uses Advanced Tools for Industrial-Scale Data Theft](https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html)
 - [Pentera&#39;s 2024 Report Reveals Hundreds of Security Events per Week, Highlighting the Criticality of Continuous Validation](https://thehackernews.com/2024/04/penteras-2024-report-reveals-hundreds.html)
 - [MITRE Corporation Breached by Nation-State Hackers Exploiting Ivanti Flaws](https://thehackernews.com/2024/04/mitre-corporation-breached-by-nation.html)
 - [Ransomware Double-Dip: Re-Victimization in Cyber Extortion](https://thehackernews.com/2024/04/ransomware-double-dip-re-victimization.html)
 - [Researchers Uncover Windows Flaws Granting Hackers Rootkit-Like Powers](https://thehackernews.com/2024/04/researchers-uncover-windows-flaws.html)
-- [Microsoft Warns: North Korean Hackers Turn to AI-Fueled Cyber Espionage](https://thehackernews.com/2024/04/microsoft-warns-north-korean-hackers.html)
 <!-- BLOG-POST-LIST:END -->
