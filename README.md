@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pentera&#39;s 2024 Report Reveals Hundreds of Security Events per Week, Highlighting the Criticality of Continuous Validation](https://thehackernews.com/2024/04/penteras-2024-report-reveals-hundreds.html)
+- [MITRE Corporation Breached by Nation-State Hackers Exploiting Ivanti Flaws](https://thehackernews.com/2024/04/mitre-corporation-breached-by-nation.html)
 - [Ransomware Double-Dip: Re-Victimization in Cyber Extortion](https://thehackernews.com/2024/04/ransomware-double-dip-re-victimization.html)
 - [Researchers Uncover Windows Flaws Granting Hackers Rootkit-Like Powers](https://thehackernews.com/2024/04/researchers-uncover-windows-flaws.html)
 - [Microsoft Warns: North Korean Hackers Turn to AI-Fueled Cyber Espionage](https://thehackernews.com/2024/04/microsoft-warns-north-korean-hackers.html)
-- [New RedLine Stealer Variant Disguised as Game Cheats Using Lua Bytecode for Stealth](https://thehackernews.com/2024/04/new-redline-stealer-variant-disguised.html)
-- [Palo Alto Networks Discloses More Details on Critical PAN-OS Flaw Under Attack](https://thehackernews.com/2024/04/palo-alto-networks-discloses-more.html)
 <!-- BLOG-POST-LIST:END -->
