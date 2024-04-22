@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Warns: North Korean Hackers Turn to AI-Fueled Cyber Espionage](https://thehackernews.com/2024/04/microsoft-warns-north-korean-hackers.html)
 - [New RedLine Stealer Variant Disguised as Game Cheats Using Lua Bytecode for Stealth](https://thehackernews.com/2024/04/new-redline-stealer-variant-disguised.html)
 - [Palo Alto Networks Discloses More Details on Critical PAN-OS Flaw Under Attack](https://thehackernews.com/2024/04/palo-alto-networks-discloses-more.html)
 - [Critical Update: CrushFTP Zero-Day Flaw Exploited in Targeted Attacks](https://thehackernews.com/2024/04/critical-update-crushftp-zero-day-flaw.html)
 - [BlackTech Targets Tech, Research, and Gov Sectors New &#39;Deuterbear&#39; Tool](https://thehackernews.com/2024/04/blacktech-targets-tech-research-and-gov.html)
-- [How Attackers Can Own a Business Without Touching the Endpoint](https://thehackernews.com/2024/04/showcasing-networkless-identity-attacks.html)
 <!-- BLOG-POST-LIST:END -->
