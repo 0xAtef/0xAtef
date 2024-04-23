@@ -126,8 +126,8 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unmasking the True Cost of Cyberattacks: Beyond Ransom and Recovery](https://thehackernews.com/2024/04/unmasking-true-cost-of-cyberattacks.html)
 - [Police Chiefs Call for Solutions to Access Encrypted Data in Serious Crime Cases](https://thehackernews.com/2024/04/police-chiefs-call-for-solutions-to.html)
+- [Unmasking the True Cost of Cyberattacks: Beyond Ransom and Recovery](https://thehackernews.com/2024/04/unmasking-true-cost-of-cyberattacks.html)
 - [German Authorities Issue Arrest Warrants for Three Suspected Chinese Spies](https://thehackernews.com/2024/04/german-authorities-issue-arrest.html)
 - [U.S. Imposes Visa Restrictions on 13 Linked to Commercial Spyware Misuse](https://thehackernews.com/2024/04/us-imposes-visa-restrictions-on-13.html)
 - [Russia&#39;s APT28 Exploited Windows Print Spooler Flaw to Deploy &#39;GooseEgg&#39; Malware](https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html)
