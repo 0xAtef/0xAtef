@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Imposes Visa Restrictions on 13 Linked to Commercial Spyware Misuse](https://thehackernews.com/2024/04/us-imposes-visa-restrictions-on-13.html)
 - [Russia&#39;s APT28 Exploited Windows Print Spooler Flaw to Deploy &#39;GooseEgg&#39; Malware](https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html)
 - [ToddyCat Hacker Group Uses Advanced Tools for Industrial-Scale Data Theft](https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html)
 - [Pentera&#39;s 2024 Report Reveals Hundreds of Security Events per Week, Highlighting the Criticality of Continuous Validation](https://thehackernews.com/2024/04/penteras-2024-report-reveals-hundreds.html)
 - [MITRE Corporation Breached by Nation-State Hackers Exploiting Ivanti Flaws](https://thehackernews.com/2024/04/mitre-corporation-breached-by-nation.html)
-- [Ransomware Double-Dip: Re-Victimization in Cyber Extortion](https://thehackernews.com/2024/04/ransomware-double-dip-re-victimization.html)
 <!-- BLOG-POST-LIST:END -->
