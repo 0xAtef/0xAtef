@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Major Security Flaws Expose Keystrokes of Over 1 Billion Chinese Keyboard App Users](https://thehackernews.com/2024/04/major-security-flaws-expose-keystrokes.html)
+- [CISO Perspectives on Complying with Cybersecurity Regulations](https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html)
 - [eScan Antivirus Update Mechanism Exploited to Spread Backdoors and Miners](https://thehackernews.com/2024/04/escan-antivirus-update-mechanism.html)
 - [CoralRaider Malware Campaign Exploits CDN Cache to Spread Info-Stealers](https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html)
 - [Apache Cordova App Harness Targeted in Dependency Confusion Attack](https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html)
-- [Webinar: Learn Proactive Supply Chain Threat Hunting Techniques](https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html)
-- [Police Chiefs Call for Solutions to Access Encrypted Data in Serious Crime Cases](https://thehackernews.com/2024/04/police-chiefs-call-for-solutions-to.html)
 <!-- BLOG-POST-LIST:END -->
