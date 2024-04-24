@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CoralRaider Malware Campaign Exploits CDN Cache to Spread Info-Stealers](https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html)
 - [Apache Cordova App Harness Targeted in Dependency Confusion Attack](https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html)
 - [Webinar: Learn Proactive Supply Chain Threat Hunting Techniques](https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html)
 - [Police Chiefs Call for Solutions to Access Encrypted Data in Serious Crime Cases](https://thehackernews.com/2024/04/police-chiefs-call-for-solutions-to.html)
 - [Unmasking the True Cost of Cyberattacks: Beyond Ransom and Recovery](https://thehackernews.com/2024/04/unmasking-true-cost-of-cyberattacks.html)
-- [German Authorities Issue Arrest Warrants for Three Suspected Chinese Spies](https://thehackernews.com/2024/04/german-authorities-issue-arrest.html)
 <!-- BLOG-POST-LIST:END -->
