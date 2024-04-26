@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploiting WP-Automatic Plugin Bug to Create Admin Accounts on WordPress Sites](https://thehackernews.com/2024/04/hackers-exploiting-wp-automatic-plugin.html)
 - [North Korea&#39;s Lazarus Group Deploys New Kaolin RAT via Fake Job Lures](https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html)
 - [Network Threats: A Step-by-Step Attack Demonstration](https://thehackernews.com/2024/04/network-threats-step-by-step-attack.html)
 - [DOJ Arrests Founders of Crypto Mixer Samourai for $2 Billion in Illegal Transactions](https://thehackernews.com/2024/04/doj-arrests-founders-of-crypto-mixer.html)
 - [Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny](https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html)
-- [State-Sponsored Hackers Exploit Two Cisco Zero-Day Vulnerabilities for Espionage](https://thehackernews.com/2024/04/state-sponsored-hackers-exploit-two.html)
 <!-- BLOG-POST-LIST:END -->
