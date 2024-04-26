@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Critical Endpoint Security Tips You Should Know](https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html)
+- [New &#39;Brokewell&#39; Android Malware Spread Through Fake Browser Updates](https://thehackernews.com/2024/04/new-brokewell-android-malware-spread.html)
+- [Palo Alto Networks Outlines Remediation for Critical PAN-OS Flaw Under Attack](https://thehackernews.com/2024/04/palo-alto-networks-outlines-remediation.html)
 - [Hackers Exploiting WP-Automatic Plugin Bug to Create Admin Accounts on WordPress Sites](https://thehackernews.com/2024/04/hackers-exploiting-wp-automatic-plugin.html)
 - [North Korea&#39;s Lazarus Group Deploys New Kaolin RAT via Fake Job Lures](https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html)
-- [Network Threats: A Step-by-Step Attack Demonstration](https://thehackernews.com/2024/04/network-threats-step-by-step-attack.html)
-- [DOJ Arrests Founders of Crypto Mixer Samourai for $2 Billion in Illegal Transactions](https://thehackernews.com/2024/04/doj-arrests-founders-of-crypto-mixer.html)
-- [Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny](https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html)
 <!-- BLOG-POST-LIST:END -->
