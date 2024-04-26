@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Severe Flaws Disclosed in Brocade SANnav SAN Management Software](https://thehackernews.com/2024/04/severe-flaws-disclosed-in-brocade.html)
 - [10 Critical Endpoint Security Tips You Should Know](https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html)
 - [New &#39;Brokewell&#39; Android Malware Spread Through Fake Browser Updates](https://thehackernews.com/2024/04/new-brokewell-android-malware-spread.html)
 - [Palo Alto Networks Outlines Remediation for Critical PAN-OS Flaw Under Attack](https://thehackernews.com/2024/04/palo-alto-networks-outlines-remediation.html)
 - [Hackers Exploiting WP-Automatic Plugin Bug to Create Admin Accounts on WordPress Sites](https://thehackernews.com/2024/04/hackers-exploiting-wp-automatic-plugin.html)
-- [North Korea&#39;s Lazarus Group Deploys New Kaolin RAT via Fake Job Lures](https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html)
 <!-- BLOG-POST-LIST:END -->
