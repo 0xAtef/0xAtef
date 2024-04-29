@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Prevented 2.28 Million Malicious Apps from Reaching Play Store in 2023](https://thehackernews.com/2024/04/google-prevented-228-million-malicious.html)
 - [China-Linked &#39;Muddling Meerkat&#39; Hijacks DNS to Map Internet on Global Scale](https://thehackernews.com/2024/04/china-linked-muddling-meerkat-hijacks.html)
 - [Navigating the Threat Landscape: Understanding Exposure Management, Pentesting, Red Teaming and RBVM](https://thehackernews.com/2024/04/navigating-threat-landscape.html)
 - [New R Programming Vulnerability Exposes Projects to Supply Chain Attacks](https://thehackernews.com/2024/04/new-r-programming-vulnerability-exposes.html)
 - [Sandbox Escape Vulnerabilities in Judge0 Expose Systems to Complete Takeover](https://thehackernews.com/2024/04/sandbox-escape-vulnerabilities-in.html)
-- [Okta Warns of Unprecedented Surge in Proxy-Driven Credential Stuffing Attacks](https://thehackernews.com/2024/04/okta-warns-of-unprecedented-surge-in.html)
 <!-- BLOG-POST-LIST:END -->
