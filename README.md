@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Threat Landscape: Understanding Exposure Management, Pentesting, Red Teaming and RBVM](https://thehackernews.com/2024/04/navigating-threat-landscape.html)
 - [Sandbox Escape Vulnerabilities in Judge0 Expose Systems to Complete Takeover](https://thehackernews.com/2024/04/sandbox-escape-vulnerabilities-in.html)
 - [Okta Warns of Unprecedented Surge in Proxy-Driven Credential Stuffing Attacks](https://thehackernews.com/2024/04/okta-warns-of-unprecedented-surge-in.html)
 - [Ukraine Targeted in Cyberattack Exploiting 7-Year-Old Microsoft Office Flaw](https://thehackernews.com/2024/04/ukraine-targeted-in-cyberattack.html)
 - [Bogus npm Packages Used to Trick Software Developers into Installing Malware](https://thehackernews.com/2024/04/bogus-npm-packages-used-to-trick.html)
-- [Severe Flaws Disclosed in Brocade SANnav SAN Management Software](https://thehackernews.com/2024/04/severe-flaws-disclosed-in-brocade.html)
 <!-- BLOG-POST-LIST:END -->
