@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China-Linked &#39;Muddling Meerkat&#39; Hijacks DNS to Map Internet on Global Scale](https://thehackernews.com/2024/04/china-linked-muddling-meerkat-hijacks.html)
 - [Navigating the Threat Landscape: Understanding Exposure Management, Pentesting, Red Teaming and RBVM](https://thehackernews.com/2024/04/navigating-threat-landscape.html)
+- [New R Programming Vulnerability Exposes Projects to Supply Chain Attacks](https://thehackernews.com/2024/04/new-r-programming-vulnerability-exposes.html)
 - [Sandbox Escape Vulnerabilities in Judge0 Expose Systems to Complete Takeover](https://thehackernews.com/2024/04/sandbox-escape-vulnerabilities-in.html)
 - [Okta Warns of Unprecedented Surge in Proxy-Driven Credential Stuffing Attacks](https://thehackernews.com/2024/04/okta-warns-of-unprecedented-surge-in.html)
-- [Ukraine Targeted in Cyberattack Exploiting 7-Year-Old Microsoft Office Flaw](https://thehackernews.com/2024/04/ukraine-targeted-in-cyberattack.html)
-- [Bogus npm Packages Used to Trick Software Developers into Installing Malware](https://thehackernews.com/2024/04/bogus-npm-packages-used-to-trick.html)
 <!-- BLOG-POST-LIST:END -->
