@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ex-NSA Employee Sentenced to 22 Years for Trying to Sell U.S. Secrets to Russia](https://thehackernews.com/2024/05/ex-nsa-employee-sentenced-to-22-years.html)
 - [Millions of Malicious &#39;Imageless&#39; Containers Planted on Docker Hub Over 5 Years](https://thehackernews.com/2024/04/millions-of-malicious-imageless.html)
 - [U.S. Government Releases New AI Security Guidelines for Critical Infrastructure](https://thehackernews.com/2024/04/us-government-releases-new-ai-security.html)
 - [Considerations for Operational Technology Cybersecurity](https://thehackernews.com/2024/04/considerations-for-operational.html)
 - [New U.K. Law Bans Default Passwords on Smart Devices Starting April 2024](https://thehackernews.com/2024/04/new-uk-law-bans-default-passwords-on.html)
-- [Google Prevented 2.28 Million Malicious Apps from Reaching Play Store in 2023](https://thehackernews.com/2024/04/google-prevented-228-million-malicious.html)
 <!-- BLOG-POST-LIST:END -->
