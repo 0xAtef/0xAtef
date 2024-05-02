@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When is One Vulnerability Scanner Not Enough?](https://thehackernews.com/2024/05/when-is-one-vulnerability-scanner-not.html)
+- [Dropbox Discloses Breach of Digital Signature Service Affecting All Users](https://thehackernews.com/2024/05/dropbox-discloses-breach-of-digital.html)
+- [New &quot;Goldoon&quot; Botnet Targets D-Link Routers With Decade-Old Flaw](https://thehackernews.com/2024/05/new-goldoon-botnet-targets-d-link.html)
 - [CISA Warns of Active Exploitation of Severe GitLab Password Reset Vulnerability](https://thehackernews.com/2024/05/cisa-warns-of-active-exploitation-of.html)
 - [New Cuttlefish Malware Hijacks Router Connections, Sniffs for Cloud Credentials](https://thehackernews.com/2024/05/new-cuttlefish-malware-hijacks-router.html)
-- [Bitcoin Forensic Analysis Uncovers Money Laundering Clusters and Criminal Proceeds](https://thehackernews.com/2024/05/bitcoin-forensic-analysis-uncovers.html)
-- [Android Malware Wpeeper Uses Compromised WordPress Sites to Hide C2 Servers](https://thehackernews.com/2024/05/android-malware-wpeeper-uses.html)
-- [How to Make Your Employees Your First Line of Cyber Defense](https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html)
 <!-- BLOG-POST-LIST:END -->
