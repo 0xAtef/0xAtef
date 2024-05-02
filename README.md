@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Popular Android Apps Like Xiaomi, WPS Office Vulnerable to File Overwrite Flaw](https://thehackernews.com/2024/05/popular-android-apps-like-xiaomi-wps.html)
 - [Ukrainian REvil Hacker Sentenced to 13 Years and Ordered to Pay $16 Million](https://thehackernews.com/2024/05/ukrainian-revil-hacker-sentenced-to-13.html)
 - [When is One Vulnerability Scanner Not Enough?](https://thehackernews.com/2024/05/when-is-one-vulnerability-scanner-not.html)
 - [Dropbox Discloses Breach of Digital Signature Service Affecting All Users](https://thehackernews.com/2024/05/dropbox-discloses-breach-of-digital.html)
 - [New &quot;Goldoon&quot; Botnet Targets D-Link Routers With Decade-Old Flaw](https://thehackernews.com/2024/05/new-goldoon-botnet-targets-d-link.html)
-- [CISA Warns of Active Exploitation of Severe GitLab Password Reset Vulnerability](https://thehackernews.com/2024/05/cisa-warns-of-active-exploitation-of.html)
 <!-- BLOG-POST-LIST:END -->
