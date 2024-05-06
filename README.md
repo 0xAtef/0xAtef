@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Cuckoo&#39; Persistent macOS Spyware Targeting Intel and Arm Macs](https://thehackernews.com/2024/05/new-cuckoo-persistent-macos-spyware.html)
 - [Microsoft Outlook Flaw Exploited by Russia&#39;s APT28 to Hack Czech, German Entities](https://thehackernews.com/2024/05/microsoft-outlook-flaw-exploited-by.html)
 - [Expert-Led Webinar - Uncovering Latest DDoS Tactics and Learn How to Fight Back](https://thehackernews.com/2024/05/expert-led-webinar-learn-latest-ddos.html)
 - [Hackers Increasingly Abusing Microsoft Graph API for Stealthy Malware Communications](https://thehackernews.com/2024/05/hackers-increasingly-abusing-microsoft.html)
 - [New Guide Explains How to Eliminate the Risk of Shadow SaaS and Protect Corporate Data](https://thehackernews.com/2024/05/new-guide-explains-how-to-eliminate.html)
-- [NSA, FBI Alert on N. Korean Hackers Spoofing Emails from Trusted Sources](https://thehackernews.com/2024/05/nsa-fbi-alert-on-n-korean-hackers.html)
 <!-- BLOG-POST-LIST:END -->
