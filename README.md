@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [APT42 Hackers Pose as Journalists to Harvest Credentials and Access Cloud Data](https://thehackernews.com/2024/05/apt42-hackers-pose-as-journalists-to.html)
+- [China-Linked Hackers Used ROOTROT Webshell in MITRE Network Intrusion](https://thehackernews.com/2024/05/china-linked-hackers-used-rootrot.html)
 - [New Case Study: The Malicious Comment](https://thehackernews.com/2024/05/new-case-study-malicious-comment.html)
 - [Google Simplifies 2-Factor Authentication Setup &lpar;It&#39;s More Important Than Ever&rpar;](https://thehackernews.com/2024/05/google-simplifies-2-factor.html)
 - [Russian Operator of BTC-e Crypto Exchange Pleads Guilty to Money Laundering](https://thehackernews.com/2024/05/russian-operator-of-btc-e-crypto.html)
-- [Critical Tinyproxy Flaw Opens Over 50,000 Hosts to Remote Code Execution](https://thehackernews.com/2024/05/critical-tinyproxy-flaw-opens-over.html)
-- [China-Linked Hackers Suspected in ArcaneDoor Cyberattacks Targeting Network Devices](https://thehackernews.com/2024/05/china-linked-hackers-suspected-in.html)
 <!-- BLOG-POST-LIST:END -->
