@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Simplifies 2-Factor Authentication Setup &lpar;It&#39;s More Important Than Ever&rpar;](https://thehackernews.com/2024/05/google-simplifies-2-factor.html)
 - [Russian Operator of BTC-e Crypto Exchange Pleads Guilty to Money Laundering](https://thehackernews.com/2024/05/russian-operator-of-btc-e-crypto.html)
 - [Critical Tinyproxy Flaw Opens Over 50,000 Hosts to Remote Code Execution](https://thehackernews.com/2024/05/critical-tinyproxy-flaw-opens-over.html)
 - [China-Linked Hackers Suspected in ArcaneDoor Cyberattacks Targeting Network Devices](https://thehackernews.com/2024/05/china-linked-hackers-suspected-in.html)
 - [It Costs How Much?!? The Financial Pitfalls of Cyberattacks on SMBs](https://thehackernews.com/2024/05/it-costs-how-much-financial-pitfalls-of.html)
-- [Xiaomi Android Devices Hit by Multiple Flaws Across Apps and System Components](https://thehackernews.com/2024/05/xiaomi-android-devices-hit-by-multiple.html)
 <!-- BLOG-POST-LIST:END -->
