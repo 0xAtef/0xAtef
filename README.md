@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A SaaS Security Challenge: Getting Permissions All in One Place](https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html)
+- [New Spectre-Style &#39;Pathfinder&#39; Attack Targets Intel CPU, Leak Encryption Keys and Data](https://thehackernews.com/2024/05/new-spectre-style-pathfinder-attack.html)
 - [The Fundamentals of Cloud Security Stress Testing](https://thehackernews.com/2024/05/the-fundamentals-of-cloud-security.html)
 - [Hijack Loader Malware Employs Process Hollowing, UAC Bypass in Latest Version](https://thehackernews.com/2024/05/hijack-loader-malware-employs-process.html)
 - [Hackers Exploiting LiteSpeed Cache Bug to Gain Full Control of WordPress Sites](https://thehackernews.com/2024/05/hackers-exploiting-litespeed-cache-bug.html)
-- [Russian Hacker Dmitry Khoroshev Unmasked as LockBit Ransomware Administrator](https://thehackernews.com/2024/05/russian-hacker-dmitry-khoroshev.html)
-- [APT42 Hackers Pose as Journalists to Harvest Credentials and Access Cloud Data](https://thehackernews.com/2024/05/apt42-hackers-pose-as-journalists-to.html)
 <!-- BLOG-POST-LIST:END -->
