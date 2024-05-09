@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical F5 Central Manager Vulnerabilities Allow Enable Full Device Takeover](https://thehackernews.com/2024/05/critical-f5-central-manager.html)
 - [A SaaS Security Challenge: Getting Permissions All in One Place](https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html)
 - [New Spectre-Style &#39;Pathfinder&#39; Attack Targets Intel CPU, Leak Encryption Keys and Data](https://thehackernews.com/2024/05/new-spectre-style-pathfinder-attack.html)
 - [The Fundamentals of Cloud Security Stress Testing](https://thehackernews.com/2024/05/the-fundamentals-of-cloud-security.html)
 - [Hijack Loader Malware Employs Process Hollowing, UAC Bypass in Latest Version](https://thehackernews.com/2024/05/hijack-loader-malware-employs-process.html)
-- [Hackers Exploiting LiteSpeed Cache Bug to Gain Full Control of WordPress Sites](https://thehackernews.com/2024/05/hackers-exploiting-litespeed-cache-bug.html)
 <!-- BLOG-POST-LIST:END -->
