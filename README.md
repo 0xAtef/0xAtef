@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New TunnelVision Attack Allows Hijacking of VPN Traffic via DHCP Manipulation](https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html)
 - [Kremlin-Backed APT28 Targets Polish Institutions in Large-Scale Malware Campaign](https://thehackernews.com/2024/05/kremlin-backed-apt28-targets-polish.html)
 - [New Guide: How to Scale Your vCISO Services Profitably](https://thehackernews.com/2024/05/new-guide-how-to-scale-your-vciso.html)
 - [Mirai Botnet Exploits Ivanti Connect Secure Flaws for Malicious Payload Delivery](https://thehackernews.com/2024/05/mirai-botnet-exploits-ivanti-connect.html)
 - [Critical F5 Central Manager Vulnerabilities Allow Enable Full Device Takeover](https://thehackernews.com/2024/05/critical-f5-central-manager.html)
-- [A SaaS Security Challenge: Getting Permissions All in One Place](https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html)
 <!-- BLOG-POST-LIST:END -->
