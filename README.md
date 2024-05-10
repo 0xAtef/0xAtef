@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chrome Zero-Day Alert — Update Your Browser to Patch New Vulnerability](https://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html)
+- [What&#39;s the Right EDR for You?](https://thehackernews.com/2024/05/whats-right-edr-for-you.html)
+- [Malicious Android Apps Pose as Google, Instagram, WhatsApp, Spread via Smishing](https://thehackernews.com/2024/05/malicious-android-apps-pose-as-google.html)
 - [Researchers Uncover &#39;LLMjacking&#39; Scheme Targeting Cloud-Hosted AI Models](https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html)
 - [New TunnelVision Attack Allows Hijacking of VPN Traffic via DHCP Manipulation](https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html)
-- [Kremlin-Backed APT28 Targets Polish Institutions in Large-Scale Malware Campaign](https://thehackernews.com/2024/05/kremlin-backed-apt28-targets-polish.html)
-- [New Guide: How to Scale Your vCISO Services Profitably](https://thehackernews.com/2024/05/new-guide-how-to-scale-your-vciso.html)
-- [Mirai Botnet Exploits Ivanti Connect Secure Flaws for Malicious Payload Delivery](https://thehackernews.com/2024/05/mirai-botnet-exploits-ivanti-connect.html)
 <!-- BLOG-POST-LIST:END -->
