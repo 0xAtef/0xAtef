@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FIN7 Hacker Group Leverages Malicious Google Ads to Deliver NetSupport RAT](https://thehackernews.com/2024/05/fin7-hacker-group-leverages-malicious.html)
 - [North Korean Hackers Deploy New Golang Malware &#39;Durian&#39; Against Crypto Firms](https://thehackernews.com/2024/05/north-korean-hackers-deploy-new-golang.html)
 - [CensysGPT: AI-Powered Threat Hunting for Cybersecurity Pros &lpar;Webinar&rpar;](https://thehackernews.com/2024/05/censysgpt-ai-powered-threat-hunting-for.html)
 - [Chrome Zero-Day Alert — Update Your Browser to Patch New Vulnerability](https://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html)
 - [What&#39;s the Right EDR for You?](https://thehackernews.com/2024/05/whats-right-edr-for-you.html)
-- [Malicious Android Apps Pose as Google, Instagram, WhatsApp to Steal Credentials](https://thehackernews.com/2024/05/malicious-android-apps-pose-as-google.html)
 <!-- BLOG-POST-LIST:END -->
