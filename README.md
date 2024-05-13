@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SHQ Response Platform and Risk Centre to Enable Management and Analysts Alike](https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html)
+- [Severe Vulnerabilities in Cinterion Cellular Modems Pose Risks to Various Industries](https://thehackernews.com/2024/05/severe-vulnerabilities-in-cinterion.html)
+- [Black Basta Ransomware Strikes 500+ Entities Across North America, Europe, and Australia](https://thehackernews.com/2024/05/black-basta-ransomware-strikes-500.html)
 - [Malicious Python Package Hides Sliver C2 Framework in Fake Requests Library Logo](https://thehackernews.com/2024/05/malicious-python-package-hides-sliver.html)
 - [FIN7 Hacker Group Leverages Malicious Google Ads to Deliver NetSupport RAT](https://thehackernews.com/2024/05/fin7-hacker-group-leverages-malicious.html)
-- [North Korean Hackers Deploy New Golang Malware &#39;Durian&#39; Against Crypto Firms](https://thehackernews.com/2024/05/north-korean-hackers-deploy-new-golang.html)
-- [CensysGPT: AI-Powered Threat Hunting for Cybersecurity Pros &lpar;Webinar&rpar;](https://thehackernews.com/2024/05/censysgpt-ai-powered-threat-hunting-for.html)
-- [Chrome Zero-Day Alert — Update Your Browser to Patch New Vulnerability](https://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html)
 <!-- BLOG-POST-LIST:END -->
