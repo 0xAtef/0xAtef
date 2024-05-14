@@ -128,7 +128,7 @@ BIO
 <!-- BLOG-POST-LIST:START -->
 - [Critical Flaws in Cacti Framework Could Let Attackers Execute Malicious Code](https://thehackernews.com/2024/05/critical-flaws-in-cacti-framework-could.html)
 - [6 Mistakes Organizations Make When Deploying Advanced Authentication](https://thehackernews.com/2024/05/6-mistakes-organizations-make-when.html)
-- [Ongoing Campaign Bombarded Enterprises with Spam Emails and Phone Calls](https://thehackernews.com/2024/05/ongoing-campaign-bombarded-enterprises.html)
+- [Ongoing Campaign Bombards Enterprises with Spam Emails and Phone Calls](https://thehackernews.com/2024/05/ongoing-campaign-bombarded-enterprises.html)
 - [Apple and Google Launch Cross-Platform Feature to Detect Unwanted Bluetooth Tracking Devices](https://thehackernews.com/2024/05/apple-and-google-launch-cross-platform.html)
 - [MITRE Unveils EMB3D: A Threat-Modeling Framework for Embedded Devices](https://thehackernews.com/2024/05/mitre-unveils-emb3d-threat-modeling.html)
 <!-- BLOG-POST-LIST:END -->
