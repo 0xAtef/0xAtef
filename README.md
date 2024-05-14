@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple and Google Launch Cross-Platform Feature to Detect Unwanted Bluetooth Tracking Devices](https://thehackernews.com/2024/05/apple-and-google-launch-cross-platform.html)
 - [MITRE Unveils EMB3D: A Threat-Modeling Framework for Embedded Devices](https://thehackernews.com/2024/05/mitre-unveils-emb3d-threat-modeling.html)
 - [The 2024 Browser Security Report Uncovers How Every Web Session Could be a Security Minefield](https://thehackernews.com/2024/05/the-2024-browser-security-report.html)
 - [SHQ Response Platform and Risk Centre to Enable Management and Analysts Alike](https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html)
 - [Severe Vulnerabilities in Cinterion Cellular Modems Pose Risks to Various Industries](https://thehackernews.com/2024/05/severe-vulnerabilities-in-cinterion.html)
-- [Black Basta Ransomware Strikes 500+ Entities Across North America, Europe, and Australia](https://thehackernews.com/2024/05/black-basta-ransomware-strikes-500.html)
 <!-- BLOG-POST-LIST:END -->
