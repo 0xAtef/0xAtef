@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VMware Patches Severe Security Flaws in Workstation and Fusion Products](https://thehackernews.com/2024/05/vmware-patches-severe-security-flaws-in.html)
 - [New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation](https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html)
 - [Critical Flaws in Cacti Framework Could Let Attackers Execute Malicious Code](https://thehackernews.com/2024/05/critical-flaws-in-cacti-framework-could.html)
 - [6 Mistakes Organizations Make When Deploying Advanced Authentication](https://thehackernews.com/2024/05/6-mistakes-organizations-make-when.html)
 - [Ongoing Campaign Bombards Enterprises with Spam Emails and Phone Calls](https://thehackernews.com/2024/05/ongoing-campaign-bombarded-enterprises.html)
-- [Apple and Google Launch Cross-Platform Feature to Detect Unwanted Bluetooth Tracking Devices](https://thehackernews.com/2024/05/apple-and-google-launch-cross-platform.html)
 <!-- BLOG-POST-LIST:END -->
