@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years](https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html)
+- [It&#39;s Time to Master the Lift &amp; Shift: Migrating from VMware vSphere to Microsoft Azure](https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html)
 - [Dutch Court Sentences Tornado Cash Co-Founder to 5 Years in Prison for Money Laundering](https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html)
 - [Microsoft Patches 61 Flaws, Including Two Actively Exploited Zero-Days](https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html)
 - [VMware Patches Severe Security Flaws in Workstation and Fusion Products](https://thehackernews.com/2024/05/vmware-patches-severe-security-flaws-in.html)
-- [New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation](https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html)
-- [Critical Flaws in Cacti Framework Could Let Attackers Execute Malicious Code](https://thehackernews.com/2024/05/critical-flaws-in-cacti-framework-could.html)
 <!-- BLOG-POST-LIST:END -->
