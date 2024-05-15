@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Launches AI-Powered Theft and Data Protection Features for Android Devices](https://thehackernews.com/2024/05/google-adds-ai-powered-theft-protection.html)
+- [Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps](https://thehackernews.com/2024/05/android-15-introduces-new-features-to.html)
 - [Turla Group Deploys LunarWeb and LunarMail Backdoors in Diplomatic Missions](https://thehackernews.com/2024/05/turla-group-deploys-lunarweb-and.html)
 - [&lpar;Cyber&rpar; Risk = Probability of Occurrence x Damage](https://thehackernews.com/2024/05/get-cyber-resilient-with-cvss.html)
 - [Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years](https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html)
-- [It&#39;s Time to Master the Lift &amp; Shift: Migrating from VMware vSphere to Microsoft Azure](https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html)
-- [Dutch Court Sentences Tornado Cash Co-Founder to 5 Years in Prison for Money Laundering](https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html)
 <!-- BLOG-POST-LIST:END -->
