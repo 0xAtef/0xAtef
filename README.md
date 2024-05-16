@@ -7,7 +7,8 @@
 <br>
 
 <h1 align="center">I'm Mohamed Atef</h1>
-  
+
+  <!---
 Sr. Security Analyst Specializing in ( Thread Detection | Threat Hunting | Incident Response | Automation | Administration )
 
 I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOCs, developing (Processes, use cases, playbooks, and automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting
@@ -15,6 +16,17 @@ I hold a certification in Threat Hunting (eCTHPv2) and possess practical experti
 In the online realm, I am recognized as 0xAtef. My professional passion revolves around SOC, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, as well as SOC Automation, with a specific focus on Blue/Purple teaming
 
 I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity
+
+--->
+
+# Sr. Security Analyst Specializing in Threat Detection, Threat Hunting, Incident Response, and Automation
+
+I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in leading SOCs, developing processes, use cases, playbooks, and automation workflows, as well as designing Detection rules. My skills include SIEM administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.
+
+In the online realm, I am recognized as 0xAtef. My professional passion revolves around SOC operations, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, and SOC Automation, with a specific focus on Blue/Purple teaming. I am also skilled in EDR assessment and C2 framework usage.
+
+I am deeply enthusiastic about development and scripting, particularly in the realm of automation. My core belief is that to effectively protect, you need to understand what you are protecting. I am dedicated to staying well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/0xAtef/count.svg?"  />
