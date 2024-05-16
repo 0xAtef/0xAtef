@@ -129,6 +129,6 @@ BIO
 - [Cybercriminals Exploiting Microsoft’s Quick Assist Feature in Ransomware Attacks](https://thehackernews.com/2024/05/cybercriminals-exploiting-microsofts.html)
 - [Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability](https://thehackernews.com/2024/05/google-patches-yet-another-actively.html)
 - [FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity](https://thehackernews.com/2024/05/fbi-seizes-breachforums-again-urges.html)
-- [Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps](https://thehackernews.com/2024/05/android-15-introduces-new-features-to.html)
 - [Google Launches AI-Powered Theft and Data Protection Features for Android Devices](https://thehackernews.com/2024/05/google-adds-ai-powered-theft-protection.html)
+- [Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps](https://thehackernews.com/2024/05/android-15-introduces-new-features-to.html)
 <!-- BLOG-POST-LIST:END -->
