@@ -126,9 +126,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks](https://thehackernews.com/2024/05/new-wi-fi-vulnerability-enabling.html)
 - [North Korean Hackers Exploit Facebook Messenger in Targeted Malware Campaign](https://thehackernews.com/2024/05/north-korean-hackers-exploit-facebook.html)
 - [Researchers Uncover 11 Security Flaws in GE HealthCare Ultrasound Machines](https://thehackernews.com/2024/05/researchers-uncover-11-security-flaws.html)
 - [Cybercriminals Exploiting Microsoft’s Quick Assist Feature in Ransomware Attacks](https://thehackernews.com/2024/05/cybercriminals-exploiting-microsofts.html)
 - [Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability](https://thehackernews.com/2024/05/google-patches-yet-another-actively.html)
-- [FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity](https://thehackernews.com/2024/05/fbi-seizes-breachforums-again-urges.html)
 <!-- BLOG-POST-LIST:END -->
