@@ -138,9 +138,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New XM Cyber Research: 80% of Exposures from Misconfigurations, Less Than 1% from CVEs](https://thehackernews.com/2024/05/new-xm-cyber-research-80-of-exposures.html)
+- [China-Linked Hackers Adopt Two-Stage Infection Tactic to Deploy Deuterbear RAT](https://thehackernews.com/2024/05/china-linked-hackers-adopt-two-stage.html)
 - [Kimsuky APT Deploying Linux Backdoor Gomir in South Korean Cyber Attacks](https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html)
 - [CISA Warns of Actively Exploited D-Link Router Vulnerabilities - Patch Now](https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-d-link.html)
 - [New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks](https://thehackernews.com/2024/05/new-wi-fi-vulnerability-enabling.html)
-- [North Korean Hackers Exploit Facebook Messenger in Targeted Malware Campaign](https://thehackernews.com/2024/05/north-korean-hackers-exploit-facebook.html)
-- [Researchers Uncover 11 Security Flaws in GE HealthCare Ultrasound Machines](https://thehackernews.com/2024/05/researchers-uncover-11-security-flaws.html)
 <!-- BLOG-POST-LIST:END -->
