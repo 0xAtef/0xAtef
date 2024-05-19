@@ -138,9 +138,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Nationals Arrested for Laundering $73 Million in Pig Butchering Crypto Scam](https://thehackernews.com/2024/05/chinese-nationals-arrested-for.html)
 - [Grandoreiro Banking Trojan Resurfaces, Targeting Over 1,500 Banks Worldwide](https://thehackernews.com/2024/05/grandoreiro-banking-trojan-resurfaces.html)
 - [Kinsing Hacker Group Exploits More Flaws to Expand Botnet for Cryptojacking](https://thehackernews.com/2024/05/kinsing-hacker-group-exploits-more.html)
 - [New XM Cyber Research: 80% of Exposures from Misconfigurations, Less Than 1% from CVEs](https://thehackernews.com/2024/05/new-xm-cyber-research-80-of-exposures.html)
 - [China-Linked Hackers Adopt Two-Stage Infection Tactic to Deploy Deuterbear RAT](https://thehackernews.com/2024/05/china-linked-hackers-adopt-two-stage.html)
-- [Kimsuky APT Deploying Linux Backdoor Gomir in South Korean Cyber Attacks](https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html)
 <!-- BLOG-POST-LIST:END -->
