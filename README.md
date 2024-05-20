@@ -138,9 +138,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Criminals Exploit GitHub and FileZilla to Deliver Cocktail Malware](https://thehackernews.com/2024/05/cyber-criminals-exploit-github-and.html)
 - [Latrodectus Malware Loader Emerges as IcedID&#39;s Successor in Phishing Campaigns](https://thehackernews.com/2024/05/latrodectus-malware-loader-emerges-as.html)
 - [Chinese Nationals Arrested for Laundering $73 Million in Pig Butchering Crypto Scam](https://thehackernews.com/2024/05/chinese-nationals-arrested-for.html)
 - [Grandoreiro Banking Trojan Resurfaces, Targeting Over 1,500 Banks Worldwide](https://thehackernews.com/2024/05/grandoreiro-banking-trojan-resurfaces.html)
 - [Kinsing Hacker Group Exploits More Flaws to Expand Botnet for Cryptojacking](https://thehackernews.com/2024/05/kinsing-hacker-group-exploits-more.html)
-- [New XM Cyber Research: 80% of Exposures from Misconfigurations, Less Than 1% from CVEs](https://thehackernews.com/2024/05/new-xm-cyber-research-80-of-exposures.html)
 <!-- BLOG-POST-LIST:END -->
