@@ -30,13 +30,15 @@ I am deeply enthusiastic about development and scripting, particularly in the re
 
 # Security Projects Overview
 
-- [TheHive: Open Source SOAR](https://0xatef.github.io/Projects/#thehive-open-source-soar)
-- [MISP: Malware Information Sharing Platform](https://0xatef.github.io/Projects/#misp-malware-information-sharing-platform)
-- [BookStack: Documentation Platform](https://0xatef.github.io/Projects/#bookstack-documentation-platform)
-- [EDR Assessment](https://0xatef.github.io/Projects/#edr-assessment)
-- [ELK: Elasticsearch, Logstash, Kibana](https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana)
-- [C2 Frameworks](https://0xatef.github.io/Projects/#c2-frameworks)
-- [Attack Simulation](https://0xatef.github.io/Projects/#attack-simulation)
+
+- <a href="https://0xatef.github.io/Projects/#thehive-open-source-soar" target="_blank"> TheHive: Open Source SOAR </a>
+- <a href="https://0xatef.github.io/Projects/#misp-malware-information-sharing-platform" target="_blank"> MISP: Malware Information Sharing Platform </a>
+- <a href="https://0xatef.github.io/Projects/#bookstack-documentation-platform)" target="_blank"> BookStack: Documentation Platform </a>
+- <a href="https://0xatef.github.io/Projects/#edr-assessment" target="_blank"> EDR Assessment </a>
+- <a href="https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana" target="_blank"> ELK: Elasticsearch, Logstash, Kibana </a>
+- <a href="https://0xatef.github.io/Projects/#c2-frameworks" target="_blank"> C2 Frameworks </a>
+- <a href="https://0xatef.github.io/Projects/#attack-simulation" target="_blank"> Attack Simulation </a>
+
 
 
 <br>
