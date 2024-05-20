@@ -28,6 +28,20 @@ In the online realm, I am recognized as 0xAtef. My professional passion revolves
 I am deeply enthusiastic about development and scripting, particularly in the realm of automation. My core belief is that to effectively protect, you need to understand what you are protecting. I am dedicated to staying well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
 
 
+# Security Projects Overview
+
+- [TheHive: Open Source SOAR](https://0xatef.github.io/Projects/#thehive-open-source-soar)
+- [MISP: Malware Information Sharing Platform](https://0xatef.github.io/Projects/#misp-malware-information-sharing-platform)
+- [BookStack: Documentation Platform](https://0xatef.github.io/Projects/#bookstack-documentation-platform)
+- [EDR Assessment](https://0xatef.github.io/Projects/#edr-assessment)
+- [ELK: Elasticsearch, Logstash, Kibana](https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana)
+- [C2 Frameworks](https://0xatef.github.io/Projects/#c2-frameworks)
+- [Attack Simulation](https://0xatef.github.io/Projects/#attack-simulation)
+
+
+<br>
+<br>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/0xAtef/count.svg?"  />
 </div>
@@ -66,7 +80,9 @@ BIO
 --->
 
 <br>
-<br>
+<be>
+
+
 
 <div align="Center">
 
