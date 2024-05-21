@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SolarMarker Malware Evolves to Resist Takedown Attempts with Multi-Tiered Infrastructure](https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html)
 - [Five Core Tenets Of Highly Effective DevSecOps Practices](https://thehackernews.com/2024/05/five-core-tenets-of-highly-effective.html)
 - [Researchers Uncover Flaws in Python Package for AI Models and PDF.js Used by Firefox](https://thehackernews.com/2024/05/researchers-uncover-flaws-in-python.html)
 - [Streamlining IT Security Compliance Using the Wazuh FIM Capability](https://thehackernews.com/2024/05/streamlining-it-security-compliance.html)
 - [Windows 11 to Deprecate NTLM, Add AI-Powered App Controls and Security Defenses](https://thehackernews.com/2024/05/windows-11-to-deprecate-ntlm-add-ai.html)
-- [NextGen Healthcare Mirth Connect Under Attack - CISA Issues Urgent Warning](https://thehackernews.com/2024/05/nextgen-healthcare-mirth-connect-under.html)
 <!-- BLOG-POST-LIST:END -->
