@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NextGen Healthcare Mirth Connect Under Attack - CISA Issues Urgent Warning](https://thehackernews.com/2024/05/nextgen-healthcare-mirth-connect-under.html)
 - [&quot;Linguistic Lumberjack&quot; Vulnerability Discovered in Popular Logging Utility Fluent Bit](https://thehackernews.com/2024/05/linguistic-lumberjack-vulnerability.html)
 - [Iranian MOIS-Linked Hackers Behind Destructive Attacks on Albania and Israel](https://thehackernews.com/2024/05/iranian-mois-linked-hackers-behind.html)
 - [Foxit PDF Reader Flaw Exploited by Hackers to Deliver Diverse Malware Arsenal](https://thehackernews.com/2024/05/foxit-pdf-reader-flaw-exploited-by.html)
 - [Defending Your Commits From Known CVEs With GitGuardian SCA And Git Hooks](https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html)
-- [Cyber Criminals Exploit GitHub and FileZilla to Deliver Malware Cocktail](https://thehackernews.com/2024/05/cyber-criminals-exploit-github-and.html)
 <!-- BLOG-POST-LIST:END -->
