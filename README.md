@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rockwell Advises Disconnecting Internet-Facing ICS Devices Amid Cyber Threats](https://thehackernews.com/2024/05/rockwell-advises-disconnecting-internet.html)
 - [The Ultimate SaaS Security Posture Management Checklist, 2025 Edition](https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html)
 - [GHOSTENGINE Exploits Vulnerable Drivers to Disable EDRs in Cryptojacking Attack](https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html)
 - [MS Exchange Server Flaws Exploited to Deploy Keylogger in Targeted Attacks](https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html)
 - [QNAP Patches New Flaws in QTS and QuTS hero Impacting NAS Appliances](https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html)
-- [Zoom Adopts NIST-Approved Post-Quantum End-to-End Encryption for Meetings](https://thehackernews.com/2024/05/zoom-adopts-nist-approved-post-quantum.html)
 <!-- BLOG-POST-LIST:END -->
