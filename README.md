@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GHOSTENGINE Exploits Vulnerable Drivers to Disable EDRs in Cryptojacking Attack](https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html)
 - [MS Exchange Server Flaws Exploited to Deploy Keylogger in Targeted Attacks](https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html)
 - [QNAP Patches New Flaws in QTS and QuTS hero Impacting NAS Appliances](https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html)
 - [Zoom Adopts NIST-Approved Post-Quantum End-to-End Encryption for Meetings](https://thehackernews.com/2024/05/zoom-adopts-nist-approved-post-quantum.html)
 - [Critical Veeam Backup Enterprise Manager Flaw Allows Authentication Bypass](https://thehackernews.com/2024/05/critical-veeam-backup-enterprise.html)
-- [Critical GitHub Enterprise Server Flaw Allows Authentication Bypass](https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html)
 <!-- BLOG-POST-LIST:END -->
