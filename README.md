@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [QNAP Patches New Flaws in QTS and QuTS hero Impacting NAS Appliances](https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html)
+- [Zoom Adopts NIST-Approved Post-Quantum End-to-End Encryption for Meetings](https://thehackernews.com/2024/05/zoom-adopts-nist-approved-post-quantum.html)
 - [Critical Veeam Backup Enterprise Manager Flaw Allows Authentication Bypass](https://thehackernews.com/2024/05/critical-veeam-backup-enterprise.html)
 - [Critical GitHub Enterprise Server Flaw Allows Authentication Bypass](https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html)
 - [Malware Delivery via Cloud Services Exploits Unicode Trick to Deceive Users](https://thehackernews.com/2024/05/malware-delivery-via-cloud-services.html)
-- [SolarMarker Malware Evolves to Resist Takedown Attempts with Multi-Tiered Infrastructure](https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html)
-- [Five Core Tenets Of Highly Effective DevSecOps Practices](https://thehackernews.com/2024/05/five-core-tenets-of-highly-effective.html)
 <!-- BLOG-POST-LIST:END -->
