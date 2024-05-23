@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The End of an Era: Microsoft Phases Out VBScript for JavaScript and PowerShell](https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html)
 - [Researchers Warn of Chinese-Aligned Hackers Targeting South China Sea Countries](https://thehackernews.com/2024/05/researchers-warn-of-chinese-aligned.html)
 - [Rockwell Advises Disconnecting Internet-Facing ICS Devices Amid Cyber Threats](https://thehackernews.com/2024/05/rockwell-advises-disconnecting-internet.html)
 - [The Ultimate SaaS Security Posture Management Checklist, 2025 Edition](https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html)
 - [GHOSTENGINE Exploits Vulnerable Drivers to Disable EDRs in Cryptojacking Attack](https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html)
-- [MS Exchange Server Flaws Exploited to Deploy Keylogger in Targeted Attacks](https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html)
 <!-- BLOG-POST-LIST:END -->
