@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Frontiers, Old Tactics: Chinese Espionage Group Targets Africa &amp; Caribbean Govts](https://thehackernews.com/2024/05/new-frontiers-old-tactics-chinese-cyber.html)
 - [Are Your SaaS Backups as Secure as Your Production Data?](https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html)
 - [Inside Operation Diplomatic Specter: Chinese APT Group&#39;s Stealthy Tactics Exposed](https://thehackernews.com/2024/05/inside-operation-diplomatic-specter.html)
 - [Ivanti Patches Critical Remote Code Execution Flaws in Endpoint Manager](https://thehackernews.com/2024/05/ivanti-patches-critical-remote-code.html)
 - [The End of an Era: Microsoft Phases Out VBScript for JavaScript and PowerShell](https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html)
-- [Researchers Warn of Chinese-Aligned Hackers Targeting South China Sea Countries](https://thehackernews.com/2024/05/researchers-warn-of-chinese-aligned.html)
 <!-- BLOG-POST-LIST:END -->
