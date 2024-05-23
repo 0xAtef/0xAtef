@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware Attacks Exploit VMware ESXi Vulnerabilities in Alarming Pattern](https://thehackernews.com/2024/05/ransomware-attacks-exploit-vmware-esxi.html)
+- [CISA Warns of Actively Exploited Apache Flink Security Vulnerability](https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-apache.html)
 - [New Frontiers, Old Tactics: Chinese Espionage Group Targets Africa &amp; Caribbean Govts](https://thehackernews.com/2024/05/new-frontiers-old-tactics-chinese-cyber.html)
 - [Are Your SaaS Backups as Secure as Your Production Data?](https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html)
 - [Inside Operation Diplomatic Specter: Chinese APT Group&#39;s Stealthy Tactics Exposed](https://thehackernews.com/2024/05/inside-operation-diplomatic-specter.html)
-- [Ivanti Patches Critical Remote Code Execution Flaws in Endpoint Manager](https://thehackernews.com/2024/05/ivanti-patches-critical-remote-code.html)
-- [The End of an Era: Microsoft Phases Out VBScript for JavaScript and PowerShell](https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html)
 <!-- BLOG-POST-LIST:END -->
