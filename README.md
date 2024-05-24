@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Do Hackers Blend In So Well? Learn Their Tricks in This Expert Webinar](https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html)
 - [DevOps Dilemma: How Can CISOs Regain Control in the Age of Speed?](https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html)
 - [Google Detects 4th Chrome Zero-Day in May Actively Under Attack - Update ASAP](https://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html)
 - [Courtroom Software Backdoored to Deliver RustDoor Malware in Supply Chain Attack](https://thehackernews.com/2024/05/courtroom-software-backdoored-to.html)
 - [Japanese Experts Warn of BLOODALCHEMY Malware Targeting Government Agencies](https://thehackernews.com/2024/05/japanese-experts-warn-of-bloodalchemy.html)
-- [Ransomware Attacks Exploit VMware ESXi Vulnerabilities in Alarming Pattern](https://thehackernews.com/2024/05/ransomware-attacks-exploit-vmware-esxi.html)
 <!-- BLOG-POST-LIST:END -->
