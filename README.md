@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Courtroom Software Backdoored to Deliver RustDoor Malware in Supply Chain Attack](https://thehackernews.com/2024/05/courtroom-software-backdoored-to.html)
+- [Japanese Experts Warn of BLOODALCHEMY Malware Targeting Government Agencies](https://thehackernews.com/2024/05/japanese-experts-warn-of-bloodalchemy.html)
 - [Ransomware Attacks Exploit VMware ESXi Vulnerabilities in Alarming Pattern](https://thehackernews.com/2024/05/ransomware-attacks-exploit-vmware-esxi.html)
 - [CISA Warns of Actively Exploited Apache Flink Security Vulnerability](https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-apache.html)
 - [New Frontiers, Old Tactics: Chinese Espionage Group Targets Africa &amp; Caribbean Govts](https://thehackernews.com/2024/05/new-frontiers-old-tactics-chinese-cyber.html)
-- [Inside Operation Diplomatic Specter: Chinese APT Group&#39;s Stealthy Tactics Exposed](https://thehackernews.com/2024/05/inside-operation-diplomatic-specter.html)
-- [Are Your SaaS Backups as Secure as Your Production Data?](https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html)
 <!-- BLOG-POST-LIST:END -->
