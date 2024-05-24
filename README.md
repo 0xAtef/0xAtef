@@ -156,9 +156,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fake Antivirus Websites Deliver Malware to Android and Windows Devices](https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html)
+- [Hackers Created Rogue VMs to Evade Detection in Recent MITRE Cyber Attack](https://thehackernews.com/2024/05/hackers-created-rogue-vms-to-evade.html)
+- [Beware: These Fake Antivirus Sites Spreading Android and Windows Malware](https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html)
 - [How Do Hackers Blend In So Well? Learn Their Tricks in This Expert Webinar](https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html)
 - [DevOps Dilemma: How Can CISOs Regain Control in the Age of Speed?](https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html)
-- [Google Detects 4th Chrome Zero-Day in May Actively Under Attack - Update ASAP](https://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html)
-- [Courtroom Software Backdoored to Deliver RustDoor Malware in Supply Chain Attack](https://thehackernews.com/2024/05/courtroom-software-backdoored-to.html)
+- [Update Chrome Browser Now: 4th Zero-Day Exploit Discovered in May 2024](https://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html)
 <!-- BLOG-POST-LIST:END -->
