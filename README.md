@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Report: The Dark Side of Phishing Protection](https://thehackernews.com/2024/05/report-dark-side-of-phishing-protection.html)
 - [New Tricks in the Phishing Playbook: Cloudflare Workers, HTML Smuggling, GenAI](https://thehackernews.com/2024/05/new-tricks-in-phishing-playbook.html)
 - [Pakistan-linked Hackers Deploy Python, Golang, and Rust Malware on Indian Targets](https://thehackernews.com/2024/05/pakistan-linked-hackers-deploy-python.html)
 - [Experts Find Flaw in Replicate AI Service Exposing Customers&#39; Models and Data](https://thehackernews.com/2024/05/experts-find-flaw-in-replicate-ai.html)
 - [Hackers Created Rogue VMs to Evade Detection in Recent MITRE Cyber Attack](https://thehackernews.com/2024/05/hackers-created-rogue-vms-to-evade.html)
-- [Beware: These Fake Antivirus Sites Spreading Android and Windows Malware](https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html)
 <!-- BLOG-POST-LIST:END -->
