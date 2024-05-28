@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Warn of CatDDoS Botnet and DNSBomb DDoS Attack Technique](https://thehackernews.com/2024/05/researchers-warn-of-catddos-botnet-and.html)
 - [WordPress Plugin Exploited to Steal Credit Card Data from E-commerce Sites](https://thehackernews.com/2024/05/wordpress-plugin-exploited-to-steal.html)
 - [TP-Link Gaming Router Vulnerability Exposes Users to Remote Code Attacks](https://thehackernews.com/2024/05/tp-link-gaming-router-vulnerability.html)
 - [Moroccan Cybercrime Group Steals Up to $100K Daily Through Gift Card Fraud](https://thehackernews.com/2024/05/moroccan-cybercrime-group-steals-up-to.html)
 - [Report: The Dark Side of Phishing Protection](https://thehackernews.com/2024/05/report-dark-side-of-phishing-protection.html)
-- [New Tricks in the Phishing Playbook: Cloudflare Workers, HTML Smuggling, GenAI](https://thehackernews.com/2024/05/new-tricks-in-phishing-playbook.html)
 <!-- BLOG-POST-LIST:END -->
