@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Plugin Exploited to Steal Credit Card Data from E-commerce Sites](https://thehackernews.com/2024/05/wordpress-plugin-exploited-to-steal.html)
+- [TP-Link Gaming Router Vulnerability Exposes Users to Remote Code Attacks](https://thehackernews.com/2024/05/tp-link-gaming-router-vulnerability.html)
 - [Moroccan Cybercrime Group Steals Up to $100K Daily Through Gift Card Fraud](https://thehackernews.com/2024/05/moroccan-cybercrime-group-steals-up-to.html)
 - [Report: The Dark Side of Phishing Protection](https://thehackernews.com/2024/05/report-dark-side-of-phishing-protection.html)
 - [New Tricks in the Phishing Playbook: Cloudflare Workers, HTML Smuggling, GenAI](https://thehackernews.com/2024/05/new-tricks-in-phishing-playbook.html)
-- [Pakistan-linked Hackers Deploy Python, Golang, and Rust Malware on Indian Targets](https://thehackernews.com/2024/05/pakistan-linked-hackers-deploy-python.html)
-- [Experts Find Flaw in Replicate AI Service Exposing Customers&#39; Models and Data](https://thehackernews.com/2024/05/experts-find-flaw-in-replicate-ai.html)
 <!-- BLOG-POST-LIST:END -->
