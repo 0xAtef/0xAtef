@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Brazilian Banks Targeted by New AllaKore RAT Variant Called AllaSenha](https://thehackernews.com/2024/05/brazilian-banks-targeted-by-new.html)
 - [U.S. Sentences 31-Year-Old to 10 Years for Laundering $4.5M in Email Scams](https://thehackernews.com/2024/05/us-sentences-31-year-old-to-10-years.html)
 - [New Research Warns About Weak Offboarding Management and Insider Risks](https://thehackernews.com/2024/05/new-research-warns-about-weak.html)
 - [Microsoft Uncovers &#39;Moonstone Sleet&#39; — New North Korean Hacker Group](https://thehackernews.com/2024/05/microsoft-uncovers-moonstone-sleet-new.html)
 - [BreachForums Returns Just Weeks After FBI Seizure - Honeypot or Blunder?](https://thehackernews.com/2024/05/breachforums-returns-just-weeks-after.html)
-- [Indian National Pleads Guilty to $37 Million Cryptocurrency Theft Scheme](https://thehackernews.com/2024/05/indian-national-pleads-guilty-to-37.html)
 <!-- BLOG-POST-LIST:END -->
