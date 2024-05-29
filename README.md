@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BreachForums Returns Just Weeks After FBI Seizure - Honeypot or Blunder?](https://thehackernews.com/2024/05/breachforums-returns-just-weeks-after.html)
 - [Indian National Pleads Guilty to $37 Million Cryptocurrency Theft Scheme](https://thehackernews.com/2024/05/indian-national-pleads-guilty-to-37.html)
 - [4-Step Approach to Mapping and Securing Your Organization&#39;s Most Critical Assets](https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html)
 - [Researchers Warn of CatDDoS Botnet and DNSBomb DDoS Attack Technique](https://thehackernews.com/2024/05/researchers-warn-of-catddos-botnet-and.html)
 - [WordPress Plugin Exploited to Steal Credit Card Data from E-commerce Sites](https://thehackernews.com/2024/05/wordpress-plugin-exploited-to-steal.html)
-- [TP-Link Gaming Router Vulnerability Exposes Users to Remote Code Attacks](https://thehackernews.com/2024/05/tp-link-gaming-router-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
