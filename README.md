@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Espionage Alert: LilacSquid Targets IT, Energy, and Pharma Sectors](https://thehackernews.com/2024/05/cyber-espionage-alert-lilacsquid.html)
 - [RedTail Crypto-Mining Malware Exploiting Palo Alto Networks Firewall Vulnerability](https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html)
 - [Researchers Uncover Active Exploitation of WordPress Plugin Vulnerabilities](https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html)
 - [How to Build Your Autonomous SOC Strategy](https://thehackernews.com/2024/05/how-to-build-your-autonomous-soc.html)
 - [Europol Shuts Down 100+ Servers Linked to IcedID, TrickBot, and Other Malware](https://thehackernews.com/2024/05/europol-dismantles-100-servers-linked.html)
-- [U.S. Dismantles World&#39;s Largest 911 S5 Botnet, with 19 Million Infected Devices](https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html)
 <!-- BLOG-POST-LIST:END -->
