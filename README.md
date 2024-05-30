@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Your Autonomous SOC Strategy](https://thehackernews.com/2024/05/how-to-build-your-autonomous-soc.html)
+- [Europol Shuts Down 100+ Servers Linked to IcedID, TrickBot, and Other Malware](https://thehackernews.com/2024/05/europol-dismantles-100-servers-linked.html)
 - [U.S. Dismantles World&#39;s Largest 911 S5 Botnet, with 19 Million Infected Devices](https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html)
 - [Okta Warns of Credential Stuffing Attacks Targeting Customer Identity Cloud](https://thehackernews.com/2024/05/okta-warns-of-credential-stuffing.html)
 - [Cybercriminals Abuse Stack Overflow to Promote Malicious Python Package](https://thehackernews.com/2024/05/cybercriminals-abuse-stackoverflow-to.html)
-- [Check Point Warns of Zero-Day Attacks on its VPN Gateway Products](https://thehackernews.com/2024/05/check-point-warns-of-zero-day-attacks.html)
-- [Brazilian Banks Targeted by New AllaKore RAT Variant Called AllaSenha](https://thehackernews.com/2024/05/brazilian-banks-targeted-by-new.html)
 <!-- BLOG-POST-LIST:END -->
