@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RedTail Crypto-Mining Malware Exploiting Palo Alto Networks Firewall Vulnerability](https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html)
+- [Researchers Uncover Active Exploitation of WordPress Plugin Vulnerabilities](https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html)
 - [How to Build Your Autonomous SOC Strategy](https://thehackernews.com/2024/05/how-to-build-your-autonomous-soc.html)
 - [Europol Shuts Down 100+ Servers Linked to IcedID, TrickBot, and Other Malware](https://thehackernews.com/2024/05/europol-dismantles-100-servers-linked.html)
 - [U.S. Dismantles World&#39;s Largest 911 S5 Botnet, with 19 Million Infected Devices](https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html)
-- [Okta Warns of Credential Stuffing Attacks Targeting Customer Identity Cloud](https://thehackernews.com/2024/05/okta-warns-of-credential-stuffing.html)
-- [Cybercriminals Abuse Stack Overflow to Promote Malicious Python Package](https://thehackernews.com/2024/05/cybercriminals-abuse-stackoverflow-to.html)
 <!-- BLOG-POST-LIST:END -->
