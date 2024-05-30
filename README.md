@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Alerts Federal Agencies to Patch Actively Exploited Linux Kernel Flaw](https://thehackernews.com/2024/05/cisa-alerts-federal-agencies-to-patch.html)
+- [FlyingYeti Exploits WinRAR Vulnerability to Deliver COOKBOX Malware in Ukraine](https://thehackernews.com/2024/05/flyingyeti-exploits-winrar.html)
 - [Cyber Espionage Alert: LilacSquid Targets IT, Energy, and Pharma Sectors](https://thehackernews.com/2024/05/cyber-espionage-alert-lilacsquid.html)
 - [RedTail Crypto-Mining Malware Exploiting Palo Alto Networks Firewall Vulnerability](https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html)
 - [Researchers Uncover Active Exploitation of WordPress Plugin Vulnerabilities](https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html)
-- [How to Build Your Autonomous SOC Strategy](https://thehackernews.com/2024/05/how-to-build-your-autonomous-soc.html)
-- [Europol Shuts Down 100+ Servers Linked to IcedID, TrickBot, and Other Malware](https://thehackernews.com/2024/05/europol-dismantles-100-servers-linked.html)
 <!-- BLOG-POST-LIST:END -->
