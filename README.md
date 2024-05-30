@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Okta Warns of Credential Stuffing Attacks Targeting Customer Identity Cloud](https://thehackernews.com/2024/05/okta-warns-of-credential-stuffing.html)
 - [Cybercriminals Abuse Stack Overflow to Promote Malicious Python Package](https://thehackernews.com/2024/05/cybercriminals-abuse-stackoverflow-to.html)
 - [Check Point Warns of Zero-Day Attacks on its VPN Gateway Products](https://thehackernews.com/2024/05/check-point-warns-of-zero-day-attacks.html)
 - [Brazilian Banks Targeted by New AllaKore RAT Variant Called AllaSenha](https://thehackernews.com/2024/05/brazilian-banks-targeted-by-new.html)
 - [U.S. Sentences 31-Year-Old to 10 Years for Laundering $4.5M in Email Scams](https://thehackernews.com/2024/05/us-sentences-31-year-old-to-10-years.html)
-- [New Research Warns About Weak Offboarding Management and Insider Risks](https://thehackernews.com/2024/05/new-research-warns-about-weak.html)
 <!-- BLOG-POST-LIST:END -->
