@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI, Meta, TikTok Disrupt Multiple AI-Powered Disinformation Campaigns](https://thehackernews.com/2024/05/openai-meta-tiktok-disrupt-multiple-ai.html)
+- [Russian Hackers Target Europe with HeadLace Malware and Credential Harvesting](https://thehackernews.com/2024/05/russian-hackers-target-europe-with.html)
+- [OpenAI, Meta, and TikTok Crack Down on Covert Influence Campaigns, Some AI-Powered](https://thehackernews.com/2024/05/openai-meta-tiktok-disrupt-multiple-ai.html)
 - [CISA Alerts Federal Agencies to Patch Actively Exploited Linux Kernel Flaw](https://thehackernews.com/2024/05/cisa-alerts-federal-agencies-to-patch.html)
 - [FlyingYeti Exploits WinRAR Vulnerability to Deliver COOKBOX Malware in Ukraine](https://thehackernews.com/2024/05/flyingyeti-exploits-winrar.html)
 - [Cyber Espionage Alert: LilacSquid Targets IT, Energy, and Pharma Sectors](https://thehackernews.com/2024/05/cyber-espionage-alert-lilacsquid.html)
-- [RedTail Crypto-Mining Malware Exploiting Palo Alto Networks Firewall Vulnerability](https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html)
 <!-- BLOG-POST-LIST:END -->
