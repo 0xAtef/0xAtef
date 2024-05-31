@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mysterious Cyber Attack Took Down 600,000+ Routers in the U.S.](https://thehackernews.com/2024/05/mysterious-cyber-attack-takes-down.html)
 - [Microsoft Warns of Surge in Cyber Attacks Targeting Internet-Exposed OT Devices](https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html)
 - [Beyond Threat Detection – A Race to Digital Security](https://thehackernews.com/2024/05/beyond-threat-detection-race-to-digital.html)
 - [Russian Hackers Target Europe with HeadLace Malware and Credential Harvesting](https://thehackernews.com/2024/05/russian-hackers-target-europe-with.html)
 - [OpenAI, Meta, and TikTok Crack Down on Covert Influence Campaigns, Some AI-Powered](https://thehackernews.com/2024/05/openai-meta-tiktok-disrupt-multiple-ai.html)
-- [CISA Alerts Federal Agencies to Patch Actively Exploited Linux Kernel Flaw](https://thehackernews.com/2024/05/cisa-alerts-federal-agencies-to-patch.html)
 <!-- BLOG-POST-LIST:END -->
