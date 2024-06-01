@@ -152,7 +152,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Company Hugging Face Notifies Users of Suspected Unauthorized Access](https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html)
+- [AI Company Hugging Face Detects Unauthorized Access to Its Spaces Platform](https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html)
 - [Mysterious Cyber Attack Took Down 600,000+ Routers in the U.S.](https://thehackernews.com/2024/05/mysterious-cyber-attack-takes-down.html)
 - [Microsoft Warns of Surge in Cyber Attacks Targeting Internet-Exposed OT Devices](https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html)
 - [Beyond Threat Detection – A Race to Digital Security](https://thehackernews.com/2024/05/beyond-threat-detection-race-to-digital.html)
