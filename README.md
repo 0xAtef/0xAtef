@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Andariel Hackers Target South Korean Institutes with New Dora RAT Malware](https://thehackernews.com/2024/06/andariel-hackers-target-south-korean.html)
 - [Beware: Fake Browser Updates Deliver BitRAT and Lumma Stealer Malware](https://thehackernews.com/2024/06/beware-fake-browser-updates-deliver.html)
 - [AI Company Hugging Face Detects Unauthorized Access to Its Spaces Platform](https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html)
 - [Mysterious Cyber Attack Took Down 600,000+ Routers in the U.S.](https://thehackernews.com/2024/05/mysterious-cyber-attack-takes-down.html)
 - [Microsoft Warns of Surge in Cyber Attacks Targeting Internet-Exposed OT Devices](https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html)
-- [Beyond Threat Detection – A Race to Digital Security](https://thehackernews.com/2024/05/beyond-threat-detection-race-to-digital.html)
 <!-- BLOG-POST-LIST:END -->
