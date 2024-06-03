@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover RAT-Dropping npm Package Targeting Gulp Users](https://thehackernews.com/2024/06/researchers-uncover-rat-dropping-npm.html)
+- [Authorities Ramp Up Efforts to Capture the Mastermind Behind Emotet](https://thehackernews.com/2024/06/authorities-ramp-up-efforts-to-capture.html)
 - [SASE Threat Report: 8 Key Findings for Enterprise Security](https://thehackernews.com/2024/06/sase-threat-report-8-key-findings-for.html)
 - [Researcher Uncovers Flaws in Cox Modems, Potentially Impacting Millions](https://thehackernews.com/2024/06/researcher-uncovers-flaws-in-cox-modems.html)
 - [Andariel Hackers Target South Korean Institutes with New Dora RAT Malware](https://thehackernews.com/2024/06/andariel-hackers-target-south-korean.html)
-- [Beware: Fake Browser Updates Deliver BitRAT and Lumma Stealer Malware](https://thehackernews.com/2024/06/beware-fake-browser-updates-deliver.html)
-- [AI Company Hugging Face Detects Unauthorized Access to Its Spaces Platform](https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html)
 <!-- BLOG-POST-LIST:END -->
