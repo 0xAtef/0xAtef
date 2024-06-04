@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DarkGate Malware Replaces AutoIt with AutoHotkey in Latest Cyber Attacks](https://thehackernews.com/2024/06/darkgate-malware-replaces-autoit-with.html)
 - [Oracle WebLogic Server OS Command Injection Flaw Under Active Attack](https://thehackernews.com/2024/06/oracle-weblogic-server-os-command.html)
 - [Researchers Uncover RAT-Dropping npm Package Targeting Gulp Users](https://thehackernews.com/2024/06/researchers-uncover-rat-dropping-npm.html)
 - [Authorities Ramp Up Efforts to Capture the Mastermind Behind Emotet](https://thehackernews.com/2024/06/authorities-ramp-up-efforts-to-capture.html)
 - [SASE Threat Report: 8 Key Findings for Enterprise Security](https://thehackernews.com/2024/06/sase-threat-report-8-key-findings-for.html)
-- [Researcher Uncovers Flaws in Cox Modems, Potentially Impacting Millions](https://thehackernews.com/2024/06/researcher-uncovers-flaws-in-cox-modems.html)
 <!-- BLOG-POST-LIST:END -->
