@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zyxel Releases Patches for Firmware Vulnerabilities in EoL NAS Models](https://thehackernews.com/2024/06/zyxel-releases-patches-for-firmware.html)
 - [Celebrity TikTok Accounts Compromised Using Zero-Click Attack via DMs](https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html)
 - [Russian Power Companies, IT Firms, and Govt Agencies Hit by Decoy Dog Trojan](https://thehackernews.com/2024/06/russian-power-companies-it-firms-and.html)
 - [Telerik Report Server Flaw Could Let Attackers Create Rogue Admin Accounts](https://thehackernews.com/2024/06/telerik-report-server-flaw-could-let.html)
 - [The Next Generation of RBI &lpar;Remote Browser Isolation&rpar;](https://thehackernews.com/2024/06/the-next-generation-of-rbi-remote.html)
-- [Hackers Use MS Excel Macro to Launch Multi-Stage Malware Attack in Ukraine](https://thehackernews.com/2024/06/hackers-use-ms-excel-macro-to-launch.html)
 <!-- BLOG-POST-LIST:END -->
