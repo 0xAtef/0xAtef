@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Celebrity TikTok Accounts Compromised Using Zero-Click Attack via DMs](https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html)
 - [Russian Power Companies, IT Firms, and Govt Agencies Hit by Decoy Dog Trojan](https://thehackernews.com/2024/06/russian-power-companies-it-firms-and.html)
 - [Telerik Report Server Flaw Could Let Attackers Create Rogue Admin Accounts](https://thehackernews.com/2024/06/telerik-report-server-flaw-could-let.html)
 - [The Next Generation of RBI &lpar;Remote Browser Isolation&rpar;](https://thehackernews.com/2024/06/the-next-generation-of-rbi-remote.html)
 - [Hackers Use MS Excel Macro to Launch Multi-Stage Malware Attack in Ukraine](https://thehackernews.com/2024/06/hackers-use-ms-excel-macro-to-launch.html)
-- [Snowflake Warns: Targeted Credential Theft Campaign Hits Cloud Customers](https://thehackernews.com/2024/06/snowflake-warns-targeted-credential.html)
 <!-- BLOG-POST-LIST:END -->
