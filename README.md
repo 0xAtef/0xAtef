@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese State-Backed Cyber Espionage Targets Southeast Asian Government](https://thehackernews.com/2024/06/chinese-state-backed-cyber-espionage.html)
+- [Unpacking 2024&#39;s SaaS Threat Predictions](https://thehackernews.com/2024/06/unpacking-2024s-saas-threat-predictions.html)
 - [Rebranded Knight Ransomware Targeting Healthcare and Businesses Worldwide](https://thehackernews.com/2024/06/rebranded-knight-ransomware-targeting.html)
 - [Zyxel Releases Patches for Firmware Vulnerabilities in EoL NAS Models](https://thehackernews.com/2024/06/zyxel-releases-patches-for-firmware.html)
 - [Celebrity TikTok Accounts Compromised Using Zero-Click Attack via DMs](https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html)
-- [Russian Power Companies, IT Firms, and Govt Agencies Hit by Decoy Dog Trojan](https://thehackernews.com/2024/06/russian-power-companies-it-firms-and.html)
-- [Telerik Report Server Flaw Could Let Attackers Create Rogue Admin Accounts](https://thehackernews.com/2024/06/telerik-report-server-flaw-could-let.html)
 <!-- BLOG-POST-LIST:END -->
