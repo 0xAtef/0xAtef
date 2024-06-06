@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Muhstik Botnet Exploiting Apache RocketMQ Flaw to Expand DDoS Attacks](https://thehackernews.com/2024/06/muhstik-botnet-exploiting-apache.html)
 - [Third-Party Cyber Attacks: The Threat No One Sees Coming – Here&#39;s How to Stop Them](https://thehackernews.com/2024/06/third-party-cyber-attacks-threat-no-one.html)
 - [Prevent Account Takeover with Better Password Security](https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html)
 - [Hackers Exploit Legitimate Packer Software to Spread Malware Undetected](https://thehackernews.com/2024/06/hackers-exploit-legitimate-packer.html)
 - [Google Maps Timeline Data to be Stored Locally on Your Device for Privacy](https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html)
-- [Hackers Target Python Developers with Fake &quot;Crytic-Compilers&quot; Package on PyPI](https://thehackernews.com/2024/06/hackers-target-python-developers-with.html)
 <!-- BLOG-POST-LIST:END -->
