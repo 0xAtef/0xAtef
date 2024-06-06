@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prevent Account Takeover with Better Password Security](https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html)
+- [Hackers Exploit Legitimate Packer Software to Spread Malware Undetected](https://thehackernews.com/2024/06/hackers-exploit-legitimate-packer.html)
 - [Google Maps Timeline Data to be Stored Locally on Your Device for Privacy](https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html)
 - [Hackers Target Python Developers with Fake &quot;Crytic-Compilers&quot; Package on PyPI](https://thehackernews.com/2024/06/hackers-target-python-developers-with.html)
 - [Chinese State-Backed Cyber Espionage Targets Southeast Asian Government](https://thehackernews.com/2024/06/chinese-state-backed-cyber-espionage.html)
-- [Unpacking 2024&#39;s SaaS Threat Predictions](https://thehackernews.com/2024/06/unpacking-2024s-saas-threat-predictions.html)
-- [Rebranded Knight Ransomware Targeting Healthcare and Businesses Worldwide](https://thehackernews.com/2024/06/rebranded-knight-ransomware-targeting.html)
 <!-- BLOG-POST-LIST:END -->
