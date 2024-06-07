@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SPECTR Malware Targets Ukraine Defense Forces in SickSync Campaign](https://thehackernews.com/2024/06/spectr-malware-targets-ukraine-defense.html)
 - [Commando Cat Cryptojacking Attacks Target Misconfigured Docker Instances](https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html)
 - [Muhstik Botnet Exploiting Apache RocketMQ Flaw to Expand DDoS Attacks](https://thehackernews.com/2024/06/muhstik-botnet-exploiting-apache.html)
 - [Third-Party Cyber Attacks: The Threat No One Sees Coming – Here&#39;s How to Stop Them](https://thehackernews.com/2024/06/third-party-cyber-attacks-threat-no-one.html)
 - [Prevent Account Takeover with Better Password Security](https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html)
-- [Hackers Exploit Legitimate Packer Software to Spread Malware Undetected](https://thehackernews.com/2024/06/hackers-exploit-legitimate-packer.html)
 <!-- BLOG-POST-LIST:END -->
