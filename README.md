@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate Cyber Hygiene Guide: Learn How to Simplify Your Security Efforts](https://thehackernews.com/2024/06/ultimate-cyber-hygiene-guide-learn-how.html)
+- [LightSpy Spyware&#39;s macOS Variant Found with Advanced Surveillance Capabilities](https://thehackernews.com/2024/06/lightspy-spywares-macos-variant-found.html)
 - [Cyber Landscape is Evolving - So Should Your SCA](https://thehackernews.com/2024/06/cyber-landscape-is-evolving-so-should.html)
 - [The AI Debate: Google&#39;s Guidelines, Meta&#39;s GDPR Dispute, Microsoft&#39;s Recall Backlash](https://thehackernews.com/2024/06/the-ai-debate-googles-guidelines-metas.html)
 - [FBI Distributes 7,000 LockBit Ransomware Decryption Keys to Help Victims](https://thehackernews.com/2024/06/fbi-distributes-7000-lockbit-ransomware.html)
-- [SPECTR Malware Targets Ukraine Defense Forces in SickSync Campaign](https://thehackernews.com/2024/06/spectr-malware-targets-ukraine-defense.html)
-- [Commando Cat Cryptojacking Attacks Target Misconfigured Docker Instances](https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html)
 <!-- BLOG-POST-LIST:END -->
