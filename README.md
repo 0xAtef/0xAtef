@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Landscape is Evolving - So Should Your SCA](https://thehackernews.com/2024/06/cyber-landscape-is-evolving-so-should.html)
+- [The AI Debate: Google&#39;s Guidelines, Meta&#39;s GDPR Dispute, Microsoft&#39;s Recall Backlash](https://thehackernews.com/2024/06/the-ai-debate-googles-guidelines-metas.html)
 - [FBI Distributes 7,000 LockBit Ransomware Decryption Keys to Help Victims](https://thehackernews.com/2024/06/fbi-distributes-7000-lockbit-ransomware.html)
 - [SPECTR Malware Targets Ukraine Defense Forces in SickSync Campaign](https://thehackernews.com/2024/06/spectr-malware-targets-ukraine-defense.html)
 - [Commando Cat Cryptojacking Attacks Target Misconfigured Docker Instances](https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html)
-- [Muhstik Botnet Exploiting Apache RocketMQ Flaw to Expand DDoS Attacks](https://thehackernews.com/2024/06/muhstik-botnet-exploiting-apache.html)
-- [Third-Party Cyber Attacks: The Threat No One Sees Coming – Here&#39;s How to Stop Them](https://thehackernews.com/2024/06/third-party-cyber-attacks-threat-no-one.html)
 <!-- BLOG-POST-LIST:END -->
