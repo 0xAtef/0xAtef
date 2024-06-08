@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New PHP Vulnerability Exposes Windows Servers to Remote Code Execution](https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html)
 - [Microsoft Revamps Controversial AI-Powered Recall Feature Amid Privacy Concerns](https://thehackernews.com/2024/06/microsoft-revamps-controversial-ai.html)
 - [Ultimate Cyber Hygiene Guide: Learn How to Simplify Your Security Efforts](https://thehackernews.com/2024/06/ultimate-cyber-hygiene-guide-learn-how.html)
 - [LightSpy Spyware&#39;s macOS Variant Found with Advanced Surveillance Capabilities](https://thehackernews.com/2024/06/lightspy-spywares-macos-variant-found.html)
 - [Cyber Landscape is Evolving - So Should Your SCA](https://thehackernews.com/2024/06/cyber-landscape-is-evolving-so-should.html)
-- [The AI Debate: Google&#39;s Guidelines, Meta&#39;s GDPR Dispute, Microsoft&#39;s Recall Backlash](https://thehackernews.com/2024/06/the-ai-debate-googles-guidelines-metas.html)
 <!-- BLOG-POST-LIST:END -->
