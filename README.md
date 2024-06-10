@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sticky Werewolf Expands Cyber Attack Targets in Russia and Belarus](https://thehackernews.com/2024/06/sticky-werewolf-expands-cyber-attack.html)
 - [New PHP Vulnerability Exposes Windows Servers to Remote Code Execution](https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html)
 - [Microsoft Revamps Controversial AI-Powered Recall Feature Amid Privacy Concerns](https://thehackernews.com/2024/06/microsoft-revamps-controversial-ai.html)
 - [Ultimate Cyber Hygiene Guide: Learn How to Simplify Your Security Efforts](https://thehackernews.com/2024/06/ultimate-cyber-hygiene-guide-learn-how.html)
 - [LightSpy Spyware&#39;s macOS Variant Found with Advanced Surveillance Capabilities](https://thehackernews.com/2024/06/lightspy-spywares-macos-variant-found.html)
-- [Cyber Landscape is Evolving - So Should Your SCA](https://thehackernews.com/2024/06/cyber-landscape-is-evolving-so-should.html)
 <!-- BLOG-POST-LIST:END -->
