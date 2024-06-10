@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [More_eggs Malware Disguised as Resumes Targets Recruiters in Phishing Attack](https://thehackernews.com/2024/06/moreeggs-malware-disguised-as-resumes.html)
 - [Cybersecurity CPEs: Unraveling the What, Why &amp; How](https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html)
 - [Azure Service Tags Vulnerability: Microsoft Warns of Potential Abuse by Hackers](https://thehackernews.com/2024/06/azure-service-tags-vulnerability.html)
 - [Google Takes Down Influence Campaigns Tied to China, Indonesia, and Russia](https://thehackernews.com/2024/06/google-takes-down-influence-campaigns.html)
 - [Sticky Werewolf Expands Cyber Attack Targets in Russia and Belarus](https://thehackernews.com/2024/06/sticky-werewolf-expands-cyber-attack.html)
-- [New PHP Vulnerability Exposes Windows Servers to Remote Code Execution](https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html)
 <!-- BLOG-POST-LIST:END -->
