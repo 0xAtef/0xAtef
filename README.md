@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Integrates OpenAI&#39;s ChatGPT into Siri for iOS, iPadOS, and macOS](https://thehackernews.com/2024/06/apple-integrates-openais-chatgpt-into.html)
 - [China-Linked ValleyRAT Malware Resurfaces with Advanced Data Theft Tactics](https://thehackernews.com/2024/06/china-linked-valleyrat-malware.html)
 - [Snowflake Breach Exposes 165 Customers&#39; Data in Ongoing Extortion Campaign](https://thehackernews.com/2024/06/snowflake-breach-exposes-165-customers.html)
 - [Arm Warns of Actively Exploited Zero-Day Vulnerability in Mali GPU Drivers](https://thehackernews.com/2024/06/arm-warns-of-actively-exploited-zero.html)
 - [More_eggs Malware Disguised as Resumes Targets Recruiters in Phishing Attack](https://thehackernews.com/2024/06/moreeggs-malware-disguised-as-resumes.html)
-- [Cybersecurity CPEs: Unraveling the What, Why &amp; How](https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html)
 <!-- BLOG-POST-LIST:END -->
