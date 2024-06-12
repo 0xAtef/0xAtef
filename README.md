@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Phishing Campaign Deploys WARMCOOKIE Backdoor Targeting Job Seekers](https://thehackernews.com/2024/06/new-phishing-campaign-deploys.html)
+- [China-Backed Hackers Exploit Fortinet Flaw, Infecting 20,000 Systems Globally](https://thehackernews.com/2024/06/china-backed-hackers-exploit-fortinet.html)
 - [Microsoft Issues Patches for 51 Flaws, Including Critical MSMQ Vulnerability](https://thehackernews.com/2024/06/microsoft-issues-patches-for-51-flaws.html)
 - [How Cynet Makes MSPs Rich &amp; Their Clients Secure](https://thehackernews.com/2024/06/how-cynet-makes-msps-rich-their-clients.html)
 - [Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale](https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html)
-- [Top 10 Critical Pentest Findings 2024: What You Need to Know](https://thehackernews.com/2024/06/top-10-critical-pentest-findings-2024.html)
-- [Apple Launches Private Cloud Compute for Privacy-Centric AI Processing](https://thehackernews.com/2024/06/apple-integrates-openais-chatgpt-into.html)
 <!-- BLOG-POST-LIST:END -->
