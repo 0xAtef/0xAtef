@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptojacking Campaign Targets Misconfigured Kubernetes Clusters](https://thehackernews.com/2024/06/cryptojacking-campaign-targets.html)
 - [Lessons from the Ticketmaster-Snowflake Breach](https://thehackernews.com/2024/06/lessons-from-ticketmaster-snowflake.html)
 - [Black Basta Ransomware May Have Exploited MS Windows Zero-Day Flaw](https://thehackernews.com/2024/06/black-basta-ransomware-may-have.html)
 - [New Phishing Campaign Deploys WARMCOOKIE Backdoor Targeting Job Seekers](https://thehackernews.com/2024/06/new-phishing-campaign-deploys.html)
 - [China-Backed Hackers Exploit Fortinet Flaw, Infecting 20,000 Systems Globally](https://thehackernews.com/2024/06/china-backed-hackers-exploit-fortinet.html)
-- [Microsoft Issues Patches for 51 Flaws, Including Critical MSMQ Vulnerability](https://thehackernews.com/2024/06/microsoft-issues-patches-for-51-flaws.html)
 <!-- BLOG-POST-LIST:END -->
