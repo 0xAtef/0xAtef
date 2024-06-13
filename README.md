@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pakistan-linked Malware Campaign Evolves to Target Windows, Android, and macOS](https://thehackernews.com/2024/06/pakistan-linked-malware-campaign.html)
+- [Cybercriminals Employ PhantomLoader to Distribute SSLoad Malware](https://thehackernews.com/2024/06/cybercriminals-employ-phantomloader-to.html)
 - [Ukraine Police Arrest Suspect Linked to LockBit and Conti Ransomware Groups](https://thehackernews.com/2024/06/ukraine-police-arrest-suspect-linked-to.html)
 - [Google Warns of Pixel Firmware Security Flaw Exploited as Zero-Day](https://thehackernews.com/2024/06/google-warns-of-pixel-firmware-security.html)
 - [New Cross-Platform Malware &#39;Noodle RAT&#39; Targets Windows and Linux Systems](https://thehackernews.com/2024/06/new-cross-platform-malware-noodle-rat.html)
-- [Cryptojacking Campaign Targets Misconfigured Kubernetes Clusters](https://thehackernews.com/2024/06/cryptojacking-campaign-targets.html)
-- [Lessons from the Ticketmaster-Snowflake Breach](https://thehackernews.com/2024/06/lessons-from-ticketmaster-snowflake.html)
 <!-- BLOG-POST-LIST:END -->
