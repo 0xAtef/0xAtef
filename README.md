@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s Privacy Sandbox Accused of User Tracking by Austrian Non-Profit](https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html)
 - [Learn to Secure Petabyte-Scale Data in a Webinar with Industry Titans](https://thehackernews.com/2024/06/learn-to-secure-petabyte-scale-data-in.html)
 - [Why Regulated Industries are Turning to Military-Grade Cyber Defenses](https://thehackernews.com/2024/06/why-regulated-industries-are-turning-to.html)
 - [ZKTeco Biometric System Found Vulnerable to 24 Critical Security Flaws](https://thehackernews.com/2024/06/zkteco-biometric-system-found.html)
 - [North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactics](https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html)
-- [Microsoft Delays AI-Powered Recall Feature for Copilot+ PCs Amid Security Concerns](https://thehackernews.com/2024/06/microsoft-delays-ai-powered-recall.html)
 <!-- BLOG-POST-LIST:END -->
