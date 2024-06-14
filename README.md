@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Delays AI-Powered Recall Feature for Copilot+ PCs Amid Security Concerns](https://thehackernews.com/2024/06/microsoft-delays-ai-powered-recall.html)
 - [New Attack Technique &#39;Sleepy Pickle&#39; Targets Machine Learning Models](https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html)
 - [Arid Viper Launches Mobile Espionage Campaign with AridSpy Malware](https://thehackernews.com/2024/06/arid-viper-launches-mobile-espionage.html)
 - [Why SaaS Security is Suddenly Hot: Racing to Defend and Comply](https://thehackernews.com/2024/06/why-saas-security-is-suddenly-hot.html)
 - [Pakistan-linked Malware Campaign Evolves to Target Windows, Android, and macOS](https://thehackernews.com/2024/06/pakistan-linked-malware-campaign.html)
-- [Cybercriminals Employ PhantomLoader to Distribute SSLoad Malware](https://thehackernews.com/2024/06/cybercriminals-employ-phantomloader-to.html)
 <!-- BLOG-POST-LIST:END -->
