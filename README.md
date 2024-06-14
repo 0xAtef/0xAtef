@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Regulated Industries are Turning to Military-Grade Cyber Defenses](https://thehackernews.com/2024/06/why-regulated-industries-are-turning-to.html)
 - [ZKTeco Biometric System Found Vulnerable to 24 Critical Security Flaws](https://thehackernews.com/2024/06/zkteco-biometric-system-found.html)
 - [North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactics](https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html)
 - [Microsoft Delays AI-Powered Recall Feature for Copilot+ PCs Amid Security Concerns](https://thehackernews.com/2024/06/microsoft-delays-ai-powered-recall.html)
 - [New Attack Technique &#39;Sleepy Pickle&#39; Targets Machine Learning Models](https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html)
-- [Arid Viper Launches Mobile Espionage Campaign with AridSpy Malware](https://thehackernews.com/2024/06/arid-viper-launches-mobile-espionage.html)
 <!-- BLOG-POST-LIST:END -->
