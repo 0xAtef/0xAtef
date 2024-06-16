@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.K. Hacker Linked to Notorious Scattered Spider Group Arrested in Spain](https://thehackernews.com/2024/06/uk-hacker-linked-to-notorious-scattered.html)
 - [Grandoreiro Banking Trojan Hits Brazil as Smishing Scams Surge in Pakistan](https://thehackernews.com/2024/06/grandoreiro-banking-trojan-hits-brazil.html)
 - [Pakistani Hackers Use DISGOMOJI Malware in Indian Government Cyber Attacks](https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html)
 - [Meta Pauses AI Training on EU User Data Amid Privacy Concerns](https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html)
 - [Google&#39;s Privacy Sandbox Accused of User Tracking by Austrian Non-Profit](https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html)
-- [Learn to Secure Petabyte-Scale Data in a Webinar with Industry Titans](https://thehackernews.com/2024/06/learn-to-secure-petabyte-scale-data-in.html)
 <!-- BLOG-POST-LIST:END -->
