@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Singapore Police Extradites Malaysians Linked to Android Malware Fraud](https://thehackernews.com/2024/06/singapore-police-extradites-malaysians.html)
 - [ASUS Patches Critical Authentication Bypass Flaw in Multiple Router Models](https://thehackernews.com/2024/06/asus-patches-critical-authentication.html)
 - [China-Linked Hackers Infiltrate East Asian Firm for 3 Years Using F5 Devices](https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html)
 - [What is DevSecOps and Why is it Essential for Secure Software Delivery?](https://thehackernews.com/2024/06/what-is-devsecops-and-why-is-it.html)
 - [Hackers Exploit Legitimate Websites to Deliver BadSpace Windows Backdoor](https://thehackernews.com/2024/06/hackers-exploit-legitimate-websites-to.html)
-- [NiceRAT Malware Targets South Korean Users via Cracked Software](https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html)
 <!-- BLOG-POST-LIST:END -->
