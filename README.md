@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Signal Foundation Warns Against EU&#39;s Plan to Scan Private Messages for CSAM](https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html)
 - [Cybercriminals Exploit Free Software Lures to Deploy Hijack Loader and Vidar Stealer](https://thehackernews.com/2024/06/cybercriminals-exploit-free-software.html)
 - [The Annual SaaS Security Report: 2025 CISO Plans and Priorities](https://thehackernews.com/2024/06/the-annual-saas-security-report-2025.html)
 - [New Malware Targets Exposed Docker APIs for Cryptocurrency Mining](https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html)
 - [VMware Issues Patches for Cloud Foundation, vCenter Server, and vSphere ESXi](https://thehackernews.com/2024/06/vmware-issues-patches-for-cloud.html)
-- [Singapore Police Extradites Malaysians Linked to Android Malware Fraud](https://thehackernews.com/2024/06/singapore-police-extradites-malaysians.html)
 <!-- BLOG-POST-LIST:END -->
