@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Annual SaaS Security Report: 2025 CISO Plans and Priorities](https://thehackernews.com/2024/06/the-annual-saas-security-report-2025.html)
 - [New Malware Targets Exposed Docker APIs for Cryptocurrency Mining](https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html)
 - [VMware Issues Patches for Cloud Foundation, vCenter Server, and vSphere ESXi](https://thehackernews.com/2024/06/vmware-issues-patches-for-cloud.html)
 - [Singapore Police Extradites Malaysians Linked to Android Malware Fraud](https://thehackernews.com/2024/06/singapore-police-extradites-malaysians.html)
 - [ASUS Patches Critical Authentication Bypass Flaw in Multiple Router Models](https://thehackernews.com/2024/06/asus-patches-critical-authentication.html)
-- [China-Linked Hackers Infiltrate East Asian Firm for 3 Years Using F5 Devices](https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html)
 <!-- BLOG-POST-LIST:END -->
