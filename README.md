@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chinese Cyber Espionage Group Exploits Fortinet, Ivanti and VMware Zero-Days](https://thehackernews.com/2024/06/chinese-cyber-espionage-group-exploits.html)
+- [Kraken Crypto Exchange Hit by $3 Million Theft Exploiting Zero-Day Flaw](https://thehackernews.com/2024/06/kraken-crypto-exchange-hit-by-3-million.html)
+- [UNC3886 Uses Fortinet, VMware 0-Days and Stealth Tactics in Long-Term Spying](https://thehackernews.com/2024/06/chinese-cyber-espionage-group-exploits.html)
 - [New Case Study: Unmanaged GTM Tags Become a Security Nightmare](https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html)
 - [New Threat Actor &#39;Void Arachne&#39; Targets Chinese Users with Malicious VPN Installers](https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html)
 - [Warning: Markopolo&#39;s Scam Targeting Crypto Users via Fake Meeting Software](https://thehackernews.com/2024/06/warning-markopolos-scam-targeting.html)
-- [Mailcow Mail Server Flaws Expose Servers to Remote Code Execution](https://thehackernews.com/2024/06/mailcow-mail-server-flaws-expose.html)
 <!-- BLOG-POST-LIST:END -->
