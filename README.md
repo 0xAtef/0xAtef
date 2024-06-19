@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Void Arachne Uses Deepfakes and AI to Deliver Malicious VPNs to Chinese Users](https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html)
+- [New Case Study: Unmanaged GTM Tags Become a Security Nightmare](https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html)
+- [New Threat Actor &#39;Void Arachne&#39; Targets Chinese Users with Malicious VPN Installers](https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html)
 - [Warning: Markopolo&#39;s Scam Targeting Crypto Users via Fake Meeting Software](https://thehackernews.com/2024/06/warning-markopolos-scam-targeting.html)
 - [Mailcow Mail Server Flaws Expose Servers to Remote Code Execution](https://thehackernews.com/2024/06/mailcow-mail-server-flaws-expose.html)
 - [Signal Foundation Warns Against EU&#39;s Plan to Scan Private Messages for CSAM](https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html)
-- [Cybercriminals Exploit Free Software Lures to Deploy Hijack Loader and Vidar Stealer](https://thehackernews.com/2024/06/cybercriminals-exploit-free-software.html)
 <!-- BLOG-POST-LIST:END -->
