@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Oyster Backdoor Spreading via Trojanized Popular Software Downloads](https://thehackernews.com/2024/06/oyster-backdoor-spreading-via.html)
+- [SolarWinds Serv-U Vulnerability Under Active Attack - Patch Immediately](https://thehackernews.com/2024/06/solarwinds-serv-u-vulnerability-under.html)
 - [U.S. Bans Kaspersky Software, Citing National Security Risks](https://thehackernews.com/2024/06/us-bans-kaspersky-software-citing.html)
 - [Researchers Uncover UEFI Vulnerability Affecting Multiple Intel CPUs](https://thehackernews.com/2024/06/researchers-uncover-uefi-vulnerability.html)
 - [French Diplomatic Entities Targeted in Russian-Linked Cyber Attacks](https://thehackernews.com/2024/06/french-diplomatic-entities-targeted-in.html)
-- [Tool Overload: Why MSPs Are Still Drowning with Countless Cybersecurity Tools in 2024](https://thehackernews.com/2024/06/tool-overload-why-msps-are-still.html)
-- [Chinese Cyber Espionage Targets Telecom Operators in Asia Since 2021](https://thehackernews.com/2024/06/chinese-cyber-espionage-targets-telecom.html)
 <!-- BLOG-POST-LIST:END -->
