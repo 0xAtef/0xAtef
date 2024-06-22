@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ExCobalt Cyber Gang Targets Russian Sectors with New GoRed Backdoor](https://thehackernews.com/2024/06/excobalt-cyber-gang-targets-russian.html)
+- [Warning: New Adware Campaign Targets Meta Quest App Seekers](https://thehackernews.com/2024/06/warning-new-adware-campaign-targets.html)
 - [U.S. Treasury Sanctions 12 Kaspersky Executives Amid Software Ban](https://thehackernews.com/2024/06/us-treasury-sanctions-12-kaspersky.html)
 - [Chinese Hackers Deploy SpiceRAT and SugarGh0st in Global Espionage Campaign](https://thehackernews.com/2024/06/chinese-hackers-deploy-spicerat-and.html)
 - [Military-themed Email Scam Spreads Malware to Infect Pakistani Users](https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html)
-- [How to Use Tines&#39;s SOC Automation Capability Matrix](https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html)
-- [Oyster Backdoor Spreading via Trojanized Popular Software Downloads](https://thehackernews.com/2024/06/oyster-backdoor-spreading-via.html)
 <!-- BLOG-POST-LIST:END -->
