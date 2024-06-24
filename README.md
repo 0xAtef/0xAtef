@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool](https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html)
 - [Ease the Burden with AI-Driven Threat Intelligence Reporting](https://thehackernews.com/2024/06/ease-burden-with-ai-driven-threat.html)
 - [RedJuliett Cyber Espionage Campaign Hits 75 Taiwanese Organizations](https://thehackernews.com/2024/06/redjuliett-cyber-espionage-campaign.html)
 - [Multiple Threat Actors Deploying Open-Source Rafel RAT to Target Android Devices](https://thehackernews.com/2024/06/iranian-hackers-deploy-rafel-rat-in.html)
 - [ExCobalt Cyber Gang Targets Russian Sectors with New GoRed Backdoor](https://thehackernews.com/2024/06/excobalt-cyber-gang-targets-russian.html)
-- [Warning: New Adware Campaign Targets Meta Quest App Seekers](https://thehackernews.com/2024/06/warning-new-adware-campaign-targets.html)
 <!-- BLOG-POST-LIST:END -->
