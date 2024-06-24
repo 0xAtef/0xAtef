@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiple Threat Actors Deploying Open-Source Rafel RAT to Target Android Devices](https://thehackernews.com/2024/06/iranian-hackers-deploy-rafel-rat-in.html)
 - [ExCobalt Cyber Gang Targets Russian Sectors with New GoRed Backdoor](https://thehackernews.com/2024/06/excobalt-cyber-gang-targets-russian.html)
 - [Warning: New Adware Campaign Targets Meta Quest App Seekers](https://thehackernews.com/2024/06/warning-new-adware-campaign-targets.html)
 - [U.S. Treasury Sanctions 12 Kaspersky Executives Amid Software Ban](https://thehackernews.com/2024/06/us-treasury-sanctions-12-kaspersky.html)
 - [Chinese Hackers Deploy SpiceRAT and SugarGh0st in Global Espionage Campaign](https://thehackernews.com/2024/06/chinese-hackers-deploy-spicerat-and.html)
-- [Military-themed Email Scam Spreads Malware to Infect Pakistani Users](https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html)
 <!-- BLOG-POST-LIST:END -->
