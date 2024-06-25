@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Attack Technique Exploits Microsoft Management Console Files](https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html)
 - [How to Cut Costs with a Browser Security Platform](https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html)
+- [New Cyberthreat &#39;Boolka&#39; Deploying BMANAGER Trojan via SQLi Attacks](https://thehackernews.com/2024/06/new-cyberthreat-boolka-deploying.html)
 - [Wikileaks&#39; Julian Assange Released from U.K. Prison, Heads to Australia](https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html)
 - [4 FIN9-linked Vietnamese Hackers Indicted in $71M U.S. Cybercrime Spree](https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html)
-- [Multiple WordPress Plugins Compromised: Hackers Create Rogue Admin Accounts](https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html)
-- [Google Introduces Project Naptime for AI-Powered Vulnerability Research](https://thehackernews.com/2024/06/google-introduces-project-naptime-for.html)
 <!-- BLOG-POST-LIST:END -->
