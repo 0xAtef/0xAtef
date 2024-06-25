@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wikileaks&#39; Julian Assange Released from U.K. Prison, Heads to Australia](https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html)
 - [4 FIN9-linked Vietnamese Hackers Indicted in $71M U.S. Cybercrime Spree](https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html)
 - [Multiple WordPress Plugins Compromised: Hackers Create Rogue Admin Accounts](https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html)
 - [Google Introduces Project Naptime for AI-Powered Vulnerability Research](https://thehackernews.com/2024/06/google-introduces-project-naptime-for.html)
 - [Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool](https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html)
-- [Ease the Burden with AI-Driven Threat Intelligence Reporting](https://thehackernews.com/2024/06/ease-burden-with-ai-driven-threat.html)
 <!-- BLOG-POST-LIST:END -->
