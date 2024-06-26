@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Medusa Android Trojan Targets Banking Users Across 7 Countries](https://thehackernews.com/2024/06/new-medusa-android-trojan-targets.html)
 - [Over 110,000 Websites Affected by Hijacked Polyfill Supply Chain Attack](https://thehackernews.com/2024/06/over-110000-websites-affected-by.html)
 - [New Attack Technique Exploits Microsoft Management Console Files](https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html)
 - [How to Cut Costs with a Browser Security Platform](https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html)
 - [New Cyberthreat &#39;Boolka&#39; Deploying BMANAGER Trojan via SQLi Attacks](https://thehackernews.com/2024/06/new-cyberthreat-boolka-deploying.html)
-- [WikiLeaks&#39; Julian Assange Released from U.K. Prison, Heads to Australia](https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html)
 <!-- BLOG-POST-LIST:END -->
