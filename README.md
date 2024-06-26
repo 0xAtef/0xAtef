@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese and N. Korean Hackers Target Global Infrastructure with Ransomware](https://thehackernews.com/2024/06/chinese-and-n-korean-hackers-target.html)
+- [Practical Guidance For Securing Your Software Supply Chain](https://thehackernews.com/2024/06/practical-guidance-for-securing-your.html)
+- [Apple Patches AirPods Bluetooth Vulnerability That Could Allow Eavesdropping](https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html)
 - [New Credit Card Skimmer Targets WordPress, Magento, and OpenCart Sites](https://thehackernews.com/2024/06/new-credit-card-skimmer-targets.html)
 - [New Medusa Android Trojan Targets Banking Users Across 7 Countries](https://thehackernews.com/2024/06/new-medusa-android-trojan-targets.html)
-- [Over 110,000 Websites Affected by Hijacked Polyfill Supply Chain Attack](https://thehackernews.com/2024/06/over-110000-websites-affected-by.html)
-- [New Attack Technique Exploits Microsoft Management Console Files](https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html)
-- [How to Cut Costs with a Browser Security Platform](https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html)
 <!-- BLOG-POST-LIST:END -->
