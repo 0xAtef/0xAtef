@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Injection Flaw in Vanna AI Exposes Databases to RCE Attacks](https://thehackernews.com/2024/06/prompt-injection-flaw-in-vanna-ai.html)
 - [Russian National Indicted for Cyber Attacks on Ukraine Before 2022 Invasion](https://thehackernews.com/2024/06/russian-national-indicted-for-cyber.html)
 - [Critical SQLi Vulnerability Found in Fortra FileCatalyst Workflow Application](https://thehackernews.com/2024/06/critical-sqli-vulnerability-found-in.html)
 - [Exploit Attempts Recorded Against New MOVEit Transfer Vulnerability - Patch ASAP!](https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html)
 - [Chinese and N. Korean Hackers Target Global Infrastructure with Ransomware](https://thehackernews.com/2024/06/chinese-and-n-korean-hackers-target.html)
-- [Practical Guidance For Securing Your Software Supply Chain](https://thehackernews.com/2024/06/practical-guidance-for-securing-your.html)
 <!-- BLOG-POST-LIST:END -->
