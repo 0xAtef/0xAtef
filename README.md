@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Python to Build Secure Blockchain Applications](https://thehackernews.com/2024/06/how-to-use-python-to-build-secure.html)
+- [The Secrets of Hidden AI Training on Your Data](https://thehackernews.com/2024/06/the-secrets-of-hidden-ai-training-on.html)
 - [Prompt Injection Flaw in Vanna AI Exposes Databases to RCE Attacks](https://thehackernews.com/2024/06/prompt-injection-flaw-in-vanna-ai.html)
+- [How to Use Python to Build Secure Blockchain Applications](https://thehackernews.com/2024/06/how-to-use-python-to-build-secure.html)
 - [Russian National Indicted for Cyber Attacks on Ukraine Before 2022 Invasion](https://thehackernews.com/2024/06/russian-national-indicted-for-cyber.html)
 - [Critical SQLi Vulnerability Found in Fortra FileCatalyst Workflow Application](https://thehackernews.com/2024/06/critical-sqli-vulnerability-found-in.html)
-- [Exploit Attempts Recorded Against New MOVEit Transfer Vulnerability - Patch ASAP!](https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html)
 <!-- BLOG-POST-LIST:END -->
