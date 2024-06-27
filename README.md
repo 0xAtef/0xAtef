@@ -152,7 +152,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New MOVEit Transfer Vulnerability Under Active Exploitation - Patch ASAP!](https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html)
+- [Exploit Attempts Recorded Against New MOVEit Transfer Vulnerability - Patch ASAP!](https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html)
 - [Chinese and N. Korean Hackers Target Global Infrastructure with Ransomware](https://thehackernews.com/2024/06/chinese-and-n-korean-hackers-target.html)
 - [Practical Guidance For Securing Your Software Supply Chain](https://thehackernews.com/2024/06/practical-guidance-for-securing-your.html)
 - [Apple Patches AirPods Bluetooth Vulnerability That Could Allow Eavesdropping](https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html)
