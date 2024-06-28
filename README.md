@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Warn of Flaws in Widely Used Industrial Gas Analysis Equipment](https://thehackernews.com/2024/06/researchers-warn-of-flaws-in-widely.html)
 - [TeamViewer Detects Security Breach in Corporate IT Environment](https://thehackernews.com/2024/06/teamviewer-detects-security-breach-in.html)
 - [Rust-Based P2PInfect Botnet Evolves with Miner and Ransomware Payloads](https://thehackernews.com/2024/06/rust-based-p2pinfect-botnet-evolves.html)
 - [The Secrets of Hidden AI Training on Your Data](https://thehackernews.com/2024/06/the-secrets-of-hidden-ai-training-on.html)
 - [Prompt Injection Flaw in Vanna AI Exposes Databases to RCE Attacks](https://thehackernews.com/2024/06/prompt-injection-flaw-in-vanna-ai.html)
-- [How to Use Python to Build Secure Blockchain Applications](https://thehackernews.com/2024/06/how-to-use-python-to-build-secure.html)
 <!-- BLOG-POST-LIST:END -->
