@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google to Block Entrust Certificates in Chrome Starting November 2024](https://thehackernews.com/2024/06/google-to-block-entrust-certificates-in.html)
 - [Kimsuky Using TRANSLATEXT Chrome Extension to Steal Sensitive Data](https://thehackernews.com/2024/06/kimsuky-using-translatext-chrome.html)
 - [GitLab Releases Patch for Critical CI/CD Pipeline Vulnerability and 13 Others](https://thehackernews.com/2024/06/gitlab-releases-patch-for-critical-cicd.html)
 - [8220 Gang Exploits Oracle WebLogic Server Flaws for Cryptocurrency Mining](https://thehackernews.com/2024/06/8220-gang-exploits-oracle-weblogic.html)
 - [Combatting the Evolving SaaS Kill Chain: How to Stay Ahead of Threat Actors](https://thehackernews.com/2024/06/combatting-evolving-saas-kill-chain-how.html)
-- [New SnailLoad Attack Exploits Network Latency to Spy on Users&#39; Web Activities](https://thehackernews.com/2024/06/new-snailload-attack-exploits-network.html)
 <!-- BLOG-POST-LIST:END -->
