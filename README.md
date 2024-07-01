@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CapraRAT Spyware Disguised as Popular Apps Threatens Android Users](https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html)
+- [Indian Software Firm&#39;s Products Hacked to Spread Data-Stealing Malware](https://thehackernews.com/2024/07/indian-software-firms-products-hacked.html)
 - [End-to-End Secrets Security: Making a Plan to Secure Your Machine Identities](https://thehackernews.com/2024/07/end-to-end-secrets-security-making-plan.html)
 - [New OpenSSH Vulnerability Could Lead to RCE as Root on Linux Systems](https://thehackernews.com/2024/07/new-openssh-vulnerability-could-lead-to.html)
 - [Juniper Networks Releases Critical Security Update for Routers](https://thehackernews.com/2024/07/juniper-networks-releases-critical.html)
-- [Google to Block Entrust Certificates in Chrome Starting November 2024](https://thehackernews.com/2024/06/google-to-block-entrust-certificates-in.html)
-- [Kimsuky Using TRANSLATEXT Chrome Extension to Steal Sensitive Data](https://thehackernews.com/2024/06/kimsuky-using-translatext-chrome.html)
 <!-- BLOG-POST-LIST:END -->
