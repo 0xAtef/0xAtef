@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Flaws in CocoaPods Expose iOS and macOS Apps to Supply Chain Attacks](https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html)
 - [CapraRAT Spyware Disguised as Popular Apps Threatens Android Users](https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html)
 - [Indian Software Firm&#39;s Products Hacked to Spread Data-Stealing Malware](https://thehackernews.com/2024/07/indian-software-firms-products-hacked.html)
 - [End-to-End Secrets Security: Making a Plan to Secure Your Machine Identities](https://thehackernews.com/2024/07/end-to-end-secrets-security-making-plan.html)
 - [New OpenSSH Vulnerability Could Lead to RCE as Root on Linux Systems](https://thehackernews.com/2024/07/new-openssh-vulnerability-could-lead-to.html)
-- [Juniper Networks Releases Critical Security Update for Routers](https://thehackernews.com/2024/07/juniper-networks-releases-critical.html)
 <!-- BLOG-POST-LIST:END -->
