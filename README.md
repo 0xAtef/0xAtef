@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How MFA Failures are Fueling a 500% Surge in Ransomware Losses](https://thehackernews.com/2024/07/how-mfa-failures-are-fueling-500-surge.html)
+- [New Intel CPU Vulnerability &#39;Indirector&#39; Exposes Sensitive Data](https://thehackernews.com/2024/07/new-intel-cpu-vulnerability-indirector.html)
 - [Meta&#39;s &#39;Pay or Consent&#39; Approach Faces E.U. Competition Rules Scrutiny](https://thehackernews.com/2024/07/metas-pay-or-consent-approach-faces-eu.html)
 - [Chinese Hackers Exploiting Cisco Switches Zero-Day to Deliver Malware](https://thehackernews.com/2024/07/chinese-hackers-exploiting-cisco.html)
 - [Australian Man Charged for Fake Wi-Fi Scam on Domestic Flights](https://thehackernews.com/2024/07/australian-man-charged-for-fake-wi-fi.html)
-- [Critical Flaws in CocoaPods Expose iOS and macOS Apps to Supply Chain Attacks](https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html)
-- [CapraRAT Spyware Disguised as Popular Apps Threatens Android Users](https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html)
 <!-- BLOG-POST-LIST:END -->
