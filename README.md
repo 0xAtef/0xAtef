@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft MSHTML Flaw Exploited to Deliver MerkSpy Spyware Tool](https://thehackernews.com/2024/07/microsoft-mshtml-flaw-exploited-to.html)
 - [FakeBat Loader Malware Spreads Widely Through Drive-by Download Attacks](https://thehackernews.com/2024/07/fakebat-loader-malware-spreads-widely.html)
 - [Israeli Entities Targeted by Cyberattack Using Donut and Sliver Frameworks](https://thehackernews.com/2024/07/israeli-entities-targeted-by.html)
 - [South Korean ERP Vendor&#39;s Server Hacked to Spread Xctdoor Malware](https://thehackernews.com/2024/07/south-korean-erp-vendors-server-hacked.html)
 - [How MFA Failures are Fueling a 500% Surge in Ransomware Losses](https://thehackernews.com/2024/07/how-mfa-failures-are-fueling-500-surge.html)
-- [New Intel CPU Vulnerability &#39;Indirector&#39; Exposes Sensitive Data](https://thehackernews.com/2024/07/new-intel-cpu-vulnerability-indirector.html)
 <!-- BLOG-POST-LIST:END -->
