@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Global Police Operation Shuts Down 600 Cybercrime Servers Linked to Cobalt Strike](https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html)
 - [Twilio&#39;s Authy App Breach Exposes Millions of Phone Numbers](https://thehackernews.com/2024/07/twilios-authy-app-breach-exposes.html)
 - [The Emerging Role of AI in Open-Source Intelligence](https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html)
 - [Microsoft MSHTML Flaw Exploited to Deliver MerkSpy Spyware Tool](https://thehackernews.com/2024/07/microsoft-mshtml-flaw-exploited-to.html)
 - [FakeBat Loader Malware Spreads Widely Through Drive-by Download Attacks](https://thehackernews.com/2024/07/fakebat-loader-malware-spreads-widely.html)
-- [Israeli Entities Targeted by Cyberattack Using Donut and Sliver Frameworks](https://thehackernews.com/2024/07/israeli-entities-targeted-by.html)
 <!-- BLOG-POST-LIST:END -->
