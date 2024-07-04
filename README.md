@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twilio&#39;s Authy App Breach Exposes Millions of Phone Numbers](https://thehackernews.com/2024/07/twilios-authy-app-breach-exposes.html)
 - [The Emerging Role of AI in Open-Source Intelligence](https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html)
 - [Microsoft MSHTML Flaw Exploited to Deliver MerkSpy Spyware Tool](https://thehackernews.com/2024/07/microsoft-mshtml-flaw-exploited-to.html)
 - [FakeBat Loader Malware Spreads Widely Through Drive-by Download Attacks](https://thehackernews.com/2024/07/fakebat-loader-malware-spreads-widely.html)
 - [Israeli Entities Targeted by Cyberattack Using Donut and Sliver Frameworks](https://thehackernews.com/2024/07/israeli-entities-targeted-by.html)
-- [South Korean ERP Vendor&#39;s Server Hacked to Spread Xctdoor Malware](https://thehackernews.com/2024/07/south-korean-erp-vendors-server-hacked.html)
 <!-- BLOG-POST-LIST:END -->
