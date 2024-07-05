@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GootLoader Malware Still Active, Deploys New Versions for Enhanced Attacks](https://thehackernews.com/2024/07/gootloader-malware-delivers-new.html)
 - [Polyfill[.]io Attack Impacts Over 380,000 Hosts, Including Major Companies](https://thehackernews.com/2024/07/polyfillio-attack-impacts-over-380000.html)
 - [New Golang-Based Zergeca Botnet Capable of Powerful DDoS Attacks](https://thehackernews.com/2024/07/new-golang-based-zergeca-botnet-capable.html)
 - [Microsoft Uncovers Critical Flaws in Rockwell Automation PanelView Plus](https://thehackernews.com/2024/07/microsoft-uncovers-critical-flaws-in.html)
 - [Brazil Halts Meta&#39;s AI Data Processing Amid Privacy Concerns](https://thehackernews.com/2024/07/brazil-halts-metas-ai-data-processing.html)
-- [Global Police Operation Shuts Down 600 Cybercrime Servers Linked to Cobalt Strike](https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html)
 <!-- BLOG-POST-LIST:END -->
