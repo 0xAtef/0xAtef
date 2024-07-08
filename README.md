@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy](https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html)
 - [Experts Warn of Mekotio Banking Trojan Targeting Latin American Countries](https://thehackernews.com/2024/07/experts-warn-of-mekotio-banking-trojan.html)
 - [Critical Unpatched Flaws Disclosed in Popular Gogs Open-Source Git Service](https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html)
 - [Apple Removes VPN Apps from Russian App Store Amid Government Pressure](https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html)
 - [Webinar Alert: Learn How ITDR Solutions Stop Sophisticated Identity Attacks](https://thehackernews.com/2024/07/webinar-alert-learn-how-itdr-solutions.html)
-- [OVHcloud Hit with Record 840 Million PPS DDoS Attack Using MikroTik Routers](https://thehackernews.com/2024/07/ovhcloud-hit-with-record-840-million.html)
 <!-- BLOG-POST-LIST:END -->
