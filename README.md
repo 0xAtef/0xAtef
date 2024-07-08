@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dark Web Malware Logs Expose 3,300 Users Linked to Child Abuse Sites](https://thehackernews.com/2024/07/dark-web-malware-logs-expose-3300-users.html)
 - [New Ransomware-as-a-Service &#39;Eldorado&#39; Targets Windows and Linux Systems](https://thehackernews.com/2024/07/new-ransomware-as-service-eldorado.html)
 - [5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy](https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html)
 - [Experts Warn of Mekotio Banking Trojan Targeting Latin American Countries](https://thehackernews.com/2024/07/experts-warn-of-mekotio-banking-trojan.html)
 - [Critical Unpatched Flaws Disclosed in Popular Gogs Open-Source Git Service](https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html)
-- [Apple Removes VPN Apps from Russian App Store Amid Government Pressure](https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html)
 <!-- BLOG-POST-LIST:END -->
