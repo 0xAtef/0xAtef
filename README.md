@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Unpatched Flaws Disclosed in Popular Gogs Open-Source Git Service](https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html)
 - [Apple Removes VPN Apps from Russian App Store Amid Government Pressure](https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html)
 - [Webinar Alert: Learn How ITDR Solutions Stop Sophisticated Identity Attacks](https://thehackernews.com/2024/07/webinar-alert-learn-how-itdr-solutions.html)
 - [OVHcloud Hit with Record 840 Million PPS DDoS Attack Using MikroTik Routers](https://thehackernews.com/2024/07/ovhcloud-hit-with-record-840-million.html)
 - [Blueprint for Success: Implementing a CTEM Operation](https://thehackernews.com/2024/07/blueprint-for-success-implementing-ctem.html)
-- [GootLoader Malware Still Active, Deploys New Versions for Enhanced Attacks](https://thehackernews.com/2024/07/gootloader-malware-delivers-new.html)
 <!-- BLOG-POST-LIST:END -->
