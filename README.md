@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RADIUS Protocol Vulnerability Exposes Networks to MitM Attacks](https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html)
 - [Hackers Exploiting Jenkins Script Console for Cryptocurrency Mining Attacks](https://thehackernews.com/2024/07/hackers-exploiting-jenkins-script.html)
 - [HUMINT: Diving Deep into the Dark Web](https://thehackernews.com/2024/07/humint-diving-deep-into-dark-web.html)
 - [GuardZoo Malware Targets Over 450 Middle Eastern Military Personnel](https://thehackernews.com/2024/07/guardzoo-malware-targets-over-450.html)
 - [Cybersecurity Agencies Warn of China-linked APT40&#39;s Rapid Exploit Adaptation](https://thehackernews.com/2024/07/cybersecurity-agencies-warn-of-china.html)
-- [Trojanized jQuery Packages Found on npm, GitHub, and jsDelivr Code Repositories](https://thehackernews.com/2024/07/trojanized-jquery-packages-found-on-npm.html)
 <!-- BLOG-POST-LIST:END -->
