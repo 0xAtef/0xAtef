@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ViperSoftX Malware Disguises as eBooks on Torrents to Spread Stealthy Attacks](https://thehackernews.com/2024/07/vipersoftx-malware-disguises-as-ebooks.html)
 - [New OpenSSH Vulnerability Discovered: Potential Remote Code Execution Risk](https://thehackernews.com/2024/07/new-openssh-vulnerability-discovered.html)
 - [RADIUS Protocol Vulnerability Exposes Networks to MitM Attacks](https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html)
 - [Hackers Exploiting Jenkins Script Console for Cryptocurrency Mining Attacks](https://thehackernews.com/2024/07/hackers-exploiting-jenkins-script.html)
 - [HUMINT: Diving Deep into the Dark Web](https://thehackernews.com/2024/07/humint-diving-deep-into-dark-web.html)
-- [GuardZoo Malware Targets Over 450 Middle Eastern Military Personnel](https://thehackernews.com/2024/07/guardzoo-malware-targets-over-450.html)
 <!-- BLOG-POST-LIST:END -->
