@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Crypto Analysts Expose HuiOne Guarantee&#39;s $11 Billion Cybercrime Transactions](https://thehackernews.com/2024/07/crypto-analysts-expose-huione.html)
 - [ViperSoftX Malware Disguises as eBooks on Torrents to Spread Stealthy Attacks](https://thehackernews.com/2024/07/vipersoftx-malware-disguises-as-ebooks.html)
 - [New OpenSSH Vulnerability Discovered: Potential Remote Code Execution Risk](https://thehackernews.com/2024/07/new-openssh-vulnerability-discovered.html)
 - [RADIUS Protocol Vulnerability Exposes Networks to MitM Attacks](https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html)
 - [Hackers Exploiting Jenkins Script Console for Cryptocurrency Mining Attacks](https://thehackernews.com/2024/07/hackers-exploiting-jenkins-script.html)
-- [HUMINT: Diving Deep into the Dark Web](https://thehackernews.com/2024/07/humint-diving-deep-into-dark-web.html)
 <!-- BLOG-POST-LIST:END -->
