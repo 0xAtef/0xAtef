@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Ransomware Group Exploiting Veeam Backup Software Vulnerability](https://thehackernews.com/2024/07/new-ransomware-group-exploiting-veeam.html)
 - [Smash-and-Grab Extortion](https://thehackernews.com/2024/07/smash-and-grab-extortion.html)
 - [Microsoft&#39;s July Update Patches 143 Flaws, Including Two Actively Exploited](https://thehackernews.com/2024/07/microsofts-july-update-patches-143.html)
 - [True Protection or False Promise? The Ultimate ITDR Shortlisting Guide](https://thehackernews.com/2024/07/true-protection-or-false-promise.html)
 - [Google Adds Passkeys to Advanced Protection Program for High-Risk Users](https://thehackernews.com/2024/07/google-adds-passkeys-to-advanced.html)
-- [HuiOne Guarantee: The $11 Billion Cybercrime Hub of Southeast Asia](https://thehackernews.com/2024/07/crypto-analysts-expose-huione.html)
 <!-- BLOG-POST-LIST:END -->
