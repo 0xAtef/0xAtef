@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Poco RAT Targets Spanish-Speaking Victims in Phishing Campaign](https://thehackernews.com/2024/07/new-poco-rat-targets-spanish-speaking.html)
 - [PHP Vulnerability Exploited to Spread Malware and Launch DDoS Attacks](https://thehackernews.com/2024/07/php-vulnerability-exploited-to-spread.html)
 - [GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Jobs](https://thehackernews.com/2024/07/gitlab-patches-critical-flaw-allowing.html)
 - [New Ransomware Group Exploiting Veeam Backup Software Vulnerability](https://thehackernews.com/2024/07/new-ransomware-group-exploiting-veeam.html)
 - [Smash-and-Grab Extortion](https://thehackernews.com/2024/07/smash-and-grab-extortion.html)
-- [Microsoft&#39;s July Update Patches 143 Flaws, Including Two Actively Exploited](https://thehackernews.com/2024/07/microsofts-july-update-patches-143.html)
 <!-- BLOG-POST-LIST:END -->
