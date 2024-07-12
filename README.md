@@ -153,8 +153,8 @@ BIO
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Ever Wonder How Hackers Really Steal Passwords? Discover Their Tactics in This Webinar](https://thehackernews.com/2024/07/ever-wonder-how-hackers-really-steal.html)
+- [Critical Exim Mail Server Vulnerability Exposes Millions to Malicious Attachments](https://thehackernews.com/2024/07/critical-exim-mail-server-vulnerability.html)
 - [U.S. Seizes Domains Used by AI-Powered Russian Bot Farm for Disinformation](https://thehackernews.com/2024/07/us-seizes-domains-used-by-ai-powered.html)
 - [Palo Alto Networks Patches Critical Flaw in Expedition Migration Tool](https://thehackernews.com/2024/07/palo-alto-networks-patches-critical.html)
 - [60 New Malicious Packages Uncovered in NuGet Supply Chain Attack](https://thehackernews.com/2024/07/60-new-malicious-packages-uncovered-in.html)
-- [Chinese APT41 Upgrades Malware Arsenal with DodgeBox and MoonWalk](https://thehackernews.com/2024/07/chinese-apt41-upgrades-malware-arsenal.html)
 <!-- BLOG-POST-LIST:END -->
