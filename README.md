@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AT&amp;T Confirms Data Breach Affecting Nearly All Wireless Customers](https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html)
 - [DarkGate Malware Exploits Samba File Shares in Short-Lived Campaign](https://thehackernews.com/2024/07/darkgate-malware-exploits-samba-file.html)
 - [Australian Defence Force Private and Husband Charged with Espionage for Russia](https://thehackernews.com/2024/07/australian-defence-force-private-and.html)
 - [Ever Wonder How Hackers Really Steal Passwords? Discover Their Tactics in This Webinar](https://thehackernews.com/2024/07/ever-wonder-how-hackers-really-steal.html)
 - [Critical Exim Mail Server Vulnerability Exposes Millions to Malicious Attachments](https://thehackernews.com/2024/07/critical-exim-mail-server-vulnerability.html)
-- [U.S. Seizes Domains Used by AI-Powered Russian Bot Farm for Disinformation](https://thehackernews.com/2024/07/us-seizes-domains-used-by-ai-powered.html)
 <!-- BLOG-POST-LIST:END -->
