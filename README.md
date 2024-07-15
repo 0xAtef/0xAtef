@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10,000 Victims a Day: Infostealer Garden of Low-Hanging Fruit](https://thehackernews.com/2024/07/10000-victims-day-infostealer-garden-of.html)
+- [CRYSTALRAY Hackers Infect Over 1,500 Victims Using Network Mapping Tool](https://thehackernews.com/2024/07/crystalray-hackers-infect-over-1500.html)
 - [Singapore Banks to Phase Out OTPs for Online Logins Within 3 Months](https://thehackernews.com/2024/07/singapore-banks-to-phase-out-otps-for.html)
 - [New HardBit Ransomware 4.0 Uses Passphrase Protection to Evade Detection](https://thehackernews.com/2024/07/new-hardbit-ransomware-40-uses.html)
 - [AT&amp;T Confirms Data Breach Affecting Nearly All Wireless Customers](https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html)
-- [DarkGate Malware Exploits Samba File Shares in Short-Lived Campaign](https://thehackernews.com/2024/07/darkgate-malware-exploits-samba-file.html)
-- [Australian Defence Force Private and Husband Charged with Espionage for Russia](https://thehackernews.com/2024/07/australian-defence-force-private-and.html)
 <!-- BLOG-POST-LIST:END -->
