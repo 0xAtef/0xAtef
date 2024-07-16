@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Void Banshee APT Exploits Microsoft MHTML Flaw to Spread Atlantida Stealer](https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html)
 - [Kaspersky Exits U.S. Market Following Commerce Department Ban](https://thehackernews.com/2024/07/kaspersky-exits-us-market-following.html)
 - [CISA Warns of Actively Exploited RCE Flaw in GeoServer GeoTools Software](https://thehackernews.com/2024/07/cisa-warns-of-actively-exploited-rce.html)
 - [GitHub Token Leak Exposes Python&#39;s Core Repositories to Potential Attacks](https://thehackernews.com/2024/07/github-token-leak-exposes-pythons-core.html)
 - [10,000 Victims a Day: Infostealer Garden of Low-Hanging Fruit](https://thehackernews.com/2024/07/10000-victims-day-infostealer-garden-of.html)
-- [CRYSTALRAY Hackers Infect Over 1,500 Victims Using Network Mapping Tool](https://thehackernews.com/2024/07/crystalray-hackers-infect-over-1500.html)
 <!-- BLOG-POST-LIST:END -->
