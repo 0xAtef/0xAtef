@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Threat Prevention &amp; Detection in SaaS Environments - 101](https://thehackernews.com/2024/07/threat-prevention-detection-in-saas.html)
 - [Malicious npm Packages Found Using Image Files to Hide Backdoor Code](https://thehackernews.com/2024/07/malicious-npm-packages-found-using.html)
 - [Iranian Hackers Deploy New BugSleep Backdoor in Middle East Cyber Attacks](https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html)
 - [Void Banshee APT Exploits Microsoft MHTML Flaw to Spread Atlantida Stealer](https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html)
 - [Kaspersky Exits U.S. Market Following Commerce Department Ban](https://thehackernews.com/2024/07/kaspersky-exits-us-market-following.html)
-- [CISA Warns of Actively Exploited RCE Flaw in GeoServer GeoTools Software](https://thehackernews.com/2024/07/cisa-warns-of-actively-exploited-rce.html)
 <!-- BLOG-POST-LIST:END -->
