@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China-linked APT17 Targets Italian Companies with 9002 RAT Malware](https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html)
 - [Scattered Spider Adopts RansomHub and Qilin Ransomware for Cyber Attacks](https://thehackernews.com/2024/07/scattered-spider-adopts-ransomhub-and.html)
 - [Critical Apache HugeGraph Vulnerability Under Attack - Patch ASAP](https://thehackernews.com/2024/07/critical-apache-hugegraph-vulnerability.html)
 - [&#39;Konfety&#39; Ad Fraud Uses 250+ Google Play Decoy Apps to Hide Malicious Twins](https://thehackernews.com/2024/07/konfety-ad-fraud-uses-250-google-play.html)
 - [Threat Prevention &amp; Detection in SaaS Environments - 101](https://thehackernews.com/2024/07/threat-prevention-detection-in-saas.html)
-- [Malicious npm Packages Found Using Image Files to Hide Backdoor Code](https://thehackernews.com/2024/07/malicious-npm-packages-found-using.html)
 <!-- BLOG-POST-LIST:END -->
