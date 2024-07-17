@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Update BeaverTail Malware to Target MacOS Users](https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html)
 - [Navigating Insider Risks: Are your Employees Enabling External Threats?](https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html)
 - [FIN7 Group Advertises Security-Bypassing Tool on Dark Web Forums](https://thehackernews.com/2024/07/fin7-group-advertises-security.html)
 - [China-linked APT17 Targets Italian Companies with 9002 RAT Malware](https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html)
 - [Scattered Spider Adopts RansomHub and Qilin Ransomware for Cyber Attacks](https://thehackernews.com/2024/07/scattered-spider-adopts-ransomhub-and.html)
-- [Critical Apache HugeGraph Vulnerability Under Attack - Patch ASAP](https://thehackernews.com/2024/07/critical-apache-hugegraph-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
