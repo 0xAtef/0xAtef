@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AppSec Webinar: How to Turn Developers into Security Champions](https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html)
+- [Automated Threats Pose Increasing Risk to the Travel Industry](https://thehackernews.com/2024/07/automated-threats-pose-increasing-risk.html)
 - [SAP AI Core Vulnerabilities Expose Customer Data to Cyber Attacks](https://thehackernews.com/2024/07/sap-ai-core-vulnerabilities-expose.html)
 - [TAG-100: New Threat Actor Uses Open-Source Tools for Widespread Attacks](https://thehackernews.com/2024/07/tag-100-new-threat-actor-uses-open.html)
 - [Meta Halts AI Use in Brazil Following Data Protection Authority&#39;s Ban](https://thehackernews.com/2024/07/meta-halts-ai-use-in-brazil-following.html)
-- [Cisco Warns of Critical Flaw Affecting On-Prem Smart Software Manager](https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html)
-- [North Korean Hackers Update BeaverTail Malware to Target MacOS Users](https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html)
 <!-- BLOG-POST-LIST:END -->
