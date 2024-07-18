@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Warns of Critical Flaw Affecting On-Prem Smart Software Manager](https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html)
 - [North Korean Hackers Update BeaverTail Malware to Target MacOS Users](https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html)
 - [Navigating Insider Risks: Are your Employees Enabling External Threats?](https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html)
 - [FIN7 Group Advertises Security-Bypassing Tool on Dark Web Forums](https://thehackernews.com/2024/07/fin7-group-advertises-security.html)
 - [China-linked APT17 Targets Italian Companies with 9002 RAT Malware](https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html)
-- [Scattered Spider Adopts RansomHub and Qilin Ransomware for Cyber Attacks](https://thehackernews.com/2024/07/scattered-spider-adopts-ransomhub-and.html)
 <!-- BLOG-POST-LIST:END -->
