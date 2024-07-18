@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Halts AI Use in Brazil Following Data Protection Authority&#39;s Ban](https://thehackernews.com/2024/07/meta-halts-ai-use-in-brazil-following.html)
 - [Cisco Warns of Critical Flaw Affecting On-Prem Smart Software Manager](https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html)
 - [North Korean Hackers Update BeaverTail Malware to Target MacOS Users](https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html)
 - [Navigating Insider Risks: Are your Employees Enabling External Threats?](https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html)
 - [FIN7 Group Advertises Security-Bypassing Tool on Dark Web Forums](https://thehackernews.com/2024/07/fin7-group-advertises-security.html)
-- [China-linked APT17 Targets Italian Companies with 9002 RAT Malware](https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html)
 <!-- BLOG-POST-LIST:END -->
