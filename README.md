@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Safeguard Personal and Corporate Identities with Identity Intelligence](https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html)
 - [Pro-Houthi Group Targets Yemen Aid Organizations with Android Spyware](https://thehackernews.com/2024/07/pro-houthi-group-targets-yemen-aid.html)
 - [APT41 Infiltrates Networks in Italy, Spain, Taiwan, Turkey, and the U.K.](https://thehackernews.com/2024/07/apt41-infiltrates-networks-in-italy.html)
 - [Summary of &quot;AI Leaders Spill Their Secrets&quot; Webinar](https://thehackernews.com/2024/07/summary-of-ai-leaders-spill-their.html)
 - [SolarWinds Patches 11 Critical Flaws in Access Rights Manager Software](https://thehackernews.com/2024/07/solarwinds-patches-11-critical-flaws-in.html)
-- [WazirX Cryptocurrency Exchange Loses $230 Million in Major Security Breach](https://thehackernews.com/2024/07/wazirx-cryptocurrency-exchange-loses.html)
 <!-- BLOG-POST-LIST:END -->
