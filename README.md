@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Summary of &quot;AI Leaders Spill Their Secrets&quot; Webinar](https://thehackernews.com/2024/07/summary-of-ai-leaders-spill-their.html)
+- [Pro-Houthi Group Targets Yemen Aid Organizations with Android Spyware](https://thehackernews.com/2024/07/pro-houthi-group-targets-yemen-aid.html)
 - [APT41 Infiltrates Networks in Italy, Spain, Taiwan, Turkey, and the U.K.](https://thehackernews.com/2024/07/apt41-infiltrates-networks-in-italy.html)
+- [Summary of &quot;AI Leaders Spill Their Secrets&quot; Webinar](https://thehackernews.com/2024/07/summary-of-ai-leaders-spill-their.html)
 - [SolarWinds Patches 11 Critical Flaws in Access Rights Manager Software](https://thehackernews.com/2024/07/solarwinds-patches-11-critical-flaws-in.html)
 - [WazirX Cryptocurrency Exchange Loses $230 Million in Major Security Breach](https://thehackernews.com/2024/07/wazirx-cryptocurrency-exchange-loses.html)
-- [Alert: HotPage Adware Disguised as Ad Blocker Installs Malicious Kernel Driver](https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html)
 <!-- BLOG-POST-LIST:END -->
