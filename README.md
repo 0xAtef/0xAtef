@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WazirX Cryptocurrency Exchange Loses $230 Million in Major Security Breach](https://thehackernews.com/2024/07/wazirx-cryptocurrency-exchange-loses.html)
 - [Alert: HotPage Adware Disguised as Ad Blocker Installs Malicious Kernel Driver](https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html)
 - [AppSec Webinar: How to Turn Developers into Security Champions](https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html)
 - [Automated Threats Pose Increasing Risk to the Travel Industry](https://thehackernews.com/2024/07/automated-threats-pose-increasing-risk.html)
 - [SAP AI Core Vulnerabilities Expose Customer Data to Cyber Attacks](https://thehackernews.com/2024/07/sap-ai-core-vulnerabilities-expose.html)
-- [TAG-100: New Threat Actor Uses Open-Source Tools for Widespread Attacks](https://thehackernews.com/2024/07/tag-100-new-threat-actor-uses-open.html)
 <!-- BLOG-POST-LIST:END -->
