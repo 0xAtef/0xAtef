@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Exploit CrowdStrike Update Mishap to Distribute Remcos RAT Malware](https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html)
 - [17-Year-Old Linked to Scattered Spider Cybercrime Syndicate Arrested in U.K.](https://thehackernews.com/2024/07/17-year-old-linked-to-scattered-spider.html)
 - [Faulty CrowdStrike Update Crashes Windows Systems, Impacting Businesses Worldwide](https://thehackernews.com/2024/07/faulty-crowdstrike-update-crashes.html)
 - [Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks](https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html)
 - [Safeguard Personal and Corporate Identities with Identity Intelligence](https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html)
-- [Pro-Houthi Group Targets Yemen Aid Organizations with Android Spyware](https://thehackernews.com/2024/07/pro-houthi-group-targets-yemen-aid.html)
 <!-- BLOG-POST-LIST:END -->
