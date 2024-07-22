@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SocGholish Malware Exploits BOINC Project for Covert Cyberattacks](https://thehackernews.com/2024/07/socgholish-malware-exploits-boinc.html)
 - [New Linux Variant of Play Ransomware Targeting VMware ESXi Systems](https://thehackernews.com/2024/07/new-linux-variant-of-play-ransomware.html)
 - [Cybercriminals Exploit CrowdStrike Update Mishap to Distribute Remcos RAT Malware](https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html)
 - [17-Year-Old Linked to Scattered Spider Cybercrime Syndicate Arrested in U.K.](https://thehackernews.com/2024/07/17-year-old-linked-to-scattered-spider.html)
 - [Faulty CrowdStrike Update Crashes Windows Systems, Impacting Businesses Worldwide](https://thehackernews.com/2024/07/faulty-crowdstrike-update-crashes.html)
-- [Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks](https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html)
 <!-- BLOG-POST-LIST:END -->
