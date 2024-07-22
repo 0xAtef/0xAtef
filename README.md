@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Experts Uncover Chinese Cybercrime Network Behind Gambling and Human Trafficking](https://thehackernews.com/2024/07/experts-uncover-chinese-cybercrime.html)
 - [PINEAPPLE and FLUXROOT Hacker Groups Abuse Google Cloud for Credential Phishing](https://thehackernews.com/2024/07/pineapple-and-fluxroot-hacker-groups.html)
 - [How to Set up an Automated SMS Analysis Service with AI in Tines](https://thehackernews.com/2024/07/how-to-set-up-automated-sms-analysis.html)
 - [MSPs &amp; MSSPs: How to Increase Engagement with Your Cybersecurity Clients Through vCISO Reporting](https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html)
 - [SocGholish Malware Exploits BOINC Project for Covert Cyberattacks](https://thehackernews.com/2024/07/socgholish-malware-exploits-boinc.html)
-- [New Linux Variant of Play Ransomware Targeting VMware ESXi Systems](https://thehackernews.com/2024/07/new-linux-variant-of-play-ransomware.html)
 <!-- BLOG-POST-LIST:END -->
