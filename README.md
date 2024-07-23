@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Securely Onboard New Employees Without Sharing Temporary Passwords](https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html)
+- [Magento Sites Targeted with Sneaky Credit Card Skimmer via Swap Files](https://thehackernews.com/2024/07/magento-sites-targeted-with-sneaky.html)
+- [Meta Given Deadline to Address E.U. Concerns Over &#39;Pay or Consent&#39; Model](https://thehackernews.com/2024/07/meta-given-deadline-to-address-eu.html)
+- [Ukrainian Institutions Targeted Using HATVIBE and CHERRYSPY Malware](https://thehackernews.com/2024/07/ukrainian-institutions-targeted-using.html)
 - [Google Abandons Plan to Phase Out Third-Party Cookies in Chrome](https://thehackernews.com/2024/07/google-abandons-plan-to-phase-out-third.html)
-- [Experts Uncover Chinese Cybercrime Network Behind Gambling and Human Trafficking](https://thehackernews.com/2024/07/experts-uncover-chinese-cybercrime.html)
-- [PINEAPPLE and FLUXROOT Hacker Groups Abuse Google Cloud for Credential Phishing](https://thehackernews.com/2024/07/pineapple-and-fluxroot-hacker-groups.html)
-- [How to Set up an Automated SMS Analysis Service with AI in Tines](https://thehackernews.com/2024/07/how-to-set-up-automated-sms-analysis.html)
-- [MSPs &amp; MSSPs: How to Increase Engagement with Your Cybersecurity Clients Through vCISO Reporting](https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html)
 <!-- BLOG-POST-LIST:END -->
