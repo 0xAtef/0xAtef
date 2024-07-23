@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hackers Target Taiwan and US NGO with MgBot Malware](https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html)
 - [New ICS Malware &#39;FrostyGoop&#39; Targeting Critical Infrastructure](https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html)
 - [How to Securely Onboard New Employees Without Sharing Temporary Passwords](https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html)
 - [Magento Sites Targeted with Sneaky Credit Card Skimmer via Swap Files](https://thehackernews.com/2024/07/magento-sites-targeted-with-sneaky.html)
 - [Meta Given Deadline to Address E.U. Concerns Over &#39;Pay or Consent&#39; Model](https://thehackernews.com/2024/07/meta-given-deadline-to-address-eu.html)
-- [Ukrainian Institutions Targeted Using HATVIBE and CHERRYSPY Malware](https://thehackernews.com/2024/07/ukrainian-institutions-targeted-using.html)
 <!-- BLOG-POST-LIST:END -->
