@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Defender Flaw Exploited to Deliver ACR, Lumma, and Meduza Stealers](https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html)
+- [CISA Adds Twilio Authy and IE Flaws to Exploited Vulnerabilities List](https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html)
 - [Chinese Hackers Target Taiwan and U.S. NGO with MgBot and MACMA Malware](https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html)
 - [New ICS Malware &#39;FrostyGoop&#39; Targeting Critical Infrastructure](https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html)
 - [How to Securely Onboard New Employees Without Sharing Temporary Passwords](https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html)
-- [Magento Sites Targeted with Sneaky Credit Card Skimmer via Swap Files](https://thehackernews.com/2024/07/magento-sites-targeted-with-sneaky.html)
-- [Meta Given Deadline to Address E.U. Concerns Over &#39;Pay or Consent&#39; Model](https://thehackernews.com/2024/07/meta-given-deadline-to-address-eu.html)
 <!-- BLOG-POST-LIST:END -->
