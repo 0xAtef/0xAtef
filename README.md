@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Reduce SaaS Spend and Risk Without Impacting Productivity](https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html)
+- [Patchwork Hackers Target Bhutan with Advanced Brute Ratel C4 Tool](https://thehackernews.com/2024/07/patchwork-hackers-target-bhutan-with.html)
 - [CrowdStrike Explains Friday Incident Crashing Millions of Windows Devices](https://thehackernews.com/2024/07/crowdstrike-explains-friday-windows.html)
 - [Microsoft Defender Flaw Exploited to Deliver ACR, Lumma, and Meduza Stealers](https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html)
 - [CISA Adds Twilio Authy and IE Flaws to Exploited Vulnerabilities List](https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html)
-- [Chinese Hackers Target Taiwan and U.S. NGO with MgBot and MACMA Malware](https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html)
-- [New ICS Malware &#39;FrostyGoop&#39; Targeting Critical Infrastructure](https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html)
 <!-- BLOG-POST-LIST:END -->
