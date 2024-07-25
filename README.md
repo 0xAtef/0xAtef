@@ -153,8 +153,8 @@ BIO
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins](https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html)
+- [CISA Warns of Exploitable Vulnerabilities in Popular BIND 9 DNS Software](https://thehackernews.com/2024/07/cisa-warns-of-exploitable.html)
 - [New Chrome Feature Scans Password-Protected Files for Malicious Content](https://thehackernews.com/2024/07/new-chrome-feature-scans-password.html)
 - [How a Trust Center Solves Your Security Questionnaire Problem](https://thehackernews.com/2024/07/how-trust-center-solves-your-security.html)
 - [Telegram App Flaw Exploited to Spread Malware Hidden in Videos](https://thehackernews.com/2024/07/telegram-app-flaw-exploited-to-spread.html)
-- [How to Reduce SaaS Spend and Risk Without Impacting Productivity](https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html)
 <!-- BLOG-POST-LIST:END -->
