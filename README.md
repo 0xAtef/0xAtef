@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Shift from Cyber Espionage to Ransomware Attacks](https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html)
 - [6 Types of Applications Security Testing You Must Know About](https://thehackernews.com/2024/07/6-types-of-applications-security.html)
 - [Meta Removes 63,000 Instagram Accounts Linked to Nigerian Sextortion Scams](https://thehackernews.com/2024/07/meta-removes-63000-instagram-accounts.html)
 - [Webinar: Securing the Modern Workspace: What Enterprises MUST Know about Enterprise Browser Security](https://thehackernews.com/2024/07/webinar-securing-modern-workspace-what.html)
 - [Researchers Reveal ConfusedFunction Vulnerability in Google Cloud Platform](https://thehackernews.com/2024/07/experts-expose-confusedfunction.html)
-- [Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins](https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html)
 <!-- BLOG-POST-LIST:END -->
