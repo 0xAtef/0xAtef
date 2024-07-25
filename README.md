@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins](https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html)
+- [New Chrome Feature Scans Password-Protected Files for Malicious Content](https://thehackernews.com/2024/07/new-chrome-feature-scans-password.html)
 - [How a Trust Center Solves Your Security Questionnaire Problem](https://thehackernews.com/2024/07/how-trust-center-solves-your-security.html)
 - [Telegram App Flaw Exploited to Spread Malware Hidden in Videos](https://thehackernews.com/2024/07/telegram-app-flaw-exploited-to-spread.html)
 - [How to Reduce SaaS Spend and Risk Without Impacting Productivity](https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html)
-- [Patchwork Hackers Target Bhutan with Advanced Brute Ratel C4 Tool](https://thehackernews.com/2024/07/patchwork-hackers-target-bhutan-with.html)
-- [CrowdStrike Explains Friday Incident Crashing Millions of Windows Devices](https://thehackernews.com/2024/07/crowdstrike-explains-friday-windows.html)
 <!-- BLOG-POST-LIST:END -->
