@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This AI-Powered Cybercrime Service Bundles Phishing Kits with Malicious Android Apps](https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html)
 - [Offensive AI: The Sine Qua Non of Cybersecurity](https://thehackernews.com/2024/07/offensive-ai-sine-qua-non-of.html)
 - [U.S. DoJ Indicts North Korean Hacker for Ransomware Attacks on Hospitals](https://thehackernews.com/2024/07/us-doj-indicts-north-korean-hacker-for.html)
 - [Ongoing Cyberattack Targets Exposed Selenium Grid Services for Crypto Mining](https://thehackernews.com/2024/07/ongoing-cyberattack-targets-exposed.html)
 - [CrowdStrike Warns of New Phishing Scam Targeting German Customers](https://thehackernews.com/2024/07/crowdstrike-warns-of-new-phishing-scam.html)
-- [Critical Flaw in Telerik Report Server Poses Remote Code Execution Risk](https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html)
 <!-- BLOG-POST-LIST:END -->
