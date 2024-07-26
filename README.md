@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ongoing Cyberattack Targets Exposed Selenium Grid Services for Crypto Mining](https://thehackernews.com/2024/07/ongoing-cyberattack-targets-exposed.html)
+- [CrowdStrike Warns of New Phishing Scam Targeting German Customers](https://thehackernews.com/2024/07/crowdstrike-warns-of-new-phishing-scam.html)
 - [Critical Flaw in Telerik Report Server Poses Remote Code Execution Risk](https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html)
 - [North Korean Hackers Shift from Cyber Espionage to Ransomware Attacks](https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html)
 - [6 Types of Applications Security Testing You Must Know About](https://thehackernews.com/2024/07/6-types-of-applications-security.html)
-- [Meta Removes 63,000 Instagram Accounts Linked to Nigerian Sextortion Scams](https://thehackernews.com/2024/07/meta-removes-63000-instagram-accounts.html)
-- [Webinar: Securing the Modern Workspace: What Enterprises MUST Know about Enterprise Browser Security](https://thehackernews.com/2024/07/webinar-securing-modern-workspace-what.html)
 <!-- BLOG-POST-LIST:END -->
