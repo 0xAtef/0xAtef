@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [French Authorities Launch Operation to Remove PlugX Malware from Infected Systems](https://thehackernews.com/2024/07/french-authorities-launch-operation-to.html)
 - [Malicious PyPI Package Targets macOS to Steal Google Cloud Credentials](https://thehackernews.com/2024/07/malicious-pypi-package-targets-macos-to.html)
 - [This AI-Powered Cybercrime Service Bundles Phishing Kits with Malicious Android Apps](https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html)
 - [Offensive AI: The Sine Qua Non of Cybersecurity](https://thehackernews.com/2024/07/offensive-ai-sine-qua-non-of.html)
 - [U.S. DoJ Indicts North Korean Hacker for Ransomware Attacks on Hospitals](https://thehackernews.com/2024/07/us-doj-indicts-north-korean-hacker-for.html)
-- [Ongoing Cyberattack Targets Exposed Selenium Grid Services for Crypto Mining](https://thehackernews.com/2024/07/ongoing-cyberattack-targets-exposed.html)
 <!-- BLOG-POST-LIST:END -->
