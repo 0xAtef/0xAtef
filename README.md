@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Proofpoint Email Routing Flaw Exploited to Send Millions of Spoofed Phishing Emails](https://thehackernews.com/2024/07/proofpoint-email-routing-flaw-exploited.html)
 - [How Searchable Encryption Changes the Data Security Game](https://thehackernews.com/2024/07/how-searchable-encryption-changes-data.html)
 - [&#39;Stargazer Goblin&#39; Creates 3,000 Fake GitHub Accounts for Malware Spread](https://thehackernews.com/2024/07/stargazer-goblin-creates-3000-fake.html)
 - [Gh0st RAT Trojan Targets Chinese Windows Users via Fake Chrome Site](https://thehackernews.com/2024/07/gh0st-rat-trojan-targets-chinese.html)
 - [French Authorities Launch Operation to Remove PlugX Malware from Infected Systems](https://thehackernews.com/2024/07/french-authorities-launch-operation-to.html)
-- [Malicious PyPI Package Targets macOS to Steal Google Cloud Credentials](https://thehackernews.com/2024/07/malicious-pypi-package-targets-macos-to.html)
 <!-- BLOG-POST-LIST:END -->
