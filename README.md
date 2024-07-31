@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hackers Target Japanese Firms with LODEINFO and NOOPDOOR Malware](https://thehackernews.com/2024/07/chinese-hackers-target-japanese-firms.html)
+- [How To Get the Most From Your Security Team’s Email Alert Budget](https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html)
 - [Cybercriminals Deploy 100K+ Malware Android Apps to Steal OTP Codes](https://thehackernews.com/2024/07/cybercriminals-deploy-100k-malware.html)
 - [Cyber Espionage Group XDSpy Targets Companies in Russia and Moldova](https://thehackernews.com/2024/07/cyber-espionage-group-xdspy-targets.html)
 - [Meta Settles for $1.4 Billion with Texas Over Illegal Biometric Data Collection](https://thehackernews.com/2024/07/meta-settles-for-14-billion-with-texas.html)
-- [New Mandrake Spyware Found in Google Play Store Apps After Two Years](https://thehackernews.com/2024/07/new-mandrake-spyware-found-in-google.html)
-- [The Power and Peril of RMM Tools](https://thehackernews.com/2024/07/the-power-and-peril-of-rmm-tools.html)
 <!-- BLOG-POST-LIST:END -->
