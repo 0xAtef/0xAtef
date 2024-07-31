@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Settles for $1.4 Billion with Texas Over Illegal Biometric Data Collection](https://thehackernews.com/2024/07/meta-settles-for-14-billion-with-texas.html)
 - [New Mandrake Spyware Found in Google Play Store Apps After Two Years](https://thehackernews.com/2024/07/new-mandrake-spyware-found-in-google.html)
 - [The Power and Peril of RMM Tools](https://thehackernews.com/2024/07/the-power-and-peril-of-rmm-tools.html)
 - [Cybercriminals Target Polish Businesses with Agent Tesla and Formbook Malware](https://thehackernews.com/2024/07/cybercriminals-target-polish-businesses.html)
 - [Cyber Threat Intelligence: Illuminating the Deep, Dark Cybercriminal Underground](https://thehackernews.com/2024/07/cyber-threat-intelligence-illuminating.html)
-- [New SideWinder Cyber Attacks Target Maritime Facilities in Multiple Countries](https://thehackernews.com/2024/07/new-sidewinder-cyber-attacks-target.html)
 <!-- BLOG-POST-LIST:END -->
