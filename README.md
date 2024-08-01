@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Distributing Malicious Python Packages via Popular Developer Q&amp;A Platform](https://thehackernews.com/2024/08/hackers-distributing-malicious-python.html)
 - [New Android Banking Trojan BingoMod Steals Money, Wipes Devices](https://thehackernews.com/2024/08/new-android-banking-trojan-bingomod.html)
 - [Obfuscation: There Are Two Sides To Everything](https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html)
 - [Google Chrome Adds App-Bound Encryption to Protect Cookies from Malware](https://thehackernews.com/2024/08/google-chrome-adds-app-bound-encryption.html)
 - [Facebook Ads Lead to Fake Websites Stealing Credit Card Information](https://thehackernews.com/2024/08/facebook-ads-lead-to-fake-websites.html)
-- [DigiCert to Revoke 83,000+ SSL Certificates Due to Domain Validation Oversight](https://thehackernews.com/2024/07/digicert-to-revoke-83000-ssl.html)
 <!-- BLOG-POST-LIST:END -->
