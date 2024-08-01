@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Ads Lead to Fake Websites Stealing Credit Card Information](https://thehackernews.com/2024/08/facebook-ads-lead-to-fake-websites.html)
 - [DigiCert to Revoke 83,000+ SSL Certificates Due to Domain Validation Oversight](https://thehackernews.com/2024/07/digicert-to-revoke-83000-ssl.html)
 - [North Korea-Linked Malware Targets Developers on Windows, Linux, and macOS](https://thehackernews.com/2024/07/north-korea-linked-malware-targets.html)
 - [Chinese Hackers Target Japanese Firms with LODEINFO and NOOPDOOR Malware](https://thehackernews.com/2024/07/chinese-hackers-target-japanese-firms.html)
 - [How To Get the Most From Your Security Team’s Email Alert Budget](https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html)
-- [Cybercriminals Deploy 100K+ Malware Android Apps to Steal OTP Codes](https://thehackernews.com/2024/07/cybercriminals-deploy-100k-malware.html)
 <!-- BLOG-POST-LIST:END -->
