@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Abusing Cloudflare Tunnels to Evade Detection and Spread Malware](https://thehackernews.com/2024/08/cybercriminals-abusing-cloudflare.html)
 - [Over 1 Million Domains at Risk of &#39;Sitting Ducks&#39; Domain Hijacking Technique](https://thehackernews.com/2024/08/over-1-million-domains-at-risk-of.html)
 - [Hackers Distributing Malicious Python Packages via Popular Developer Q&amp;A Platform](https://thehackernews.com/2024/08/hackers-distributing-malicious-python.html)
 - [New Android Banking Trojan BingoMod Steals Money, Wipes Devices](https://thehackernews.com/2024/08/new-android-banking-trojan-bingomod.html)
 - [Obfuscation: There Are Two Sides To Everything](https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html)
-- [Google Chrome Adds App-Bound Encryption to Protect Cookies from Malware](https://thehackernews.com/2024/08/google-chrome-adds-app-bound-encryption.html)
 <!-- BLOG-POST-LIST:END -->
