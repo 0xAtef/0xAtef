@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mirai Botnet targeting OFBiz Servers Vulnerable to Directory Traversal](https://thehackernews.com/2024/08/mirai-botnet-targeting-ofbiz-servers.html)
+- [New Windows Backdoor BITSLOTH Exploits BITS for Stealthy Communication](https://thehackernews.com/2024/08/new-windows-backdoor-bitsloth-exploits.html)
 - [U.S. Releases High-Profile Russian Hackers in Diplomatic Prisoner Exchange](https://thehackernews.com/2024/08/us-releases-high-profile-russian.html)
 - [Cybercriminals Abusing Cloudflare Tunnels to Evade Detection and Spread Malware](https://thehackernews.com/2024/08/cybercriminals-abusing-cloudflare.html)
 - [Over 1 Million Domains at Risk of &#39;Sitting Ducks&#39; Domain Hijacking Technique](https://thehackernews.com/2024/08/over-1-million-domains-at-risk-of.html)
-- [Hackers Distributing Malicious Python Packages via Popular Developer Q&amp;A Platform](https://thehackernews.com/2024/08/hackers-distributing-malicious-python.html)
-- [New Android Banking Trojan BingoMod Steals Money, Wipes Devices](https://thehackernews.com/2024/08/new-android-banking-trojan-bingomod.html)
 <!-- BLOG-POST-LIST:END -->
