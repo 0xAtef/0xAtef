@@ -152,9 +152,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [APT41 Hackers Use ShadowPad, Cobalt Strike in Taiwanese Institute Cyber Attack](https://thehackernews.com/2024/08/apt41-hackers-use-shadowpad-cobalt.html)
+- [APT28 Targets Diplomats with HeadLace Malware via Car Sale Phishing Lure](https://thehackernews.com/2024/08/apt28-targets-diplomats-with-headlace.html)
 - [Webinar: Discover the All-in-One Cybersecurity Solution for SMBs](https://thehackernews.com/2024/08/webinar-discover-all-in-one.html)
 - [Mirai Botnet targeting OFBiz Servers Vulnerable to Directory Traversal](https://thehackernews.com/2024/08/mirai-botnet-targeting-ofbiz-servers.html)
 - [New Windows Backdoor BITSLOTH Exploits BITS for Stealthy Communication](https://thehackernews.com/2024/08/new-windows-backdoor-bitsloth-exploits.html)
-- [U.S. Releases High-Profile Russian Hackers in Diplomatic Prisoner Exchange](https://thehackernews.com/2024/08/us-releases-high-profile-russian.html)
-- [Cybercriminals Abusing Cloudflare Tunnels to Evade Detection and Spread Malware](https://thehackernews.com/2024/08/cybercriminals-abusing-cloudflare.html)
 <!-- BLOG-POST-LIST:END -->
