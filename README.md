@@ -13,7 +13,7 @@ In the online realm, I am recognized as 0xAtef. My professional passion revolves
 
 I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity
 
---->
+
 
 # Sr. Security Analyst Specializing in Threat Detection, Threat Hunting, Incident Response, and Automation
 
@@ -22,6 +22,15 @@ I hold a certification in Threat Hunting (eCTHPv2) and possess practical experti
 In the online realm, I am recognized as 0xAtef. My professional passion revolves around SOC operations, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, and SOC Automation, with a specific focus on Blue/Purple teaming. I am also skilled in EDR assessment and C2 framework usage.
 
 I am deeply enthusiastic about development and scripting, particularly in the realm of automation. My core belief is that to effectively protect, you need to understand what you are protecting. I am dedicated to staying well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
+--->
+<h1 align="center"> Senior Cyber Defense Engineer </h1>
+
+With proven experience in leading Security Operations, conducting EDR assessments, and developing SOC processes, use cases, playbooks, detection rules, and automation workflows.
+
+As a Cyber Defense Engineer, my professional passion encompasses whatever is related to blue team capabilities like threat detection, incident response, and threat hunting and my skills extend to SIEM Administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.
+
+Currently, I hold a professional certificate in Threat Hunting (ecthpv2) and I’m willing to solidify my practical capabilities with other blue/purple team certificates in the future.
+My core belief is that you can’t protect what you don’t understand, that’s why I’m eager to stay well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
 
 
 # Security Projects Overview
