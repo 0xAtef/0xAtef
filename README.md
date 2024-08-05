@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Flaw in Rockwell Automation Devices Allows Unauthorized Access](https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html)
+- [New Android Trojan &quot;BlankBot&quot; Targets Turkish Users&#39; Financial Data](https://thehackernews.com/2024/08/new-android-trojan-blankbot-targets.html)
+- [China-Linked Hackers Compromise ISP to Deploy Malicious Software Updates](https://thehackernews.com/2024/08/china-linked-hackers-compromise-isp-to.html)
 - [DoJ and FTC Sue TikTok for Violating Children&#39;s Privacy Laws](https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html)
 - [Hackers Exploit Misconfigured Jupyter Notebooks with Repurposed Minecraft DDoS Tool](https://thehackernews.com/2024/08/hackers-exploit-misconfigured-jupyter.html)
-- [APT41 Hackers Use ShadowPad, Cobalt Strike in Taiwanese Institute Cyber Attack](https://thehackernews.com/2024/08/apt41-hackers-use-shadowpad-cobalt.html)
-- [APT28 Targets Diplomats with HeadLace Malware via Car Sale Phishing Lure](https://thehackernews.com/2024/08/apt28-targets-diplomats-with-headlace.html)
-- [Webinar: Discover the All-in-One Cybersecurity Solution for SMBs](https://thehackernews.com/2024/08/webinar-discover-all-in-one.html)
 <!-- BLOG-POST-LIST:END -->
