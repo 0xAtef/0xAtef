@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Loper Bright Decision: How it Impacts Cybersecurity Law](https://thehackernews.com/2024/08/the-loper-bright-decision-how-it.html)
 - [Enhancing Incident Response Readiness with Wazuh](https://thehackernews.com/2024/08/enhancing-incident-response-readiness.html)
 - [Critical Flaw in Rockwell Automation Devices Allows Unauthorized Access](https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html)
 - [New Android Trojan &quot;BlankBot&quot; Targets Turkish Users&#39; Financial Data](https://thehackernews.com/2024/08/new-android-trojan-blankbot-targets.html)
 - [China-Linked Hackers Compromise ISP to Deploy Malicious Software Updates](https://thehackernews.com/2024/08/china-linked-hackers-compromise-isp-to.html)
-- [DoJ and FTC Sue TikTok for Violating Children&#39;s Privacy Laws](https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html)
 <!-- BLOG-POST-LIST:END -->
