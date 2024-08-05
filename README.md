@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Flaws in Windows Smart App Control and SmartScreen](https://thehackernews.com/2024/08/researchers-uncover-flaws-in-windows.html)
+- [Kazakh Organizations Targeted by &#39;Bloody Wolf&#39; Cyber Attacks](https://thehackernews.com/2024/08/kazakh-organizations-targeted-by-bloody.html)
 - [The Loper Bright Decision: How it Impacts Cybersecurity Law](https://thehackernews.com/2024/08/the-loper-bright-decision-how-it.html)
 - [Enhancing Incident Response Readiness with Wazuh](https://thehackernews.com/2024/08/enhancing-incident-response-readiness.html)
 - [Critical Flaw in Rockwell Automation Devices Allows Unauthorized Access](https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html)
-- [New Android Trojan &quot;BlankBot&quot; Targets Turkish Users&#39; Financial Data](https://thehackernews.com/2024/08/new-android-trojan-blankbot-targets.html)
-- [China-Linked Hackers Compromise ISP to Deploy Malicious Software Updates](https://thehackernews.com/2024/08/china-linked-hackers-compromise-isp-to.html)
 <!-- BLOG-POST-LIST:END -->
