@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Zero-Day Flaw in Apache OFBiz ERP Allows Remote Code Execution](https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html)
 - [Researchers Uncover Flaws in Windows Smart App Control and SmartScreen](https://thehackernews.com/2024/08/researchers-uncover-flaws-in-windows.html)
 - [Kazakh Organizations Targeted by &#39;Bloody Wolf&#39; Cyber Attacks](https://thehackernews.com/2024/08/kazakh-organizations-targeted-by-bloody.html)
 - [The Loper Bright Decision: How it Impacts Cybersecurity Law](https://thehackernews.com/2024/08/the-loper-bright-decision-how-it.html)
 - [Enhancing Incident Response Readiness with Wazuh](https://thehackernews.com/2024/08/enhancing-incident-response-readiness.html)
-- [Critical Flaw in Rockwell Automation Devices Allows Unauthorized Access](https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html)
 <!-- BLOG-POST-LIST:END -->
