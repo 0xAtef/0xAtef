@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Suspicious Minds: Insider Threats in The SaaS World](https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html)
+- [INTERPOL Recovers $41 Million in Largest Ever BEC Scam in Singapore](https://thehackernews.com/2024/08/interpol-recovers-41-million-in-largest.html)
 - [North Korean Hackers Moonstone Sleet Push Malicious JS Packages to npm Registry](https://thehackernews.com/2024/08/north-korean-hackers-moonstone-sleet.html)
+- [Suspicious Minds: Insider Threats in The SaaS World](https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html)
 - [New Android Spyware LianSpy Evades Detection Using Yandex Cloud](https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html)
 - [Google Patches New Android Kernel Vulnerability Exploited in the Wild](https://thehackernews.com/2024/08/google-patches-new-android-kernel.html)
-- [New Zero-Day Flaw in Apache OFBiz ERP Allows Remote Code Execution](https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html)
 <!-- BLOG-POST-LIST:END -->
