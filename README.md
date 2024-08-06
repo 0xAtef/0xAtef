@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Suspicious Minds: Insider Threats in The SaaS World](https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html)
+- [North Korean Hackers Moonstone Sleet Push Malicious JS Packages to npm Registry](https://thehackernews.com/2024/08/north-korean-hackers-moonstone-sleet.html)
 - [New Android Spyware LianSpy Evades Detection Using Yandex Cloud](https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html)
 - [Google Patches New Android Kernel Vulnerability Exploited in the Wild](https://thehackernews.com/2024/08/google-patches-new-android-kernel.html)
 - [New Zero-Day Flaw in Apache OFBiz ERP Allows Remote Code Execution](https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html)
-- [Researchers Uncover Flaws in Windows Smart App Control and SmartScreen](https://thehackernews.com/2024/08/researchers-uncover-flaws-in-windows.html)
-- [Kazakh Organizations Targeted by &#39;Bloody Wolf&#39; Cyber Attacks](https://thehackernews.com/2024/08/kazakh-organizations-targeted-by-bloody.html)
 <!-- BLOG-POST-LIST:END -->
