@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Linux Kernel Exploit Technique &#39;SLUBStick&#39; Discovered by Researchers](https://thehackernews.com/2024/08/new-linux-kernel-exploit-technique.html)
+- [Roundcube Webmail Flaws Allow Hackers to Steal Emails and Passwords](https://thehackernews.com/2024/08/roundcube-webmail-flaws-allow-hackers.html)
 - [New Go-based Backdoor GoGra Targets South Asian Media Organization](https://thehackernews.com/2024/08/new-go-based-backdoor-gogra-targets.html)
 - [CrowdStrike Reveals Root Cause of Global System Outages](https://thehackernews.com/2024/08/crowdstrike-reveals-root-cause-of.html)
 - [Chameleon Android Banking Trojan Targets Users Through Fake CRM App](https://thehackernews.com/2024/08/chameleon-android-banking-trojan.html)
-- [Apple’s New macOS Sequoia Tightens Gatekeeper Controls to Block Unauthorized Software](https://thehackernews.com/2024/08/apples-new-macos-sequoia-tightens.html)
-- [INTERPOL Recovers $41 Million in Largest Ever BEC Scam in Singapore](https://thehackernews.com/2024/08/interpol-recovers-41-million-in-largest.html)
 <!-- BLOG-POST-LIST:END -->
