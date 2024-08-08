@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Downgrade Attack Risks Exposing Patched Systems to Old Vulnerabilities](https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html)
+- [New Phishing Scam Uses Google Drawings and WhatsApp Shortened Links](https://thehackernews.com/2024/08/new-phishing-scam-uses-google-drawings.html)
 - [Unlock the Future of Cybersecurity: Exclusive, Next Era AI Insights and Cutting-Edge Training at SANS Network Security 2024](https://thehackernews.com/2024/08/unlock-future-of-cybersecurity.html)
 - [FBI and CISA Warn of BlackSuit Ransomware That Demands Up to $500 Million](https://thehackernews.com/2024/08/fbi-and-cisa-warn-of-blacksuit.html)
 - [Critical Security Flaw in WhatsUp Gold Under Active Attack - Patch Now](https://thehackernews.com/2024/08/critical-security-flaw-in-whatsup-gold.html)
-- [New Linux Kernel Exploit Technique &#39;SLUBStick&#39; Discovered by Researchers](https://thehackernews.com/2024/08/new-linux-kernel-exploit-technique.html)
-- [Roundcube Webmail Flaws Allow Hackers to Steal Emails and Passwords](https://thehackernews.com/2024/08/roundcube-webmail-flaws-allow-hackers.html)
 <!-- BLOG-POST-LIST:END -->
