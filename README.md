@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [0.0.0.0 Day: 18-Year-Old Browser Vulnerability Impacts MacOS and Linux Devices](https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html)
 - [Automated Security Validation: One &lpar;Very Important&rpar; Part of a Complete CTEM Framework](https://thehackernews.com/2024/08/automated-security-validation-one-very.html)
 - [Windows Downgrade Attack Risks Exposing Patched Systems to Old Vulnerabilities](https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html)
 - [New Phishing Scam Uses Google Drawings and WhatsApp Shortened Links](https://thehackernews.com/2024/08/new-phishing-scam-uses-google-drawings.html)
 - [Unlock the Future of Cybersecurity: Exclusive, Next Era AI Insights and Cutting-Edge Training at SANS Network Security 2024](https://thehackernews.com/2024/08/unlock-future-of-cybersecurity.html)
-- [FBI and CISA Warn of BlackSuit Ransomware That Demands Up to $500 Million](https://thehackernews.com/2024/08/fbi-and-cisa-warn-of-blacksuit.html)
 <!-- BLOG-POST-LIST:END -->
