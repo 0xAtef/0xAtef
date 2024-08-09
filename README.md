@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Warns of Hackers Exploiting Legacy Cisco Smart Install Feature](https://thehackernews.com/2024/08/cisa-warns-of-hackers-exploiting-legacy.html)
 - [University Professors Targeted by North Korean Cyber Espionage Group](https://thehackernews.com/2024/08/university-professors-targeted-by-north.html)
 - [0.0.0.0 Day: 18-Year-Old Browser Vulnerability Impacts MacOS and Linux Devices](https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html)
 - [Automated Security Validation: One &lpar;Very Important&rpar; Part of a Complete CTEM Framework](https://thehackernews.com/2024/08/automated-security-validation-one-very.html)
 - [Windows Downgrade Attack Risks Exposing Patched Systems to Old Vulnerabilities](https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html)
-- [New Phishing Scam Uses Google Drawings and WhatsApp Shortened Links](https://thehackernews.com/2024/08/new-phishing-scam-uses-google-drawings.html)
 <!-- BLOG-POST-LIST:END -->
