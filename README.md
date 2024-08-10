@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Warns of Unpatched Office Vulnerability Leading to Data Breaches](https://thehackernews.com/2024/08/microsoft-warns-of-unpatched-office.html)
+- [Microsoft Warns of Unpatched Office Vulnerability Leading to Data Exposure](https://thehackernews.com/2024/08/microsoft-warns-of-unpatched-office.html)
 - [Experts Uncover Severe AWS Flaws Leading to RCE, Data Theft, and Full-Service Takeovers](https://thehackernews.com/2024/08/experts-uncover-severe-aws-flaws.html)
 - [Microsoft Reveals Four OpenVPN Flaws Leading to Potential RCE and LPE](https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html)
-- [New Flaws in Sonos Smart Speakers Allow Hackers to Eavesdrop on Users](https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html)
+- [Sonos Speaker Flaws Could Have Let Remote Hackers Eavesdrop on Users](https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html)
 - [DOJ Charges Nashville Man for Helping North Koreans Get U.S. Tech Jobs](https://thehackernews.com/2024/08/doj-charges-nashville-man-for-helping.html)
 <!-- BLOG-POST-LIST:END -->
