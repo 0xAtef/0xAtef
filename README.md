@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rogue PyPI Library Solana Users, Steals Blockchain Wallet Keys](https://thehackernews.com/2024/08/rogue-pypi-library-solana-users-steals.html)
 - [Researchers Uncover 10 Flaws in Google&#39;s File Transfer Tool Quick Share](https://thehackernews.com/2024/08/researchers-uncover-10-flaws-in-googles.html)
 - [New Malware Hits 300,000 Users with Rogue Chrome and Edge Extensions](https://thehackernews.com/2024/08/new-malware-hits-300000-users-with.html)
 - [Microsoft Warns of Unpatched Office Vulnerability Leading to Data Exposure](https://thehackernews.com/2024/08/microsoft-warns-of-unpatched-office.html)
 - [Experts Uncover Severe AWS Flaws Leading to RCE, Data Theft, and Full-Service Takeovers](https://thehackernews.com/2024/08/experts-uncover-severe-aws-flaws.html)
-- [Microsoft Reveals Four OpenVPN Flaws Leading to Potential RCE and LPE](https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html)
 <!-- BLOG-POST-LIST:END -->
