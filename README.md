@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GhostWrite: New T-Head CPU Bugs Expose Devices to Unrestricted Attacks](https://thehackernews.com/2024/08/ghostwrite-new-t-head-cpu-bugs-expose.html)
+- [Researchers Uncover Vulnerabilities in AI-Powered Azure Health Bot Service](https://thehackernews.com/2024/08/researchers-uncover-vulnerabilities-in_0471960302.html)
 - [Why Hardsec Matters: From Protecting Critical Services to Enhancing Resilience](https://thehackernews.com/2024/08/why-hardsec-matters-from-protecting.html)
 - [FBI Shuts Down Dispossessor Ransomware Group&#39;s Servers Across U.S., U.K., and Germany](https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html)
 - [Ukraine Warns of New Phishing Campaign Targeting Government Computers](https://thehackernews.com/2024/08/ukraine-warns-of-new-phishing-campaign.html)
-- [How Phishing Attacks Adapt Quickly to Capitalize on Current Events](https://thehackernews.com/2024/08/how-phishing-attacks-adapt-quickly-to.html)
-- [Researchers Uncover Vulnerabilities in Solarman and Deye Solar Systems](https://thehackernews.com/2024/08/researchers-uncover-vulnerabilities-in.html)
 <!-- BLOG-POST-LIST:END -->
