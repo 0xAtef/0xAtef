@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ukraine Warns of New Phishing Campaign Targeting Government Computers](https://thehackernews.com/2024/08/ukraine-warns-of-new-phishing-campaign.html)
 - [How Phishing Attacks Adapt Quickly to Capitalize on Current Events](https://thehackernews.com/2024/08/how-phishing-attacks-adapt-quickly-to.html)
 - [Researchers Uncover Vulnerabilities in Solarman and Deye Solar Systems](https://thehackernews.com/2024/08/researchers-uncover-vulnerabilities-in.html)
 - [The AI Hangover is Here – The End of the Beginning](https://thehackernews.com/2024/08/the-ai-hangover-is-here-end-of-beginning.html)
 - [FreeBSD Releases Urgent Patch for High-Severity OpenSSH Vulnerability](https://thehackernews.com/2024/08/freebsd-releases-urgent-patch-for-high.html)
-- [Industrial Remote Access Tool Ewon Cosy+ Vulnerable to Root Access Attacks](https://thehackernews.com/2024/08/industrial-remote-access-tool-ewon-cosy.html)
 <!-- BLOG-POST-LIST:END -->
