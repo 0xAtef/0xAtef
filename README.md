@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Issues Patches for 90 Flaws, Including 10 Critical Zero-Day Exploits](https://thehackernews.com/2024/08/microsoft-issues-patches-for-90-flaws.html)
+- [Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access](https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html)
+- [China-Backed Earth Baku Expands Cyber Attacks to Europe, Middle East, and Africa](https://thehackernews.com/2024/08/china-backed-earth-baku-expands-cyber.html)
 - [GhostWrite: New T-Head CPU Bugs Expose Devices to Unrestricted Attacks](https://thehackernews.com/2024/08/ghostwrite-new-t-head-cpu-bugs-expose.html)
 - [Researchers Uncover Vulnerabilities in AI-Powered Azure Health Bot Service](https://thehackernews.com/2024/08/researchers-uncover-vulnerabilities-in_0471960302.html)
-- [Why Hardsec Matters: From Protecting Critical Services to Enhancing Resilience](https://thehackernews.com/2024/08/why-hardsec-matters-from-protecting.html)
-- [FBI Shuts Down Dispossessor Ransomware Group&#39;s Servers Across U.S., U.K., and Germany](https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html)
-- [Ukraine Warns of New Phishing Campaign Targeting Government Computers](https://thehackernews.com/2024/08/ukraine-warns-of-new-phishing-campaign.html)
 <!-- BLOG-POST-LIST:END -->
