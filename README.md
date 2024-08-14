@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Black Basta-Linked Attackers Target Users with SystemBC Malware](https://thehackernews.com/2024/08/black-basta-linked-attackers-targets.html)
 - [Belarusian-Ukrainian Hacker Extradited to U.S. for Ransomware and Cybercrime Charges](https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html)
 - [How to Augment Your Password Security with EASM](https://thehackernews.com/2024/08/how-to-augment-your-password-security.html)
 - [DDoS Attacks Surge 46% in First Half of 2024, Gcore Report Reveals](https://thehackernews.com/2024/08/ddos-attacks-surge-46-in-first-half-of.html)
 - [Microsoft Issues Patches for 90 Flaws, Including 10 Critical Zero-Days](https://thehackernews.com/2024/08/microsoft-issues-patches-for-90-flaws.html)
-- [Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access](https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html)
 <!-- BLOG-POST-LIST:END -->
