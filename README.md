@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Vulnerability &#39;ArtiPACKED&#39; Exposes Repositories to Potential Takeover](https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html)
+- [New Cyber Threat Targets Azerbaijan and Israel Diplomats, Stealing Sensitive Data](https://thehackernews.com/2024/08/new-cyber-threat-targets-azerbaijan-and.html)
 - [New Gafgyt Botnet Variant Targets Weak SSH Passwords for GPU Crypto Mining](https://thehackernews.com/2024/08/new-gafgyt-botnet-variant-targets-weak.html)
 - [Black Basta-Linked Attackers Target Users with SystemBC Malware](https://thehackernews.com/2024/08/black-basta-linked-attackers-targets.html)
 - [Belarusian-Ukrainian Hacker Extradited to U.S. for Ransomware and Cybercrime Charges](https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html)
-- [How to Augment Your Password Security with EASM](https://thehackernews.com/2024/08/how-to-augment-your-password-security.html)
-- [DDoS Attacks Surge 46% in First Half of 2024, Gcore Report Reveals](https://thehackernews.com/2024/08/ddos-attacks-surge-46-in-first-half-of.html)
 <!-- BLOG-POST-LIST:END -->
