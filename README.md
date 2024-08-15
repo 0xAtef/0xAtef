@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Identity Threat Detection and Response Solution Guide](https://thehackernews.com/2024/08/identity-threat-detection-and-response.html)
+- [RansomHub Group Deploys New EDR-Killing Tool in Latest Cyber Attacks](https://thehackernews.com/2024/08/ransomhub-group-deploys-new-edr-killing.html)
 - [GitHub Vulnerability &#39;ArtiPACKED&#39; Exposes Repositories to Potential Takeover](https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html)
 - [New Cyber Threat Targets Azerbaijan and Israel Diplomats, Stealing Sensitive Data](https://thehackernews.com/2024/08/new-cyber-threat-targets-azerbaijan-and.html)
 - [New Gafgyt Botnet Variant Targets Weak SSH Passwords for GPU Crypto Mining](https://thehackernews.com/2024/08/new-gafgyt-botnet-variant-targets-weak.html)
-- [Black Basta-Linked Attackers Target Users with SystemBC Malware](https://thehackernews.com/2024/08/black-basta-linked-attackers-targets.html)
-- [Belarusian-Ukrainian Hacker Extradited to U.S. for Ransomware and Cybercrime Charges](https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html)
 <!-- BLOG-POST-LIST:END -->
