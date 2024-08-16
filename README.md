@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian Hackers Using Fake Brand Sites to Spread DanaBot and StealC Malware](https://thehackernews.com/2024/08/russian-hackers-using-fake-brand-sites.html)
 - [Multi-Stage ValleyRAT Targets Chinese Users with Advanced Tactics](https://thehackernews.com/2024/08/multi-stage-valleyrat-targets-chinese.html)
 - [The Hidden Security Gaps in Your SaaS Apps: Are You Doing Due Diligence?](https://thehackernews.com/2024/08/the-hidden-security-gaps-in-your-saas.html)
 - [New Banshee Stealer Targets 100+ Browser Extensions on Apple macOS Systems](https://thehackernews.com/2024/08/new-banshee-stealer-targets-100-browser.html)
 - [Google Pixel Devices Shipped with Vulnerable App, Leaving Millions at Risk](https://thehackernews.com/2024/08/google-pixel-devices-shipped-with.html)
-- [SolarWinds Releases Patch for Critical Flaw in Web Help Desk Software](https://thehackernews.com/2024/08/solarwinds-releases-patch-for-critical.html)
 <!-- BLOG-POST-LIST:END -->
