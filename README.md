@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Pixel Devices Shipped with Vulnerable App, Leaving Millions at Risk](https://thehackernews.com/2024/08/google-pixel-devices-shipped-with.html)
 - [SolarWinds Releases Patch for Critical Flaw in Web Help Desk Software](https://thehackernews.com/2024/08/solarwinds-releases-patch-for-critical.html)
 - [Russian-Linked Hackers Target Eastern European NGOs and Media](https://thehackernews.com/2024/08/russian-linked-hackers-target-eastern.html)
 - [Identity Threat Detection and Response Solution Guide](https://thehackernews.com/2024/08/identity-threat-detection-and-response.html)
 - [RansomHub Group Deploys New EDR-Killing Tool in Latest Cyber Attacks](https://thehackernews.com/2024/08/ransomhub-group-deploys-new-edr-killing.html)
-- [GitHub Vulnerability &#39;ArtiPACKED&#39; Exposes Repositories to Potential Takeover](https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html)
 <!-- BLOG-POST-LIST:END -->
