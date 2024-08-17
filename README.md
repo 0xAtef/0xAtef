@@ -161,7 +161,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Attackers Exploit Public .env Files to Breach Cloud and Social Media Accounts](https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html)
+- [Attackers Exploit Public .env Files to Breach Cloud Accounts in Extortion Campaign](https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html)
 - [Russian Hacker Jailed 3+ Years for Selling Stolen Credentials on Dark Web](https://thehackernews.com/2024/08/russian-hacker-jailed-3-years-for.html)
 - [Russian Hackers Using Fake Brand Sites to Spread DanaBot and StealC Malware](https://thehackernews.com/2024/08/russian-hackers-using-fake-brand-sites.html)
 - [Multi-Stage ValleyRAT Targets Chinese Users with Advanced Tactics](https://thehackernews.com/2024/08/multi-stage-valleyrat-targets-chinese.html)
