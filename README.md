@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Blocks Iranian Influence Operation Using ChatGPT for U.S. Election Propaganda](https://thehackernews.com/2024/08/openai-blocks-iranian-influence.html)
 - [Attackers Exploit Public .env Files to Breach Cloud Accounts in Extortion Campaign](https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html)
 - [Russian Hacker Jailed 3+ Years for Selling Stolen Credentials on Dark Web](https://thehackernews.com/2024/08/russian-hacker-jailed-3-years-for.html)
 - [Russian Hackers Using Fake Brand Sites to Spread DanaBot and StealC Malware](https://thehackernews.com/2024/08/russian-hackers-using-fake-brand-sites.html)
 - [Multi-Stage ValleyRAT Targets Chinese Users with Advanced Tactics](https://thehackernews.com/2024/08/multi-stage-valleyrat-targets-chinese.html)
-- [The Hidden Security Gaps in Your SaaS Apps: Are You Doing Due Diligence?](https://thehackernews.com/2024/08/the-hidden-security-gaps-in-your-saas.html)
 <!-- BLOG-POST-LIST:END -->
