@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Automate the Hardest Parts of Employee Offboarding](https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html)
 - [Xeon Sender Tool Exploits Cloud APIs for Large-Scale SMS Phishing Attacks](https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html)
 - [Microsoft Patches Zero-Day Flaw Exploited by North Korea’s Lazarus Group](https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html)
 - [Researchers Uncover New Infrastructure Tied to FIN7 Cybercrime Group](https://thehackernews.com/2024/08/researchers-uncover-new-infrastructure.html)
 - [OpenAI Blocks Iranian Influence Operation Using ChatGPT for U.S. Election Propaganda](https://thehackernews.com/2024/08/openai-blocks-iranian-influence.html)
-- [Attackers Exploit Public .env Files to Breach Cloud Accounts in Extortion Campaign](https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html)
 <!-- BLOG-POST-LIST:END -->
