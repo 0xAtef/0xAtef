@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New UULoader Malware Distributes Gh0st RAT and Mimikatz in East Asia](https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html)
+- [Cybercriminals Exploit Popular Software Searches to Spread FakeBat Malware](https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html)
 - [How to Automate the Hardest Parts of Employee Offboarding](https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html)
 - [Xeon Sender Tool Exploits Cloud APIs for Large-Scale SMS Phishing Attacks](https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html)
 - [Microsoft Patches Zero-Day Flaw Exploited by North Korea’s Lazarus Group](https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html)
-- [Researchers Uncover New Infrastructure Tied to FIN7 Cybercrime Group](https://thehackernews.com/2024/08/researchers-uncover-new-infrastructure.html)
-- [OpenAI Blocks Iranian Influence Operation Using ChatGPT for U.S. Election Propaganda](https://thehackernews.com/2024/08/openai-blocks-iranian-influence.html)
 <!-- BLOG-POST-LIST:END -->
