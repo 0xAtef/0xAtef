@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blind Eagle Hackers Exploit Spear-Phishing to Deploy RATs in Latin America](https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html)
+- [Thousands of Oracle NetSuite Sites at Risk of Exposing Customer Information](https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html)
+- [CISA Warns of Critical Jenkins Vulnerability Exploited in Ransomware Attacks](https://thehackernews.com/2024/08/cisa-warns-of-critical-jenkins.html)
 - [New UULoader Malware Distributes Gh0st RAT and Mimikatz in East Asia](https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html)
 - [Cybercriminals Exploit Popular Software Searches to Spread FakeBat Malware](https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html)
-- [How to Automate the Hardest Parts of Employee Offboarding](https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html)
-- [Xeon Sender Tool Exploits Cloud APIs for Large-Scale SMS Phishing Attacks](https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html)
-- [Microsoft Patches Zero-Day Flaw Exploited by North Korea’s Lazarus Group](https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html)
 <!-- BLOG-POST-LIST:END -->
