@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploit PHP Vulnerability to Deploy Stealthy Msupedge Backdoor](https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html)
+- [Anatomy of an Attack](https://thehackernews.com/2024/08/anatomy-of-attack.html)
+- [Researchers Uncover TLS Bootstrap Attack on Azure Kubernetes Clusters](https://thehackernews.com/2024/08/researchers-uncover-tls-bootstrap.html)
+- [Iranian Cyber Group TA453 Targets Jewish Leader with New AnvilEcho Malware](https://thehackernews.com/2024/08/iranian-cyber-group-ta453-targets.html)
 - [Blind Eagle Hackers Exploit Spear-Phishing to Deploy RATs in Latin America](https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html)
-- [Thousands of Oracle NetSuite Sites at Risk of Exposing Customer Information](https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html)
-- [CISA Warns of Critical Jenkins Vulnerability Exploited in Ransomware Attacks](https://thehackernews.com/2024/08/cisa-warns-of-critical-jenkins.html)
-- [New UULoader Malware Distributes Gh0st RAT and Mimikatz in East Asia](https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html)
-- [Cybercriminals Exploit Popular Software Searches to Spread FakeBat Malware](https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html)
 <!-- BLOG-POST-LIST:END -->
