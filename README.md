@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Detecting AWS Account Compromise: Key Indicators in CloudTrail Logs for Stolen API Keys](https://thehackernews.com/2024/08/detecting-aws-account-compromise-key.html)
+- [Czech Mobile Users Targeted in New Banking Credential Theft Scheme](https://thehackernews.com/2024/08/czech-mobile-users-targeted-in-new.html)
 - [Hackers Exploit PHP Vulnerability to Deploy Stealthy Msupedge Backdoor](https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html)
 - [Anatomy of an Attack](https://thehackernews.com/2024/08/anatomy-of-attack.html)
 - [Researchers Uncover TLS Bootstrap Attack on Azure Kubernetes Clusters](https://thehackernews.com/2024/08/researchers-uncover-tls-bootstrap.html)
-- [Iranian Cyber Group TA453 Targets Jewish Leader with New AnvilEcho Malware](https://thehackernews.com/2024/08/iranian-cyber-group-ta453-targets.html)
-- [Blind Eagle Hackers Exploit Spear-Phishing to Deploy RATs in Latin America](https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html)
 <!-- BLOG-POST-LIST:END -->
