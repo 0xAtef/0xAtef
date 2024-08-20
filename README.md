@@ -25,7 +25,7 @@ I am deeply enthusiastic about development and scripting, particularly in the re
 --->
 <h1 align="center"> Senior Cyber Defense Engineer </h1>
 
-With proven experience in leading Security Operations, conducting EDR assessments, and developing SOC processes, use cases, playbooks, detection rules, and automation workflows.
+With proven experience in leading Security Operations, conducting Product assessments (EDR ,TIP), and developing SOC processes, use cases, playbooks, detection rules, and automation workflows.
 
 As a Cyber Defense Engineer, my professional passion encompasses whatever is related to blue team capabilities like threat detection, incident response, and threat hunting and my skills extend to SIEM Administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.
 
