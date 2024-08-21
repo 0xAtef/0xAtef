@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CERT-UA Warns of New Vermin-Linked Phishing Attacks with PoW Bait](https://thehackernews.com/2024/08/cert-ua-warns-of-new-vermin-linked.html)
 - [GiveWP WordPress Plugin Vulnerability Puts 100,000+ Websites at Risk](https://thehackernews.com/2024/08/givewp-wordpress-plugin-vulnerability.html)
 - [Detecting AWS Account Compromise: Key Indicators in CloudTrail Logs for Stolen API Keys](https://thehackernews.com/2024/08/detecting-aws-account-compromise-key.html)
 - [Czech Mobile Users Targeted in New Banking Credential Theft Scheme](https://thehackernews.com/2024/08/czech-mobile-users-targeted-in-new.html)
 - [Hackers Exploit PHP Vulnerability to Deploy Stealthy Msupedge Backdoor](https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html)
-- [Anatomy of an Attack](https://thehackernews.com/2024/08/anatomy-of-attack.html)
 <!-- BLOG-POST-LIST:END -->
