@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s Time To Untangle the SaaS Ball of Yarn](https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html)
+- [Styx Stealer Creator&#39;s OPSEC Fail Leaks Client List and Profit Details](https://thehackernews.com/2024/08/styx-stealer-creators-opsec-fail-leaks.html)
+- [New macOS Malware TodoSwift Linked to North Korean Hacking Groups](https://thehackernews.com/2024/08/new-macos-malware-todoswift-linked-to.html)
 - [CERT-UA Warns of New Vermin-Linked Phishing Attacks with PoW Bait](https://thehackernews.com/2024/08/cert-ua-warns-of-new-vermin-linked.html)
 - [GiveWP WordPress Plugin Vulnerability Puts 100,000+ Websites at Risk](https://thehackernews.com/2024/08/givewp-wordpress-plugin-vulnerability.html)
-- [Detecting AWS Account Compromise: Key Indicators in CloudTrail Logs for Stolen API Keys](https://thehackernews.com/2024/08/detecting-aws-account-compromise-key.html)
-- [Czech Mobile Users Targeted in New Banking Credential Theft Scheme](https://thehackernews.com/2024/08/czech-mobile-users-targeted-in-new.html)
-- [Hackers Exploit PHP Vulnerability to Deploy Stealthy Msupedge Backdoor](https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html)
 <!-- BLOG-POST-LIST:END -->
