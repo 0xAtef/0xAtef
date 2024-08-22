@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Malware PG_MEM Targets PostgreSQL Databases for Crypto Mining](https://thehackernews.com/2024/08/new-malware-pgmem-targets-postgresql.html)
 - [Microsoft Patches Critical Copilot Studio Vulnerability Exposing Sensitive Data](https://thehackernews.com/2024/08/microsoft-patches-critical-copilot.html)
 - [North Korean Hackers Deploy New MoonPeak Trojan in Cyber Campaign](https://thehackernews.com/2024/08/north-korean-hackers-deploy-new.html)
 - [It&#39;s Time To Untangle the SaaS Ball of Yarn](https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html)
 - [Styx Stealer Creator&#39;s OPSEC Fail Leaks Client List and Profit Details](https://thehackernews.com/2024/08/styx-stealer-creators-opsec-fail-leaks.html)
-- [New macOS Malware TodoSwift Linked to North Korean Hacking Groups](https://thehackernews.com/2024/08/new-macos-malware-todoswift-linked-to.html)
 <!-- BLOG-POST-LIST:END -->
