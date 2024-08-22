@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;ALBeast&#39; Vulnerability Exposes Weakness in AWS Application Load Balancer](https://thehackernews.com/2024/08/new-albeast-vulnerability-exposes.html)
 - [The Facts About Continuous Penetration Testing and Why It’s Important](https://thehackernews.com/2024/08/the-facts-about-continuous-penetration.html)
 - [Google Fixes High-Severity Chrome Flaw Actively Exploited in the Wild](https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html)
 - [Critical Flaw in WordPress LiteSpeed Cache Plugin Allows Hackers Admin Access](https://thehackernews.com/2024/08/critical-flaw-in-wordpress-litespeed.html)
 - [GitHub Patches Critical Security Flaw in Enterprise Server Granting Admin Privileges](https://thehackernews.com/2024/08/github-patches-critical-security-flaw.html)
-- [New Malware PG_MEM Targets PostgreSQL Databases for Crypto Mining](https://thehackernews.com/2024/08/new-malware-pgmem-targets-postgresql.html)
 <!-- BLOG-POST-LIST:END -->
