@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide](https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html)
+- [Hardcoded Credential Vulnerability Found in SolarWinds Web Help Desk](https://thehackernews.com/2024/08/hardcoded-credential-vulnerability.html)
 - [Chinese Hackers Exploit Zero-Day Cisco Switch Flaw to Gain System Control](https://thehackernews.com/2024/08/chinese-hackers-exploit-zero-day-cisco.html)
 - [New &#39;ALBeast&#39; Vulnerability Exposes Weakness in AWS Application Load Balancer](https://thehackernews.com/2024/08/new-albeast-vulnerability-exposes.html)
 - [The Facts About Continuous Penetration Testing and Why It’s Important](https://thehackernews.com/2024/08/the-facts-about-continuous-penetration.html)
-- [Google Fixes High-Severity Chrome Flaw Actively Exploited in the Wild](https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html)
-- [Critical Flaw in WordPress LiteSpeed Cache Plugin Allows Hackers Admin Access](https://thehackernews.com/2024/08/critical-flaw-in-wordpress-litespeed.html)
 <!-- BLOG-POST-LIST:END -->
