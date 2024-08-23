@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Qilin Ransomware Attack Uses VPN Credentials, Steals Chrome Data](https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html)
 - [New macOS Malware &quot;Cthulhu Stealer&quot; Targets Apple Users&#39; Data](https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html)
 - [Latvian Hacker Extradited to U.S. for Role in Karakurt Cybercrime Group](https://thehackernews.com/2024/08/latvian-hacker-extradited-to-us-for.html)
 - [Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide](https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html)
 - [Hardcoded Credential Vulnerability Found in SolarWinds Web Help Desk](https://thehackernews.com/2024/08/hardcoded-credential-vulnerability.html)
-- [Chinese Hackers Exploit Zero-Day Cisco Switch Flaw to Gain System Control](https://thehackernews.com/2024/08/chinese-hackers-exploit-zero-day-cisco.html)
 <!-- BLOG-POST-LIST:END -->
