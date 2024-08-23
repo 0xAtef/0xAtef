@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New PEAKLIGHT Dropper Deployed in Attacks Targeting Windows with Malicious Movie Downloads](https://thehackernews.com/2024/08/new-peaklight-dropper-deployed-in.html)
 - [Webinar: Experience the Power of a Must-Have All-in-One Cybersecurity Platform](https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html)
 - [Focus on What Matters Most: Exposure Management and Your Attack Surface](https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html)
 - [New Qilin Ransomware Attack Uses VPN Credentials, Steals Chrome Data](https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html)
 - [New macOS Malware &quot;Cthulhu Stealer&quot; Targets Apple Users&#39; Data](https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html)
-- [Latvian Hacker Extradited to U.S. for Role in Karakurt Cybercrime Group](https://thehackernews.com/2024/08/latvian-hacker-extradited-to-us-for.html)
 <!-- BLOG-POST-LIST:END -->
