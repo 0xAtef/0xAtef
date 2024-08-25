@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Founder Pavel Durov Arrested in France for Content Moderation Failures](https://thehackernews.com/2024/08/telegram-founder-pavel-durov-arrested.html)
+- [New Linux Malware &#39;sedexp&#39; Hides Credit Card Skimmers Using Udev Rules](https://thehackernews.com/2024/08/new-linux-malware-sedexp-hides-credit.html)
 - [CISA Urges Federal Agencies to Patch Versa Director Vulnerability by September](https://thehackernews.com/2024/08/cisa-urges-federal-agencies-to-patch.html)
 - [Meta Exposes Iranian Hacker Group Targeting Global Political Figures on WhatsApp](https://thehackernews.com/2024/08/meta-exposes-iranian-hacker-group.html)
 - [PEAKLIGHT Downloader Deployed in Attacks Targeting Windows with Malicious Movie Downloads](https://thehackernews.com/2024/08/new-peaklight-dropper-deployed-in.html)
-- [Webinar: Experience the Power of a Must-Have All-in-One Cybersecurity Platform](https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html)
-- [Focus on What Matters Most: Exposure Management and Your Attack Surface](https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html)
 <!-- BLOG-POST-LIST:END -->
