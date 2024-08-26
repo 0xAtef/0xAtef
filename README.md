@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Android Malware NGate Steals NFC Data to Clone Contactless Payment Cards](https://thehackernews.com/2024/08/new-android-malware-ngate-steals-nfc.html)
 - [Telegram Founder Pavel Durov Arrested in France for Content Moderation Failures](https://thehackernews.com/2024/08/telegram-founder-pavel-durov-arrested.html)
 - [New Linux Malware &#39;sedexp&#39; Hides Credit Card Skimmers Using Udev Rules](https://thehackernews.com/2024/08/new-linux-malware-sedexp-hides-credit.html)
 - [CISA Urges Federal Agencies to Patch Versa Director Vulnerability by September](https://thehackernews.com/2024/08/cisa-urges-federal-agencies-to-patch.html)
 - [Meta Exposes Iranian Hacker Group Targeting Global Political Figures on WhatsApp](https://thehackernews.com/2024/08/meta-exposes-iranian-hacker-group.html)
-- [PEAKLIGHT Downloader Deployed in Attacks Targeting Windows with Malicious Movie Downloads](https://thehackernews.com/2024/08/new-peaklight-dropper-deployed-in.html)
 <!-- BLOG-POST-LIST:END -->
