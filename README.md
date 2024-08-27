@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft 365 Copilot](https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html)
+- [Google Warns of CVE-2024-7965 Chrome Security Flaw Under Active Exploitation](https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html)
 - [SonicWall Issues Critical Patch for Firewall Vulnerability Allowing Unauthorized Access](https://thehackernews.com/2024/08/sonicwall-issues-critical-patch-for.html)
 - [Dutch Regulator Fines Uber €290 Million for GDPR Violations in Data Transfers to U.S.](https://thehackernews.com/2024/08/dutch-regulators-fines-uber-290-million.html)
 - [Unpacking Slack Hacks: 6 Ways to Protect Sensitive Data with Secure Collaboration](https://thehackernews.com/2024/08/unpacking-slack-hacks-6-ways-to-protect.html)
-- [Researchers Identify Over 20 Supply Chain Vulnerabilities in MLOps Platforms](https://thehackernews.com/2024/08/researchers-identify-over-20-supply.html)
-- [Critical Flaws in Traccar GPS System Expose Users to Remote Attacks](https://thehackernews.com/2024/08/critical-flaws-in-traccar-gps-system.html)
 <!-- BLOG-POST-LIST:END -->
