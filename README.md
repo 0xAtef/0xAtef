@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [macOS Version of HZ RAT Backdoor Targets Chinese Messaging App Users](https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html)
 - [Chinese Volt Typhoon Exploits Versa Director Flaw, Targets U.S. and Global IT Sectors](https://thehackernews.com/2024/08/chinese-volt-typhoon-exploits-versa.html)
 - [CTEM in the Spotlight: How Gartner&#39;s New Categories Help to Manage Exposures](https://thehackernews.com/2024/08/ctem-in-spotlight-how-gartners-new.html)
 - [Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft 365 Copilot](https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html)
 - [Google Warns of CVE-2024-7965 Chrome Security Flaw Under Active Exploitation](https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html)
-- [SonicWall Issues Critical Patch for Firewall Vulnerability Allowing Unauthorized Access](https://thehackernews.com/2024/08/sonicwall-issues-critical-patch-for.html)
 <!-- BLOG-POST-LIST:END -->
