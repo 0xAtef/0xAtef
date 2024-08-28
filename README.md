@@ -162,8 +162,8 @@ BIO
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports](https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html)
+- [New QR Code Phishing Campaign Exploits Microsoft Sway to Steal Credentials](https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html)
 - [Critical WPML Plugin Flaw Exposes WordPress Sites to Remote Code Execution](https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html)
 - [macOS Version of HZ RAT Backdoor Targets Chinese Messaging App Users](https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html)
 - [Chinese Volt Typhoon Exploits Versa Director Flaw, Targets U.S. and Global IT Sectors](https://thehackernews.com/2024/08/chinese-volt-typhoon-exploits-versa.html)
-- [CTEM in the Spotlight: How Gartner&#39;s New Categories Help to Manage Exposures](https://thehackernews.com/2024/08/ctem-in-spotlight-how-gartners-new.html)
 <!-- BLOG-POST-LIST:END -->
