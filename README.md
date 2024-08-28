@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [APT-C-60 Group Exploit WPS Office Flaw to Deploy SpyGlace Backdoor](https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html)
 - [BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave](https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html)
 - [CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports](https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html)
 - [New QR Code Phishing Campaign Exploits Microsoft Sway to Steal Credentials](https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html)
 - [Critical WPML Plugin Flaw Exposes WordPress Sites to Remote Code Execution](https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html)
-- [macOS Version of HZ RAT Backdoor Targets Chinese Messaging App Users](https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html)
 <!-- BLOG-POST-LIST:END -->
