@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [French Authorities Charge Telegram CEO with Facilitating Criminal Activities on Platform](https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html)
 - [Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability](https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html)
 - [APT-C-60 Group Exploit WPS Office Flaw to Deploy SpyGlace Backdoor](https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html)
 - [BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave](https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html)
 - [CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports](https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html)
-- [New QR Code Phishing Campaign Exploits Microsoft Sway to Steal Credentials](https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html)
 <!-- BLOG-POST-LIST:END -->
