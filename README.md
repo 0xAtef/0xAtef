@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Agencies Warn of Iranian Hacking Group&#39;s Ongoing Ransomware Attacks](https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html)
+- [How AitM Phishing Attacks Bypass MFA and EDR—and How to Fight Back](https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html)
+- [Unpatched AVTECH IP Camera Flaw Exploited by Hackers for Botnet Attacks](https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html)
 - [French Authorities Charge Telegram CEO with Facilitating Criminal Activities on Platform](https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html)
 - [Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability](https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html)
-- [APT-C-60 Group Exploit WPS Office Flaw to Deploy SpyGlace Backdoor](https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html)
-- [BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave](https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html)
-- [CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports](https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html)
 <!-- BLOG-POST-LIST:END -->
