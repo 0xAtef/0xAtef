@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vietnamese Human Rights Group Targeted in Multi-Year Cyberattack by APT32](https://thehackernews.com/2024/08/vietnamese-human-rights-group-targeted.html)
+- [Russian Hackers Exploit Safari and Chrome Flaws in High-Profile Cyberattack](https://thehackernews.com/2024/08/russian-hackers-exploit-safari-and.html)
 - [U.S. Agencies Warn of Iranian Hacking Group&#39;s Ongoing Ransomware Attacks](https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html)
 - [How AitM Phishing Attacks Bypass MFA and EDR—and How to Fight Back](https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html)
 - [Unpatched AVTECH IP Camera Flaw Exploited by Hackers for Botnet Attacks](https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html)
-- [French Authorities Charge Telegram CEO with Facilitating Criminal Activities on Platform](https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html)
-- [Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability](https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html)
 <!-- BLOG-POST-LIST:END -->
