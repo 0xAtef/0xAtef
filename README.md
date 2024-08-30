@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Target Developers with Malicious npm Packages](https://thehackernews.com/2024/08/north-korean-hackers-target-developers.html)
+- [SANS Institute Unveils Critical Infrastructure Strategy Guide for 2024: A Call to Action for Securing ICS/OT Environments](https://thehackernews.com/2024/08/sans-institute-unveils-critical.html)
+- [New Cyberattack Targets Chinese-Speaking Businesses with Cobalt Strike Payloads](https://thehackernews.com/2024/08/new-cyberattack-targets-chinese.html)
+- [Atlassian Confluence Vulnerability Exploited in Crypto Mining Campaigns](https://thehackernews.com/2024/08/atlassian-confluence-vulnerability.html)
 - [Vietnamese Human Rights Group Targeted in Multi-Year Cyberattack by APT32](https://thehackernews.com/2024/08/vietnamese-human-rights-group-targeted.html)
-- [Russian Hackers Exploit Safari and Chrome Flaws in High-Profile Cyberattack](https://thehackernews.com/2024/08/russian-hackers-exploit-safari-and.html)
-- [U.S. Agencies Warn of Iranian Hacking Group&#39;s Ongoing Ransomware Attacks](https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html)
-- [How AitM Phishing Attacks Bypass MFA and EDR—and How to Fight Back](https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html)
-- [Unpatched AVTECH IP Camera Flaw Exploited by Hackers for Botnet Attacks](https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html)
 <!-- BLOG-POST-LIST:END -->
