@@ -161,7 +161,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cyberattackers Exploit Google Sheets for Malware Control in Global Espionage Campaign](https://thehackernews.com/2024/08/cyberattackers-exploit-google-sheets.html)
+- [Cyberattackers Exploit Google Sheets for Malware Control in Likely Espionage Campaign](https://thehackernews.com/2024/08/cyberattackers-exploit-google-sheets.html)
 - [Iranian Hackers Set Up New Network to Target U.S. Political Campaigns](https://thehackernews.com/2024/08/iranian-hackers-set-up-new-network-to.html)
 - [Breaking Down AD CS Vulnerabilities: Insights for InfoSec Professionals](https://thehackernews.com/2024/08/breaking-down-ad-cs-vulnerabilities.html)
 - [New Malware Masquerades as Palo Alto VPN Targeting Middle East Users](https://thehackernews.com/2024/08/new-malware-masquerades-as-palo-alto.html)
