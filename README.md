@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Malware Masquerades as Palo Alto VPN Targeting Middle East Users](https://thehackernews.com/2024/08/new-malware-masquerades-as-palo-alto.html)
 - [Breaking Down AD CS Vulnerabilities: Insights for InfoSec Professionals](https://thehackernews.com/2024/08/breaking-down-ad-cs-vulnerabilities.html)
 - [North Korean Hackers Target Developers with Malicious npm Packages](https://thehackernews.com/2024/08/north-korean-hackers-target-developers.html)
 - [SANS Institute Unveils Critical Infrastructure Strategy Guide for 2024: A Call to Action for Securing ICS/OT Environments](https://thehackernews.com/2024/08/sans-institute-unveils-critical.html)
 - [New Cyberattack Targets Chinese-Speaking Businesses with Cobalt Strike Payloads](https://thehackernews.com/2024/08/new-cyberattack-targets-chinese.html)
-- [Atlassian Confluence Vulnerability Exploited in Crypto Mining Campaigns](https://thehackernews.com/2024/08/atlassian-confluence-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
