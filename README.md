@@ -160,9 +160,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Learn to Boost Cybersecurity with AI-Powered Vulnerability Management](https://thehackernews.com/2024/09/webinar-learn-to-boost-cybersecurity.html)
 - [Next-Generation Attacks, Same Targets - How to Protect Your Users&#39; Identities](https://thehackernews.com/2024/09/next-generation-attacks-same-targets.html)
 - [Malicious npm Packages Mimicking &#39;noblox.js&#39; Compromise Roblox Developers’ Systems](https://thehackernews.com/2024/09/malicious-npm-packages-mimicking.html)
 - [North Korean Hackers Deploy FudModule Rootkit via Chrome Zero-Day Exploit](https://thehackernews.com/2024/08/north-korean-hackers-deploy-fudmodule.html)
 - [Cyberattackers Exploit Google Sheets for Malware Control in Likely Espionage Campaign](https://thehackernews.com/2024/08/cyberattackers-exploit-google-sheets.html)
-- [Iranian Hackers Set Up New Network to Target U.S. Political Campaigns](https://thehackernews.com/2024/08/iranian-hackers-set-up-new-network-to.html)
 <!-- BLOG-POST-LIST:END -->
