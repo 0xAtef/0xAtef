@@ -160,9 +160,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Secrets Exposed: Why Your CISO Should Worry About Slack](https://thehackernews.com/2024/09/secrets-exposed-why-your-ciso-should.html)
 - [New Flaws in Microsoft macOS Apps Could Allow Hackers to Gain Unrestricted Access](https://thehackernews.com/2024/09/new-flaws-in-microsoft-macos-apps-could.html)
 - [Ex-Engineer Charged in Missouri for Failed $750,000 Bitcoin Extortion Attempt](https://thehackernews.com/2024/09/ex-engineer-charged-in-missouri-for.html)
 - [RansomHub Ransomware Group Targets 210 Victims Across Critical Sectors](https://thehackernews.com/2024/09/ransomhub-ransomware-group-targets-210.html)
 - [Webinar: Learn to Boost Cybersecurity with AI-Powered Vulnerability Management](https://thehackernews.com/2024/09/webinar-learn-to-boost-cybersecurity.html)
-- [Next-Generation Attacks, Same Targets - How to Protect Your Users&#39; Identities](https://thehackernews.com/2024/09/next-generation-attacks-same-targets.html)
 <!-- BLOG-POST-LIST:END -->
