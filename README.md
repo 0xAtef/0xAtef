@@ -160,9 +160,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Engineer Charged in Missouri for Failed $750,000 Bitcoin Extortion Attempt](https://thehackernews.com/2024/09/ex-engineer-charged-in-missouri-for.html)
 - [RansomHub Ransomware Group Targets 210 Victims Across Critical Sectors](https://thehackernews.com/2024/09/ransomhub-ransomware-group-targets-210.html)
 - [Webinar: Learn to Boost Cybersecurity with AI-Powered Vulnerability Management](https://thehackernews.com/2024/09/webinar-learn-to-boost-cybersecurity.html)
 - [Next-Generation Attacks, Same Targets - How to Protect Your Users&#39; Identities](https://thehackernews.com/2024/09/next-generation-attacks-same-targets.html)
 - [Malicious npm Packages Mimicking &#39;noblox.js&#39; Compromise Roblox Developers’ Systems](https://thehackernews.com/2024/09/malicious-npm-packages-mimicking.html)
-- [North Korean Hackers Deploy FudModule Rootkit via Chrome Zero-Day Exploit](https://thehackernews.com/2024/08/north-korean-hackers-deploy-fudmodule.html)
 <!-- BLOG-POST-LIST:END -->
