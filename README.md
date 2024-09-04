@@ -160,9 +160,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Hijack 22,000 Removed PyPI Packages, Spreading Malicious Code to Developers](https://thehackernews.com/2024/09/hackers-hijack-22000-removed-pypi.html)
 - [The New Effective Way to Prevent Account Takeovers](https://thehackernews.com/2024/09/the-new-effective-way-to-prevent.html)
+- [Zyxel Patches Critical OS Command Injection Flaw in Access Points and Routers](https://thehackernews.com/2024/09/zyxel-patches-critical-os-command.html)
 - [Clearview AI Faces €30.5M Fine for Building Illegal Facial Recognition Database](https://thehackernews.com/2024/09/clearview-ai-faces-305m-fine-for.html)
 - [Hackers Use Fake GlobalProtect VPN Software in New WikiLoader Malware Attack](https://thehackernews.com/2024/09/hackers-use-fake-globalprotect-vpn.html)
-- [Hacktivists Exploits WinRAR Vulnerability in Attacks Against Russia and Belarus](https://thehackernews.com/2024/09/hacktivists-exploits-winrar.html)
-- [New Rust-Based Ransomware Cicada3301 Targets Windows and Linux Systems](https://thehackernews.com/2024/09/new-rust-based-ransomware-cicada3301.html)
 <!-- BLOG-POST-LIST:END -->
