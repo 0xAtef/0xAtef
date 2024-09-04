@@ -160,9 +160,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hackers Hijack 22,000 Removed PyPI Packages, Spreading Malicious Code to Developers](https://thehackernews.com/2024/09/hackers-hijack-22000-removed-pypi.html)
+- [Google Confirms CVE-2024-32896 Exploited in the Wild, Releases Android Security Patch](https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html)
+- [Researchers Find Over 22,000 Removed PyPI Packages at Risk of Revival Hijack](https://thehackernews.com/2024/09/hackers-hijack-22000-removed-pypi.html)
 - [The New Effective Way to Prevent Account Takeovers](https://thehackernews.com/2024/09/the-new-effective-way-to-prevent.html)
 - [Zyxel Patches Critical OS Command Injection Flaw in Access Points and Routers](https://thehackernews.com/2024/09/zyxel-patches-critical-os-command.html)
 - [Clearview AI Faces €30.5M Fine for Building Illegal Facial Recognition Database](https://thehackernews.com/2024/09/clearview-ai-faces-305m-fine-for.html)
-- [Hackers Use Fake GlobalProtect VPN Software in New WikiLoader Malware Attack](https://thehackernews.com/2024/09/hackers-use-fake-globalprotect-vpn.html)
 <!-- BLOG-POST-LIST:END -->
