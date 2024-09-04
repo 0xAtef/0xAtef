@@ -160,9 +160,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The New Effective Way to Prevent Account Takeovers](https://thehackernews.com/2024/09/the-new-effective-way-to-prevent.html)
 - [Clearview AI Faces €30.5M Fine for Building Illegal Facial Recognition Database](https://thehackernews.com/2024/09/clearview-ai-faces-305m-fine-for.html)
 - [Hackers Use Fake GlobalProtect VPN Software in New WikiLoader Malware Attack](https://thehackernews.com/2024/09/hackers-use-fake-globalprotect-vpn.html)
 - [Hacktivists Exploits WinRAR Vulnerability in Attacks Against Russia and Belarus](https://thehackernews.com/2024/09/hacktivists-exploits-winrar.html)
 - [New Rust-Based Ransomware Cicada3301 Targets Windows and Linux Systems](https://thehackernews.com/2024/09/new-rust-based-ransomware-cicada3301.html)
-- [Rocinante Trojan Poses as Banking Apps to Steal Sensitive Data from Brazilian Android Users](https://thehackernews.com/2024/09/rocinante-trojan-poses-as-banking-apps.html)
 <!-- BLOG-POST-LIST:END -->
