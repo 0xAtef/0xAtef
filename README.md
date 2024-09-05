@@ -160,9 +160,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malware Attackers Using MacroPack to Deliver Havoc, Brute Ratel, and PhantomCore](https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html)
 - [New Cross-Platform Malware KTLVdoor Discovered in Attack on Chinese Trading Firm](https://thehackernews.com/2024/09/new-cross-platform-malware-ktlvdoor.html)
 - [Cisco Fixes Two Critical Flaws in Smart Licensing Utility to Prevent Remote Attacks](https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html)
 - [North Korean Hackers Targets Job Seekers with Fake FreeConference App](https://thehackernews.com/2024/09/north-korean-hackers-targets-job.html)
 - [Android Users Urged to Install Latest Security Updates to Fix Actively Exploited Flaw](https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html)
-- [Researchers Find Over 22,000 Removed PyPI Packages at Risk of Revival Hijack](https://thehackernews.com/2024/09/hackers-hijack-22000-removed-pypi.html)
 <!-- BLOG-POST-LIST:END -->
