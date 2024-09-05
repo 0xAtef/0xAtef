@@ -160,9 +160,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NIST Cybersecurity Framework &lpar;CSF&rpar; and CTEM – Better Together](https://thehackernews.com/2024/09/nist-cybersecurity-framework-csf-and.html)
 - [Malware Attackers Using MacroPack to Deliver Havoc, Brute Ratel, and PhantomCore](https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html)
 - [New Cross-Platform Malware KTLVdoor Discovered in Attack on Chinese Trading Firm](https://thehackernews.com/2024/09/new-cross-platform-malware-ktlvdoor.html)
 - [Cisco Fixes Two Critical Flaws in Smart Licensing Utility to Prevent Remote Attacks](https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html)
 - [North Korean Hackers Targets Job Seekers with Fake FreeConference App](https://thehackernews.com/2024/09/north-korean-hackers-targets-job.html)
-- [Android Users Urged to Install Latest Security Updates to Fix Actively Exploited Flaw](https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html)
 <!-- BLOG-POST-LIST:END -->
