@@ -160,9 +160,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GeoServer Vulnerability Targeted by Hackers to Deliver Backdoors and Botnet Malware](https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html)
+- [GitHub Actions Vulnerable to Typosquatting, Exposing Developers to Hidden Malicious Code](https://thehackernews.com/2024/09/github-actions-vulnerable-to.html)
 - [The State of the Virtual CISO Report: MSP/MSSP Security Strategies for 2025](https://thehackernews.com/2024/09/the-state-of-virtual-ciso-report.html)
 - [Critical Security Flaw Found in LiteSpeed Cache Plugin for WordPress](https://thehackernews.com/2024/09/critical-security-flaw-found-in.html)
 - [Apache OFBiz Update Fixes High-Severity Flaw Leading to Remote Code Execution](https://thehackernews.com/2024/09/apache-ofbiz-update-fixes-high-severity.html)
-- [Pavel Durov Criticizes Outdated Laws After Arrest Over Telegram Criminal Activity](https://thehackernews.com/2024/09/paul-durov-criticizes-outdated-laws.html)
-- [Chinese-Speaking Hacker Group Targets Human Rights Studies in Middle East](https://thehackernews.com/2024/09/chinese-speaking-hacker-group-targets.html)
 <!-- BLOG-POST-LIST:END -->
