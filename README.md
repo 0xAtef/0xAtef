@@ -42,6 +42,7 @@ Currently, I hold a professional certificate in Threat Hunting (ecthpv2) and Iâ€
 - <a href="https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana" target="_blank"> ELK: Elasticsearch, Logstash, Kibana </a>
 - <a href="https://0xatef.github.io/Projects/#c2-frameworks" target="_blank"> C2 Frameworks </a>
 - <a href="https://0xatef.github.io/Projects/#attack-simulation" target="_blank"> Attack Simulation </a>
+- <a href="https://0xatef.github.io/Projects/#how-to-send-logs-from-an-api-to-qradar-siem-through-syslog-middleware" target="_blank"> How to Send Logs From an API to QRadar SIEM Through Syslog Middleware </a>
 
 
 
