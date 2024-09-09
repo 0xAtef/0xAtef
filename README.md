@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Android SpyAgent Malware Uses OCR to Steal Crypto Wallet Recovery Keys](https://thehackernews.com/2024/09/new-android-spyagent-malware-uses-ocr.html)
 - [TIDRONE Espionage Group Targets Taiwan Drone Makers in Cyber Campaign](https://thehackernews.com/2024/09/tidrone-espionage-group-targets-taiwan.html)
 - [U.S. Offers $10 Million for Info on Russian Cadet Blizzard Hackers Behind Major Attacks](https://thehackernews.com/2024/09/us-offers-10-million-for-info-on.html)
 - [North Korean Threat Actors Deploy COVERTCATCH Malware via LinkedIn Job Scams](https://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html)
 - [FBI Cracks Down on Dark Web Marketplace Managed by Russian and Kazakh Nationals](https://thehackernews.com/2024/09/fbi-cracks-down-on-dark-web-marketplace.html)
-- [SonicWall Urges Users to Patch Critical Firewall Flaw Amid Possible Exploitation](https://thehackernews.com/2024/09/sonicwall-urges-users-to-patch-critical.html)
 <!-- BLOG-POST-LIST:END -->
