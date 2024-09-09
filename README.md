@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [One More Tool Will Do It? Reflecting on the CrowdStrike Fallout](https://thehackernews.com/2024/09/one-more-tool-will-do-it-reflecting-on.html)
+- [Blind Eagle Targets Colombian Insurance Sector with Customized Quasar RAT](https://thehackernews.com/2024/09/blind-eagle-targets-colombian-insurance.html)
+- [Chinese Hackers Exploit Visual Studio Code in Southeast Asian Cyberattacks](https://thehackernews.com/2024/09/chinese-hackers-exploit-visual-studio.html)
 - [Webinar: How to Protect Your Company from GenAI Data Leakage Without Losing It’s Productivity Benefits](https://thehackernews.com/2024/09/webinar-how-to-protect-your-company.html)
 - [Wing Security SaaS Pulse: Continuous Security &amp; Actionable Insights — For Free](https://thehackernews.com/2024/09/wing-security-saas-pulse-continuous.html)
-- [Progress Software Issues Patch for Vulnerability in LoadMaster and MT Hypervisor](https://thehackernews.com/2024/09/progress-software-issues-patch-for.html)
-- [New Android SpyAgent Malware Uses OCR to Steal Crypto Wallet Recovery Keys](https://thehackernews.com/2024/09/new-android-spyagent-malware-uses-ocr.html)
-- [TIDRONE Espionage Group Targets Taiwan Drone Makers in Cyber Campaign](https://thehackernews.com/2024/09/tidrone-espionage-group-targets-taiwan.html)
 <!-- BLOG-POST-LIST:END -->
