@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mustang Panda Deploys Advanced Malware to Spy on Asia-Pacific Governments](https://thehackernews.com/2024/09/mustang-panda-deploys-advanced-malware.html)
 - [New RAMBO Attack Uses RAM Radio Signals to Steal Data from Air-Gapped Networks](https://thehackernews.com/2024/09/new-rambo-attack-uses-ram-radio-signals.html)
 - [One More Tool Will Do It? Reflecting on the CrowdStrike Fallout](https://thehackernews.com/2024/09/one-more-tool-will-do-it-reflecting-on.html)
 - [Blind Eagle Targets Colombian Insurance Sector with Customized Quasar RAT](https://thehackernews.com/2024/09/blind-eagle-targets-colombian-insurance.html)
 - [Chinese Hackers Exploit Visual Studio Code in Southeast Asian Cyberattacks](https://thehackernews.com/2024/09/chinese-hackers-exploit-visual-studio.html)
-- [Webinar: How to Protect Your Company from GenAI Data Leakage Without Losing It’s Productivity Benefits](https://thehackernews.com/2024/09/webinar-how-to-protect-your-company.html)
 <!-- BLOG-POST-LIST:END -->
