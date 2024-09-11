@@ -164,6 +164,6 @@ BIO
 - [CosmicBeetle Deploys Custom ScRansom Ransomware, Partnering with RansomHub](https://thehackernews.com/2024/09/cosmicbeetle-deploys-custom-scransom.html)
 - [Experts Identify 3 Chinese-Linked Clusters Behind Cyberattacks in Southeast Asia](https://thehackernews.com/2024/09/experts-identify-3-chinese-linked.html)
 - [Shining a Light on Shadow Apps: The Invisible Gateway to SaaS Data Breaches](https://thehackernews.com/2024/09/shining-light-on-shadow-apps-invisible.html)
-- [New PIXHELL Attack Exploits Screen Noise to Exfiltrates Data from Air-Gapped Computers](https://thehackernews.com/2024/09/new-pixhell-attack-exploits-screen.html)
+- [New PIXHELL Attack Exploits LCD Screen Noise to Exfiltrate Data from Air-Gapped Computers](https://thehackernews.com/2024/09/new-pixhell-attack-exploits-screen.html)
 - [Mustang Panda Deploys Advanced Malware to Spy on Asia-Pacific Governments](https://thehackernews.com/2024/09/mustang-panda-deploys-advanced-malware.html)
 <!-- BLOG-POST-LIST:END -->
