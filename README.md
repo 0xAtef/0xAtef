@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Singapore Police Arrest Six Hackers Linked to Global Cybercrime Syndicate](https://thehackernews.com/2024/09/singapore-police-arrest-six-for-alleged.html)
 - [Why Is It So Challenging to Go Passwordless?](https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html)
 - [Developers Beware: Lazarus Group Uses Fake Coding Tests to Spread Malware](https://thehackernews.com/2024/09/developers-beware-lazarus-group-uses.html)
 - [Microsoft Issues Patches for 79 Flaws, Including 3 Actively Exploited Windows Flaws](https://thehackernews.com/2024/09/microsoft-issues-patches-for-79-flaws.html)
 - [Ivanti Releases Urgent Security Updates for Endpoint Manager Vulnerabilities](https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html)
-- [CosmicBeetle Deploys Custom ScRansom Ransomware, Partnering with RansomHub](https://thehackernews.com/2024/09/cosmicbeetle-deploys-custom-scransom.html)
 <!-- BLOG-POST-LIST:END -->
