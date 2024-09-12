@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beware: New Vo1d Malware Infects 1.3 Million Android TV Boxes Worldwide](https://thehackernews.com/2024/09/beware-new-vo1d-malware-infects-13.html)
 - [Exposed Selenium Grid Servers Targeted for Crypto Mining and Proxyjacking](https://thehackernews.com/2024/09/exposed-selenium-grid-servers-targeted.html)
 - [Top 3 Threat Report Insights for Q2 2024](https://thehackernews.com/2024/09/top-3-threat-report-insights-for-q2-2024.html)
 - [Iranian Cyber Group OilRig Targets Iraqi Government in Sophisticated Malware Attack](https://thehackernews.com/2024/09/iranian-cyber-group-oilrig-targets.html)
 - [Ireland&#39;s Watchdog Launches Inquiry into Google&#39;s AI Data Practices in Europe](https://thehackernews.com/2024/09/irelands-watchdog-launches-inquiry-into.html)
-- [WordPress Mandates Two-Factor Authentication for Plugin and Theme Developers](https://thehackernews.com/2024/09/wordpress-mandates-two-factor.html)
 <!-- BLOG-POST-LIST:END -->
