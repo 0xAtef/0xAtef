@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 3 Threat Report Insights for Q2 2024](https://thehackernews.com/2024/09/top-3-threat-report-insights-for-q2-2024.html)
+- [Iranian Cyber Group OilRig Targets Iraqi Government in Sophisticated Malware Attack](https://thehackernews.com/2024/09/iranian-cyber-group-oilrig-targets.html)
+- [Ireland&#39;s Watchdog Launches Inquiry into Google&#39;s AI Data Practices in Europe](https://thehackernews.com/2024/09/irelands-watchdog-launches-inquiry-into.html)
 - [WordPress Mandates Two-Factor Authentication for Plugin and Theme Developers](https://thehackernews.com/2024/09/wordpress-mandates-two-factor.html)
 - [Quad7 Botnet Expands to Target SOHO Routers and VPN Appliances](https://thehackernews.com/2024/09/quad7-botnet-expands-to-target-soho.html)
-- [DragonRank Black Hat SEO Campaign Targeting IIS Servers Across Asia and Europe](https://thehackernews.com/2024/09/dragonrank-black-hat-seo-campaign.html)
-- [Singapore Police Arrest Six Hackers Linked to Global Cybercrime Syndicate](https://thehackernews.com/2024/09/singapore-police-arrest-six-for-alleged.html)
-- [Why Is It So Challenging to Go Passwordless?](https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html)
 <!-- BLOG-POST-LIST:END -->
