@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Mandates Two-Factor Authentication for Plugin and Theme Developers](https://thehackernews.com/2024/09/wordpress-mandates-two-factor.html)
 - [Quad7 Botnet Expands to Target SOHO Routers and VPN Appliances](https://thehackernews.com/2024/09/quad7-botnet-expands-to-target-soho.html)
 - [DragonRank Black Hat SEO Campaign Targeting IIS Servers Across Asia and Europe](https://thehackernews.com/2024/09/dragonrank-black-hat-seo-campaign.html)
 - [Singapore Police Arrest Six Hackers Linked to Global Cybercrime Syndicate](https://thehackernews.com/2024/09/singapore-police-arrest-six-for-alleged.html)
 - [Why Is It So Challenging to Go Passwordless?](https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html)
-- [Developers Beware: Lazarus Group Uses Fake Coding Tests to Spread Malware](https://thehackernews.com/2024/09/developers-beware-lazarus-group-uses.html)
 <!-- BLOG-POST-LIST:END -->
