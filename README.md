@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro Vulnerability Exposed Virtual Keyboard Inputs to Attackers](https://thehackernews.com/2024/09/apple-vision-pro-vulnerability-exposed.html)
 - [17-Year-Old Arrested in Connection with Cyber Attack Affecting Transport for London](https://thehackernews.com/2024/09/17-year-old-arrested-in-connection-with.html)
 - [Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft](https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html)
 - [TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud](https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html)
 - [Progress WhatsUp Gold Exploited Just Hours After PoC Release for Critical Flaw](https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html)
-- [New Linux Malware Campaign Exploits Oracle Weblogic to Mine Cryptocurrency](https://thehackernews.com/2024/09/new-linux-malware-campaign-exploits.html)
 <!-- BLOG-POST-LIST:END -->
