@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft](https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html)
+- [TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud](https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html)
+- [Progress WhatsUp Gold Exploited Just Hours After PoC Release for Critical Flaw](https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html)
 - [New Linux Malware Campaign Exploits Oracle Weblogic to Mine Cryptocurrency](https://thehackernews.com/2024/09/new-linux-malware-campaign-exploits.html)
 - [New Android Malware &#39;Ajina.Banker&#39; Steals Financial Data and Bypasses 2FA via Telegram](https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html)
-- [Urgent: GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Job Execution](https://thehackernews.com/2024/09/urgent-gitlab-patches-critical-flaw.html)
-- [Beware: New Vo1d Malware Infects 1.3 Million Android-based TV Boxes Worldwide](https://thehackernews.com/2024/09/beware-new-vo1d-malware-infects-13.html)
-- [Exposed Selenium Grid Servers Targeted for Crypto Mining and Proxyjacking](https://thehackernews.com/2024/09/exposed-selenium-grid-servers-targeted.html)
 <!-- BLOG-POST-LIST:END -->
