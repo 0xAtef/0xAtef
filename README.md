@@ -25,11 +25,11 @@ I am deeply enthusiastic about development and scripting, particularly in the re
 --->
 <h1 align="center"> Senior Cyber Defense Engineer | Threat Detection Engineer </h1>
 
-With proven experience in leading Security Operations, conducting Product assessments (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR), and developing SOC processes, use cases, playbooks, detection rules, and automation workflows.
+With proven experience in leading Security Operations, Conducting Product assessments (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR), and developing SOC Processes, Use Cases, Playbooks, Detection Rules, and Automation Workflows.
 
 As a Cyber Defense Engineer, my professional passion encompasses whatever is related to blue team capabilities like threat detection, incident response, and threat hunting and my skills extend to SIEM Administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.
 
-Currently, I hold a professional certificate in Threat Hunting (ecthpv2) and I’m willing to solidify my practical capabilities with other blue/purple team certificates in the future. My core belief is that you can’t protect what you don’t understand, so I’m eager to stay well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
+I hold a professional certificate in Threat Hunting (ecthpv2) and am willing to solidify my practical capabilities with other blue/purple team certificates in the future. My core belief is that you can’t protect what you don’t understand, so I’m eager to stay well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
 
 
 # Security Projects Overview
