@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Linux Malware Campaign Exploits Oracle Weblogic to Mine Cryptocurrency](https://thehackernews.com/2024/09/new-linux-malware-campaign-exploits.html)
 - [New Android Malware &#39;Ajina.Banker&#39; Steals Financial Data and Bypasses 2FA via Telegram](https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html)
 - [Urgent: GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Job Execution](https://thehackernews.com/2024/09/urgent-gitlab-patches-critical-flaw.html)
 - [Beware: New Vo1d Malware Infects 1.3 Million Android-based TV Boxes Worldwide](https://thehackernews.com/2024/09/beware-new-vo1d-malware-infects-13.html)
 - [Exposed Selenium Grid Servers Targeted for Crypto Mining and Proxyjacking](https://thehackernews.com/2024/09/exposed-selenium-grid-servers-targeted.html)
-- [Top 3 Threat Report Insights for Q2 2024](https://thehackernews.com/2024/09/top-3-threat-report-insights-for-q2-2024.html)
 <!-- BLOG-POST-LIST:END -->
