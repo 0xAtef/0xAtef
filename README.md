@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Breach to Recovery: Designing an Identity-Focused Incident Response Playbook](https://thehackernews.com/2024/09/from-breach-to-recovery-designing.html)
+- [Master Your PCI DSS v4 Compliance with Innovative Smart Approvals](https://thehackernews.com/2024/09/master-your-pci-dss-v4-compliance-with.html)
 - [Apple Drops Spyware Case Against NSO Group, Citing Risk of Threat Intelligence Exposure](https://thehackernews.com/2024/09/apple-drops-spyware-case-against-nso.html)
 - [Cybercriminals Exploit HTTP Headers for Credential Theft via Large-Scale Phishing Attacks](https://thehackernews.com/2024/09/cybercriminals-exploit-http-headers-for.html)
 - [Ivanti Warns of Active Exploitation of Newly Patched Cloud Appliance Vulnerability](https://thehackernews.com/2024/09/ivanti-warns-of-active-exploitation-of.html)
-- [Apple Vision Pro Vulnerability Exposed Virtual Keyboard Inputs to Attackers](https://thehackernews.com/2024/09/apple-vision-pro-vulnerability-exposed.html)
-- [17-Year-Old Arrested in Connection with Cyber Attack Affecting Transport for London](https://thehackernews.com/2024/09/17-year-old-arrested-in-connection-with.html)
 <!-- BLOG-POST-LIST:END -->
