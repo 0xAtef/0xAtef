@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Fixes GCP Composer Flaw That Could&#39;ve Led to Remote Code Execution](https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html)
+- [North Korean Hackers Target Cryptocurrency Users on LinkedIn with RustDoor Malware](https://thehackernews.com/2024/09/north-korean-hackers-target.html)
 - [From Breach to Recovery: Designing an Identity-Focused Incident Response Playbook](https://thehackernews.com/2024/09/from-breach-to-recovery-designing.html)
 - [Master Your PCI DSS v4 Compliance with Innovative Smart Approvals](https://thehackernews.com/2024/09/master-your-pci-dss-v4-compliance-with.html)
 - [Apple Drops Spyware Case Against NSO Group, Citing Risk of Threat Intelligence Exposure](https://thehackernews.com/2024/09/apple-drops-spyware-case-against-nso.html)
-- [Cybercriminals Exploit HTTP Headers for Credential Theft via Large-Scale Phishing Attacks](https://thehackernews.com/2024/09/cybercriminals-exploit-http-headers-for.html)
-- [Ivanti Warns of Active Exploitation of Newly Patched Cloud Appliance Vulnerability](https://thehackernews.com/2024/09/ivanti-warns-of-active-exploitation-of.html)
 <!-- BLOG-POST-LIST:END -->
