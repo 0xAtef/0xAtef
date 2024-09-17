@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Investigate ChatGPT activity in Google Workspace](https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html)
 - [Binance Warns of Rising Clipper Malware Attacks Targeting Cryptocurrency Users](https://thehackernews.com/2024/09/binance-warns-of-rising-clipper-malware.html)
 - [SolarWinds Issues Patch for Critical ARM Vulnerability Enabling RCE Attacks](https://thehackernews.com/2024/09/solarwinds-issues-patch-for-critical.html)
 - [Google Fixes GCP Composer Flaw That Could&#39;ve Led to Remote Code Execution](https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html)
 - [North Korean Hackers Target Cryptocurrency Users on LinkedIn with RustDoor Malware](https://thehackernews.com/2024/09/north-korean-hackers-target.html)
-- [From Breach to Recovery: Designing an Identity-Focused Incident Response Playbook](https://thehackernews.com/2024/09/from-breach-to-recovery-designing.html)
 <!-- BLOG-POST-LIST:END -->
