@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome Switches to ML-KEM for Post-Quantum Cryptography Defense](https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html)
+- [U.S. Treasury Sanctions Executives Linked to Intellexa Predator Spyware Operation](https://thehackernews.com/2024/09/us-treasury-sanctions-executives-linked.html)
 - [How to Investigate ChatGPT activity in Google Workspace](https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html)
+- [Meta to Train AI Models Using Public U.K. Facebook and Instagram Posts](https://thehackernews.com/2024/09/meta-to-train-ai-models-using-public-uk.html)
 - [Binance Warns of Rising Clipper Malware Attacks Targeting Cryptocurrency Users](https://thehackernews.com/2024/09/binance-warns-of-rising-clipper-malware.html)
-- [SolarWinds Issues Patch for Critical ARM Vulnerability Enabling RCE Attacks](https://thehackernews.com/2024/09/solarwinds-issues-patch-for-critical.html)
-- [Google Fixes GCP Composer Flaw That Could&#39;ve Led to Remote Code Execution](https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html)
-- [North Korean Hackers Target Cryptocurrency Users on LinkedIn with RustDoor Malware](https://thehackernews.com/2024/09/north-korean-hackers-target.html)
 <!-- BLOG-POST-LIST:END -->
