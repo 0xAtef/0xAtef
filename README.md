@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Pay A Pentester?](https://thehackernews.com/2024/09/why-pay-pentester.html)
 - [North Korean Hackers Target Energy and Aerospace Industries with New MISTPEN Malware](https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html)
 - [Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer Browsing](https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html)
 - [GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging](https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html)
 - [Patch Issued for Critical VMware vCenter Flaw Allowing Remote Code Execution](https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html)
-- [Google Chrome Switches to ML-KEM for Post-Quantum Cryptography Defense](https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html)
 <!-- BLOG-POST-LIST:END -->
