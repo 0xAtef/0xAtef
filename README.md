@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging](https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html)
 - [Patch Issued for Critical VMware vCenter Flaw Allowing Remote Code Execution](https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html)
 - [Google Chrome Switches to ML-KEM for Post-Quantum Cryptography Defense](https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html)
 - [U.S. Treasury Sanctions Executives Linked to Intellexa Predator Spyware Operation](https://thehackernews.com/2024/09/us-treasury-sanctions-executives-linked.html)
 - [How to Investigate ChatGPT activity in Google Workspace](https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html)
-- [Meta to Train AI Models Using Public U.K. Facebook and Instagram Posts](https://thehackernews.com/2024/09/meta-to-train-ai-models-using-public-uk.html)
 <!-- BLOG-POST-LIST:END -->
