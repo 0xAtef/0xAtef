@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms](https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html)
 - [New Brazilian-Linked SambaSpy Malware Targets Italian Users via Phishing Emails](https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html)
 - [New TeamTNT Cryptojacking Campaign Targets CentOS Servers with Rootkit](https://thehackernews.com/2024/09/new-teamtnt-cryptojacking-campaign.html)
 - [Healthcare&#39;s Diagnosis is Critical: The Cure is Cybersecurity Hygiene](https://thehackernews.com/2024/09/healthcares-diagnosis-is-critical-cure.html)
 - [Microsoft Warns of New INC Ransomware Targeting U.S. Healthcare Sector](https://thehackernews.com/2024/09/microsoft-warns-of-new-inc-ransomware.html)
-- [GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions](https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html)
 <!-- BLOG-POST-LIST:END -->
