@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions](https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html)
 - [New &quot;Raptor Train&quot; IoT Botnet Compromises Over 200,000 Devices Worldwide](https://thehackernews.com/2024/09/new-raptor-train-iot-botnet-compromises.html)
 - [Chinese Engineer Charged in U.S. for Years-Long Cyber Espionage Targeting NASA and Military](https://thehackernews.com/2024/09/chinese-engineer-charged-in-us-for.html)
 - [Why Pay A Pentester?](https://thehackernews.com/2024/09/why-pay-pentester.html)
 - [North Korean Hackers Target Energy and Aerospace Industries with New MISTPEN Malware](https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html)
-- [Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer Browsing](https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html)
 <!-- BLOG-POST-LIST:END -->
