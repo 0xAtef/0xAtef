@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chrome Users Can Now Sync Passkeys Across Devices with New Google PIN Feature](https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html)
 - [Critical Ivanti Cloud Appliance Vulnerability Exploited in Active Cyberattacks](https://thehackernews.com/2024/09/critical-ivanti-cloud-appliance.html)
 - [Wherever There&#39;s Ransomware, There&#39;s Service Account Compromise. Are You Protected?](https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html)
 - [Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms](https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html)
 - [New Brazilian-Linked SambaSpy Malware Targets Italian Users via Phishing Emails](https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html)
-- [New TeamTNT Cryptojacking Campaign Targets CentOS Servers with Rootkit](https://thehackernews.com/2024/09/new-teamtnt-cryptojacking-campaign.html)
 <!-- BLOG-POST-LIST:END -->
