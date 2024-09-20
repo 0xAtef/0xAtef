@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Ivanti Cloud Appliance Vulnerability Exploited in Active Cyberattacks](https://thehackernews.com/2024/09/critical-ivanti-cloud-appliance.html)
 - [Wherever There&#39;s Ransomware, There&#39;s Service Account Compromise. Are You Protected?](https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html)
 - [Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms](https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html)
 - [New Brazilian-Linked SambaSpy Malware Targets Italian Users via Phishing Emails](https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html)
 - [New TeamTNT Cryptojacking Campaign Targets CentOS Servers with Rootkit](https://thehackernews.com/2024/09/new-teamtnt-cryptojacking-campaign.html)
-- [Healthcare&#39;s Diagnosis is Critical: The Cure is Cybersecurity Hygiene](https://thehackernews.com/2024/09/healthcares-diagnosis-is-critical-cure.html)
 <!-- BLOG-POST-LIST:END -->
