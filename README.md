@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Europol Shuts Down Major Phishing Scheme Targeting Mobile Phone Credentials](https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html)
 - [Passwordless AND Keyless: The Future of &lpar;Privileged&rpar; Access Management](https://thehackernews.com/2024/09/passwordless-and-keyless-future-of.html)
 - [Iranian APT UNC1860 Linked to MOIS Facilitates Cyber Intrusions in Middle East](https://thehackernews.com/2024/09/iranian-apt-unc1860-linked-to-mois.html)
 - [Chrome Users Can Now Sync Passkeys Across Devices with New Google PIN Feature](https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html)
 - [Critical Ivanti Cloud Appliance Vulnerability Exploited in Active Cyberattacks](https://thehackernews.com/2024/09/critical-ivanti-cloud-appliance.html)
-- [Wherever There&#39;s Ransomware, There&#39;s Service Account Compromise. Are You Protected?](https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html)
 <!-- BLOG-POST-LIST:END -->
