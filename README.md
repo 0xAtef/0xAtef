@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn Halts AI Data Processing in UK Amid Privacy Concerns Raised by ICO](https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html)
+- [Ukraine Bans Telegram Use for Government and Military Personnel](https://thehackernews.com/2024/09/ukraine-bans-telegram-use-for.html)
 - [Europol Shuts Down Major Phishing Scheme Targeting Mobile Phone Credentials](https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html)
 - [Passwordless AND Keyless: The Future of &lpar;Privileged&rpar; Access Management](https://thehackernews.com/2024/09/passwordless-and-keyless-future-of.html)
 - [Iranian APT UNC1860 Linked to MOIS Facilitates Cyber Intrusions in Middle East](https://thehackernews.com/2024/09/iranian-apt-unc1860-linked-to-mois.html)
-- [Chrome Users Can Now Sync Passkeys Across Devices with New Google PIN Feature](https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html)
-- [Critical Ivanti Cloud Appliance Vulnerability Exploited in Active Cyberattacks](https://thehackernews.com/2024/09/critical-ivanti-cloud-appliance.html)
 <!-- BLOG-POST-LIST:END -->
