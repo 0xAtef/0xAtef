@@ -162,7 +162,7 @@ BIO
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hacktivist Group Twelve Targets Russian Entities with Destructive Cyber Attacks](https://thehackernews.com/2024/09/hacktivist-group-twelve-targets-russian.html)
-- [LinkedIn Halts AI Data Processing in UK Amid Privacy Concerns Raised by ICO](https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html)
+- [LinkedIn Halts AI Data Processing in U.K. Amid Privacy Concerns Raised by ICO](https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html)
 - [Ukraine Bans Telegram Use for Government and Military Personnel](https://thehackernews.com/2024/09/ukraine-bans-telegram-use-for.html)
 - [Europol Shuts Down Major Phishing Scheme Targeting Mobile Phone Credentials](https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html)
 - [Passwordless AND Keyless: The Future of &lpar;Privileged&rpar; Access Management](https://thehackernews.com/2024/09/passwordless-and-keyless-future-of.html)
