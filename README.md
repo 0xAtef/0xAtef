@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Flaw in Microchip ASF Exposes IoT Devices to Remote Code Execution Risk](https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html)
+- [Discord Introduces DAVE Protocol for End-to-End Encryption in Audio and Video Calls](https://thehackernews.com/2024/09/discord-introduces-dave-protocol-for.html)
 - [New PondRAT Malware Hidden in Python Packages Targets Software Developers](https://thehackernews.com/2024/09/new-pondrat-malware-hidden-in-python.html)
 - [Chinese Hackers Exploit GeoServer Flaw to Target APAC Nations with EAGLEDOOR Malware](https://thehackernews.com/2024/09/chinese-hackers-exploit-geoserver-flaw.html)
 - [Hacktivist Group Twelve Targets Russian Entities with Destructive Cyber Attacks](https://thehackernews.com/2024/09/hacktivist-group-twelve-targets-russian.html)
-- [LinkedIn Halts AI Data Processing in U.K. Amid Privacy Concerns Raised by ICO](https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html)
-- [Ukraine Bans Telegram Use for Government and Military Personnel](https://thehackernews.com/2024/09/ukraine-bans-telegram-use-for.html)
 <!-- BLOG-POST-LIST:END -->
