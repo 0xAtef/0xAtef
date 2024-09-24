@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover Latest Ransomware Tactics and Zero Trust Strategies in This Expert Webinar](https://thehackernews.com/2024/09/discover-latest-ransomware-tactics-and.html)
+- [The SSPM Justification Kit](https://thehackernews.com/2024/09/the-sspm-justification-kit.html)
 - [New Octo2 Android Banking Trojan Emerges with Device Takeover Capabilities](https://thehackernews.com/2024/09/new-octo2-android-banking-trojan.html)
 - [Telegram Agrees to Share User Data With Authorities for Criminal Investigations](https://thehackernews.com/2024/09/telegram-agrees-to-share-user-data-with.html)
 - [THN Cybersecurity Recap: Last Week&#39;s Top Threats and Trends &lpar;September 16-22&rpar;](https://thehackernews.com/2024/09/thn-cybersecurity-recap-last-weeks-top.html)
-- [Why &#39;Never Expire&#39; Passwords Can Be a Risky Decision](https://thehackernews.com/2024/09/why-never-expire-passwords-can-be-risky.html)
-- [Critical Flaw in Microchip ASF Exposes IoT Devices to Remote Code Execution Risk](https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html)
 <!-- BLOG-POST-LIST:END -->
