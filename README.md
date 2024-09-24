@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Agrees to Share User Data With Authorities for Criminal Investigations](https://thehackernews.com/2024/09/telegram-agrees-to-share-user-data-with.html)
 - [THN Cybersecurity Recap: Last Week&#39;s Top Threats and Trends &lpar;September 16-22&rpar;](https://thehackernews.com/2024/09/thn-cybersecurity-recap-last-weeks-top.html)
 - [Why &#39;Never Expire&#39; Passwords Can Be a Risky Decision](https://thehackernews.com/2024/09/why-never-expire-passwords-can-be-risky.html)
 - [Critical Flaw in Microchip ASF Exposes IoT Devices to Remote Code Execution Risk](https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html)
 - [Discord Introduces DAVE Protocol for End-to-End Encryption in Audio and Video Calls](https://thehackernews.com/2024/09/discord-introduces-dave-protocol-for.html)
-- [New PondRAT Malware Hidden in Python Packages Targets Software Developers](https://thehackernews.com/2024/09/new-pondrat-malware-hidden-in-python.html)
 <!-- BLOG-POST-LIST:END -->
