@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Transportation Companies Hit by Cyberattacks Using Lumma Stealer and NetSupport Malware](https://thehackernews.com/2024/09/transportation-companies-hit-by.html)
 - [CISA Flags Critical Ivanti vTM Vulnerability Amid Active Exploitation Concerns](https://thehackernews.com/2024/09/cisa-flags-critical-ivanti-vtm.html)
 - [Necro Android Malware Found in Popular Camera and Browser Apps on Play Store](https://thehackernews.com/2024/09/necro-android-malware-found-in-popular.html)
 - [U.S. Proposes Ban on Connected Vehicles Using Chinese and Russian Tech](https://thehackernews.com/2024/09/us-proposes-ban-on-connected-vehicles.html)
 - [Discover Latest Ransomware Tactics and Zero Trust Strategies in This Expert Webinar](https://thehackernews.com/2024/09/discover-latest-ransomware-tactics-and.html)
-- [Kaspersky Exits U.S., Automatically Replaces Software With UltraAV, Raising Concerns](https://thehackernews.com/2024/09/kaspersky-exits-us-automatically.html)
 <!-- BLOG-POST-LIST:END -->
