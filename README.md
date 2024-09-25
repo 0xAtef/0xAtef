@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s Shift to Rust Programming Cuts Android Memory Vulnerabilities by 52%](https://thehackernews.com/2024/09/googles-shift-to-rust-programming-cuts.html)
 - [Mozilla Faces Privacy Complaint for Enabling Tracking in Firefox Without User Consent](https://thehackernews.com/2024/09/mozilla-faces-privacy-complaint-for.html)
 - [Cybersecurity Researchers Warn of New Rust-Based Splinter Post-Exploitation Tool](https://thehackernews.com/2024/09/cybersecurity-researchers-warn-of-new.html)
 - [ChatGPT macOS Flaw Could&#39;ve Enabled Long-Term Spyware via Memory Function](https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html)
 - [Expert Tips on How to Spot a Phishing Link](https://thehackernews.com/2024/09/expert-tips-on-how-to-spot-phishing-link.html)
-- [Agentic AI in SOCs: A Solution to SOAR&#39;s Unfulfilled Promises](https://thehackernews.com/2024/09/agentic-ai-in-socs-solution-to-soars.html)
 <!-- BLOG-POST-LIST:END -->
