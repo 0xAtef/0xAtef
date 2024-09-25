@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI in SOCs: A Solution to SOAR&#39;s Unfulfilled Promises](https://thehackernews.com/2024/09/agentic-ai-in-socs-solution-to-soars.html)
 - [ChatGPT macOS Flaw Could&#39;ve Enabled Long-Term Spyware via Memory Function](https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html)
+- [Expert Tips on How to Spot a Phishing Link](https://thehackernews.com/2024/09/expert-tips-on-how-to-spot-phishing-link.html)
+- [Agentic AI in SOCs: A Solution to SOAR&#39;s Unfulfilled Promises](https://thehackernews.com/2024/09/agentic-ai-in-socs-solution-to-soars.html)
 - [Transportation Companies Hit by Cyberattacks Using Lumma Stealer and NetSupport Malware](https://thehackernews.com/2024/09/transportation-companies-hit-by.html)
 - [CISA Flags Critical Ivanti vTM Vulnerability Amid Active Exploitation Concerns](https://thehackernews.com/2024/09/cisa-flags-critical-ivanti-vtm.html)
-- [Necro Android Malware Found in Popular Camera and Browser Apps on Play Store](https://thehackernews.com/2024/09/necro-android-malware-found-in-popular.html)
 <!-- BLOG-POST-LIST:END -->
