@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EPSS vs. CVSS: What’s the Best Approach to Vulnerability Prioritization?](https://thehackernews.com/2024/09/epss-vs-cvss-whats-best-approach-to.html)
+- [Watering Hole Attack on Kurdish Sites Distributing Malicious APKs and Spyware](https://thehackernews.com/2024/09/watering-hole-attack-on-kurdish-sites.html)
 - [Cloudflare Warns of India-Linked Hackers Targeting South and East Asian Entities](https://thehackernews.com/2024/09/cloudflare-warns-of-india-linked.html)
 - [Chinese Hackers Infiltrate U.S. Internet Providers in Cyber Espionage Campaign](https://thehackernews.com/2024/09/chinese-hackers-infiltrate-us-internet.html)
 - [Google&#39;s Shift to Rust Programming Cuts Android Memory Vulnerabilities by 52%](https://thehackernews.com/2024/09/googles-shift-to-rust-programming-cuts.html)
-- [Mozilla Faces Privacy Complaint for Enabling Tracking in Firefox Without User Consent](https://thehackernews.com/2024/09/mozilla-faces-privacy-complaint-for.html)
-- [Cybersecurity Researchers Warn of New Rust-Based Splinter Post-Exploitation Tool](https://thehackernews.com/2024/09/cybersecurity-researchers-warn-of-new.html)
 <!-- BLOG-POST-LIST:END -->
