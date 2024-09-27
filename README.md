@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Certifications: The Gateway to Career Advancement](https://thehackernews.com/2024/09/cybersecurity-certifications-gateway-to.html)
+- [New HTML Smuggling Campaign Delivers DCRat Malware to Russian-Speaking Users](https://thehackernews.com/2024/09/new-html-smuggling-campaign-delivers.html)
 - [U.S. Sanctions Two Crypto Exchanges for Facilitating Cybercrime and Money Laundering](https://thehackernews.com/2024/09/us-sanctions-two-crypto-exchanges-for.html)
 - [Critical NVIDIA Container Toolkit Vulnerability Could Grant Full Host Access to Attackers](https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html)
 - [Hackers Could Have Remotely Controlled Kia Cars Using Only License Plates](https://thehackernews.com/2024/09/hackers-could-have-remotely-controlled.html)
-- [N. Korean Hackers Deploy New KLogEXE and FPSpy Malware in Targeted Attacks](https://thehackernews.com/2024/09/n-korean-hackers-deploy-new-klogexe-and.html)
-- [Overloaded with SIEM Alerts? Discover Effective Strategies in This Expert-Led Webinar](https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html)
 <!-- BLOG-POST-LIST:END -->
