@@ -162,8 +162,8 @@ BIO
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hackers Could Have Remotely Controlled Kia Cars Using Only License Plates](https://thehackernews.com/2024/09/hackers-could-have-remotely-controlled.html)
-- [Overloaded with SIEM Alerts? Discover Effective Strategies in This Expert-Led Webinar](https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html)
 - [N. Korean Hackers Deploy New KLogEXE and FPSpy Malware in Targeted Attacks](https://thehackernews.com/2024/09/n-korean-hackers-deploy-new-klogexe-and.html)
+- [Overloaded with SIEM Alerts? Discover Effective Strategies in This Expert-Led Webinar](https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html)
 - [EPSS vs. CVSS: What’s the Best Approach to Vulnerability Prioritization?](https://thehackernews.com/2024/09/epss-vs-cvss-whats-best-approach-to.html)
 - [Watering Hole Attack on Kurdish Sites Distributing Malicious APKs and Spyware](https://thehackernews.com/2024/09/watering-hole-attack-on-kurdish-sites.html)
 <!-- BLOG-POST-LIST:END -->
