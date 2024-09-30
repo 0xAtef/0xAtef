@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext](https://thehackernews.com/2024/09/meta-fined-91-million-for-storing.html)
 - [Crypto Scam App Disguised as WalletConnect Steals $70K in Five-Month Campaign](https://thehackernews.com/2024/09/crypto-scam-app-disguised-as.html)
 - [U.S. Charges Three Iranian Nationals for Election Interference and Cybercrimes](https://thehackernews.com/2024/09/us-charges-three-iranian-nationals-for.html)
 - [Progress Software Releases Patches for 6 Flaws in WhatsUp Gold – Patch Now](https://thehackernews.com/2024/09/progress-software-releases-patches-for.html)
 - [Critical Linux CUPS Printing System Flaws Could Allow Remote Command Execution](https://thehackernews.com/2024/09/critical-linux-cups-printing-system.html)
-- [How to Plan and Prepare for Penetration Testing](https://thehackernews.com/2024/09/how-to-plan-and-prepare-for-penetration.html)
 <!-- BLOG-POST-LIST:END -->
