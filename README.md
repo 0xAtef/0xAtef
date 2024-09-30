@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [THN Cybersecurity Recap: Last Week&#39;s Top Threats and Trends &lpar;September 23-29&rpar;](https://thehackernews.com/2024/09/thn-cybersecurity-recap-last-weeks-top_30.html)
 - [Critical Flaws in Tank Gauge Systems Expose Gas Stations to Remote Attacks](https://thehackernews.com/2024/09/critical-flaws-in-tank-gauge-systems.html)
 - [Session Hijacking 2.0 — The Latest Way That Attackers are Bypassing MFA](https://thehackernews.com/2024/09/session-hijacking-20-latest-way-that.html)
 - [A Hacker&#39;s Era: Why Microsoft 365 Protection Reigns Supreme](https://thehackernews.com/2024/09/why-microsoft-365-protection-reigns-supreme.html)
 - [Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext](https://thehackernews.com/2024/09/meta-fined-91-million-for-storing.html)
-- [Crypto Scam App Disguised as WalletConnect Steals $70K in Five-Month Campaign](https://thehackernews.com/2024/09/crypto-scam-app-disguised-as.html)
 <!-- BLOG-POST-LIST:END -->
