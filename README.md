@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Rhadamanthys Stealer Targets Crypto Wallets with Image Recognition](https://thehackernews.com/2024/10/ai-powered-rhadamanthys-stealer-targets.html)
 - [5 Actionable Steps to Prevent GenAI Data Leaks Without Fully Blocking AI Usage](https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html)
 - [Free Sniper Dz Phishing Tools Fuel 140,000+ Cyber Attacks Targeting User Credentials](https://thehackernews.com/2024/10/free-sniper-dz-phishing-tools-fuel.html)
 - [New Cryptojacking Attack Targets Docker API to Create Malicious Swarm Botnet](https://thehackernews.com/2024/10/new-cryptojacking-attack-targets-docker.html)
 - [U.K. Hacker Charged in $3.75 Million Insider Trading Scheme Using Hacked Executive Emails](https://thehackernews.com/2024/10/uk-hacker-charged-in-375-million.html)
-- [THN Cybersecurity Recap: Last Week&#39;s Top Threats and Trends &lpar;September 23-29&rpar;](https://thehackernews.com/2024/09/thn-cybersecurity-recap-last-weeks-top_30.html)
 <!-- BLOG-POST-LIST:END -->
