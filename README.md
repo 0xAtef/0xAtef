@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Sound Alarm on Active Attacks Exploiting Critical Zimbra Postjournal Flaw](https://thehackernews.com/2024/10/researchers-sound-alarm-on-active.html)
+- [PyPI Repository Found Hosting Fake Crypto Wallet Recovery Tools That Steal User Data](https://thehackernews.com/2024/10/pypi-repository-found-hosting-fake.html)
 - [AI-Powered Rhadamanthys Stealer Targets Crypto Wallets with Image Recognition](https://thehackernews.com/2024/10/ai-powered-rhadamanthys-stealer-targets.html)
 - [5 Actionable Steps to Prevent GenAI Data Leaks Without Fully Blocking AI Usage](https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html)
 - [Free Sniper Dz Phishing Tools Fuel 140,000+ Cyber Attacks Targeting User Credentials](https://thehackernews.com/2024/10/free-sniper-dz-phishing-tools-fuel.html)
-- [New Cryptojacking Attack Targets Docker API to Create Malicious Swarm Botnet](https://thehackernews.com/2024/10/new-cryptojacking-attack-targets-docker.html)
-- [U.K. Hacker Charged in $3.75 Million Insider Trading Scheme Using Hacked Executive Emails](https://thehackernews.com/2024/10/uk-hacker-charged-in-375-million.html)
 <!-- BLOG-POST-LIST:END -->
