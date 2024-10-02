@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Must-Have Tools for Effective Dynamic Malware Analysis](https://thehackernews.com/2024/10/5-must-have-tools-for-effective-dynamic.html)
 - [Andariel Hacking Group Shifts Focus to Financial Attacks on U.S. Organizations](https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html)
 - [Researchers Warn of Ongoing Attacks Exploiting Critical Zimbra Postjournal Flaw](https://thehackernews.com/2024/10/researchers-sound-alarm-on-active.html)
 - [PyPI Repository Found Hosting Fake Crypto Wallet Recovery Tools That Steal User Data](https://thehackernews.com/2024/10/pypi-repository-found-hosting-fake.html)
 - [AI-Powered Rhadamanthys Stealer Targets Crypto Wallets with Image Recognition](https://thehackernews.com/2024/10/ai-powered-rhadamanthys-stealer-targets.html)
-- [5 Actionable Steps to Prevent GenAI Data Leaks Without Fully Blocking AI Usage](https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html)
 <!-- BLOG-POST-LIST:END -->
