@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fake Trading Apps Target Victims Globally via Apple App Store and Google Play](https://thehackernews.com/2024/10/fake-trading-apps-target-victims.html)
 - [China-Linked CeranaKeeper Targeting Southeast Asia with Data Exfiltration](https://thehackernews.com/2024/10/china-linked-ceranakeeper-targeting.html)
 - [Fake Job Applications Deliver Dangerous More_eggs Malware to HR Professionals](https://thehackernews.com/2024/10/fake-job-applications-deliver-dangerous.html)
 - [Alert: Over 700,000 DrayTek Routers Exposed to Hacking via 14 New Vulnerabilities](https://thehackernews.com/2024/10/alert-over-700000-draytek-routers.html)
 - [Alert: Adobe Commerce and Magento Stores Under Attack from CosmicSting Exploit](https://thehackernews.com/2024/10/alert-adobe-commerce-and-magento-stores.html)
-- [5 Must-Have Tools for Effective Dynamic Malware Analysis](https://thehackernews.com/2024/10/5-must-have-tools-for-effective-dynamic.html)
 <!-- BLOG-POST-LIST:END -->
