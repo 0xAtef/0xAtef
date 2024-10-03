@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Android 14 Adds New Security Features to Block 2G Exploits and Baseband Attacks](https://thehackernews.com/2024/10/android-14-adds-new-security-features.html)
 - [The Secret Weakness Execs Are Overlooking: Non-Human Identities](https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html)
 - [New Perfctl Malware Targets Linux Servers for Cryptocurrency Mining and Proxyjacking](https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html)
 - [North Korean Hackers Using New VeilShell Backdoor in Stealthy Cyber Attacks](https://thehackernews.com/2024/10/north-korean-hackers-using-new.html)
 - [INTERPOL Arrests 8 in Major Phishing and Romance Fraud Crackdown in West Africa](https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html)
-- [LockBit Ransomware and Evil Corp Members Arrested and Sanctioned in Joint Global Effort](https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html)
 <!-- BLOG-POST-LIST:END -->
