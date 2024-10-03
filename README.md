@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Perfctl Malware Targets Linux Servers for Cryptocurrency Mining and Proxyjacking](https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html)
 - [North Korean Hackers Using New VeilShell Backdoor in Stealthy Cyber Attacks](https://thehackernews.com/2024/10/north-korean-hackers-using-new.html)
 - [INTERPOL Arrests 8 in Major Phishing and Romance Fraud Crackdown in West Africa](https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html)
 - [LockBit Ransomware and Evil Corp Members Arrested and Sanctioned in Joint Global Effort](https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html)
 - [Ivanti Endpoint Manager Flaw Actively Targeted, CISA Warns Agencies to Patch](https://thehackernews.com/2024/10/ivanti-endpoint-manager-flaw-actively.html)
-- [Fake Trading Apps Target Victims Globally via Apple App Store and Google Play](https://thehackernews.com/2024/10/fake-trading-apps-target-victims.html)
 <!-- BLOG-POST-LIST:END -->
