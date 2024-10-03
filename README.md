@@ -161,7 +161,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LockBit Ransomware and Evil Corp Leaders Arrested and Sanctioned in Joint Global Effort](https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html)
+- [LockBit Ransomware and Evil Corp Members Arrested and Sanctioned in Joint Global Effort](https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html)
 - [Ivanti Endpoint Manager Flaw Actively Targeted, CISA Warns Agencies to Patch](https://thehackernews.com/2024/10/ivanti-endpoint-manager-flaw-actively.html)
 - [Fake Trading Apps Target Victims Globally via Apple App Store and Google Play](https://thehackernews.com/2024/10/fake-trading-apps-target-victims.html)
 - [China-Linked CeranaKeeper Targeting Southeast Asia with Data Exfiltration](https://thehackernews.com/2024/10/china-linked-ceranakeeper-targeting.html)
