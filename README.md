@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Going with CTEM When You Don&#39;t Know Where to Start](https://thehackernews.com/2024/10/how-to-get-going-with-ctem-when-you.html)
+- [Cloudflare Thwarts Largest-Ever 3.8 Tbps DDoS Attack Targeting Global Sectors](https://thehackernews.com/2024/10/cloudflare-thwarts-largest-ever-38-tbps.html)
+- [WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks](https://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html)
 - [Google Adds New Pixel Security Features to Block 2G Exploits and Baseband Attacks](https://thehackernews.com/2024/10/android-14-adds-new-security-features.html)
 - [The Secret Weakness Execs Are Overlooking: Non-Human Identities](https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html)
-- [New Perfctl Malware Targets Linux Servers for Cryptocurrency Mining and Proxyjacking](https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html)
-- [North Korean Hackers Using New VeilShell Backdoor in Stealthy Cyber Attacks](https://thehackernews.com/2024/10/north-korean-hackers-using-new.html)
-- [INTERPOL Arrests 8 in Major Phishing and Romance Fraud Crackdown in West Africa](https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html)
 <!-- BLOG-POST-LIST:END -->
