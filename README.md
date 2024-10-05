@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Releases Critical iOS and iPadOS Updates to Fix VoiceOver Password Vulnerability](https://thehackernews.com/2024/10/apple-releases-critical-ios-and-ipados.html)
 - [U.S. and Microsoft Seize 107 Russian Domains in Major Cyber Fraud Crackdown](https://thehackernews.com/2024/10/us-and-microsoft-seize-107-russian.html)
 - [How to Get Going with CTEM When You Don&#39;t Know Where to Start](https://thehackernews.com/2024/10/how-to-get-going-with-ctem-when-you.html)
 - [Cloudflare Thwarts Largest-Ever 3.8 Tbps DDoS Attack Targeting Global Sectors](https://thehackernews.com/2024/10/cloudflare-thwarts-largest-ever-38-tbps.html)
 - [WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks](https://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html)
-- [Google Adds New Pixel Security Features to Block 2G Exploits and Baseband Attacks](https://thehackernews.com/2024/10/android-14-adds-new-security-features.html)
 <!-- BLOG-POST-LIST:END -->
