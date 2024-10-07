@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modernization of Authentication: Webinar on MFA, Passwords, and the Shift to Passwordless](https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html)
+- [New Gorilla Botnet Launches Over 300,000 DDoS Attacks Across 100 Countries](https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html)
 - [Critical Apache Avro SDK Flaw Allows Remote Code Execution in Java Applications](https://thehackernews.com/2024/10/critical-apache-avro-sdk-flaw-allows.html)
 - [THN Cybersecurity Recap: Top Threats and Trends &lpar;Sep 30 - Oct 6&rpar;](https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats-and.html)
 - [Google Blocks Unsafe Android App Sideloading in India for Improved Fraud Protection](https://thehackernews.com/2024/10/google-blocks-unsafe-android-app.html)
-- [E.U. Court Limits Meta&#39;s Use of Personal Facebook Data for Targeted Ads](https://thehackernews.com/2024/10/eu-court-limits-metas-use-of-personal.html)
-- [Apple Releases Critical iOS and iPadOS Updates to Fix VoiceOver Password Vulnerability](https://thehackernews.com/2024/10/apple-releases-critical-ios-and-ipados.html)
 <!-- BLOG-POST-LIST:END -->
