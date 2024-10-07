@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vulnerable APIs and Bot Attacks Costing Businesses Up to $186 Billion Annually](https://thehackernews.com/2024/10/vulnerable-apis-and-bot-attacks-costing.html)
 - [Modernization of Authentication: Webinar on MFA, Passwords, and the Shift to Passwordless](https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html)
 - [New Gorilla Botnet Launches Over 300,000 DDoS Attacks Across 100 Countries](https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html)
 - [Critical Apache Avro SDK Flaw Allows Remote Code Execution in Java Applications](https://thehackernews.com/2024/10/critical-apache-avro-sdk-flaw-allows.html)
 - [THN Cybersecurity Recap: Top Threats and Trends &lpar;Sep 30 - Oct 6&rpar;](https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats-and.html)
-- [Google Blocks Unsafe Android App Sideloading in India for Improved Fraud Protection](https://thehackernews.com/2024/10/google-blocks-unsafe-android-app.html)
 <!-- BLOG-POST-LIST:END -->
