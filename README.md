@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Apache Avro SDK Flaw Allows Remote Code Execution in Java Applications](https://thehackernews.com/2024/10/critical-apache-avro-sdk-flaw-allows.html)
+- [THN Cybersecurity Recap: Top Threats and Trends &lpar;Sep 30 - Oct 6&rpar;](https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats-and.html)
+- [Google Blocks Unsafe Android App Sideloading in India for Improved Fraud Protection](https://thehackernews.com/2024/10/google-blocks-unsafe-android-app.html)
 - [E.U. Court Limits Meta&#39;s Use of Personal Facebook Data for Targeted Ads](https://thehackernews.com/2024/10/eu-court-limits-metas-use-of-personal.html)
 - [Apple Releases Critical iOS and iPadOS Updates to Fix VoiceOver Password Vulnerability](https://thehackernews.com/2024/10/apple-releases-critical-ios-and-ipados.html)
-- [U.S. and Microsoft Seize 107 Russian Domains in Major Cyber Fraud Crackdown](https://thehackernews.com/2024/10/us-and-microsoft-seize-107-russian.html)
-- [How to Get Going with CTEM When You Don&#39;t Know Where to Start](https://thehackernews.com/2024/10/how-to-get-going-with-ctem-when-you.html)
-- [Cloudflare Thwarts Largest-Ever 3.8 Tbps DDoS Attack Targeting Global Sectors](https://thehackernews.com/2024/10/cloudflare-thwarts-largest-ever-38-tbps.html)
 <!-- BLOG-POST-LIST:END -->
