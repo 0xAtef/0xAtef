@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GoldenJackal Target Embassies and Air-Gapped Systems Using Malware Toolsets](https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html)
 - [Pro-Ukrainian Hackers Strike Russian State TV on Putin&#39;s Birthday](https://thehackernews.com/2024/10/pro-ukrainian-hackers-strike-russian.html)
 - [Qualcomm Urges OEMs to Patch Critical DSP and WLAN Flaws Amid Active Exploits](https://thehackernews.com/2024/10/qualcomm-urges-oems-to-patch-critical.html)
 - [New Gorilla Botnet Launches Over 300,000 DDoS Attacks Across 100 Countries](https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html)
 - [Vulnerable APIs and Bot Attacks Costing Businesses Up to $186 Billion Annually](https://thehackernews.com/2024/10/vulnerable-apis-and-bot-attacks-costing.html)
-- [Modernization of Authentication: Webinar on MFA, Passwords, and the Shift to Passwordless](https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html)
 <!-- BLOG-POST-LIST:END -->
