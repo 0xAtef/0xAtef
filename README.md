@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Major Security Vulnerabilities in Industrial MMS Protocol Libraries](https://thehackernews.com/2024/10/researchers-uncover-major-security.html)
 - [N. Korean Hackers Use Fake Interviews to Infect Developers with Cross-Platform Malware](https://thehackernews.com/2024/10/n-korean-hackers-use-fake-interviews-to.html)
 - [Social Media Accounts: The Weak Link in Organizational SaaS Security](https://thehackernews.com/2024/10/social-media-accounts-weak-link-in.html)
 - [Microsoft Issues Security Update Fixing 118 Flaws, Two Actively Exploited in the Wild](https://thehackernews.com/2024/10/microsoft-issues-security-update-fixing.html)
 - [Microsoft Detects Growing Use of File Hosting Services in Business Email Compromise Attacks](https://thehackernews.com/2024/10/microsoft-detects-growing-use-of-file.html)
-- [Zero-Day Alert: Three Critical Ivanti CSA Vulnerabilities Actively Exploited](https://thehackernews.com/2024/10/zero-day-alert-three-critical-ivanti.html)
 <!-- BLOG-POST-LIST:END -->
