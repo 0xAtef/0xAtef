@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Detects Growing Use of File Hosting Services in Business Email Compromise Attacks](https://thehackernews.com/2024/10/microsoft-detects-growing-use-of-file.html)
 - [Zero-Day Alert: Three Critical Ivanti CSA Vulnerabilities Actively Exploited](https://thehackernews.com/2024/10/zero-day-alert-three-critical-ivanti.html)
 - [Gamers Tricked Into Downloading Lua-Based Malware via Fake Cheating Script Engines](https://thehackernews.com/2024/10/gamers-tricked-into-downloading-lua.html)
 - [Cyberattack Group &#39;Awaken Likho&#39; Targets Russian Government with Advanced Tools](https://thehackernews.com/2024/10/cyberattack-group-awaken-likho-targets.html)
 - [GoldenJackal Target Embassies and Air-Gapped Systems Using Malware Toolsets](https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html)
-- [New Case Study: The Evil Twin Checkout Page](https://thehackernews.com/2024/10/new-case-study-evil-twin-checkout-page.html)
 <!-- BLOG-POST-LIST:END -->
