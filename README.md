@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Warns of Critical Fortinet Flaw as Palo Alto and Cisco Issue Urgent Security Patches](https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html)
 - [Firefox Zero-Day Under Attack: Update Your Browser Immediately](https://thehackernews.com/2024/10/mozilla-warns-of-active-exploitation-in.html)
 - [Google Joins Forces with GASA and DNS RF to Tackle Online Scams at Scale](https://thehackernews.com/2024/10/google-joins-forces-with-gasa-and-dns.html)
 - [Researchers Uncover Major Security Vulnerabilities in Industrial MMS Protocol Libraries](https://thehackernews.com/2024/10/researchers-uncover-major-security.html)
 - [N. Korean Hackers Use Fake Interviews to Infect Developers with Cross-Platform Malware](https://thehackernews.com/2024/10/n-korean-hackers-use-fake-interviews-to.html)
-- [Social Media Accounts: The Weak Link in Organizational SaaS Security](https://thehackernews.com/2024/10/social-media-accounts-weak-link-in.html)
 <!-- BLOG-POST-LIST:END -->
