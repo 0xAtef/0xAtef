@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Hybrid Password Attacks Work and How to Defend Against Them](https://thehackernews.com/2024/10/how-hybrid-password-attacks-work-and.html)
 - [CISA Warns of Threat Actors Exploiting F5 BIG-IP Cookies for Network Reconnaissance](https://thehackernews.com/2024/10/cisa-warns-of-threat-actors-exploiting.html)
 - [New Critical GitLab Vulnerability Could Allow Arbitrary CI/CD Pipeline Execution](https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html)
 - [Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation](https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html)
 - [OpenAI Blocks 20 Global Malicious Campaigns Using AI for Cybercrime and Disinformation](https://thehackernews.com/2024/10/openai-blocks-20-global-malicious.html)
-- [Experts Warn of Critical Unpatched Vulnerability in Linear eMerge E3 Systems](https://thehackernews.com/2024/10/experts-warn-of-critical-unpatched.html)
 <!-- BLOG-POST-LIST:END -->
