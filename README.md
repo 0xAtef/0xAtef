@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub, Telegram Bots, and QR Codes Abused in New Wave of Phishing Attacks](https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html)
+- [FBI Creates Fake Cryptocurrency to Expose Widespread Crypto Market Manipulation](https://thehackernews.com/2024/10/fbi-creates-fake-cryptocurrency-to.html)
+- [GitHub, Telegram Bots, and ASCII QR Codes Abused in New Wave of Phishing Attacks](https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html)
 - [How Hybrid Password Attacks Work and How to Defend Against Them](https://thehackernews.com/2024/10/how-hybrid-password-attacks-work-and.html)
 - [CISA Warns of Threat Actors Exploiting F5 BIG-IP Cookies for Network Reconnaissance](https://thehackernews.com/2024/10/cisa-warns-of-threat-actors-exploiting.html)
 - [New Critical GitLab Vulnerability Could Allow Arbitrary CI/CD Pipeline Execution](https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html)
-- [Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation](https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html)
 <!-- BLOG-POST-LIST:END -->
