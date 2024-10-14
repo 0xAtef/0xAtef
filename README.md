@@ -163,7 +163,7 @@ BIO
 <!-- BLOG-POST-LIST:START -->
 - [Nation-State Attackers Exploiting Ivanti CSA Flaws for Network Infiltration](https://thehackernews.com/2024/10/nation-state-attackers-exploiting.html)
 - [5 Steps to Boost Detection and Response in a Multi-Layered Cloud](https://thehackernews.com/2024/10/5-steps-to-boost-detection-and-response.html)
-- [Supply Chain Attacks Exploit Entry Points in Python, npm, and Open-Source Ecosystems](https://thehackernews.com/2024/10/supply-chain-attacks-exploit-entry.html)
+- [Supply Chain Attacks Can Exploit Entry Points in Python, npm, and Open-Source Ecosystems](https://thehackernews.com/2024/10/supply-chain-attacks-exploit-entry.html)
 - [THN Cybersecurity Recap: Top Threats, Tools and Trends &lpar;Oct 7 - Oct 13&rpar;](https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats.html)
 - [Critical Veeam Vulnerability Exploited to Spread Akira and Fog Ransomware](https://thehackernews.com/2024/10/critical-veeam-vulnerability-exploited.html)
 <!-- BLOG-POST-LIST:END -->
