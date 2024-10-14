@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nation-State Attackers Exploiting Ivanti CSA Flaws for Network Infiltration](https://thehackernews.com/2024/10/nation-state-attackers-exploiting.html)
+- [5 Steps to Boost Detection and Response in a Multi-Layered Cloud](https://thehackernews.com/2024/10/5-steps-to-boost-detection-and-response.html)
+- [Supply Chain Attacks Exploit Entry Points in Python, npm, and Open-Source Ecosystems](https://thehackernews.com/2024/10/supply-chain-attacks-exploit-entry.html)
+- [THN Cybersecurity Recap: Top Threats, Tools and Trends &lpar;Oct 7 - Oct 13&rpar;](https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats.html)
 - [Critical Veeam Vulnerability Exploited to Spread Akira and Fog Ransomware](https://thehackernews.com/2024/10/critical-veeam-vulnerability-exploited.html)
-- [OilRig Exploits Windows Kernel Flaw in Espionage Campaign Targeting UAE and Gulf](https://thehackernews.com/2024/10/oilrig-exploits-windows-kernel-flaw-in.html)
-- [FBI Creates Fake Cryptocurrency to Expose Widespread Crypto Market Manipulation](https://thehackernews.com/2024/10/fbi-creates-fake-cryptocurrency-to.html)
-- [GitHub, Telegram Bots, and ASCII QR Codes Abused in New Wave of Phishing Attacks](https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html)
-- [How Hybrid Password Attacks Work and How to Defend Against Them](https://thehackernews.com/2024/10/how-hybrid-password-attacks-work-and.html)
 <!-- BLOG-POST-LIST:END -->
