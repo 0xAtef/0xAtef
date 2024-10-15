@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TrickMo Banking Trojan Can Now Capture Android PINs and Unlock Patterns](https://thehackernews.com/2024/10/trickmo-banking-trojan-can-now-capture.html)
 - [New Malware Campaign Uses PureCrypter Loader to Deliver DarkVision RAT](https://thehackernews.com/2024/10/new-malware-campaign-uses-purecrypter.html)
 - [New Linux Variant of FASTCash Malware Targets Payment Switches in ATM Heists](https://thehackernews.com/2024/10/new-linux-variant-of-fastcash-malware.html)
 - [The Rise of Zero-Day Vulnerabilities: Why Traditional Security Solutions Fall Short](https://thehackernews.com/2024/10/rise-of-zero-day-vulnerabilities.html)
 - [China Accuses U.S. of Fabricating Volt Typhoon to Hide Its Own Hacking Campaigns](https://thehackernews.com/2024/10/china-accuses-us-of-fabricating-volt.html)
-- [Researchers Uncover Hijack Loader Malware Using Stolen Code-Signing Certificates](https://thehackernews.com/2024/10/researchers-uncover-hijack-loader.html)
 <!-- BLOG-POST-LIST:END -->
