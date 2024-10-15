@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Malware Campaign Uses PureCrypter Loader to Deliver DarkVision RAT](https://thehackernews.com/2024/10/new-malware-campaign-uses-purecrypter.html)
+- [New Linux Variant of FASTCash Malware Targets Payment Switches in ATM Heists](https://thehackernews.com/2024/10/new-linux-variant-of-fastcash-malware.html)
 - [The Rise of Zero-Day Vulnerabilities: Why Traditional Security Solutions Fall Short](https://thehackernews.com/2024/10/rise-of-zero-day-vulnerabilities.html)
 - [China Accuses U.S. of Fabricating Volt Typhoon to Hide Its Own Hacking Campaigns](https://thehackernews.com/2024/10/china-accuses-us-of-fabricating-volt.html)
 - [Researchers Uncover Hijack Loader Malware Using Stolen Code-Signing Certificates](https://thehackernews.com/2024/10/researchers-uncover-hijack-loader.html)
-- [WordPress Plugin Jetpack Patches Major Vulnerability Affecting 27 Million Sites](https://thehackernews.com/2024/10/wordpress-plugin-jetpack-patches-major.html)
-- [Nation-State Attackers Exploiting Ivanti CSA Flaws for Network Infiltration](https://thehackernews.com/2024/10/nation-state-attackers-exploiting.html)
 <!-- BLOG-POST-LIST:END -->
