@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Hijack Loader Malware Using Stolen Code-Signing Certificates](https://thehackernews.com/2024/10/researchers-uncover-hijack-loader.html)
 - [WordPress Plugin Jetpack Patches Major Vulnerability Affecting 27 Million Sites](https://thehackernews.com/2024/10/wordpress-plugin-jetpack-patches-major.html)
 - [Nation-State Attackers Exploiting Ivanti CSA Flaws for Network Infiltration](https://thehackernews.com/2024/10/nation-state-attackers-exploiting.html)
 - [5 Steps to Boost Detection and Response in a Multi-Layered Cloud](https://thehackernews.com/2024/10/5-steps-to-boost-detection-and-response.html)
 - [Supply Chain Attacks Can Exploit Entry Points in Python, npm, and Open-Source Ecosystems](https://thehackernews.com/2024/10/supply-chain-attacks-exploit-entry.html)
-- [THN Cybersecurity Recap: Top Threats, Tools and Trends &lpar;Oct 7 - Oct 13&rpar;](https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats.html)
 <!-- BLOG-POST-LIST:END -->
