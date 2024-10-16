@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FIDO Alliance Drafts New Protocol to Simplify Passkey Transfers Across Different Platforms](https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html)
 - [From Misuse to Abuse: AI Risks and Attacks](https://thehackernews.com/2024/10/from-misuse-to-abuse-ai-risks-and.html)
 - [North Korean ScarCruft Exploits Windows Zero-Day to Spread RokRAT Malware](https://thehackernews.com/2024/10/north-korean-scarcruft-exploits-windows.html)
 - [5 Techniques for Collecting Cyber Threat Intelligence](https://thehackernews.com/2024/10/5-techniques-for-collecting-cyber.html)
 - [Astaroth Banking Malware Resurfaces in Brazil via Spear-Phishing Attack](https://thehackernews.com/2024/10/astaroth-banking-malware-resurfaces-in.html)
-- [GitHub Patches Critical Flaw in Enterprise Server Allowing Unauthorized Instance Access](https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html)
 <!-- BLOG-POST-LIST:END -->
