@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Misuse to Abuse: AI Risks and Attacks](https://thehackernews.com/2024/10/from-misuse-to-abuse-ai-risks-and.html)
+- [North Korean ScarCruft Exploits Windows Zero-Day to Spread RokRAT Malware](https://thehackernews.com/2024/10/north-korean-scarcruft-exploits-windows.html)
 - [5 Techniques for Collecting Cyber Threat Intelligence](https://thehackernews.com/2024/10/5-techniques-for-collecting-cyber.html)
 - [Astaroth Banking Malware Resurfaces in Brazil via Spear-Phishing Attack](https://thehackernews.com/2024/10/astaroth-banking-malware-resurfaces-in.html)
 - [GitHub Patches Critical Flaw in Enterprise Server Allowing Unauthorized Instance Access](https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html)
-- [CISA Warns of Active Exploitation in SolarWinds Help Desk Software Vulnerability](https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-in.html)
-- [TrickMo Banking Trojan Can Now Capture Android PINs and Unlock Patterns](https://thehackernews.com/2024/10/trickmo-banking-trojan-can-now-capture.html)
 <!-- BLOG-POST-LIST:END -->
