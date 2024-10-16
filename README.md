@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Techniques for Collecting Cyber Threat Intelligence](https://thehackernews.com/2024/10/5-techniques-for-collecting-cyber.html)
 - [Astaroth Banking Malware Resurfaces in Brazil via Spear-Phishing Attack](https://thehackernews.com/2024/10/astaroth-banking-malware-resurfaces-in.html)
 - [GitHub Patches Critical Flaw in Enterprise Server Allowing Unauthorized Instance Access](https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html)
 - [CISA Warns of Active Exploitation in SolarWinds Help Desk Software Vulnerability](https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-in.html)
 - [TrickMo Banking Trojan Can Now Capture Android PINs and Unlock Patterns](https://thehackernews.com/2024/10/trickmo-banking-trojan-can-now-capture.html)
-- [New Malware Campaign Uses PureCrypter Loader to Deliver DarkVision RAT](https://thehackernews.com/2024/10/new-malware-campaign-uses-purecrypter.html)
 <!-- BLOG-POST-LIST:END -->
