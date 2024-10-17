@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Charges Two Sudanese Brothers for Record 35,000 DDoS Attacks](https://thehackernews.com/2024/10/us-charges-two-sudanese-brothers-for.html)
 - [Critical Kubernetes Image Builder Vulnerability Exposes Nodes to Root Access Risk](https://thehackernews.com/2024/10/critical-kubernetes-image-builder.html)
 - [Hackers Abuse EDRSilencer Tool to Bypass Security and Hide Malicious Activity](https://thehackernews.com/2024/10/hackers-abuse-edrsilencer-tool-to.html)
 - [FIDO Alliance Drafts New Protocol to Simplify Passkey Transfers Across Different Platforms](https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html)
 - [From Misuse to Abuse: AI Risks and Attacks](https://thehackernews.com/2024/10/from-misuse-to-abuse-ai-risks-and.html)
-- [North Korean ScarCruft Exploits Windows Zero-Day to Spread RokRAT Malware](https://thehackernews.com/2024/10/north-korean-scarcruft-exploits-windows.html)
 <!-- BLOG-POST-LIST:END -->
