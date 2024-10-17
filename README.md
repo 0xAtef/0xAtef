@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways to Reduce SaaS Security Risks](https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html)
+- [SideWinder APT Strikes Middle East and Africa With Stealthy Multi-Stage Attack](https://thehackernews.com/2024/10/sidewinder-apt-strikes-middle-east-and.html)
 - [U.S. Charges Two Sudanese Brothers for Record 35,000 DDoS Attacks](https://thehackernews.com/2024/10/us-charges-two-sudanese-brothers-for.html)
 - [Critical Kubernetes Image Builder Vulnerability Exposes Nodes to Root Access Risk](https://thehackernews.com/2024/10/critical-kubernetes-image-builder.html)
 - [Hackers Abuse EDRSilencer Tool to Bypass Security and Hide Malicious Activity](https://thehackernews.com/2024/10/hackers-abuse-edrsilencer-tool-to.html)
-- [FIDO Alliance Drafts New Protocol to Simplify Passkey Transfers Across Different Platforms](https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html)
-- [From Misuse to Abuse: AI Risks and Attacks](https://thehackernews.com/2024/10/from-misuse-to-abuse-ai-risks-and.html)
 <!-- BLOG-POST-LIST:END -->
