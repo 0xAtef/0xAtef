@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean IT Workers in Western Firms Now Demanding Ransom for Stolen Data](https://thehackernews.com/2024/10/north-korean-it-workers-in-western.html)
 - [The Ultimate DSPM Guide: Webinar on Building a Strong Data Security Posture](https://thehackernews.com/2024/10/the-ultimate-dspm-guide-webinar-on.html)
 - [U.S. and Allies Warn of Iranian Cyberattacks on Critical Infrastructure in Year-Long Campaign](https://thehackernews.com/2024/10/us-and-allies-warn-of-iranian.html)
 - [Beware: Fake Google Meet Pages Deliver Infostealers in Ongoing ClickFix Campaign](https://thehackernews.com/2024/10/beware-fake-google-meet-pages-deliver.html)
 - [Microsoft Reveals macOS Vulnerability that Bypasses Privacy Controls in Safari Browser](https://thehackernews.com/2024/10/microsoft-reveals-macos-vulnerability.html)
-- [Russian RomCom Attacks Target Ukrainian Government with New SingleCamper RAT Variant](https://thehackernews.com/2024/10/russian-romcom-attacks-target-ukrainian.html)
 <!-- BLOG-POST-LIST:END -->
