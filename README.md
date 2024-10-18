@@ -161,9 +161,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate DSPM Guide: Webinar on Building a Strong Data Security Posture](https://thehackernews.com/2024/10/the-ultimate-dspm-guide-webinar-on.html)
+- [U.S. and Allies Warn of Iranian Cyberattacks on Critical Infrastructure in Year-Long Campaign](https://thehackernews.com/2024/10/us-and-allies-warn-of-iranian.html)
 - [Beware: Fake Google Meet Pages Deliver Infostealers in Ongoing ClickFix Campaign](https://thehackernews.com/2024/10/beware-fake-google-meet-pages-deliver.html)
 - [Microsoft Reveals macOS Vulnerability that Bypasses Privacy Controls in Safari Browser](https://thehackernews.com/2024/10/microsoft-reveals-macos-vulnerability.html)
 - [Russian RomCom Attacks Target Ukrainian Government with New SingleCamper RAT Variant](https://thehackernews.com/2024/10/russian-romcom-attacks-target-ukrainian.html)
-- [Researchers Uncover Cicada3301 Ransomware Operations and Its Affiliate Program](https://thehackernews.com/2024/10/cross-platform-cicada3301-ransomware.html)
-- [5 Ways to Reduce SaaS Security Risks](https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html)
 <!-- BLOG-POST-LIST:END -->
