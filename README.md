@@ -23,7 +23,8 @@ In the online realm, I am recognized as 0xAtef. My professional passion revolves
 
 I am deeply enthusiastic about development and scripting, particularly in the realm of automation. My core belief is that to effectively protect, you need to understand what you are protecting. I am dedicated to staying well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
 --->
-<h1 align="center"> Senior Cyber Defense Engineer | Threat Detection Engineer </h1>
+<!---<h1 align="center"> Senior Cyber Defense Engineer | Threat Detection Engineer </h1>--->
+<h1 align="center"> Cyber Defense Team Lead </h1>
 
 With proven experience in leading Security Operations, Conducting Product assessments (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR), and developing SOC Processes, Use Cases, Playbooks, Detection Rules, and Automation Workflows.
 
