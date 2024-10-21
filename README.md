@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Discover Severe Security Flaws in Major E2EE Cloud Storage Providers](https://thehackernews.com/2024/10/researchers-discover-severe-security.html)
 - [Hackers Exploit Roundcube Webmail XSS Vulnerability to Steal Login Credentials](https://thehackernews.com/2024/10/hackers-exploit-roundcube-webmail-xss.html)
 - [North Korean IT Workers in Western Firms Now Demanding Ransom for Stolen Data](https://thehackernews.com/2024/10/north-korean-it-workers-in-western.html)
 - [Acronym Overdose – Navigating the Complex Data Security Landscape](https://thehackernews.com/2024/10/acronym-overdose-navigating-complex.html)
 - [Crypt Ghouls Targets Russian Firms with LockBit 3.0 and Babuk Ransomware Attacks](https://thehackernews.com/2024/10/crypt-ghouls-targets-russian-firms-with.html)
-- [The Ultimate DSPM Guide: Webinar on Building a Strong Data Security Posture](https://thehackernews.com/2024/10/the-ultimate-dspm-guide-webinar-on.html)
 <!-- BLOG-POST-LIST:END -->
