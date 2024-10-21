@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Nation-State Hackers APT41 Hit Gambling Sector for Financial Gain](https://thehackernews.com/2024/10/chinese-nation-state-hackers-apt41-hit.html)
 - [Guide:  The Ultimate Pentest Checklist for Full-Stack Security](https://thehackernews.com/2024/10/guide-ultimate-pentest-checklist-for.html)
 - [THN Cybersecurity Recap: Top Threats, Tools and News &lpar;Oct 14 - Oct 20&rpar;](https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats_21.html)
 - [Researchers Discover Severe Security Flaws in Major E2EE Cloud Storage Providers](https://thehackernews.com/2024/10/researchers-discover-severe-security.html)
 - [Hackers Exploit Roundcube Webmail XSS Vulnerability to Steal Login Credentials](https://thehackernews.com/2024/10/hackers-exploit-roundcube-webmail-xss.html)
-- [North Korean IT Workers in Western Firms Now Demanding Ransom for Stolen Data](https://thehackernews.com/2024/10/north-korean-it-workers-in-western.html)
 <!-- BLOG-POST-LIST:END -->
