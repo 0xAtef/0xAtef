@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Finding Service Accounts in Active Directory](https://thehackernews.com/2024/10/a-comprehensive-guide-to-finding.html)
 - [Bumblebee and Latrodectus Malware Return with Sophisticated Phishing Strategies](https://thehackernews.com/2024/10/bumblebee-and-latrodectus-malware.html)
 - [Malicious npm Packages Target Developers&#39; Ethereum Wallets with SSH Backdoor](https://thehackernews.com/2024/10/malicious-npm-packages-target.html)
 - [VMware Releases vCenter Server Update to Fix Critical RCE Vulnerability](https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html)
 - [CISA Adds ScienceLogic SL1 Vulnerability to Exploited Catalog After Active Zero-Day Attack](https://thehackernews.com/2024/10/cisa-adds-sciencelogic-sl1.html)
-- [Chinese Nation-State Hackers APT41 Hit Gambling Sector for Financial Gain](https://thehackernews.com/2024/10/chinese-nation-state-hackers-apt41-hit.html)
 <!-- BLOG-POST-LIST:END -->
