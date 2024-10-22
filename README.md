@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gophish Framework Used in Phishing Campaigns to Deploy Remote Access Trojans](https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html)
 - [Security Flaw in Styra&#39;s OPA Exposes NTLM Hashes to Remote Attackers](https://thehackernews.com/2024/10/security-flaw-in-styras-opa-exposes.html)
 - [Cybercriminals Exploiting Docker API Servers for SRBMiner Crypto Mining Attacks](https://thehackernews.com/2024/10/cybercriminals-exploiting-docker-api.html)
 - [A Comprehensive Guide to Finding Service Accounts in Active Directory](https://thehackernews.com/2024/10/a-comprehensive-guide-to-finding.html)
 - [Bumblebee and Latrodectus Malware Return with Sophisticated Phishing Strategies](https://thehackernews.com/2024/10/bumblebee-and-latrodectus-malware.html)
-- [Malicious npm Packages Target Developers&#39; Ethereum Wallets with SSH Backdoor](https://thehackernews.com/2024/10/malicious-npm-packages-target.html)
 <!-- BLOG-POST-LIST:END -->
