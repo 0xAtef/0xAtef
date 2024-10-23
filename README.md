@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Reveal &#39;Deceptive Delight&#39; Method to Jailbreak AI Models](https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html)
+- [Think You’re Secure? 49% of Enterprises Underestimate SaaS Risks](https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html)
+- [Ransomware Gangs Use LockBit&#39;s Fame to Intimidate Victims in Latest Attacks](https://thehackernews.com/2024/10/ransomware-gangs-use-lockbits-fame-to.html)
 - [Gophish Framework Used in Phishing Campaigns to Deploy Remote Access Trojans](https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html)
 - [Security Flaw in Styra&#39;s OPA Exposes NTLM Hashes to Remote Attackers](https://thehackernews.com/2024/10/security-flaw-in-styras-opa-exposes.html)
-- [Cybercriminals Exploiting Docker API Servers for SRBMiner Crypto Mining Attacks](https://thehackernews.com/2024/10/cybercriminals-exploiting-docker-api.html)
-- [A Comprehensive Guide to Finding Service Accounts in Active Directory](https://thehackernews.com/2024/10/a-comprehensive-guide-to-finding.html)
-- [Bumblebee and Latrodectus Malware Return with Sophisticated Phishing Strategies](https://thehackernews.com/2024/10/bumblebee-and-latrodectus-malware.html)
 <!-- BLOG-POST-LIST:END -->
