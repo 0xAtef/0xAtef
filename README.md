@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large](https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html)
+- [CISA Warns of Active Exploitation of Microsoft SharePoint Vulnerability &lpar;CVE-2024-38094&rpar;](https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-of.html)
 - [Researchers Reveal &#39;Deceptive Delight&#39; Method to Jailbreak AI Models](https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html)
 - [Think You’re Secure? 49% of Enterprises Underestimate SaaS Risks](https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html)
 - [Ransomware Gangs Use LockBit&#39;s Fame to Intimidate Victims in Latest Attacks](https://thehackernews.com/2024/10/ransomware-gangs-use-lockbits-fame-to.html)
-- [Gophish Framework Used in Phishing Campaigns to Deploy Remote Access Trojans](https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html)
-- [Security Flaw in Styra&#39;s OPA Exposes NTLM Hashes to Remote Attackers](https://thehackernews.com/2024/10/security-flaw-in-styras-opa-exposes.html)
 <!-- BLOG-POST-LIST:END -->
