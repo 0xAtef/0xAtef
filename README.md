@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Issues Urgent Fix for ASA and FTD Software Vulnerability Under Active Attack](https://thehackernews.com/2024/10/cisco-issues-urgent-fix-for-asa-and-ftd.html)
 - [Why Phishing-Resistant MFA Is No Longer Optional: The Hidden Risks of Legacy MFA](https://thehackernews.com/2024/10/why-phishing-resistant-mfa-is-no-longer.html)
 - [Lazarus Group Exploits Google Chrome Vulnerability to Control Infected Devices](https://thehackernews.com/2024/10/lazarus-group-exploits-google-chrome.html)
 - [Fortinet Warns of Critical Vulnerability in FortiManager Under Active Exploitation](https://thehackernews.com/2024/10/fortinet-warns-of-critical.html)
 - [New Grandoreiro Banking Malware Variants Emerge with Advanced Tactics to Evade Detection](https://thehackernews.com/2024/10/new-grandoreiro-banking-malware.html)
-- [Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large](https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html)
 <!-- BLOG-POST-LIST:END -->
