@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Phishing-Resistant MFA Is No Longer Optional: The Hidden Risks of Legacy MFA](https://thehackernews.com/2024/10/why-phishing-resistant-mfa-is-no-longer.html)
 - [Lazarus Group Exploits Google Chrome Vulnerability to Control Infected Devices](https://thehackernews.com/2024/10/lazarus-group-exploits-google-chrome.html)
 - [Fortinet Warns of Critical Vulnerability in FortiManager Under Active Exploitation](https://thehackernews.com/2024/10/fortinet-warns-of-critical.html)
 - [New Grandoreiro Banking Malware Variants Emerge with Advanced Tactics to Evade Detection](https://thehackernews.com/2024/10/new-grandoreiro-banking-malware.html)
 - [Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large](https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html)
-- [CISA Warns of Active Exploitation of Microsoft SharePoint Vulnerability &lpar;CVE-2024-38094&rpar;](https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-of.html)
 <!-- BLOG-POST-LIST:END -->
