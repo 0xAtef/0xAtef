@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Discover Command Injection Flaw in Wi-Fi Alliance&#39;s Test Suite](https://thehackernews.com/2024/10/researchers-discover-command-injection.html)
 - [Apple Opens PCC Source Code for Researchers to Identify Bugs in Cloud AI Security](https://thehackernews.com/2024/10/apple-opens-pcc-source-code-for.html)
 - [Eliminating AI Deepfake Threats: Is Your Identity Security AI-Proof?](https://thehackernews.com/2024/10/eliminating-ai-deepfake-threats-is-your.html)
 - [SEC Charges 4 Companies Over Misleading SolarWinds Cyberattack Disclosures](https://thehackernews.com/2024/10/sec-charges-4-companies-over-misleading.html)
 - [Irish Watchdog Imposes Record €310 Million Fine on LinkedIn for GDPR Violations](https://thehackernews.com/2024/10/irish-watchdog-imposes-record-310.html)
-- [New Qilin.B Ransomware Variant Emerges with Improved Encryption and Evasion Tactics](https://thehackernews.com/2024/10/new-qilinb-ransomware-variant-emerges.html)
 <!-- BLOG-POST-LIST:END -->
