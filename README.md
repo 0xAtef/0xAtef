@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Eliminating AI Deepfake Threats: Is Your Identity Security AI-Proof?](https://thehackernews.com/2024/10/eliminating-ai-deepfake-threats-is-your.html)
 - [SEC Charges 4 Companies Over Misleading SolarWinds Cyberattack Disclosures](https://thehackernews.com/2024/10/sec-charges-4-companies-over-misleading.html)
 - [Irish Watchdog Imposes Record €310 Million Fine on LinkedIn for GDPR Violations](https://thehackernews.com/2024/10/irish-watchdog-imposes-record-310.html)
 - [New Qilin.B Ransomware Variant Emerges with Improved Encryption and Evasion Tactics](https://thehackernews.com/2024/10/new-qilinb-ransomware-variant-emerges.html)
 - [AWS Cloud Development Kit Vulnerability Exposes Users to Potential Account Takeover Risks](https://thehackernews.com/2024/10/aws-cloud-development-kit-vulnerability.html)
-- [Cisco Issues Urgent Fix for ASA and FTD Software Vulnerability Under Active Attack](https://thehackernews.com/2024/10/cisco-issues-urgent-fix-for-asa-and-ftd.html)
 <!-- BLOG-POST-LIST:END -->
