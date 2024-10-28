@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hackers Use CloudScout Toolset to Steal Session Cookies from Cloud Services](https://thehackernews.com/2024/10/chinese-hackers-use-cloudscout-toolset.html)
 - [THN Cybersecurity Recap: Top Threats, Tools and News &lpar;Oct 21 - Oct 27&rpar;](https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats_28.html)
 - [Russian Espionage Group Targets Ukrainian Military with Malware via Telegram](https://thehackernews.com/2024/10/russian-espionage-group-targets.html)
 - [BeaverTail Malware Resurfaces in Malicious npm Packages Targeting Developers](https://thehackernews.com/2024/10/beavertail-malware-resurfaces-in.html)
 - [Cybercriminals Use Webflow to Deceive Users into Sharing Sensitive Login Credentials](https://thehackernews.com/2024/10/cybercriminals-use-webflow-to-deceive.html)
-- [Sailing the Seven Seas Securely from Port to Port – OT Access Security for Ships and Cranes](https://thehackernews.com/2024/10/sailing-seven-seas-securely-from-port.html)
 <!-- BLOG-POST-LIST:END -->
