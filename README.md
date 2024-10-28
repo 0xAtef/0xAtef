@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Use Webflow to Deceive Users into Sharing Sensitive Login Credentials](https://thehackernews.com/2024/10/cybercriminals-use-webflow-to-deceive.html)
+- [Sailing the Seven Seas Securely from Port to Port – OT Access Security for Ships and Cranes](https://thehackernews.com/2024/10/sailing-seven-seas-securely-from-port.html)
 - [Researchers Uncover OS Downgrade Vulnerability Targeting Microsoft Windows Kernel](https://thehackernews.com/2024/10/researchers-uncover-os-downgrade.html)
 - [Notorious Hacker Group TeamTNT Launches New Cloud Attacks for Crypto Mining](https://thehackernews.com/2024/10/notorious-hacker-group-teamtnt-launches.html)
 - [Four REvil Ransomware Members Sentenced in Rare Russian Cybercrime Convictions](https://thehackernews.com/2024/10/four-revil-ransomware-members-sentenced.html)
-- [CERT-UA Identifies Malicious RDP Files in Latest Attack on Ukrainian Entities](https://thehackernews.com/2024/10/cert-ua-identifies-malicious-rdp-files.html)
-- [Researchers Discover Command Injection Flaw in Wi-Fi Alliance&#39;s Test Suite](https://thehackernews.com/2024/10/researchers-discover-command-injection.html)
 <!-- BLOG-POST-LIST:END -->
