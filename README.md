@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover OS Downgrade Vulnerability Targeting Microsoft Windows Kernel](https://thehackernews.com/2024/10/researchers-uncover-os-downgrade.html)
 - [Notorious Hacker Group TeamTNT Launches New Cloud Attacks for Crypto Mining](https://thehackernews.com/2024/10/notorious-hacker-group-teamtnt-launches.html)
 - [Four REvil Ransomware Members Sentenced in Rare Russian Cybercrime Convictions](https://thehackernews.com/2024/10/four-revil-ransomware-members-sentenced.html)
 - [CERT-UA Identifies Malicious RDP Files in Latest Attack on Ukrainian Entities](https://thehackernews.com/2024/10/cert-ua-identifies-malicious-rdp-files.html)
 - [Researchers Discover Command Injection Flaw in Wi-Fi Alliance&#39;s Test Suite](https://thehackernews.com/2024/10/researchers-discover-command-injection.html)
-- [Apple Opens PCC Source Code for Researchers to Identify Bugs in Cloud AI Security](https://thehackernews.com/2024/10/apple-opens-pcc-source-code-for.html)
 <!-- BLOG-POST-LIST:END -->
