@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Sherlock Holmes Approach to Cybersecurity: Eliminate the Impossible with Exposure Validation](https://thehackernews.com/2024/10/a-sherlock-holmes-approach-to.html)
+- [Dutch Police Disrupt Major Info Stealers RedLine and MetaStealer in Operation Magnus](https://thehackernews.com/2024/10/dutch-police-disrupt-major-info.html)
 - [U.S. Government Issues New TLP Guidance for Cross-Sector Threat Intelligence Sharing](https://thehackernews.com/2024/10/us-government-issues-new-tlp-guidance.html)
 - [New Research Reveals Spectre Vulnerability Persists in Latest AMD and Intel Processors](https://thehackernews.com/2024/10/new-research-reveals-spectre.html)
 - [Chinese Hackers Use CloudScout Toolset to Steal Session Cookies from Cloud Services](https://thehackernews.com/2024/10/chinese-hackers-use-cloudscout-toolset.html)
-- [THN Cybersecurity Recap: Top Threats, Tools and News &lpar;Oct 21 - Oct 27&rpar;](https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats_28.html)
-- [Russian Espionage Group Targets Ukrainian Military with Malware via Telegram](https://thehackernews.com/2024/10/russian-espionage-group-targets.html)
 <!-- BLOG-POST-LIST:END -->
