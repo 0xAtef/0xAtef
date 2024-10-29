@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Government Issues New TLP Guidance for Cross-Sector Threat Intelligence Sharing](https://thehackernews.com/2024/10/us-government-issues-new-tlp-guidance.html)
 - [New Research Reveals Spectre Vulnerability Persists in Latest AMD and Intel Processors](https://thehackernews.com/2024/10/new-research-reveals-spectre.html)
 - [Chinese Hackers Use CloudScout Toolset to Steal Session Cookies from Cloud Services](https://thehackernews.com/2024/10/chinese-hackers-use-cloudscout-toolset.html)
 - [THN Cybersecurity Recap: Top Threats, Tools and News &lpar;Oct 21 - Oct 27&rpar;](https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats_28.html)
 - [Russian Espionage Group Targets Ukrainian Military with Malware via Telegram](https://thehackernews.com/2024/10/russian-espionage-group-targets.html)
-- [BeaverTail Malware Resurfaces in Malicious npm Packages Targeting Developers](https://thehackernews.com/2024/10/beavertail-malware-resurfaces-in.html)
 <!-- BLOG-POST-LIST:END -->
