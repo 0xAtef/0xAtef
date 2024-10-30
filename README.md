@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Python Package Targeting Crypto Wallets with Malicious Code](https://thehackernews.com/2024/10/researchers-uncover-python-package.html)
+- [Embarking on a Compliance Journey? Here’s How Intruder Can Help](https://thehackernews.com/2024/10/embarking-on-compliance-journey-heres.html)
 - [Researchers Uncover Vulnerabilities in Open-Source AI and ML Models](https://thehackernews.com/2024/10/researchers-uncover-vulnerabilities-in.html)
 - [A Sherlock Holmes Approach to Cybersecurity: Eliminate the Impossible with Exposure Validation](https://thehackernews.com/2024/10/a-sherlock-holmes-approach-to.html)
 - [Dutch Police Disrupt Major Info Stealers RedLine and MetaStealer in Operation Magnus](https://thehackernews.com/2024/10/dutch-police-disrupt-major-info.html)
-- [U.S. Government Issues New TLP Guidance for Cross-Sector Threat Intelligence Sharing](https://thehackernews.com/2024/10/us-government-issues-new-tlp-guidance.html)
-- [New Research Reveals Spectre Vulnerability Persists in Latest AMD and Intel Processors](https://thehackernews.com/2024/10/new-research-reveals-spectre.html)
 <!-- BLOG-POST-LIST:END -->
