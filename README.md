@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities](https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html)
+- [LiteSpeed Cache Plugin Vulnerability Poses Significant Risk to WordPress Websites](https://thehackernews.com/2024/10/litespeed-cache-plugin-vulnerability.html)
 - [North Korean Group Collaborates with Play Ransomware in Significant Cyber Attack](https://thehackernews.com/2024/10/north-korean-group-collaborates-with.html)
 - [Opera Browser Fixes Big Security Hole That Could Have Exposed Your Information](https://thehackernews.com/2024/10/opera-browser-fixes-big-security-hole.html)
 - [Malvertising Campaign Hijacks Facebook Accounts to Spread SYS01stealer Malware](https://thehackernews.com/2024/10/malvertising-campaign-hijacks-facebook.html)
-- [Researchers Uncover Python Package Targeting Crypto Wallets with Malicious Code](https://thehackernews.com/2024/10/researchers-uncover-python-package.html)
-- [Embarking on a Compliance Journey? Here’s How Intruder Can Help](https://thehackernews.com/2024/10/embarking-on-compliance-journey-heres.html)
 <!-- BLOG-POST-LIST:END -->
