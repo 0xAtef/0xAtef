@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Massive Git Config Breach Exposes 15,000 Credentials; 10,000 Private Repos Cloned](https://thehackernews.com/2024/11/massive-git-config-breach-exposes-15000.html)
+- [5 SaaS Misconfigurations Leading to Major Fu*%@ Ups](https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html)
 - [Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert Webinar](https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html)
 - [Microsoft Warns of Chinese Botnet Exploiting Router Flaws for Credential Theft](https://thehackernews.com/2024/11/microsoft-warns-of-chinese-botnet.html)
 - [Microsoft Delays Windows Copilot+ Recall Release Over Privacy Concerns](https://thehackernews.com/2024/11/microsoft-delays-windows-copilot-recall.html)
-- [New Phishing Kit Xiū gǒu Targets Users Across Five Countries With 2,000 Fake Sites](https://thehackernews.com/2024/11/new-phishing-kit-xiu-gou-targets-users.html)
-- [New LightSpy Spyware Version Targets iPhones with Increased Surveillance Tactics](https://thehackernews.com/2024/10/new-lightspy-spyware-version-targets.html)
 <!-- BLOG-POST-LIST:END -->
