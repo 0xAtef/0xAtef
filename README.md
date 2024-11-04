@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Flaws in Ollama AI Framework Could Enable DoS, Model Theft, and Poisoning](https://thehackernews.com/2024/11/critical-flaws-in-ollama-ai-framework.html)
 - [German Police Disrupt DDoS-for-Hire Platform dstat[.]cc; Suspects Arrested](https://thehackernews.com/2024/11/german-police-disrupt-ddos-for-hire.html)
 - [THN Recap: Top Cybersecurity Threats, Tools, and Practices &lpar;Oct 28 - Nov 03&rpar;](https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats.html)
 - [Cyber Threats That Could Impact the Retail Industry This Holiday Season &lpar;and What to Do About It&rpar;](https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html)
 - [Google’s AI Tool Big Sleep Finds Zero-Day Vulnerability in SQLite Database Engine](https://thehackernews.com/2024/11/googles-ai-tool-big-sleep-finds-zero.html)
-- [New FakeCall Malware Variant Hijacks Android Devices for Fraudulent Banking Calls](https://thehackernews.com/2024/11/new-fakecall-malware-variant-hijacks.html)
 <!-- BLOG-POST-LIST:END -->
