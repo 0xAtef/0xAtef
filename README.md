@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Threats That Could Impact the Retail Industry This Holiday Season &lpar;and What to Do About It&rpar;](https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html)
+- [Google’s AI Tool Big Sleep Finds Zero-Day Vulnerability in SQLite Database Engine](https://thehackernews.com/2024/11/googles-ai-tool-big-sleep-finds-zero.html)
 - [New FakeCall Malware Variant Hijacks Android Devices for Fraudulent Banking Calls](https://thehackernews.com/2024/11/new-fakecall-malware-variant-hijacks.html)
 - [Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert Webinar](https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html)
 - [Inside Iran’s Cyber Playbook: AI, Fake Hosting, and Psychological Warfare](https://thehackernews.com/2024/11/inside-irans-cyber-playbook-ai-fake.html)
-- [Massive Git Config Breach Exposes 15,000 Credentials; 10,000 Private Repos Cloned](https://thehackernews.com/2024/11/massive-git-config-breach-exposes-15000.html)
-- [5 SaaS Misconfigurations Leading to Major Fu*%@ Ups](https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html)
 <!-- BLOG-POST-LIST:END -->
