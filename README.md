@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Android Banking Malware &#39;ToxicPanda&#39; Targets Users with Fraudulent Money Transfers](https://thehackernews.com/2024/11/new-android-banking-malware-toxicpanda.html)
 - [Leveraging Wazuh for Zero Trust security](https://thehackernews.com/2024/11/leveraging-wazuh-for-zero-trust-security.html)
 - [Synology Urges Patch for Critical Zero-Click RCE Flaw Affecting Millions of NAS Devices](https://thehackernews.com/2024/11/synology-urges-patch-for-critical-zero.html)
 - [Malware Campaign Uses Ethereum Smart Contracts to Control npm Typosquat Packages](https://thehackernews.com/2024/11/malware-campaign-uses-ethereum-smart.html)
 - [Canadian Suspect Arrested Over Snowflake Data Breach and Extortion Attacks](https://thehackernews.com/2024/11/canadian-suspect-arrested-over.html)
-- [Google Warns of Actively Exploited CVE-2024-43093 Vulnerability in Android System](https://thehackernews.com/2024/11/google-warns-of-actively-exploited-cve.html)
 <!-- BLOG-POST-LIST:END -->
