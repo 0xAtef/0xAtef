@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malware Campaign Uses Ethereum Smart Contracts to Control npm Typosquat Packages](https://thehackernews.com/2024/11/malware-campaign-uses-ethereum-smart.html)
+- [Canadian Suspect Arrested Over Snowflake Data Breach and Extortion Attacks](https://thehackernews.com/2024/11/canadian-suspect-arrested-over.html)
 - [Google Warns of Actively Exploited CVE-2024-43093 Vulnerability in Android System](https://thehackernews.com/2024/11/google-warns-of-actively-exploited-cve.html)
 - [Critical Flaws in Ollama AI Framework Could Enable DoS, Model Theft, and Poisoning](https://thehackernews.com/2024/11/critical-flaws-in-ollama-ai-framework.html)
 - [German Police Disrupt DDoS-for-Hire Platform dstat[.]cc; Suspects Arrested](https://thehackernews.com/2024/11/german-police-disrupt-ddos-for-hire.html)
-- [THN Recap: Top Cybersecurity Threats, Tools, and Practices &lpar;Oct 28 - Nov 03&rpar;](https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats.html)
-- [Cyber Threats That Could Impact the Retail Industry This Holiday Season &lpar;and What to Do About It&rpar;](https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html)
 <!-- BLOG-POST-LIST:END -->
