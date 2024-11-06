@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [South Korea Fines Meta $15.67M for Illegally Sharing Sensitive User Data with Advertisers](https://thehackernews.com/2024/11/south-korea-fines-meta-1567m-for.html)
 - [Google Cloud to Enforce Multi-Factor Authentication by 2025 for All Users](https://thehackernews.com/2024/11/google-cloud-to-enforce-multi-factor.html)
 - [FBI Seeks Public Help to Identify Chinese Hackers Behind Global Cyber Intrusions](https://thehackernews.com/2024/11/fbi-seeks-public-help-to-identify.html)
 - [New Android Banking Malware &#39;ToxicPanda&#39; Targets Users with Fraudulent Money Transfers](https://thehackernews.com/2024/11/new-android-banking-malware-toxicpanda.html)
 - [Leveraging Wazuh for Zero Trust security](https://thehackernews.com/2024/11/leveraging-wazuh-for-zero-trust-security.html)
-- [Synology Urges Patch for Critical Zero-Click RCE Flaw Affecting Millions of NAS Devices](https://thehackernews.com/2024/11/synology-urges-patch-for-critical-zero.html)
 <!-- BLOG-POST-LIST:END -->
