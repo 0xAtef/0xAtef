@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Winos 4.0 Malware Infects Gamers Through Malicious Game Optimization Apps](https://thehackernews.com/2024/11/new-winos-40-malware-infects-gamers.html)
 - [9 Steps to Get CTEM on Your 2025 Budgetary Radar](https://thehackernews.com/2024/11/9-steps-to-get-ctem-on-your-2025.html)
 - [INTERPOL Disrupts Over 22,000 Malicious Servers in Global Crackdown on Cybercrime](https://thehackernews.com/2024/11/interpols-operation-synergia-ii.html)
 - [South Korea Fines Meta $15.67M for Illegally Sharing Sensitive User Data with Advertisers](https://thehackernews.com/2024/11/south-korea-fines-meta-1567m-for.html)
 - [Google Cloud to Enforce Multi-Factor Authentication by 2025 for All Users](https://thehackernews.com/2024/11/google-cloud-to-enforce-multi-factor.html)
-- [FBI Seeks Public Help to Identify Chinese Hackers Behind Global Cyber Intrusions](https://thehackernews.com/2024/11/fbi-seeks-public-help-to-identify.html)
 <!-- BLOG-POST-LIST:END -->
