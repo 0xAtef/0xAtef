@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Most Common Malware Techniques in 2024](https://thehackernews.com/2024/11/5-most-common-malware-techniques-in-2024.html)
+- [SteelFox and Rhadamanthys Malware Use Copyright Scams, Driver Exploits to Target Victims](https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html)
+- [Malicious PyPI Package ‘Fabrice’ Found Stealing AWS Keys from Thousands of Developers](https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html)
 - [Cisco Releases Patch for Critical URWB Vulnerability in Industrial Wireless Systems](https://thehackernews.com/2024/11/cisco-releases-patch-for-critical-urwb.html)
 - [Canada Orders TikTok to Shut Down Canadian Operations Over Security Concerns](https://thehackernews.com/2024/11/canada-orders-tiktok-to-shut-down.html)
-- [VEILDrive Attack Exploits Microsoft Services to Evade Detection and Distribute Malware](https://thehackernews.com/2024/11/veildrive-attack-exploits-microsoft.html)
-- [Winos 4.0 Malware Infects Gamers Through Malicious Game Optimization Apps](https://thehackernews.com/2024/11/new-winos-40-malware-infects-gamers.html)
-- [9 Steps to Get CTEM on Your 2025 Budgetary Radar](https://thehackernews.com/2024/11/9-steps-to-get-ctem-on-your-2025.html)
 <!-- BLOG-POST-LIST:END -->
