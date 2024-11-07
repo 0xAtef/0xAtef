@@ -164,7 +164,7 @@ BIO
 <!-- BLOG-POST-LIST:START -->
 - [5 Most Common Malware Techniques in 2024](https://thehackernews.com/2024/11/5-most-common-malware-techniques-in-2024.html)
 - [SteelFox and Rhadamanthys Malware Use Copyright Scams, Driver Exploits to Target Victims](https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html)
-- [Malicious PyPI Package ‘Fabrice’ Found Stealing AWS Keys from Thousands of Developers](https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html)
+- [China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait](https://thehackernews.com/2024/11/china-aligned-mirrorface-hackers-target.html)
 - [Cisco Releases Patch for Critical URWB Vulnerability in Industrial Wireless Systems](https://thehackernews.com/2024/11/cisco-releases-patch-for-critical-urwb.html)
-- [Canada Orders TikTok to Shut Down Canadian Operations Over Security Concerns](https://thehackernews.com/2024/11/canada-orders-tiktok-to-shut-down.html)
+- [Malicious PyPI Package ‘Fabrice’ Found Stealing AWS Keys from Thousands of Developers](https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html)
 <!-- BLOG-POST-LIST:END -->
