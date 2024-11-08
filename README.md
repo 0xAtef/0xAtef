@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Alerts to Active Exploitation of Critical Palo Alto Networks Vulnerability](https://thehackernews.com/2024/11/cisa-alerts-to-active-exploitation-of.html)
 - [North Korean Hackers Target Crypto Firms with Hidden Risk Malware on macOS](https://thehackernews.com/2024/11/north-korean-hackers-target-crypto.html)
 - [A Hacker&#39;s Guide to Password Cracking](https://thehackernews.com/2024/11/a-hackers-guide-to-password-cracking.html)
 - [5 Most Common Malware Techniques in 2024](https://thehackernews.com/2024/11/5-most-common-malware-techniques-in-2024.html)
 - [SteelFox and Rhadamanthys Malware Use Copyright Scams, Driver Exploits to Target Victims](https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html)
-- [China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait](https://thehackernews.com/2024/11/china-aligned-mirrorface-hackers-target.html)
 <!-- BLOG-POST-LIST:END -->
