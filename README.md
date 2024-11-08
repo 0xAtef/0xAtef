@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Learn How Storytelling Can Make Cybersecurity Training Fun and Effective](https://thehackernews.com/2024/11/webinar-learn-how-storytelling-can-make.html)
 - [AndroxGh0st Malware Integrates Mozi Botnet to Target IoT and Cloud Services](https://thehackernews.com/2024/11/androxgh0st-malware-integrates-mozi.html)
 - [IcePeony and Transparent Tribe Target Indian Entities with Cloud-Based Tools](https://thehackernews.com/2024/11/icepeony-and-transparent-tribe-target.html)
 - [The vCISO Academy: Transforming MSPs and MSSPs into Cybersecurity Powerhouses](https://thehackernews.com/2024/11/the-vciso-academy-transforming-msps-and.html)
 - [Malicious NPM Packages Target Roblox Users with Data-Stealing Malware](https://thehackernews.com/2024/11/malicious-npm-packages-target-roblox.html)
-- [Webinar: Learn How Storytelling Can Make Cybersecurity Training Fun and Effective](https://thehackernews.com/2024/11/webinar-learn-how-storytelling-can-make.html)
 <!-- BLOG-POST-LIST:END -->
