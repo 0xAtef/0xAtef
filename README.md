@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Learn How Storytelling Can Make Cybersecurity Training Fun and Effective](https://thehackernews.com/2024/11/webinar-learn-how-storytelling-can-make.html)
 - [New CRON#TRAP Malware Infects Windows by Hiding in Linux VM to Evade Antivirus](https://thehackernews.com/2024/11/new-crontrap-malware-infects-windows-by.html)
 - [CISA Alerts to Active Exploitation of Critical Palo Alto Networks Vulnerability](https://thehackernews.com/2024/11/cisa-alerts-to-active-exploitation-of.html)
 - [North Korean Hackers Target Crypto Firms with Hidden Risk Malware on macOS](https://thehackernews.com/2024/11/north-korean-hackers-target-crypto.html)
 - [A Hacker&#39;s Guide to Password Cracking](https://thehackernews.com/2024/11/a-hackers-guide-to-password-cracking.html)
-- [5 Most Common Malware Techniques in 2024](https://thehackernews.com/2024/11/5-most-common-malware-techniques-in-2024.html)
 <!-- BLOG-POST-LIST:END -->
