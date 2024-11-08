@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IcePeony and Transparent Tribe Target Indian Entities with Cloud-Based Tools](https://thehackernews.com/2024/11/icepeony-and-transparent-tribe-target.html)
 - [The vCISO Academy: Transforming MSPs and MSSPs into Cybersecurity Powerhouses](https://thehackernews.com/2024/11/the-vciso-academy-transforming-msps-and.html)
+- [Malicious NPM Packages Target Roblox Users with Data-Stealing Malware](https://thehackernews.com/2024/11/malicious-npm-packages-target-roblox.html)
 - [Webinar: Learn How Storytelling Can Make Cybersecurity Training Fun and Effective](https://thehackernews.com/2024/11/webinar-learn-how-storytelling-can-make.html)
 - [New CRON#TRAP Malware Infects Windows by Hiding in Linux VM to Evade Antivirus](https://thehackernews.com/2024/11/new-crontrap-malware-infects-windows-by.html)
-- [CISA Alerts to Active Exploitation of Critical Palo Alto Networks Vulnerability](https://thehackernews.com/2024/11/cisa-alerts-to-active-exploitation-of.html)
-- [North Korean Hackers Target Crypto Firms with Hidden Risk Malware on macOS](https://thehackernews.com/2024/11/north-korean-hackers-target-crypto.html)
 <!-- BLOG-POST-LIST:END -->
