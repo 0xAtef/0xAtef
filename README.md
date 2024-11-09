@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Palo Alto Advises Securing PAN-OS Interface Amid Potential RCE Threat Concerns](https://thehackernews.com/2024/11/palo-alto-advises-securing-pan-os.html)
 - [Bitcoin Fog Founder Sentenced to 12 Years for Cryptocurrency Money Laundering](https://thehackernews.com/2024/11/bitcoin-fog-founder-sentenced-to-12.html)
 - [Webinar: Learn How Storytelling Can Make Cybersecurity Training Fun and Effective](https://thehackernews.com/2024/11/webinar-learn-how-storytelling-can-make.html)
 - [AndroxGh0st Malware Integrates Mozi Botnet to Target IoT and Cloud Services](https://thehackernews.com/2024/11/androxgh0st-malware-integrates-mozi.html)
 - [IcePeony and Transparent Tribe Target Indian Entities with Cloud-Based Tools](https://thehackernews.com/2024/11/icepeony-and-transparent-tribe-target.html)
-- [The vCISO Academy: Transforming MSPs and MSSPs into Cybersecurity Powerhouses](https://thehackernews.com/2024/11/the-vciso-academy-transforming-msps-and.html)
 <!-- BLOG-POST-LIST:END -->
