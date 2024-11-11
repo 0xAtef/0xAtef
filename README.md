@@ -163,8 +163,8 @@ BIO
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [THN Recap: Top Cybersecurity Threats, Tools, and Practices &lpar;Nov 04 - Nov 10&rpar;](https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_11.html)
+- [New GootLoader Campaign Targets Users Searching for Bengal Cat Laws in Australia](https://thehackernews.com/2024/11/new-gootloader-campaign-targets-users.html)
 - [The ROI of Security Investments: How Cybersecurity Leaders Prove It](https://thehackernews.com/2024/11/the-roi-of-security-investments-how.html)
 - [Security Flaws in Popular ML Toolkits Enable Server Hijacks, Privilege Escalation](https://thehackernews.com/2024/11/security-flaws-in-popular-ml-toolkits.html)
 - [HPE Issues Critical Security Patches for Aruba Access Point Vulnerabilities](https://thehackernews.com/2024/11/hpe-issues-critical-security-patches.html)
-- [Cybercriminals Use Excel Exploit to Spread Fileless Remcos RAT Malware](https://thehackernews.com/2024/11/cybercriminals-use-excel-exploit-to.html)
 <!-- BLOG-POST-LIST:END -->
