@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security Flaws in Popular ML Toolkits Enable Server Hijacks, Privilege Escalation](https://thehackernews.com/2024/11/security-flaws-in-popular-ml-toolkits.html)
+- [HPE Issues Critical Security Patches for Aruba Access Point Vulnerabilities](https://thehackernews.com/2024/11/hpe-issues-critical-security-patches.html)
 - [Cybercriminals Use Excel Exploit to Spread Fileless Remcos RAT Malware](https://thehackernews.com/2024/11/cybercriminals-use-excel-exploit-to.html)
 - [Palo Alto Advises Securing PAN-OS Interface Amid Potential RCE Threat Concerns](https://thehackernews.com/2024/11/palo-alto-advises-securing-pan-os.html)
 - [Bitcoin Fog Founder Sentenced to 12 Years for Cryptocurrency Money Laundering](https://thehackernews.com/2024/11/bitcoin-fog-founder-sentenced-to-12.html)
-- [Webinar: Learn How Storytelling Can Make Cybersecurity Training Fun and Effective](https://thehackernews.com/2024/11/webinar-learn-how-storytelling-can-make.html)
-- [AndroxGh0st Malware Integrates Mozi Botnet to Target IoT and Cloud Services](https://thehackernews.com/2024/11/androxgh0st-malware-integrates-mozi.html)
 <!-- BLOG-POST-LIST:END -->
