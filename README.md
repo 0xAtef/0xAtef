@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Target macOS Using Flutter-Embedded Malware](https://thehackernews.com/2024/11/north-korean-hackers-target-macos-using.html)
 - [5 Ways Behavioral Analytics is Revolutionizing Incident Response](https://thehackernews.com/2024/11/5-ways-behavioral-analytics-is.html)
 - [New Ymir Ransomware Exploits Memory for Stealthy Attacks; Targets Corporate Networks](https://thehackernews.com/2024/11/new-ymir-ransomware-exploits-memory-for.html)
 - [THN Recap: Top Cybersecurity Threats, Tools, and Practices &lpar;Nov 04 - Nov 10&rpar;](https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_11.html)
 - [New GootLoader Campaign Targets Users Searching for Bengal Cat Laws in Australia](https://thehackernews.com/2024/11/new-gootloader-campaign-targets-users.html)
-- [The ROI of Security Investments: How Cybersecurity Leaders Prove It](https://thehackernews.com/2024/11/the-roi-of-security-investments-how.html)
 <!-- BLOG-POST-LIST:END -->
