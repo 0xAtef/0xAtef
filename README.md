@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hamas-Affiliated WIRTE Employs SameCoin Wiper in Disruptive Attacks Against Israel](https://thehackernews.com/2024/11/hamas-affiliated-wirte-employs-samecoin.html)
 - [Free Decryptor Released for BitLocker-Based ShrinkLocker Ransomware Victims](https://thehackernews.com/2024/11/free-decryptor-released-for-bitlocker.html)
 - [Comprehensive Guide to Building a Strong Browser Security Program](https://thehackernews.com/2024/11/comprehensive-guide-to-building-strong.html)
 - [OvrC Platform Vulnerabilities Expose IoT Devices to Remote Attacks and Code Execution](https://thehackernews.com/2024/11/ovrc-platform-vulnerabilities-expose.html)
 - [Iranian Hackers Use &quot;Dream Job&quot; Lures to Deploy SnailResin Malware in Aerospace Attacks](https://thehackernews.com/2024/11/iranian-hackers-use-dream-job-lures-to.html)
-- [Microsoft Fixes 90 New Flaws, Including Actively Exploited NTLM and Task Scheduler Bugs](https://thehackernews.com/2024/11/microsoft-fixes-90-new-vulnerabilities.html)
 <!-- BLOG-POST-LIST:END -->
