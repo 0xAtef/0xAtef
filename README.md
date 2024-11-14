@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TikTok Pixel Privacy Nightmare: A New Case Study](https://thehackernews.com/2024/11/tiktok-pixel-privacy-nightmare-new-case.html)
 - [New RustyAttr Malware Targets macOS Through Extended Attribute Abuse](https://thehackernews.com/2024/11/new-rustyattr-malware-targets-macos.html)
 - [Russian Hackers Exploit New NTLM Flaw to Deploy RAT Malware via Phishing Emails](https://thehackernews.com/2024/11/russian-hackers-exploit-new-ntlm-flaw.html)
 - [Hamas-Affiliated WIRTE Employs SameCoin Wiper in Disruptive Attacks Against Israel](https://thehackernews.com/2024/11/hamas-affiliated-wirte-employs-samecoin.html)
 - [Free Decryptor Released for BitLocker-Based ShrinkLocker Ransomware Victims](https://thehackernews.com/2024/11/free-decryptor-released-for-bitlocker.html)
-- [Comprehensive Guide to Building a Strong Browser Security Program](https://thehackernews.com/2024/11/comprehensive-guide-to-building-strong.html)
 <!-- BLOG-POST-LIST:END -->
