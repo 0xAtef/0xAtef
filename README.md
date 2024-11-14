@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Experts Uncover 70,000 Hijacked Domains in Widespread &#39;Sitting Ducks&#39; Attack Scheme](https://thehackernews.com/2024/11/experts-uncover-70000-hijacked-domains.html)
 - [Google Warns of Rising Cloaking Scams, AI-Driven Fraud, and Crypto Schemes](https://thehackernews.com/2024/11/google-warns-of-rising-cloaking-scams.html)
 - [5 BCDR Oversights That Leave You Exposed to Ransomware](https://thehackernews.com/2024/11/5-bcdr-oversights-that-leave-you-exposed-to-ransomware.html)
 - [TikTok Pixel Privacy Nightmare: A New Case Study](https://thehackernews.com/2024/11/tiktok-pixel-privacy-nightmare-new-case.html)
 - [New RustyAttr Malware Targets macOS Through Extended Attribute Abuse](https://thehackernews.com/2024/11/new-rustyattr-malware-targets-macos.html)
-- [Russian Hackers Exploit New NTLM Flaw to Deploy RAT Malware via Phishing Emails](https://thehackernews.com/2024/11/russian-hackers-exploit-new-ntlm-flaw.html)
 <!-- BLOG-POST-LIST:END -->
