@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iranian Hackers Deploy WezRat Malware in Attacks Targeting Israeli Organizations](https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html)
 - [Researchers Warn of Privilege Escalation Risks in Google&#39;s Vertex AI ML Platform](https://thehackernews.com/2024/11/researchers-warn-of-privilege.html)
 - [Master Certificate Management: Join This Webinar on Crypto Agility and Best Practices](https://thehackernews.com/2024/11/master-certificate-management-join-this.html)
 - [Vietnamese Hacker Group Deploys New PXA Stealer Targeting Europe and Asia](https://thehackernews.com/2024/11/vietnamese-hacker-group-deploys-new-pxa.html)
 - [How AI Is Transforming IAM and Identity Security](https://thehackernews.com/2024/11/how-ai-is-transforming-iam-and-identity.html)
-- [Iranian Hackers Deploy WezRat Malware in Attacks Targeting Israeli Organizations](https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html)
 <!-- BLOG-POST-LIST:END -->
