@@ -162,9 +162,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vietnamese Hacker Group Deploys New PXA Stealer Targeting Europe and Asia](https://thehackernews.com/2024/11/vietnamese-hacker-group-deploys-new-pxa.html)
 - [How AI Is Transforming IAM and Identity Security](https://thehackernews.com/2024/11/how-ai-is-transforming-iam-and-identity.html)
 - [High-Severity Flaw in PostgreSQL Allows Hackers to Exploit Environment Variables](https://thehackernews.com/2024/11/high-severity-flaw-in-postgresql-allows.html)
 - [Bitfinex Hacker Sentenced to 5 Years, Guilty of Laundering $10.5 Billion in Bitcoin](https://thehackernews.com/2024/11/bitfinex-hacker-sentenced-to-5-years.html)
 - [CISA Flags Two Actively Exploited Palo Alto Flaws; New RCE Attack Confirmed](https://thehackernews.com/2024/11/cisa-flags-critical-palo-alto-network.html)
-- [Experts Uncover 70,000 Hijacked Domains in Widespread &#39;Sitting Ducks&#39; Attack Scheme](https://thehackernews.com/2024/11/experts-uncover-70000-hijacked-domains.html)
 <!-- BLOG-POST-LIST:END -->
