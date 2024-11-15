@@ -177,5 +177,5 @@ BIO
 - [Master Certificate Management: Join This Webinar on Crypto Agility and Best Practices](https://thehackernews.com/2024/11/master-certificate-management-join-this.html)
 - [Vietnamese Hacker Group Deploys New PXA Stealer Targeting Europe and Asia](https://thehackernews.com/2024/11/vietnamese-hacker-group-deploys-new-pxa.html)
 - [How AI Is Transforming IAM and Identity Security](https://thehackernews.com/2024/11/how-ai-is-transforming-iam-and-identity.html)
-- [High-Severity Flaw in PostgreSQL Allows Hackers to Exploit Environment Variables](https://thehackernews.com/2024/11/high-severity-flaw-in-postgresql-allows.html)
+- [Iranian Hackers Deploy WezRat Malware in Attacks Targeting Israeli Organizations](https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html)
 <!-- BLOG-POST-LIST:END -->
