@@ -24,13 +24,24 @@ In the online realm, I am recognized as 0xAtef. My professional passion revolves
 I am deeply enthusiastic about development and scripting, particularly in the realm of automation. My core belief is that to effectively protect, you need to understand what you are protecting. I am dedicated to staying well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
 --->
 <!---<h1 align="center"> Senior Cyber Defense Engineer | Threat Detection Engineer </h1>--->
-<h1 align="center"> Cyber Defense Team Lead </h1>
+<h1 align="center"> Cyber Defense Lead </h1>
 
+<!--
 With proven experience in leading Security Operations, Conducting Product assessments (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR), and developing SOC Processes, Use Cases, Playbooks, Detection Rules, and Automation Workflows.
 
 As a Cyber Defense Engineer, my professional passion encompasses whatever is related to blue team capabilities like threat detection, incident response, and threat hunting and my skills extend to SIEM Administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.
 
 I hold a professional certificate in Threat Hunting (ecthpv2) and am willing to solidify my practical capabilities with other blue/purple team certificates in the future. My core belief is that you can’t protect what you don’t understand, so I’m eager to stay well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
+-->
+
+
+I am a highly skilled and experienced Cyber Defense Engineer with a proven track record in leading Security Operations and conducting in-depth product assessments, including EDR, Mail Gateway, Threat Intelligence Platforms (TIP), Attack Surface Management (ASM), Dark Web Monitoring, Digital Risk Protection (DRP), and SOAR solutions.
+
+My expertise includes designing and optimizing SOC processes, developing robust use cases, creating comprehensive playbooks, and implementing advanced detection rules and automation workflows to enhance security operations. I excel in crafting middleware for custom solution integration and automation, as well as streamlining integration processes to ensure seamless functionality across diverse security environments.
+
+Passionate about blue team capabilities, I specialize in threat detection, incident response, and proactive threat hunting. My technical acumen extends to SIEM administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and leveraging proficient scripting skills to drive operational efficiency.
+
+I hold a professional certificate in Threat Hunting (eCTHPv2) and am committed to expanding my knowledge and practical expertise through additional certifications in blue and purple team disciplines. Guided by the principle, "You can’t protect what you don’t understand," I strive to stay informed of the latest trends, technologies, and adversary tactics in the ever-evolving field of cybersecurity.
 
 
 # Security Projects Overview
