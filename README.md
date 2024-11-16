@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PAN-OS Firewall Vulnerability Under Active Exploitation – IoCs Released](https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html)
 - [Warning: DEEPDATA Malware Exploiting Unpatched Fortinet Flaw to Steal VPN Credentials](https://thehackernews.com/2024/11/warning-deepdata-malware-exploiting.html)
 - [Iranian Hackers Deploy WezRat Malware in Attacks Targeting Israeli Organizations](https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html)
 - [Researchers Warn of Privilege Escalation Risks in Google&#39;s Vertex AI ML Platform](https://thehackernews.com/2024/11/researchers-warn-of-privilege.html)
 - [Live Webinar: Dive Deep into Crypto Agility and Certificate Management](https://thehackernews.com/2024/11/master-certificate-management-join-this.html)
-- [Vietnamese Hacker Group Deploys New PXA Stealer Targeting Europe and Asia](https://thehackernews.com/2024/11/vietnamese-hacker-group-deploys-new-pxa.html)
 <!-- BLOG-POST-LIST:END -->
