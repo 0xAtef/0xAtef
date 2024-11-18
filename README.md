@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fake Discount Sites Exploit Black Friday to Hijack Shopper Information](https://thehackernews.com/2024/11/fake-discount-sites-exploit-black.html)
+- [Beyond Compliance: The Advantage of Year-Round Network Pen Testing](https://thehackernews.com/2024/11/beyond-compliance-advantage-of-year.html)
 - [NSO Group Exploited WhatsApp to Install Pegasus Spyware Even After Meta&#39;s Lawsuit](https://thehackernews.com/2024/11/nso-group-exploited-whatsapp-to-install.html)
 - [Urgent: Critical WordPress Plugin Vulnerability Exposes Over 4 Million Sites](https://thehackernews.com/2024/11/urgent-critical-wordpress-plugin.html)
 - [PAN-OS Firewall Vulnerability Under Active Exploitation – IoCs Released](https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html)
-- [Warning: DEEPDATA Malware Exploiting Unpatched Fortinet Flaw to Steal VPN Credentials](https://thehackernews.com/2024/11/warning-deepdata-malware-exploiting.html)
-- [Iranian Hackers Deploy WezRat Malware in Attacks Targeting Israeli Organizations](https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html)
 <!-- BLOG-POST-LIST:END -->
