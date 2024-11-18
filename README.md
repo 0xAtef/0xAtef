@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Problem of Permissions and Non-Human Identities - Why Remediating Credentials Takes Longer Than You Think](https://thehackernews.com/2024/11/the-problem-of-permissions-and-non.html)
 - [THN Recap: Top Cybersecurity Threats, Tools, and Practices &lpar;Nov 11 - Nov 17&rpar;](https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_18.html)
 - [Gmail&#39;s New Shielded Email Feature Lets Users Create Aliases for Email Privacy](https://thehackernews.com/2024/11/shielded-email-googles-latest-tool-for.html)
 - [Beyond Compliance: The Advantage of Year-Round Network Pen Testing](https://thehackernews.com/2024/11/beyond-compliance-advantage-of-year.html)
 - [Fake Discount Sites Exploit Black Friday to Hijack Shopper Information](https://thehackernews.com/2024/11/fake-discount-sites-exploit-black.html)
-- [NSO Group Exploited WhatsApp to Install Pegasus Spyware Even After Meta&#39;s Lawsuit](https://thehackernews.com/2024/11/nso-group-exploited-whatsapp-to-install.html)
 <!-- BLOG-POST-LIST:END -->
