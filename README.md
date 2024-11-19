@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CISA Alert: Active Exploitation of VMware vCenter and Kemp LoadMaster Flaws](https://thehackernews.com/2024/11/cisa-alert-active-exploitation-of.html)
+- [Chinese Hackers Exploit T-Mobile and Other U.S. Telecoms in Broader Espionage Campaign](https://thehackernews.com/2024/11/chinese-hackers-exploit-t-mobile-and.html)
+- [Warning: VMware vCenter and Kemp LoadMaster Flaws Under Active Exploitation](https://thehackernews.com/2024/11/cisa-alert-active-exploitation-of.html)
 - [New Stealthy BabbleLoader Malware Spotted Delivering WhiteSnake and Meduza Stealers](https://thehackernews.com/2024/11/new-stealthy-babbleloader-malware.html)
 - [The Problem of Permissions and Non-Human Identities - Why Remediating Credentials Takes Longer Than You Think](https://thehackernews.com/2024/11/the-problem-of-permissions-and-non-human-identities.html)
 - [THN Recap: Top Cybersecurity Threats, Tools, and Practices &lpar;Nov 11 - Nov 17&rpar;](https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_18.html)
-- [Gmail&#39;s New Shielded Email Feature Lets Users Create Aliases for Email Privacy](https://thehackernews.com/2024/11/shielded-email-googles-latest-tool-for.html)
 <!-- BLOG-POST-LIST:END -->
