@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices](https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html)
+- [Hackers Hijack Unsecured Jupyter Notebooks to Stream Illegal Sports Broadcasts](https://thehackernews.com/2024/11/hackers-hijack-unsecured-jupyter.html)
 - [Privileged Accounts, Hidden Threats: Why Privileged Access Security Must Be a Top Priority](https://thehackernews.com/2024/11/privileged-accounts-hidden-threats-why.html)
 - [New &#39;Helldown&#39; Ransomware Variant Expands Attacks to VMware and Linux Systems](https://thehackernews.com/2024/11/new-helldown-ransomware-expands-attacks.html)
 - [Chinese Hackers Exploit T-Mobile and Other U.S. Telecoms in Broader Espionage Campaign](https://thehackernews.com/2024/11/chinese-hackers-exploit-t-mobile-and.html)
-- [Warning: VMware vCenter and Kemp LoadMaster Flaws Under Active Exploitation](https://thehackernews.com/2024/11/cisa-alert-active-exploitation-of.html)
-- [New Stealthy BabbleLoader Malware Spotted Delivering WhiteSnake and Meduza Stealers](https://thehackernews.com/2024/11/new-stealthy-babbleloader-malware.html)
 <!-- BLOG-POST-LIST:END -->
