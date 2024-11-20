@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China-Backed Hackers Leverage SIGTRAN, GSM Protocols to Infiltrate Telecom Networks](https://thehackernews.com/2024/11/china-backed-hackers-leverage-sigtran.html)
 - [Apple Releases Urgent Updates to Patch Actively Exploited Zero-Day Vulnerabilities](https://thehackernews.com/2024/11/apple-releases-urgent-updates-to-patch.html)
 - [Oracle Warns of Agile PLM Vulnerability Currently Under Active Exploitation](https://thehackernews.com/2024/11/oracle-warns-of-agile-plm-vulnerability.html)
 - [Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices](https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html)
 - [Hackers Hijack Unsecured Jupyter Notebooks to Stream Illegal Sports Broadcasts](https://thehackernews.com/2024/11/hackers-hijack-unsecured-jupyter.html)
-- [Privileged Accounts, Hidden Threats: Why Privileged Access Security Must Be a Top Priority](https://thehackernews.com/2024/11/privileged-accounts-hidden-threats-why.html)
 <!-- BLOG-POST-LIST:END -->
