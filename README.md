@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ghost Tap: Hackers Exploiting NFCGate to Steal Funds via Mobile Payments](https://thehackernews.com/2024/11/ghost-tap-hackers-exploiting-nfcgate-to.html)
 - [NHIs Are the Future of Cybersecurity: Meet NHIDR](https://thehackernews.com/2024/11/nhis-are-future-of-cybersecurity-meet.html)
 - [Decades-Old Security Vulnerabilities Found in Ubuntu&#39;s Needrestart Package](https://thehackernews.com/2024/11/decades-old-security-vulnerabilities.html)
 - [Microsoft Launches Windows Resiliency Initiative to Boost Security and System Integrity](https://thehackernews.com/2024/11/microsoft-launches-windows-resiliency.html)
 - [China-Backed Hackers Leverage SIGTRAN, GSM Protocols to Infiltrate Telecom Networks](https://thehackernews.com/2024/11/china-backed-hackers-leverage-sigtran.html)
-- [Apple Releases Urgent Updates to Patch Actively Exploited Zero-Day Vulnerabilities](https://thehackernews.com/2024/11/apple-releases-urgent-updates-to-patch.html)
 <!-- BLOG-POST-LIST:END -->
