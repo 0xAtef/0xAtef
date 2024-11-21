@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NodeStealer Malware Targets Facebook Ad Accounts, Harvesting Credit Card Data](https://thehackernews.com/2024/11/nodestealer-malware-targets-facebook-ad.html)
 - [Ghost Tap: Hackers Exploiting NFCGate to Steal Funds via Mobile Payments](https://thehackernews.com/2024/11/ghost-tap-hackers-exploiting-nfcgate-to.html)
 - [NHIs Are the Future of Cybersecurity: Meet NHIDR](https://thehackernews.com/2024/11/nhis-are-future-of-cybersecurity-meet.html)
 - [Decades-Old Security Vulnerabilities Found in Ubuntu&#39;s Needrestart Package](https://thehackernews.com/2024/11/decades-old-security-vulnerabilities.html)
 - [Microsoft Launches Windows Resiliency Initiative to Boost Security and System Integrity](https://thehackernews.com/2024/11/microsoft-launches-windows-resiliency.html)
-- [China-Backed Hackers Leverage SIGTRAN, GSM Protocols to Infiltrate Telecom Networks](https://thehackernews.com/2024/11/china-backed-hackers-leverage-sigtran.html)
 <!-- BLOG-POST-LIST:END -->
