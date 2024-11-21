@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Front Companies Impersonate U.S. IT Firms to Fund Missile Programs](https://thehackernews.com/2024/11/north-korean-front-companies.html)
+- [Cyber Story Time: The Boy Who Cried &quot;Secure!&quot;](https://thehackernews.com/2024/11/cyber-story-time-boy-who-cried-secure.html)
 - [Over 145,000 Industrial Control Systems Across 175 Countries Found Exposed Online](https://thehackernews.com/2024/11/over-145000-industrial-control-systems.html)
 - [5 Scattered Spider Gang Members Indicted in Multi-Million Dollar Cybercrime Scheme](https://thehackernews.com/2024/11/5-scattered-spider-gang-members.html)
 - [Google&#39;s AI-Powered OSS-Fuzz Tool Finds 26 Vulnerabilities in Open-Source Projects](https://thehackernews.com/2024/11/googles-ai-powered-oss-fuzz-tool-finds.html)
-- [NodeStealer Malware Targets Facebook Ad Accounts, Harvesting Credit Card Data](https://thehackernews.com/2024/11/nodestealer-malware-targets-facebook-ad.html)
-- [Ghost Tap: Hackers Exploiting NFCGate to Steal Funds via Mobile Payments](https://thehackernews.com/2024/11/ghost-tap-hackers-exploiting-nfcgate-to.html)
 <!-- BLOG-POST-LIST:END -->
