@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft, Meta, and DOJ Disrupt Global Cybercrime and Fraudulent Networks](https://thehackernews.com/2024/11/microsoft-meta-and-doj-disrupt-global.html)
 - [PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries](https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html)
 - [Warning: Over 2,000 Palo Alto Networks Devices Hacked in Ongoing Attack Campaign](https://thehackernews.com/2024/11/warning-over-2000-palo-alto-networks.html)
 - [Chinese APT Gelsemium Targets Linux Systems with New WolfsBane Backdoor](https://thehackernews.com/2024/11/chinese-apt-gelsemium-targets-linux.html)
 - [10 Most Impactful PAM Use Cases for Enhancing Organizational Security](https://thehackernews.com/2024/11/10-most-impactful-pam-use-cases-for.html)
-- [North Korean Front Companies Impersonate U.S. IT Firms to Fund Missile Programs](https://thehackernews.com/2024/11/north-korean-front-companies.html)
 <!-- BLOG-POST-LIST:END -->
