@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian Hackers Deploy HATVIBE and CHERRYSPY Malware Across Europe and Asia](https://thehackernews.com/2024/11/russian-hackers-deploy-hatvibe-and.html)
+- [Unlocking Google Workspace Security: Are You Doing Enough to Protect Your Data?](https://thehackernews.com/2024/11/the-importance-of having-a-google-workspace-backup-solution.html)
 - [Microsoft, Meta, and DOJ Disrupt Global Cybercrime and Fraudulent Networks](https://thehackernews.com/2024/11/microsoft-meta-and-doj-disrupt-global.html)
 - [PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries](https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html)
 - [Warning: Over 2,000 Palo Alto Networks Devices Hacked in Ongoing Attack Campaign](https://thehackernews.com/2024/11/warning-over-2000-palo-alto-networks.html)
-- [Chinese APT Gelsemium Targets Linux Systems with New WolfsBane Backdoor](https://thehackernews.com/2024/11/chinese-apt-gelsemium-targets-linux.html)
-- [10 Most Impactful PAM Use Cases for Enhancing Organizational Security](https://thehackernews.com/2024/11/10-most-impactful-pam-use-cases-for.html)
 <!-- BLOG-POST-LIST:END -->
