@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Malware Using BYOVD to Bypass Antivirus Protections](https://thehackernews.com/2024/11/researchers-uncover-malware-using-byovd.html)
 - [Google Exposes GLASSBRIDGE: A Pro-China Influence Network of Fake News Sites](https://thehackernews.com/2024/11/google-exposes-glassbridge-pro-china.html)
 - [North Korean Hackers Steal $10M with AI-Driven Scams and Malware on LinkedIn](https://thehackernews.com/2024/11/north-korean-hackers-steal-10m-with-ai.html)
 - [APT-K-47 Uses Hajj-Themed Lures to Deliver Advanced Asyncshell Malware](https://thehackernews.com/2024/11/apt-k-47-uses-hajj-themed-lures-to.html)
 - [Russian Hackers Deploy HATVIBE and CHERRYSPY Malware Across Europe and Asia](https://thehackernews.com/2024/11/russian-hackers-deploy-hatvibe-and.html)
-- [China-Linked TAG-112 Targets Tibetan Media with Cobalt Strike Espionage Campaign](https://thehackernews.com/2024/11/china-linked-tag-112-targets-tibetan.html)
 <!-- BLOG-POST-LIST:END -->
