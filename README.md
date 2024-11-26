@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Urges Agencies to Patch Critical &quot;Array Networks&quot; Flaw Amid Active Attacks](https://thehackernews.com/2024/11/cisa-urges-agencies-to-patch-critical.html)
 - [Google&#39;s New Restore Credentials Tool Simplifies App Login After Android Migration](https://thehackernews.com/2024/11/googles-new-restore-credentials-tool.html)
 - [PyPI Python Library &quot;aiocpa&quot; Found Exfiltrating Crypto Keys via Telegram Bot](https://thehackernews.com/2024/11/pypi-python-library-aiocpa-found.html)
 - [THN Recap: Top Cybersecurity Threats, Tools, and Practices &lpar;Nov 18 - Nov 24&rpar;](https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_25.html)
 - [Flying Under the Radar - Security Evasion Techniques](https://thehackernews.com/2024/11/flying-under-radar-security-evasion.html)
-- [Cybersecurity Blind Spots in IaC and PaC Tools Expose Cloud Platforms to New Attacks](https://thehackernews.com/2024/11/cybersecurity-flaws-in-iac-and-pac.html)
 <!-- BLOG-POST-LIST:END -->
