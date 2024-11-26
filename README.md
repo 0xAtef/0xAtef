@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical WordPress Anti-Spam Plugin Flaws Expose 200,000+ Sites to Remote Attacks](https://thehackernews.com/2024/11/critical-wordpress-anti-spam-plugin.html)
 - [Intruder Launches Intel: A Free Vulnerability Intelligence Platform For Staying Ahead of the Latest Threats](https://thehackernews.com/2024/11/intruder-launches-intel-free.html)
 - [RomCom Exploits Zero-Day Firefox and Windows Flaws in Sophisticated Cyberattacks](https://thehackernews.com/2024/11/romcom-exploits-zero-day-firefox-and.html)
 - [Chinese Hackers Use GHOSTSPIDER Malware to Hack Telecoms Across 12+ Countries](https://thehackernews.com/2024/11/chinese-hackers-use-ghostspider-malware.html)
 - [CISA Urges Agencies to Patch Critical &quot;Array Networks&quot; Flaw Amid Active Attacks](https://thehackernews.com/2024/11/cisa-urges-agencies-to-patch-critical.html)
-- [Google&#39;s New Restore Credentials Tool Simplifies App Login After Android Migration](https://thehackernews.com/2024/11/googles-new-restore-credentials-tool.html)
 <!-- BLOG-POST-LIST:END -->
