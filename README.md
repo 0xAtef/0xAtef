@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [APT-C-60 Exploits WPS Office Vulnerability to Deploy SpyGlace Backdoor](https://thehackernews.com/2024/11/apt-c-60-exploits-wps-office.html)
+- [Researchers Discover &quot;Bootkitty&quot; – First UEFI Bootkit Targeting Linux Kernels](https://thehackernews.com/2024/11/researchers-discover-bootkitty-first.html)
+- [Latest Multi-Stage Attack Scenarios with Real-World Examples](https://thehackernews.com/2024/11/latest-multi-stage-attack-scenarios.html)
+- [APT-C-60 Hackers Exploit StatCounter and Bitbucket in SpyGlace Malware Campaign](https://thehackernews.com/2024/11/apt-c-60-exploits-wps-office.html)
 - [INTERPOL Busts African Cybercrime: 1,006 Arrests, 134,089 Malicious Networks Dismantled](https://thehackernews.com/2024/11/interpol-busts-african-cybercrime-1006.html)
 - [Matrix Botnet Exploits IoT Devices in Widespread DDoS Botnet Campaign](https://thehackernews.com/2024/11/matrix-botnet-exploits-iot-devices-in.html)
-- [Critical WordPress Anti-Spam Plugin Flaws Expose 200,000+ Sites to Remote Attacks](https://thehackernews.com/2024/11/critical-wordpress-anti-spam-plugin.html)
-- [Intruder Launches Intel: A Free Vulnerability Intelligence Platform For Staying Ahead of the Latest Threats](https://thehackernews.com/2024/11/intruder-launches-intel-free.html)
 <!-- BLOG-POST-LIST:END -->
