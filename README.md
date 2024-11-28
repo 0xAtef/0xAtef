@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Over Two Dozen Flaws Identified in Advantech Industrial Wi-Fi Access Points – Patch ASAP](https://thehackernews.com/2024/11/over-two-dozen-flaws-identified-in.html)
 - [The Future of Serverless Security in 2025: From Logs to Runtime Protection](https://thehackernews.com/2024/11/the-future-of-serverless-security-in.html)
 - [XMLRPC npm Library Turns Malicious, Steals Data, Deploys Crypto Miner](https://thehackernews.com/2024/11/xmlrpc-npm-library-turns-malicious.html)
 - [Cybercriminals Exploit Popular Game Engine Godot to Distribute Cross-Platform Malware](https://thehackernews.com/2024/11/cybercriminals-exploit-popular-game.html)
 - [U.S. Telecom Giant T-Mobile Detects Network Intrusion Attempts from Wireline Provider](https://thehackernews.com/2024/11/us-telecom-giant-t-mobile-detects.html)
-- [Critical Flaw in ProjectSend Under Active Exploitation Against Public-Facing Servers](https://thehackernews.com/2024/11/critical-flaw-in-projectsend-under.html)
 <!-- BLOG-POST-LIST:END -->
