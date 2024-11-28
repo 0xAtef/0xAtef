@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Exploit Popular Game Engine Godot to Distribute Cross-Platform Malware](https://thehackernews.com/2024/11/cybercriminals-exploit-popular-game.html)
 - [U.S. Telecom Giant T-Mobile Detects Network Intrusion Attempts from Wireline Provider](https://thehackernews.com/2024/11/us-telecom-giant-t-mobile-detects.html)
 - [Critical Flaw in ProjectSend Under Active Exploitation Against Public-Facing Servers](https://thehackernews.com/2024/11/critical-flaw-in-projectsend-under.html)
 - [Researchers Discover &quot;Bootkitty&quot; – First UEFI Bootkit Targeting Linux Kernels](https://thehackernews.com/2024/11/researchers-discover-bootkitty-first.html)
 - [Latest Multi-Stage Attack Scenarios with Real-World Examples](https://thehackernews.com/2024/11/latest-multi-stage-attack-scenarios.html)
-- [APT-C-60 Hackers Exploit StatCounter and Bitbucket in SpyGlace Malware Campaign](https://thehackernews.com/2024/11/apt-c-60-exploits-wps-office.html)
 <!-- BLOG-POST-LIST:END -->
