@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Protecting Tomorrow&#39;s World: Shaping the Cyber-Physical Future](https://thehackernews.com/2024/11/protecting-tomorrows-world-shaping.html)
 - [Phishing-as-a-Service &quot;Rockstar 2FA&quot; Targets Microsoft 365 Users with AiTM Attacks](https://thehackernews.com/2024/11/phishing-as-service-rockstar-2fa.html)
 - [Microsoft Fixes AI, Cloud, and ERP Security Flaws; One Exploited in Active Attacks](https://thehackernews.com/2024/11/microsoft-fixes-ai-cloud-and-erp.html)
 - [U.S. Citizen Sentenced for Spying on Behalf of China&#39;s Intelligence Agency](https://thehackernews.com/2024/11/us-citizen-sentenced-for-spying-on.html)
 - [Over Two Dozen Flaws Identified in Advantech Industrial Wi-Fi Access Points – Patch ASAP](https://thehackernews.com/2024/11/over-two-dozen-flaws-identified-in.html)
-- [The Future of Serverless Security in 2025: From Logs to Runtime Protection](https://thehackernews.com/2024/11/the-future-of-serverless-security-in.html)
 <!-- BLOG-POST-LIST:END -->
