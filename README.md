@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Million Android Users Hit by SpyLoan Malware in Loan Apps on Google Play](https://thehackernews.com/2024/12/8-million-android-users-hit-by-spyloan.html)
 - [INTERPOL Arrests 5,500 in Global Cybercrime Crackdown, Seizes Over $400 Million](https://thehackernews.com/2024/12/interpol-arrests-5500-in-global.html)
 - [Wanted Russian Hacker Linked to Hive and LockBit Ransomware Arrested](https://thehackernews.com/2024/11/wanted-russian-cybercriminal-linked-to.html)
 - [AI-Powered Fake News Campaign Targets Western Support for Ukraine and U.S. Elections](https://thehackernews.com/2024/11/ai-powered-fake-news-campaign-targets.html)
 - [Protecting Tomorrow&#39;s World: Shaping the Cyber-Physical Future](https://thehackernews.com/2024/11/protecting-tomorrows-world-shaping.html)
-- [Phishing-as-a-Service &quot;Rockstar 2FA&quot; Targets Microsoft 365 Users with AiTM Attacks](https://thehackernews.com/2024/11/phishing-as-service-rockstar-2fa.html)
 <!-- BLOG-POST-LIST:END -->
