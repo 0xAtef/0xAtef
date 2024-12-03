@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Kimsuky Hackers Use Russian Email Addresses for Credential Theft Attacks](https://thehackernews.com/2024/12/north-korean-kimsuky-hackers-use.html)
 - [Horns&amp;Hooves Campaign Delivers RATs via Fake Emails and JavaScript Payloads](https://thehackernews.com/2024/12/horns-campaign-delivers-rats-via-fake.html)
 - [A Guide to Securing AI App Development: Join This Cybersecurity Webinar](https://thehackernews.com/2024/12/a-guide-to-securing-ai-app-development.html)
 - [SmokeLoader Malware Resurfaces, Targeting Manufacturing and IT in Taiwan](https://thehackernews.com/2024/12/smokeloader-malware-resurfaces.html)
 - [THN Recap: Top Cybersecurity Threats, Tools and Tips &lpar;Nov 25 - Dec 1&rpar;](https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats.html)
-- [8 Million Android Users Hit by SpyLoan Malware in Loan Apps on Google Play](https://thehackernews.com/2024/12/8-million-android-users-hit-by-spyloan.html)
 <!-- BLOG-POST-LIST:END -->
