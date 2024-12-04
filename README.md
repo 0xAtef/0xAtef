@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Backdoor in Solana&#39;s Popular Web3.js npm Library](https://thehackernews.com/2024/12/researchers-uncover-backdoor-in-solanas.html)
 - [Joint Advisory Warns of PRC-Backed Cyber Espionage Targeting Telecom Networks](https://thehackernews.com/2024/12/joint-advisory-warns-of-prc-backed.html)
 - [Veeam Issues Patch for Critical RCE Vulnerability in Service Provider Console](https://thehackernews.com/2024/12/veeam-issues-patch-for-critical-rce.html)
 - [Critical SailPoint IdentityIQ Vulnerability Exposes Files to Unauthorized Access](https://thehackernews.com/2024/12/critical-sailpoint-identityiq.html)
 - [Hackers Use Corrupted ZIPs and Office Docs to Evade Antivirus and Email Defenses](https://thehackernews.com/2024/12/hackers-use-corrupted-zips-and-office.html)
-- [Cisco Warns of Exploitation of Decade-Old ASA WebVPN Vulnerability](https://thehackernews.com/2024/12/cisco-warns-of-exploitation-of-decade.html)
 <!-- BLOG-POST-LIST:END -->
