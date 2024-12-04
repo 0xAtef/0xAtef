@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Veeam Issues Patch for Critical RCE Vulnerability in Service Provider Console](https://thehackernews.com/2024/12/veeam-issues-patch-for-critical-rce.html)
+- [Critical SailPoint IdentityIQ Vulnerability Exposes Files to Unauthorized Access](https://thehackernews.com/2024/12/critical-sailpoint-identityiq.html)
+- [Hackers Use Corrupted ZIPs and Office Docs to Evade Antivirus and Email Defenses](https://thehackernews.com/2024/12/hackers-use-corrupted-zips-and-office.html)
 - [Cisco Warns of Exploitation of Decade-Old ASA WebVPN Vulnerability](https://thehackernews.com/2024/12/cisco-warns-of-exploitation-of-decade.html)
 - [NachoVPN Tool Exploits Flaws in Popular VPN Clients for System Compromise](https://thehackernews.com/2024/12/nachovpn-tool-exploits-flaws-in-popular.html)
-- [North Korean Kimsuky Hackers Use Russian Email Addresses for Credential Theft Attacks](https://thehackernews.com/2024/12/north-korean-kimsuky-hackers-use.html)
-- [Horns&amp;Hooves Campaign Delivers RATs via Fake Emails and JavaScript Payloads](https://thehackernews.com/2024/12/horns-campaign-delivers-rats-via-fake.html)
-- [A Guide to Securing AI App Development: Join This Cybersecurity Webinar](https://thehackernews.com/2024/12/a-guide-to-securing-ai-app-development.html)
 <!-- BLOG-POST-LIST:END -->
