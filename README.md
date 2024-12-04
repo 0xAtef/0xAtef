@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russia-Linked Turla Exploits Pakistani Hackers&#39; Servers to Target Afghan and Indian Entities](https://thehackernews.com/2024/12/russia-linked-turla-exploits-pakistani.html)
 - [Europol Dismantles Criminal Messaging Service MATRIX in Major Global Takedown](https://thehackernews.com/2024/12/europol-dismantles-criminal-messaging.html)
 - [7 PAM Best Practices to Secure Hybrid and Multi-Cloud Environments](https://thehackernews.com/2024/12/7-pam-best-practices-to-secure-hybrid.html)
 - [How to Plan a New &lpar;and Improved!&rpar; Password Policy for Real-World Security Challenges](https://thehackernews.com/2024/12/how-to-plan-new-and-improved-password.html)
 - [Researchers Uncover Backdoor in Solana&#39;s Popular Web3.js npm Library](https://thehackernews.com/2024/12/researchers-uncover-backdoor-in-solanas.html)
-- [Joint Advisory Warns of PRC-Backed Cyber Espionage Targeting Telecom Networks](https://thehackernews.com/2024/12/joint-advisory-warns-of-prc-backed.html)
 <!-- BLOG-POST-LIST:END -->
