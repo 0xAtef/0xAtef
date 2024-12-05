@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ANEL and NOOPDOOR Backdoors Weaponized in New MirrorFace Campaign Against Japan](https://thehackernews.com/2024/12/anel-and-noopdoor-backdoors-weaponized.html)
 - [NCA Busts Russian Crypto Networks Laundering Funds and Evading Sanctions](https://thehackernews.com/2024/12/nca-busts-russian-crypto-networks.html)
 - [CISA Warns of Active Exploitation of Flaws in Zyxel, ProjectSend, and CyberPanel](https://thehackernews.com/2024/12/cisa-warns-of-active-exploitation-of.html)
 - [Russia-Linked Turla Exploits Pakistani Hackers&#39; Servers to Target Afghan and Indian Entities](https://thehackernews.com/2024/12/russia-linked-turla-exploits-pakistani.html)
 - [Europol Dismantles Criminal Messaging Service MATRIX in Major Global Takedown](https://thehackernews.com/2024/12/europol-dismantles-criminal-messaging.html)
-- [7 PAM Best Practices to Secure Hybrid and Multi-Cloud Environments](https://thehackernews.com/2024/12/7-pam-best-practices-to-secure-hybrid.html)
 <!-- BLOG-POST-LIST:END -->
