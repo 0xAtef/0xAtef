@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Want to Grow Vulnerability Management into Exposure Management? Start Here!](https://thehackernews.com/2024/12/want-to-grow-vulnerability-management.html)
+- [Researchers Uncover 4-Month Cyberattack on U.S. Firm Linked to Chinese Hackers](https://thehackernews.com/2024/12/researchers-uncover-4-month-cyberattack.html)
 - [ANEL and NOOPDOOR Backdoors Weaponized in New MirrorFace Campaign Against Japan](https://thehackernews.com/2024/12/anel-and-noopdoor-backdoors-weaponized.html)
 - [NCA Busts Russian Crypto Networks Laundering Funds and Evading Sanctions](https://thehackernews.com/2024/12/nca-busts-russian-crypto-networks.html)
 - [CISA Warns of Active Exploitation of Flaws in Zyxel, ProjectSend, and CyberPanel](https://thehackernews.com/2024/12/cisa-warns-of-active-exploitation-of.html)
-- [Russia-Linked Turla Exploits Pakistani Hackers&#39; Servers to Target Afghan and Indian Entities](https://thehackernews.com/2024/12/russia-linked-turla-exploits-pakistani.html)
-- [Europol Dismantles Criminal Messaging Service MATRIX in Major Global Takedown](https://thehackernews.com/2024/12/europol-dismantles-criminal-messaging.html)
 <!-- BLOG-POST-LIST:END -->
