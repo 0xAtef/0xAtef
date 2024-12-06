@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [More_eggs MaaS Expands Operations with RevC2 Backdoor and Venom Loader](https://thehackernews.com/2024/12/moreeggs-maas-expands-operations-with.html)
 - [Hackers Leveraging Cloudflare Tunnels, DNS Fast-Flux to Hide GammaDrop Malware](https://thehackernews.com/2024/12/hackers-leveraging-cloudflare-tunnels.html)
 - [This $3,000 Android Trojan Targeting Banks and Cryptocurrency Exchanges](https://thehackernews.com/2024/12/this-3000-android-trojan-targeting.html)
 - [Critical Mitel MiCollab Flaw Exposes Systems to Unauthorized File and Admin Access](https://thehackernews.com/2024/12/critical-mitel-micollab-flaw-exposes.html)
 - [Europol Shuts Down Manson Market Fraud Marketplace, Seizes 50 Servers](https://thehackernews.com/2024/12/europol-shuts-down-manson-market-fraud.html)
-- [Want to Grow Vulnerability Management into Exposure Management? Start Here!](https://thehackernews.com/2024/12/want-to-grow-vulnerability-management.html)
 <!-- BLOG-POST-LIST:END -->
