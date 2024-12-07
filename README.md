@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn How Experts Secure Privileged Accounts—Proven PAS Strategies Webinar](https://thehackernews.com/2024/12/learn-how-experts-secure-privileged.html)
+- [Hackers Using Fake Video Conferencing Apps to Steal Web3 Professionals&#39; Data](https://thehackernews.com/2024/12/hackers-using-fake-video-conferencing.html)
 - [Romania Cancels Presidential Election Results After Alleged Russian Meddling on TikTok](https://thehackernews.com/2024/12/romania-cancels-presidential-election.html)
 - [FSB Uses Trojan App to Monitor Russian Programmer Accused of Supporting Ukraine](https://thehackernews.com/2024/12/fsb-uses-trojan-app-to-monitor-russian.html)
 - [Researchers Uncover Flaws in Popular Open-Source Machine Learning Frameworks](https://thehackernews.com/2024/12/researchers-uncover-flaws-in-popular.html)
-- [Conquering the Complexities of Modern BCDR](https://thehackernews.com/2024/12/conquering-complexities-of-modern-bcdr.html)
-- [More_eggs MaaS Expands Operations with RevC2 Backdoor and Venom Loader](https://thehackernews.com/2024/12/moreeggs-maas-expands-operations-with.html)
 <!-- BLOG-POST-LIST:END -->
