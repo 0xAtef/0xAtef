@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Prompt Injection Vulnerabilities in DeepSeek and Claude AI](https://thehackernews.com/2024/12/researchers-uncover-prompt-injection.html)
+- [Seven Bolt-Ons to Make Your Entra ID More Secure for Critical Sessions](https://thehackernews.com/2024/12/seven-bolt-ons-to-make-your-entra-id.html)
+- [Socks5Systemz Botnet Powers Illegal Proxy Service with 85,000+ Hacked Devices](https://thehackernews.com/2024/12/socks5systemz-botnet-powers-illegal.html)
 - [Learn How Experts Secure Privileged Accounts—Proven PAS Strategies Webinar](https://thehackernews.com/2024/12/learn-how-experts-secure-privileged.html)
 - [Ultralytics AI Library Compromised: Cryptocurrency Miner Found in PyPI Versions](https://thehackernews.com/2024/12/ultralytics-ai-library-compromised.html)
-- [Hackers Using Fake Video Conferencing Apps to Steal Web3 Professionals&#39; Data](https://thehackernews.com/2024/12/hackers-using-fake-video-conferencing.html)
-- [Romania Cancels Presidential Election Results After Alleged Russian Meddling on TikTok](https://thehackernews.com/2024/12/romania-cancels-presidential-election.html)
-- [FSB Uses Trojan App to Monitor Russian Programmer Accused of Supporting Ukraine](https://thehackernews.com/2024/12/fsb-uses-trojan-app-to-monitor-russian.html)
 <!-- BLOG-POST-LIST:END -->
