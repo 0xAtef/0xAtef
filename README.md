@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Phone Phishing Gang Busted: Eight Arrested in Belgium and Netherlands](https://thehackernews.com/2024/12/phone-phishing-gang-busted-eight.html)
+- [Hackers Weaponize Visual Studio Code Remote Tunnels for Cyber Espionage](https://thehackernews.com/2024/12/hackers-weaponize-visual-studio-code.html)
 - [Ongoing Phishing and Malware Campaigns in December 2024](https://thehackernews.com/2024/12/ongoing-phishing-and-malware-campaigns.html)
 - [CERT-UA Warns of Phishing Attacks Targeting Ukraine’s Defense and Security Force](https://thehackernews.com/2024/12/cert-ua-warns-of-phishing-attacks.html)
 - [Black Basta Ransomware Evolves with Email Bombing, QR Codes, and Social Engineering](https://thehackernews.com/2024/12/black-basta-ransomware-evolves-with.html)
-- [⚡ THN Recap: Top Cybersecurity Threats, Tools and Tips &lpar;Dec 2 - 8&rpar;](https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats_9.html)
-- [Researchers Uncover Prompt Injection Vulnerabilities in DeepSeek and Claude AI](https://thehackernews.com/2024/12/researchers-uncover-prompt-injection.html)
 <!-- BLOG-POST-LIST:END -->
