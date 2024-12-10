@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ongoing Phishing and Malware Campaigns in December 2024](https://thehackernews.com/2024/12/ongoing-phishing-and-malware-campaigns.html)
+- [CERT-UA Warns of Phishing Attacks Targeting Ukraine’s Defense and Security Force](https://thehackernews.com/2024/12/cert-ua-warns-of-phishing-attacks.html)
 - [Black Basta Ransomware Evolves with Email Bombing, QR Codes, and Social Engineering](https://thehackernews.com/2024/12/black-basta-ransomware-evolves-with.html)
 - [⚡ THN Recap: Top Cybersecurity Threats, Tools and Tips &lpar;Dec 2 - 8&rpar;](https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats_9.html)
 - [Researchers Uncover Prompt Injection Vulnerabilities in DeepSeek and Claude AI](https://thehackernews.com/2024/12/researchers-uncover-prompt-injection.html)
-- [Seven Bolt-Ons to Make Your Entra ID More Secure for Critical Sessions](https://thehackernews.com/2024/12/seven-bolt-ons-to-make-your-entra-id.html)
-- [Socks5Systemz Botnet Powers Illegal Proxy Service with 85,000+ Hacked Devices](https://thehackernews.com/2024/12/socks5systemz-botnet-powers-illegal.html)
 <!-- BLOG-POST-LIST:END -->
