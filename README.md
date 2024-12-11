@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Secret Blizzard Deploys Kazuar Backdoor in Ukraine Using Amadey Malware-as-a-Service](https://thehackernews.com/2024/12/secret-blizzard-deploys-kazuar-backdoor.html)
 - [New Malware Technique Could Exploit Windows UI Framework to Evade EDR Tools](https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html)
 - [Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts](https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html)
 - [ZLoader Malware Returns With DNS Tunneling to Stealthily Mask C2 Comms](https://thehackernews.com/2024/12/zloader-malware-returns-with-dns.html)
 - [Chinese EagleMsgSpy Spyware Found Exploiting Mobile Devices Since 2017](https://thehackernews.com/2024/12/chinese-eaglemsgspy-spyware-found.html)
-- [What is Nudge Security and How Does it Work?](https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html)
 <!-- BLOG-POST-LIST:END -->
