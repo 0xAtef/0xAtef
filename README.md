@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts](https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html)
+- [ZLoader Malware Returns With DNS Tunneling to Stealthily Mask C2 Comms](https://thehackernews.com/2024/12/zloader-malware-returns-with-dns.html)
 - [Chinese EagleMsgSpy Spyware Found Exploiting Mobile Devices Since 2017](https://thehackernews.com/2024/12/chinese-eaglemsgspy-spyware-found.html)
 - [What is Nudge Security and How Does it Work?](https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html)
 - [Researchers Uncover Espionage Tactics of China-Based APT Groups in Southeast Asia](https://thehackernews.com/2024/12/researchers-uncover-espionage-tactics.html)
-- [Microsoft Fixes 72 Flaws, Including Patch for Actively Exploited CLFS Vulnerability](https://thehackernews.com/2024/12/microsoft-fixes-72-flaws-including.html)
-- [U.S. Charges Chinese Hacker for Exploiting Zero-Day in 81,000 Sophos Firewalls](https://thehackernews.com/2024/12/us-charges-chinese-hacker-for.html)
 <!-- BLOG-POST-LIST:END -->
