@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Hunk Companion Plugin Flaw Exploited to Silently Install Vulnerable Plugins](https://thehackernews.com/2024/12/wordpress-hunk-companion-plugin-flaw.html)
 - [Europol Dismantles 27 DDoS Attack Platforms Across 15 Nations; Admins Arrested](https://thehackernews.com/2024/12/europol-dismantles-27-ddos-attack.html)
 - [Secret Blizzard Deploys Kazuar Backdoor in Ukraine Using Amadey Malware-as-a-Service](https://thehackernews.com/2024/12/secret-blizzard-deploys-kazuar-backdoor.html)
 - [New Malware Technique Could Exploit Windows UI Framework to Evade EDR Tools](https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html)
 - [Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts](https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html)
-- [ZLoader Malware Returns With DNS Tunneling to Stealthily Mask C2 Comms](https://thehackernews.com/2024/12/zloader-malware-returns-with-dns.html)
 <!-- BLOG-POST-LIST:END -->
