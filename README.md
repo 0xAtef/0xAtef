@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Over 300K Prometheus Instances Exposed: Credentials and API Keys Leaking Online](https://thehackernews.com/2024/12/296000-prometheus-instances-exposed.html)
+- [Gamaredon Deploys Android Spyware &quot;BoneSpy&quot; and &quot;PlainGnome&quot; in Former Soviet States](https://thehackernews.com/2024/12/gamaredon-deploys-android-spyware.html)
 - [Researchers Uncover Symlink Exploit Allowing TCC Bypass in iOS and macOS](https://thehackernews.com/2024/12/researchers-uncover-symlink-exploit.html)
 - [SaaS Budget Planning Guide for IT Professionals](https://thehackernews.com/2024/12/saas-budget-planning-guide-for-it.html)
 - [WordPress Hunk Companion Plugin Flaw Exploited to Silently Install Vulnerable Plugins](https://thehackernews.com/2024/12/wordpress-hunk-companion-plugin-flaw.html)
-- [Europol Dismantles 27 DDoS Attack Platforms Across 15 Nations; Admins Arrested](https://thehackernews.com/2024/12/europol-dismantles-27-ddos-attack.html)
-- [Secret Blizzard Deploys Kazuar Backdoor in Ukraine Using Amadey Malware-as-a-Service](https://thehackernews.com/2024/12/secret-blizzard-deploys-kazuar-backdoor.html)
 <!-- BLOG-POST-LIST:END -->
