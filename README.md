@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iran-Linked IOCONTROL Malware Targets SCADA and Linux-Based IoT Platforms](https://thehackernews.com/2024/12/iran-linked-iocontrol-malware-targets.html)
+- [How to Generate a CrowdStrike RFM Report With AI in Tines](https://thehackernews.com/2024/12/how-to-generate-crowdstrike-rfm-report.html)
 - [New Linux Rootkit PUMAKIT Uses Advanced Stealth Techniques to Evade Detection](https://thehackernews.com/2024/12/new-linux-rootkit-pumakit-uses-advanced.html)
 - [FBI Busts Rydox Marketplace with 7,600 PII Sales, Cryptocurrency Worth $225K Seized](https://thehackernews.com/2024/12/fbi-busts-rydox-marketplace-with-7600.html)
 - [Over 300K Prometheus Instances Exposed: Credentials and API Keys Leaking Online](https://thehackernews.com/2024/12/296000-prometheus-instances-exposed.html)
-- [Gamaredon Deploys Android Spyware &quot;BoneSpy&quot; and &quot;PlainGnome&quot; in Former Soviet States](https://thehackernews.com/2024/12/gamaredon-deploys-android-spyware.html)
-- [Researchers Uncover Symlink Exploit Allowing TCC Bypass in iOS and macOS](https://thehackernews.com/2024/12/researchers-uncover-symlink-exploit.html)
 <!-- BLOG-POST-LIST:END -->
