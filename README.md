@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FBI Busts Rydox Marketplace with 7,600 PII Sales, Cryptocurrency Worth $225K Seized](https://thehackernews.com/2024/12/fbi-busts-rydox-marketplace-with-7600.html)
 - [Over 300K Prometheus Instances Exposed: Credentials and API Keys Leaking Online](https://thehackernews.com/2024/12/296000-prometheus-instances-exposed.html)
 - [Gamaredon Deploys Android Spyware &quot;BoneSpy&quot; and &quot;PlainGnome&quot; in Former Soviet States](https://thehackernews.com/2024/12/gamaredon-deploys-android-spyware.html)
 - [Researchers Uncover Symlink Exploit Allowing TCC Bypass in iOS and macOS](https://thehackernews.com/2024/12/researchers-uncover-symlink-exploit.html)
 - [SaaS Budget Planning Guide for IT Professionals](https://thehackernews.com/2024/12/saas-budget-planning-guide-for-it.html)
-- [WordPress Hunk Companion Plugin Flaw Exploited to Silently Install Vulnerable Plugins](https://thehackernews.com/2024/12/wordpress-hunk-companion-plugin-flaw.html)
 <!-- BLOG-POST-LIST:END -->
