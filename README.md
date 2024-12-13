@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [390,000+ WordPress Credentials Stolen via Malicious GitHub Repository Hosting PoC Exploits](https://thehackernews.com/2024/12/390000-wordpress-credentials-stolen-via.html)
 - [Critical OpenWrt Vulnerability Exposes Devices to Malicious Firmware Injection](https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html)
 - [DoJ Indicts 14 North Koreans for $88M IT Worker Fraud Scheme Over Six Years](https://thehackernews.com/2024/12/doj-indicts-14-north-koreans-for-88m-it.html)
 - [Iran-Linked IOCONTROL Malware Targets SCADA and Linux-Based IoT Platforms](https://thehackernews.com/2024/12/iran-linked-iocontrol-malware-targets.html)
 - [How to Generate a CrowdStrike RFM Report With AI in Tines](https://thehackernews.com/2024/12/how-to-generate-crowdstrike-rfm-report.html)
-- [New Linux Rootkit PUMAKIT Uses Advanced Stealth Techniques to Evade Detection](https://thehackernews.com/2024/12/new-linux-rootkit-pumakit-uses-advanced.html)
 <!-- BLOG-POST-LIST:END -->
