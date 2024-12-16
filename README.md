@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NoviSpy Spyware Installed on Journalist&#39;s Phone After Unlocking It With Cellebrite Tool](https://thehackernews.com/2024/12/novispy-spyware-installed-on.html)
+- [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips](https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats_16.html)
 - [Data Governance in DevOps: Ensuring Compliance in the AI Era](https://thehackernews.com/2024/12/data-governance-in-devops-ensuring.html)
 - [New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide](https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html)
 - [New Glutton Malware Exploits Popular PHP Frameworks Like Laravel and ThinkPHP](https://thehackernews.com/2024/12/new-glutton-malware-exploits-popular.html)
-- [Ukrainian Minors Recruited for Cyber Ops and Reconnaissance in Russian Airstrikes](https://thehackernews.com/2024/12/ukrainian-minors-recruited-for-cyber.html)
-- [Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action](https://thehackernews.com/2024/12/germany-disrupts-badbox-malware-on.html)
 <!-- BLOG-POST-LIST:END -->
