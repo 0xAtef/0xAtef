@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide](https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html)
+- [New Glutton Malware Exploits Popular PHP Frameworks Like Laravel and ThinkPHP](https://thehackernews.com/2024/12/new-glutton-malware-exploits-popular.html)
 - [Ukrainian Minors Recruited for Cyber Ops and Reconnaissance in Russian Airstrikes](https://thehackernews.com/2024/12/ukrainian-minors-recruited-for-cyber.html)
 - [Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action](https://thehackernews.com/2024/12/germany-disrupts-badbox-malware-on.html)
 - [Thai Officials Targeted in Yokai Backdoor Campaign Using DLL Side-Loading Techniques](https://thehackernews.com/2024/12/thai-officials-targeted-in-yokai.html)
-- [390,000+ WordPress Credentials Stolen via Malicious GitHub Repository Hosting PoC Exploits](https://thehackernews.com/2024/12/390000-wordpress-credentials-stolen-via.html)
-- [Critical OpenWrt Vulnerability Exposes Devices to Malicious Firmware Injection](https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html)
 <!-- BLOG-POST-LIST:END -->
