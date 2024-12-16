@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ukrainian Minors Recruited for Cyber Ops and Reconnaissance in Russian Airstrikes](https://thehackernews.com/2024/12/ukrainian-minors-recruited-for-cyber.html)
 - [Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action](https://thehackernews.com/2024/12/germany-disrupts-badbox-malware-on.html)
 - [Thai Officials Targeted in Yokai Backdoor Campaign Using DLL Side-Loading Techniques](https://thehackernews.com/2024/12/thai-officials-targeted-in-yokai.html)
 - [390,000+ WordPress Credentials Stolen via Malicious GitHub Repository Hosting PoC Exploits](https://thehackernews.com/2024/12/390000-wordpress-credentials-stolen-via.html)
 - [Critical OpenWrt Vulnerability Exposes Devices to Malicious Firmware Injection](https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html)
-- [DoJ Indicts 14 North Koreans for $88M IT Worker Fraud Scheme Over Six Years](https://thehackernews.com/2024/12/doj-indicts-14-north-koreans-for-88m-it.html)
 <!-- BLOG-POST-LIST:END -->
