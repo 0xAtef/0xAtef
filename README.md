@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Even Great Companies Get Breached — Find Out Why and How to Stop It](https://thehackernews.com/2024/12/even-great-companies-get-breached-find.html)
 - [Bitter APT Targets Turkish Defense Sector with WmRAT and MiyaRAT Malware](https://thehackernews.com/2024/12/bitter-apt-targets-turkish-defense.html)
 - [5 Practical Techniques for Effective Cyber Threat Hunting](https://thehackernews.com/2024/12/5-practical-techniques-for-effective.html)
 - [Hackers Exploit Webview2 to Deploy CoinLurker Malware and Evade Security Detection](https://thehackernews.com/2024/12/hackers-exploit-webview2-to-deploy.html)
 - [The Mask APT Resurfaces with Sophisticated Multi-Platform Malware Arsenal](https://thehackernews.com/2024/12/the-mask-apt-resurfaces-with.html)
-- [CISA and FBI Raise Alerts on Exploited Flaws and Expanding HiatusRAT Campaign](https://thehackernews.com/2024/12/cisa-and-fbi-raise-alerts-on-exploited.html)
 <!-- BLOG-POST-LIST:END -->
