@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Mask APT Resurfaces with Sophisticated Multi-Platform Malware Arsenal](https://thehackernews.com/2024/12/the-mask-apt-resurfaces-with.html)
+- [CISA and FBI Raise Alerts on Exploited Flaws and Expanding HiatusRAT Campaign](https://thehackernews.com/2024/12/cisa-and-fbi-raise-alerts-on-exploited.html)
 - [DeceptionAds Delivers 1M+ Daily Impressions via 3,000 Sites, Fake CAPTCHA Pages](https://thehackernews.com/2024/12/deceptionads-delivers-1m-daily.html)
 - [NoviSpy Spyware Installed on Journalist&#39;s Phone After Unlocking It With Cellebrite Tool](https://thehackernews.com/2024/12/novispy-spyware-installed-on.html)
 - [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips](https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats_16.html)
-- [Data Governance in DevOps: Ensuring Compliance in the AI Era](https://thehackernews.com/2024/12/data-governance-in-devops-ensuring.html)
-- [New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide](https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html)
 <!-- BLOG-POST-LIST:END -->
