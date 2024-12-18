@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Fined €251 Million for 2018 Data Breach Impacting 29 Million Accounts](https://thehackernews.com/2024/12/meta-fined-251-million-for-2018-data.html)
+- [Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected](https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html)
 - [Attackers Exploit Microsoft Teams and AnyDesk to Deploy DarkGate Malware](https://thehackernews.com/2024/12/attackers-exploit-microsoft-teams-and.html)
 - [Hackers Use Microsoft MSC Files to Deploy Obfuscated Backdoor in Pakistan Attacks](https://thehackernews.com/2024/12/hackers-use-microsoft-msc-files-to.html)
 - [Even Great Companies Get Breached — Find Out Why and How to Stop It](https://thehackernews.com/2024/12/even-great-companies-get-breached-find.html)
-- [Bitter APT Targets Turkish Defense Sector with WmRAT and MiyaRAT Malware](https://thehackernews.com/2024/12/bitter-apt-targets-turkish-defense.html)
-- [5 Practical Techniques for Effective Cyber Threat Hunting](https://thehackernews.com/2024/12/5-practical-techniques-for-effective.html)
 <!-- BLOG-POST-LIST:END -->
