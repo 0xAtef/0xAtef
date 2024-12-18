@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Not Your Old ActiveState: Introducing our End-to-End OS Platform](https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html)
+- [APT29 Hackers Target High-Value Victims Using Rogue RDP Servers and PyRDP](https://thehackernews.com/2024/12/apt29-hackers-target-high-value-victims.html)
+- [ONLY Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&amp;CK Evaluation](https://thehackernews.com/2024/12/only-cynet-delivers-100-protection-and.html)
 - [INTERPOL Pushes for &quot;Romance Baiting&quot; to Replace &quot;Pig Butchering&quot; in Scam Discourse](https://thehackernews.com/2024/12/interpol-pushes-for-romance-baiting-to.html)
 - [Meta Fined €251 Million for 2018 Data Breach Impacting 29 Million Accounts](https://thehackernews.com/2024/12/meta-fined-251-million-for-2018-data.html)
-- [Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected](https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html)
-- [Attackers Exploit Microsoft Teams and AnyDesk to Deploy DarkGate Malware](https://thehackernews.com/2024/12/attackers-exploit-microsoft-teams-and.html)
-- [Hackers Use Microsoft MSC Files to Deploy Obfuscated Backdoor in Pakistan Attacks](https://thehackernews.com/2024/12/hackers-use-microsoft-msc-files-to.html)
 <!-- BLOG-POST-LIST:END -->
