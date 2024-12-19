@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Mandates Cloud Security for Federal Agencies by 2025 Under Binding Directive 25-01](https://thehackernews.com/2024/12/cisa-mandates-cloud-security-for.html)
+- [Dutch DPA Fines Netflix €4.75 Million for GDPR Violations Over Data Transparency](https://thehackernews.com/2024/12/dutch-dpa-fines-netflix-475-million-for.html)
+- [UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App](https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html)
 - [HubPhish Abuses HubSpot Tools to Target 20,000 European Users for Credential Theft](https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html)
 - [Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected](https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html)
-- [Not Your Old ActiveState: Introducing our End-to-End OS Platform](https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html)
-- [APT29 Hackers Target High-Value Victims Using Rogue RDP Servers and PyRDP](https://thehackernews.com/2024/12/apt29-hackers-target-high-value-victims.html)
-- [ONLY Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&amp;CK Evaluation](https://thehackernews.com/2024/12/only-cynet-delivers-100-protection-and.html)
 <!-- BLOG-POST-LIST:END -->
