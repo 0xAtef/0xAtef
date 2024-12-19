@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Thousands Download Malicious npm Libraries Impersonating Legitimate Tools](https://thehackernews.com/2024/12/thousands-download-malicious-npm.html)
 - [Juniper Warns of Mirai Botnet Targeting SSR Devices with Default Passwords](https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html)
 - [Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits](https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html)
 - [CISA Mandates Cloud Security for Federal Agencies by 2025 Under Binding Directive 25-01](https://thehackernews.com/2024/12/cisa-mandates-cloud-security-for.html)
 - [Dutch DPA Fines Netflix €4.75 Million for GDPR Violations Over Data Transparency](https://thehackernews.com/2024/12/dutch-dpa-fines-netflix-475-million-for.html)
-- [UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App](https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html)
 <!-- BLOG-POST-LIST:END -->
