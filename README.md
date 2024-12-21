@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LockBit Developer Rostislav Panev Charged for Billions in Global Ransomware Damages](https://thehackernews.com/2024/12/lockbit-developer-rostislav-panev.html)
 - [Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware](https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html)
 - [Rspack npm Packages Compromised with Crypto Mining Malware in Supply Chain Attack](https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html)
 - [Sophos Issues Hotfixes for Critical Firewall Flaws: Update to Prevent Exploitation](https://thehackernews.com/2024/12/sophos-fixes-3-critical-firewall-flaws.html)
 - [Hackers Exploiting Critical Fortinet EMS Vulnerability to Deploy Remote Access Tools](https://thehackernews.com/2024/12/hackers-exploiting-critical-fortinet.html)
-- [CISA Adds Critical Flaw in BeyondTrust Software to Exploited Vulnerabilities List](https://thehackernews.com/2024/12/cisa-adds-critical-flaw-in-beyondtrust.html)
 <!-- BLOG-POST-LIST:END -->
