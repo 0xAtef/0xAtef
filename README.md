@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Judge Rules Against NSO Group in WhatsApp Pegasus Spyware Case](https://thehackernews.com/2024/12/us-judge-rules-against-nso-group-in.html)
 - [Italy Fines OpenAI €15 Million for ChatGPT GDPR Data Privacy Violations](https://thehackernews.com/2024/12/italy-fines-openai-15-million-for.html)
 - [LockBit Developer Rostislav Panev Charged for Billions in Global Ransomware Damages](https://thehackernews.com/2024/12/lockbit-developer-rostislav-panev.html)
 - [Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware](https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html)
 - [Rspack npm Packages Compromised with Crypto Mining Malware in Supply Chain Attack](https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html)
-- [Sophos Issues Hotfixes for Critical Firewall Flaws: Update to Prevent Exploitation](https://thehackernews.com/2024/12/sophos-fixes-3-critical-firewall-flaws.html)
 <!-- BLOG-POST-LIST:END -->
