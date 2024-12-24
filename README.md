@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks](https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html)
 - [AI Could Generate 10,000 Malware Variants, Evading Detection in 88% of Case](https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html)
 - [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips](https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity.html)
 - [Rockstar2FA Collapse Fuels Expansion of FlowerStorm Phishing-as-a-Service](https://thehackernews.com/2024/12/rockstar2fa-collapse-fuels-expansion-of.html)
 - [Top 10 Cybersecurity Trends to Expect in 2025](https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html)
-- [U.S. Judge Rules Against NSO Group in WhatsApp Pegasus Spyware Case](https://thehackernews.com/2024/12/us-judge-rules-against-nso-group-in.html)
 <!-- BLOG-POST-LIST:END -->
