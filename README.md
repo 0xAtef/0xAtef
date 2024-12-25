@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruijie Networks&#39; Cloud Platform Flaws Could Expose 50,000 Devices to Remote Attacks](https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html)
+- [Critical SQL Injection Vulnerability in Apache Traffic Control Rated 9.9 CVSS — Patch Now](https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html)
 - [Iran&#39;s Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware](https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html)
 - [Researchers Uncover PyPI Packages Stealing Keystrokes and Hijacking Social Accounts](https://thehackernews.com/2024/12/researchers-uncover-pypi-packages.html)
 - [North Korean Hackers Pull Off $308M Bitcoin Heist from Crypto Firm DMM Bitcoin](https://thehackernews.com/2024/12/north-korean-hackers-pull-off-308m.html)
-- [CISA Adds Acclaim USAHERDS Vulnerability to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2024/12/cisa-adds-acclaim-usaherds.html)
-- [Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks](https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html)
 <!-- BLOG-POST-LIST:END -->
