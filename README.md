@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iran&#39;s Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware](https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html)
 - [Researchers Uncover PyPI Packages Stealing Keystrokes and Hijacking Social Accounts](https://thehackernews.com/2024/12/researchers-uncover-pypi-packages.html)
 - [North Korean Hackers Pull Off $308M Bitcoin Heist from Crypto Firm DMM Bitcoin](https://thehackernews.com/2024/12/north-korean-hackers-pull-off-308m.html)
 - [CISA Adds Acclaim USAHERDS Vulnerability to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2024/12/cisa-adds-acclaim-usaherds.html)
 - [Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks](https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html)
-- [AI Could Generate 10,000 Malware Variants, Evading Detection in 88% of Case](https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html)
 <!-- BLOG-POST-LIST:END -->
