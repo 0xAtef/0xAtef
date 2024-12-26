@@ -173,7 +173,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ruijie Networks&#39; Cloud Platform Flaws Could Expose 50,000 Devices to Remote Attacks](https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html)
+- [Ruijie Networks&#39; Cloud Platform Flaws Could&#39;ve Exposed 50,000 Devices to Remote Attacks](https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html)
 - [Critical SQL Injection Vulnerability in Apache Traffic Control Rated 9.9 CVSS — Patch Now](https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html)
 - [Iran&#39;s Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware](https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html)
 - [Researchers Uncover PyPI Packages Stealing Keystrokes and Hijacking Social Accounts](https://thehackernews.com/2024/12/researchers-uncover-pypi-packages.html)
