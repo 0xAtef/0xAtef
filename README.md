@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign](https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html)
 - [Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia](https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html)
 - [Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately](https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html)
 - [FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks](https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html)
 - [Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization](https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html)
-- [Brazilian Hacker Charged for Extorting $3.2M in Bitcoin After Breaching 300,000 Accounts](https://thehackernews.com/2024/12/brazilian-hacker-charged-for-extorting.html)
 <!-- BLOG-POST-LIST:END -->
