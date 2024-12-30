@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New HIPAA Rules Mandate 72-Hour Data Restoration and Annual Compliance Audits](https://thehackernews.com/2024/12/new-hipaa-rules-mandate-72-hour-data.html)
+- [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips](https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity_0611565081.html)
 - [When Good Extensions Go Bad: Takeaways from the Campaign Targeting Browser Extensions](https://thehackernews.com/2024/12/when-good-extensions-go-bad-takeaways.html)
 - [16 Chrome Extensions Hacked, Exposing Over 600,000 Users to Data Theft](https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html)
 - [15,000+ Four-Faith Routers Exposed to New Exploit Due to Default Credentials](https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html)
-- [North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign](https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html)
-- [Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia](https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html)
 <!-- BLOG-POST-LIST:END -->
