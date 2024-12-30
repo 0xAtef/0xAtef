@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Good Extensions Go Bad: Takeaways from the Campaign Targeting Browser Extensions](https://thehackernews.com/2024/12/when-good-extensions-go-bad-takeaways.html)
 - [16 Chrome Extensions Hacked, Exposing Over 600,000 Users to Data Theft](https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html)
 - [15,000+ Four-Faith Routers Exposed to New Exploit Due to Default Credentials](https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html)
 - [North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign](https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html)
 - [Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia](https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html)
-- [Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately](https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html)
 <!-- BLOG-POST-LIST:END -->
