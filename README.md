@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iranian and Russian Entities Sanctioned for Election Interference Using AI and Cyber Tactics](https://thehackernews.com/2025/01/iranian-and-russian-entities-sanctioned.html)
 - [New U.S. DoJ Rule Halts Bulk Data Transfers to Adversarial Nations to Protect Privacy](https://thehackernews.com/2024/12/new-us-doj-rule-halts-bulk-data.html)
 - [Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents](https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html)
 - [Misconfigured Kubernetes RBAC in Azure Airflow Could Expose Entire Cluster to Exploitation](https://thehackernews.com/2024/12/misconfigured-kubernetes-rbac-in-azure.html)
 - [New HIPAA Rules Mandate 72-Hour Data Restoration and Annual Compliance Audits](https://thehackernews.com/2024/12/new-hipaa-rules-mandate-72-hour-data.html)
-- [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips](https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity_0611565081.html)
 <!-- BLOG-POST-LIST:END -->
