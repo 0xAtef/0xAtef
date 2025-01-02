@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Severe Security Flaws Patched in Microsoft Dynamics 365 and Power Apps Web API](https://thehackernews.com/2025/01/severe-security-flaws-patched-in.html)
 - [Cross-Domain Attacks: A Growing Threat to Modern Security and How to Combat Them](https://thehackernews.com/2025/01/cross-domain-attacks-growing-threat-to.html)
 - [Malicious Obfuscated NPM Package Disguised as an Ethereum Tool Deploys Quasar RAT](https://thehackernews.com/2025/01/malicious-obfuscated-npm-package.html)
 - [Three Russian-German Nationals Charged with Espionage for Russian Secret Service](https://thehackernews.com/2025/01/three-russian-german-nationals-charged.html)
 - [New &quot;DoubleClickjacking&quot; Exploit Bypasses Clickjacking Protections on Major Websites](https://thehackernews.com/2025/01/new-doubleclickjacking-exploit-bypasses.html)
-- [Iranian and Russian Entities Sanctioned for Election Interference Using AI and Cyber Tactics](https://thehackernews.com/2025/01/iranian-and-russian-entities-sanctioned.html)
 <!-- BLOG-POST-LIST:END -->
