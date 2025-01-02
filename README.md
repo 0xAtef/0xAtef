@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Obfuscated NPM Package Disguised as an Ethereum Tool Deploys Quasar RAT](https://thehackernews.com/2025/01/malicious-obfuscated-npm-package.html)
+- [Three Russian-German Nationals Charged with Espionage for Russian Secret Service](https://thehackernews.com/2025/01/three-russian-german-nationals-charged.html)
 - [New &quot;DoubleClickjacking&quot; Exploit Bypasses Clickjacking Protections on Major Websites](https://thehackernews.com/2025/01/new-doubleclickjacking-exploit-bypasses.html)
 - [Iranian and Russian Entities Sanctioned for Election Interference Using AI and Cyber Tactics](https://thehackernews.com/2025/01/iranian-and-russian-entities-sanctioned.html)
 - [New U.S. DoJ Rule Halts Bulk Data Transfers to Adversarial Nations to Protect Privacy](https://thehackernews.com/2024/12/new-us-doj-rule-halts-bulk-data.html)
-- [Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents](https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html)
-- [Misconfigured Kubernetes RBAC in Azure Airflow Could Expose Entire Cluster to Exploitation](https://thehackernews.com/2024/12/misconfigured-kubernetes-rbac-in-azure.html)
 <!-- BLOG-POST-LIST:END -->
