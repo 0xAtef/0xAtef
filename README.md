@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Treasury Sanctions Beijing Cybersecurity Firm for State-Backed Hacking Campaigns](https://thehackernews.com/2025/01/us-treasury-sanctions-beijing.html)
 - [New AI Jailbreak Method &#39;Bad Likert Judge&#39; Boosts Attack Success Rates by Over 60%](https://thehackernews.com/2025/01/new-ai-jailbreak-method-bad-likert.html)
 - [LDAPNightmare PoC Exploit Crashes LSASS and Reboots Windows Domain Controllers](https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html)
 - [Critical Deadline: Update Old .NET Domains Before January 7, 2025 to Avoid Service Disruption](https://thehackernews.com/2025/01/critical-deadline-update-old-net.html)
 - [Apple to Pay Siri Users $20 Per Device in Settlement Over Accidental Siri Privacy Violations](https://thehackernews.com/2025/01/apple-to-pay-siri-users-20-per-device.html)
-- [Severe Security Flaws Patched in Microsoft Dynamics 365 and Power Apps Web API](https://thehackernews.com/2025/01/severe-security-flaws-patched-in.html)
 <!-- BLOG-POST-LIST:END -->
