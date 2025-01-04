@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Nuclei Vulnerability Enabling Signature Bypass and Code Execution](https://thehackernews.com/2025/01/researchers-uncover-nuclei.html)
 - [PLAYFULGHOST Delivered via Phishing and SEO Poisoning in Trojanized VPN Apps](https://thehackernews.com/2025/01/playfulghost-delivered-via-phishing-and.html)
 - [U.S. Sanctions Chinese Cybersecurity Firm for State-Backed Hacking Campaigns](https://thehackernews.com/2025/01/us-treasury-sanctions-beijing.html)
 - [New AI Jailbreak Method &#39;Bad Likert Judge&#39; Boosts Attack Success Rates by Over 60%](https://thehackernews.com/2025/01/new-ai-jailbreak-method-bad-likert.html)
 - [LDAPNightmare PoC Exploit Crashes LSASS and Reboots Windows Domain Controllers](https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html)
-- [Critical Deadline: Update Old .NET Domains Before January 7, 2025 to Avoid Service Disruption](https://thehackernews.com/2025/01/critical-deadline-update-old-net.html)
 <!-- BLOG-POST-LIST:END -->
