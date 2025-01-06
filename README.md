@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Russian-Speaking Attackers Target Ethereum Devs with Fake Hardhat npm Packages](https://thehackernews.com/2025/01/russian-speaking-attackers-target.html)
+- [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [6 Jan]](https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity.html)
+- [From $22M in Ransom to +100M Stolen Records: 2025&#39;s All-Star SaaS Threat Actors to Watch](https://thehackernews.com/2025/01/from-22m-in-ransom-to-100m-stolen.html)
+- [FireScam Android Malware Poses as Telegram Premium to Steal Data and Control Devices](https://thehackernews.com/2025/01/firescam-android-malware-poses-as.html)
+- [Cybercriminals Target Ethereum Developers with Fake Hardhat npm Packages](https://thehackernews.com/2025/01/russian-speaking-attackers-target.html)
 - [Researchers Uncover Nuclei Vulnerability Enabling Signature Bypass and Code Execution](https://thehackernews.com/2025/01/researchers-uncover-nuclei.html)
-- [PLAYFULGHOST Delivered via Phishing and SEO Poisoning in Trojanized VPN Apps](https://thehackernews.com/2025/01/playfulghost-delivered-via-phishing-and.html)
-- [U.S. Sanctions Chinese Cybersecurity Firm for State-Backed Hacking Campaigns](https://thehackernews.com/2025/01/us-treasury-sanctions-beijing.html)
-- [New AI Jailbreak Method &#39;Bad Likert Judge&#39; Boosts Attack Success Rates by Over 60%](https://thehackernews.com/2025/01/new-ai-jailbreak-method-bad-likert.html)
 <!-- BLOG-POST-LIST:END -->
