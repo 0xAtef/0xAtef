@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Major Security Flaw in Illumina iSeq 100 DNA Sequencers](https://thehackernews.com/2025/01/researchers-uncover-major-security-flaw.html)
 - [Farewell to the Fallen: The Cybersecurity Stars We Lost Last Year](https://thehackernews.com/2025/01/farewell-to-fallen-cybersecurity-stars.html)
 - [New EAGERBEE Variant Targets ISPs and Governments with Advanced Backdoor Capabilities](https://thehackernews.com/2025/01/new-eagerbee-variant-targets-isps-and.html)
 - [CISA: No Wider Federal Impact from Treasury Cyber Attack, Investigation Ongoing](https://thehackernews.com/2025/01/cisa-no-wider-federal-impact-from.html)
 - [Moxa Alerts Users to High-Severity Vulnerabilities in Cellular and Secure Routers](https://thehackernews.com/2025/01/moxa-alerts-users-to-high-severity.html)
-- [India Proposes Digital Data Rules with Tough Penalties and Cybersecurity Requirements](https://thehackernews.com/2025/01/india-proposes-digital-data-rules-with.html)
 <!-- BLOG-POST-LIST:END -->
