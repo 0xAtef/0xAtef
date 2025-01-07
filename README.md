@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New EAGERBEE Variant Targets ISPs and Governments with Advanced Backdoor Capabilities](https://thehackernews.com/2025/01/new-eagerbee-variant-targets-isps-and.html)
+- [CISA: No Wider Federal Impact from Treasury Cyber Attack, Investigation Ongoing](https://thehackernews.com/2025/01/cisa-no-wider-federal-impact-from.html)
 - [Moxa Alerts Users to High-Severity Vulnerabilities in Cellular and Secure Routers](https://thehackernews.com/2025/01/moxa-alerts-users-to-high-severity.html)
 - [India Proposes Digital Data Rules with Tough Penalties and Cybersecurity Requirements](https://thehackernews.com/2025/01/india-proposes-digital-data-rules-with.html)
 - [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [6 Jan]](https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity.html)
-- [From $22M in Ransom to +100M Stolen Records: 2025&#39;s All-Star SaaS Threat Actors to Watch](https://thehackernews.com/2025/01/from-22m-in-ransom-to-100m-stolen.html)
-- [FireScam Android Malware Poses as Telegram Premium to Steal Data and Control Devices](https://thehackernews.com/2025/01/firescam-android-malware-poses-as.html)
 <!-- BLOG-POST-LIST:END -->
