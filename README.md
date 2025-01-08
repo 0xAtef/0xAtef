@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Neglected Domains Used in Malspam to Evade SPF and DMARC Security Protections](https://thehackernews.com/2025/01/neglected-domains-used-in-malspam-to.html)
 - [Researchers Expose NonEuclid RAT Using UAC Bypass and AMSI Evasion Techniques](https://thehackernews.com/2025/01/researchers-expose-noneuclid-rat-using.html)
 - [Top 5 Malware Threats to Prepare Against in 2025](https://thehackernews.com/2025/01/top-5-malware-threats-to-prepare.html)
 - [Mirai Botnet Variant Exploits Four-Faith Router Vulnerability for DDoS Attacks](https://thehackernews.com/2025/01/mirai-botnet-variant-exploits-four.html)
 - [FCC Launches &#39;Cyber Trust Mark&#39; for IoT Devices to Certify Security Compliance](https://thehackernews.com/2025/01/fcc-launches-cyber-trust-mark-for-iot.html)
-- [CISA Flags Critical Flaws in Mitel and Oracle Systems Amid Active Exploitation](https://thehackernews.com/2025/01/cisa-flags-critical-flaws-in-mitel-and.html)
 <!-- BLOG-POST-LIST:END -->
