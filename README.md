@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical RCE Flaw in GFI KerioControl Allows Remote Code Execution via CRLF Injection](https://thehackernews.com/2025/01/critical-rce-flaw-in-gfi-keriocontrol.html)
 - [Ivanti Flaw CVE-2025-0282 Actively Exploited, Impacts Connect Secure and Policy Secure](https://thehackernews.com/2025/01/ivanti-flaw-cve-2025-0282-actively.html)
 - [E.U. Commission Fined for Transferring User Data to Meta in Violation of Privacy Laws](https://thehackernews.com/2025/01/eu-commission-fined-for-transferring.html)
 - [Neglected Domains Used in Malspam to Evade SPF and DMARC Security Protections](https://thehackernews.com/2025/01/neglected-domains-used-in-malspam-to.html)
 - [Researchers Expose NonEuclid RAT Using UAC Bypass and AMSI Evasion Techniques](https://thehackernews.com/2025/01/researchers-expose-noneuclid-rat-using.html)
-- [Top 5 Malware Threats to Prepare Against in 2025](https://thehackernews.com/2025/01/top-5-malware-threats-to-prepare.html)
 <!-- BLOG-POST-LIST:END -->
