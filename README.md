@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Learn How to Stop Encrypted Attacks Before They Cost You Millions](https://thehackernews.com/2025/01/webinar-learn-how-to-stop-encrypted.html)
+- [MirrorFace Leverages ANEL and NOOPDOOR in Multi-Year Cyberattacks on Japan](https://thehackernews.com/2025/01/mirrorface-leverages-anel-and-noopdoor.html)
 - [Critical RCE Flaw in GFI KerioControl Allows Remote Code Execution via CRLF Injection](https://thehackernews.com/2025/01/critical-rce-flaw-in-gfi-keriocontrol.html)
 - [Ivanti Flaw CVE-2025-0282 Actively Exploited, Impacts Connect Secure and Policy Secure](https://thehackernews.com/2025/01/ivanti-flaw-cve-2025-0282-actively.html)
 - [E.U. Commission Fined for Transferring User Data to Meta in Violation of Privacy Laws](https://thehackernews.com/2025/01/eu-commission-fined-for-transferring.html)
-- [Neglected Domains Used in Malspam to Evade SPF and DMARC Security Protections](https://thehackernews.com/2025/01/neglected-domains-used-in-malspam-to.html)
-- [Researchers Expose NonEuclid RAT Using UAC Bypass and AMSI Evasion Techniques](https://thehackernews.com/2025/01/researchers-expose-noneuclid-rat-using.html)
 <!-- BLOG-POST-LIST:END -->
