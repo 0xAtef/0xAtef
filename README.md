@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ivanti Flaw CVE-2025-0282 Actively Exploited, Impacts Connect Secure and Policy Secure](https://thehackernews.com/2025/01/ivanti-flaw-cve-2025-0282-actively.html)
 - [Neglected Domains Used in Malspam to Evade SPF and DMARC Security Protections](https://thehackernews.com/2025/01/neglected-domains-used-in-malspam-to.html)
 - [Researchers Expose NonEuclid RAT Using UAC Bypass and AMSI Evasion Techniques](https://thehackernews.com/2025/01/researchers-expose-noneuclid-rat-using.html)
 - [Top 5 Malware Threats to Prepare Against in 2025](https://thehackernews.com/2025/01/top-5-malware-threats-to-prepare.html)
 - [Mirai Botnet Variant Exploits Four-Faith Router Vulnerability for DDoS Attacks](https://thehackernews.com/2025/01/mirai-botnet-variant-exploits-four.html)
-- [FCC Launches &#39;Cyber Trust Mark&#39; for IoT Devices to Certify Security Compliance](https://thehackernews.com/2025/01/fcc-launches-cyber-trust-mark-for-iot.html)
 <!-- BLOG-POST-LIST:END -->
