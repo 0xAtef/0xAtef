@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Banshee Stealer Variant Bypasses Antivirus with Apple’s XProtect-Inspired Encryption](https://thehackernews.com/2025/01/new-banshee-stealer-variant-bypasses.html)
 - [Product Review: How Reco Discovers Shadow AI in SaaS](https://thehackernews.com/2025/01/product-review-how-reco-discovers.html)
-- [Webinar: Learn How to Stop Encrypted Attacks Before They Cost You Millions](https://thehackernews.com/2025/01/webinar-learn-how-to-stop-encrypted.html)
 - [MirrorFace Leverages ANEL and NOOPDOOR in Multi-Year Cyberattacks on Japan](https://thehackernews.com/2025/01/mirrorface-leverages-anel-and-noopdoor.html)
+- [Webinar: Learn How to Stop Encrypted Attacks Before They Cost You Millions](https://thehackernews.com/2025/01/webinar-learn-how-to-stop-encrypted.html)
 - [Critical RCE Flaw in GFI KerioControl Allows Remote Code Execution via CRLF Injection](https://thehackernews.com/2025/01/critical-rce-flaw-in-gfi-keriocontrol.html)
-- [Ivanti Flaw CVE-2025-0282 Actively Exploited, Impacts Connect Secure and Policy Secure](https://thehackernews.com/2025/01/ivanti-flaw-cve-2025-0282-actively.html)
 <!-- BLOG-POST-LIST:END -->
