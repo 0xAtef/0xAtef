@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Major Vulnerabilities Patched in SonicWall, Palo Alto Expedition, and Aviatrix Controllers](https://thehackernews.com/2025/01/major-vulnerabilities-patched-in.html)
 - [New Banshee Stealer Variant Bypasses Antivirus with Apple’s XProtect-Inspired Encryption](https://thehackernews.com/2025/01/new-banshee-stealer-variant-bypasses.html)
-- [Product Review: How Reco Discovers Shadow AI in SaaS](https://thehackernews.com/2025/01/product-review-how-reco-discovers.html)
+- [Product Walkthrough: How Reco Discovers Shadow AI in SaaS](https://thehackernews.com/2025/01/product-review-how-reco-discovers.html)
 - [MirrorFace Leverages ANEL and NOOPDOOR in Multi-Year Cyberattacks on Japan](https://thehackernews.com/2025/01/mirrorface-leverages-anel-and-noopdoor.html)
 - [Webinar: Learn How to Stop Encrypted Attacks Before They Cost You Millions](https://thehackernews.com/2025/01/webinar-learn-how-to-stop-encrypted.html)
-- [Critical RCE Flaw in GFI KerioControl Allows Remote Code Execution via CRLF Injection](https://thehackernews.com/2025/01/critical-rce-flaw-in-gfi-keriocontrol.html)
 <!-- BLOG-POST-LIST:END -->
