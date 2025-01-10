@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taking the Pain Out of Cybersecurity Reporting: A Practical Guide for MSPs](https://thehackernews.com/2025/01/taking-pain-out-of-cybersecurity.html)
+- [AI-Driven Ransomware FunkSec Targets 85 Victims Using Double Extortion Tactics](https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html)
 - [Hands-On Walkthrough: Microsegmentation For all Users, Workloads and Devices by Elisity](https://thehackernews.com/2025/01/hands-on-walkthrough-microsegmentation.html)
 - [Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Devices](https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html)
 - [RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campaigns](https://thehackernews.com/2025/01/reddelta-deploys-plugx-malware-to.html)
-- [CrowdStrike Warns of Phishing Scam Targeting Job Seekers with XMRig Cryptominer](https://thehackernews.com/2025/01/crowdstrike-warns-of-phishing-scam.html)
-- [Major Vulnerabilities Patched in SonicWall, Palo Alto Expedition, and Aviatrix Controllers](https://thehackernews.com/2025/01/major-vulnerabilities-patched-in.html)
 <!-- BLOG-POST-LIST:END -->
