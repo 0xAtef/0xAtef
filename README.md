@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hands-On Walkthrough: Microsegmentation For all Users, Workloads and Devices by Elisity](https://thehackernews.com/2025/01/hands-on-walkthrough-microsegmentation.html)
+- [Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Devices](https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html)
+- [RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campaigns](https://thehackernews.com/2025/01/reddelta-deploys-plugx-malware-to.html)
+- [CrowdStrike Warns of Phishing Scam Targeting Job Seekers with XMRig Cryptominer](https://thehackernews.com/2025/01/crowdstrike-warns-of-phishing-scam.html)
 - [Major Vulnerabilities Patched in SonicWall, Palo Alto Expedition, and Aviatrix Controllers](https://thehackernews.com/2025/01/major-vulnerabilities-patched-in.html)
-- [New Banshee Stealer Variant Bypasses Antivirus with Apple’s XProtect-Inspired Encryption](https://thehackernews.com/2025/01/new-banshee-stealer-variant-bypasses.html)
-- [Product Walkthrough: How Reco Discovers Shadow AI in SaaS](https://thehackernews.com/2025/01/product-review-how-reco-discovers.html)
-- [MirrorFace Leverages ANEL and NOOPDOOR in Multi-Year Cyberattacks on Japan](https://thehackernews.com/2025/01/mirrorface-leverages-anel-and-noopdoor.html)
-- [Webinar: Learn How to Stop Encrypted Attacks Before They Cost You Millions](https://thehackernews.com/2025/01/webinar-learn-how-to-stop-encrypted.html)
 <!-- BLOG-POST-LIST:END -->
