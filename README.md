@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Sues Hacking Group Exploiting Azure AI for Harmful Content Creation](https://thehackernews.com/2025/01/microsoft-sues-hacking-group-exploiting.html)
+- [DoJ Indicts Three Russians for Operating Crypto Mixers Used in Cybercrime Laundering](https://thehackernews.com/2025/01/doj-indicts-three-russians-for.html)
 - [Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Devices](https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html)
 - [Taking the Pain Out of Cybersecurity Reporting: A Practical Guide for MSPs](https://thehackernews.com/2025/01/taking-pain-out-of-cybersecurity.html)
 - [AI-Driven Ransomware FunkSec Targets 85 Victims Using Double Extortion Tactics](https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html)
-- [Hands-On Walkthrough: Microsegmentation For all Users, Workloads and Devices by Elisity](https://thehackernews.com/2025/01/hands-on-walkthrough-microsegmentation.html)
-- [RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campaigns](https://thehackernews.com/2025/01/reddelta-deploys-plugx-malware-to.html)
 <!-- BLOG-POST-LIST:END -->
