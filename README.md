@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [13 January]](https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_01424177917.html)
+- [Ransomware on ESXi: The mechanization of virtualized attacks](https://thehackernews.com/2025/01/ransomware-on-esxi-mechanization-of.html)
 - [WordPress Skimmers Evade Detection by Injecting Themselves into Database Tables](https://thehackernews.com/2025/01/wordpress-skimmers-evade-detection-by.html)
 - [Expired Domains Allowed Control Over 4,000 Backdoors on Compromised Systems](https://thehackernews.com/2025/01/expired-domains-allowed-control-over.html)
 - [Microsoft Sues Hacking Group Exploiting Azure AI for Harmful Content Creation](https://thehackernews.com/2025/01/microsoft-sues-hacking-group-exploiting.html)
-- [DoJ Indicts Three Russians for Operating Crypto Mixers Used in Cybercrime Laundering](https://thehackernews.com/2025/01/doj-indicts-three-russians-for.html)
-- [Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Devices](https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html)
 <!-- BLOG-POST-LIST:END -->
