@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Illicit HuiOne Telegram Market Surpasses Hydra, Hits $24 Billion in Crypto Transactions](https://thehackernews.com/2025/01/illicit-huione-telegram-market.html)
+- [Zero-Day Vulnerability Suspected in Attacks on Fortinet Firewalls with Exposed Interfaces](https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html)
 - [CISA Adds Second BeyondTrust Flaw to KEV Catalog Amid Active Attacks](https://thehackernews.com/2025/01/cisa-adds-new-beyondtrust-flaw-to-kev.html)
 - [Hackers Exploit Aviatrix Controller Vulnerability to Deploy Backdoors and Crypto Miners](https://thehackernews.com/2025/01/hackers-exploit-aviatrix-controller.html)
 - [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [13 January]](https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_01424177917.html)
-- [Ransomware on ESXi: The Mechanization of Virtualized Attacks](https://thehackernews.com/2025/01/ransomware-on-esxi-mechanization-of.html)
-- [WordPress Skimmers Evade Detection by Injecting Themselves into Database Tables](https://thehackernews.com/2025/01/wordpress-skimmers-evade-detection-by.html)
 <!-- BLOG-POST-LIST:END -->
