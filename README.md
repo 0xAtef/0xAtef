@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Ads Users Targeted in Malvertising Scam Stealing Credentials and 2FA Codes](https://thehackernews.com/2025/01/google-ads-users-targeted-in.html)
+- [Lazarus Group Targets Web3 Developers with Fake LinkedIn Profiles in Operation 99](https://thehackernews.com/2025/01/lazarus-group-targets-web3-developers.html)
 - [North Korean IT Worker Fraud Linked to 2016 Crowdfunding Scam and Fake Domains](https://thehackernews.com/2025/01/north-korean-it-worker-fraud-linked-to.html)
 - [Google Cloud Researchers Uncover Flaws in Rsync File Synchronization Tool](https://thehackernews.com/2025/01/google-cloud-researchers-uncover-flaws.html)
 - [The High-Stakes Disconnect For ICS/OT Security](https://thehackernews.com/2025/01/the-high-stakes-disconnect-for-icsot.html)
-- [FBI Deletes PlugX Malware from 4,250 Hacked Computers in Multi-Month Operation](https://thehackernews.com/2025/01/fbi-deletes-plugx-malware-from-4250.html)
-- [3 Actively Exploited Zero-Day Flaws Patched in Microsoft&#39;s Latest Security Update](https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html)
 <!-- BLOG-POST-LIST:END -->
