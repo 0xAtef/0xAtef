@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean IT Worker Fraud Linked to 2016 Crowdfunding Scam and Fake Domains](https://thehackernews.com/2025/01/north-korean-it-worker-fraud-linked-to.html)
 - [Google Cloud Researchers Uncover Flaws in Rsync File Synchronization Tool](https://thehackernews.com/2025/01/google-cloud-researchers-uncover-flaws.html)
 - [The High-Stakes Disconnect For ICS/OT Security](https://thehackernews.com/2025/01/the-high-stakes-disconnect-for-icsot.html)
 - [FBI Deletes PlugX Malware from 4,250 Hacked Computers in Multi-Month Operation](https://thehackernews.com/2025/01/fbi-deletes-plugx-malware-from-4250.html)
 - [3 Actively Exploited Zero-Day Flaws Patched in Microsoft&#39;s Latest Security Update](https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html)
-- [Critical SimpleHelp Flaws Allow File Theft, Privilege Escalation, and RCE Attacks](https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html)
 <!-- BLOG-POST-LIST:END -->
