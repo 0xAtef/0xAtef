@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Actively Exploited Zero-Day Flaws Patched in Microsoft&#39;s Latest Security Update](https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html)
+- [Critical SimpleHelp Flaws Allow File Theft, Privilege Escalation, and RCE Attacks](https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html)
 - [Microsoft Uncovers macOS Vulnerability CVE-2024-44243 Allowing Rootkit Installation](https://thehackernews.com/2025/01/microsoft-uncovers-macos-vulnerability.html)
 - [Google OAuth Vulnerability Exposes Millions via Failed Startup Domains](https://thehackernews.com/2025/01/google-oauth-vulnerability-exposes.html)
 - [4 Reasons Your SaaS Attack Surface Can No Longer be Ignored](https://thehackernews.com/2025/01/4-reasons-your-saas-attack-surface-can.html)
-- [Illicit HuiOne Telegram Market Surpasses Hydra, Hits $24 Billion in Crypto Transactions](https://thehackernews.com/2025/01/illicit-huione-telegram-market.html)
-- [Fortinet Warns of New Zero-Day Used in Attacks on Firewalls with Exposed Interfaces](https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html)
 <!-- BLOG-POST-LIST:END -->
