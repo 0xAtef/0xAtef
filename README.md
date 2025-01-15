@@ -177,5 +177,5 @@ BIO
 - [Google OAuth Vulnerability Exposes Millions via Failed Startup Domains](https://thehackernews.com/2025/01/google-oauth-vulnerability-exposes.html)
 - [4 Reasons Your SaaS Attack Surface Can No Longer be Ignored](https://thehackernews.com/2025/01/4-reasons-your-saas-attack-surface-can.html)
 - [Illicit HuiOne Telegram Market Surpasses Hydra, Hits $24 Billion in Crypto Transactions](https://thehackernews.com/2025/01/illicit-huione-telegram-market.html)
-- [Zero-Day Vulnerability Suspected in Attacks on Fortinet Firewalls with Exposed Interfaces](https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html)
+- [Fortinet Warns of New Zero-Day Used in Attacks on Firewalls with Exposed Interfaces](https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html)
 <!-- BLOG-POST-LIST:END -->
