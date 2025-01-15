@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FBI Deletes PlugX Malware from 4,250 Hacked Computers in Multi-Month Operation](https://thehackernews.com/2025/01/fbi-deletes-plugx-malware-from-4250.html)
 - [3 Actively Exploited Zero-Day Flaws Patched in Microsoft&#39;s Latest Security Update](https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html)
 - [Critical SimpleHelp Flaws Allow File Theft, Privilege Escalation, and RCE Attacks](https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html)
 - [Microsoft Uncovers macOS Vulnerability CVE-2024-44243 Allowing Rootkit Installation](https://thehackernews.com/2025/01/microsoft-uncovers-macos-vulnerability.html)
 - [Google OAuth Vulnerability Exposes Millions via Failed Startup Domains](https://thehackernews.com/2025/01/google-oauth-vulnerability-exposes.html)
-- [4 Reasons Your SaaS Attack Surface Can No Longer be Ignored](https://thehackernews.com/2025/01/4-reasons-your-saas-attack-surface-can.html)
 <!-- BLOG-POST-LIST:END -->
