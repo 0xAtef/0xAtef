@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The $10 Cyber Threat Responsible for the Biggest Breaches of 2024](https://thehackernews.com/2025/01/the-10-cyber-threat-responsible-for.html)
+- [New UEFI Secure Boot Vulnerability Could Allow Attackers to Load Malicious Bootkits](https://thehackernews.com/2025/01/new-uefi-secure-boot-vulnerability.html)
+- [Researchers Find Exploit Allowing NTLMv1 Despite Active Directory Restrictions](https://thehackernews.com/2025/01/researchers-find-exploit-allowing.html)
+- [Hackers Hide Malware in Images to Deploy VIP Keylogger and 0bj3ctivity Stealer](https://thehackernews.com/2025/01/hackers-hide-malware-in-images-to.html)
 - [Python-Based Malware Powers RansomHub Ransomware to Exploit Network Flaws](https://thehackernews.com/2025/01/python-based-malware-powers-ransomhub.html)
-- [Researcher Uncovers Critical Flaws in Multiple Versions of Ivanti Endpoint Manager](https://thehackernews.com/2025/01/researcher-uncovers-critical-flaws-in.html)
-- [Google Ads Users Targeted in Malvertising Scam Stealing Credentials and 2FA Codes](https://thehackernews.com/2025/01/google-ads-users-targeted-in.html)
-- [Lazarus Group Targets Web3 Developers with Fake LinkedIn Profiles in Operation 99](https://thehackernews.com/2025/01/lazarus-group-targets-web3-developers.html)
-- [North Korean IT Worker Fraud Linked to 2016 Crowdfunding Scam and Fake Domains](https://thehackernews.com/2025/01/north-korean-it-worker-fraud-linked-to.html)
 <!-- BLOG-POST-LIST:END -->
