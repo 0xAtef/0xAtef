@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ready to Simplify Trust Management? Join Free Webinar to See DigiCert ONE in Action](https://thehackernews.com/2025/01/ready-to-simplify-trust-management-join.html)
 - [The $10 Cyber Threat Responsible for the Biggest Breaches of 2024](https://thehackernews.com/2025/01/the-10-cyber-threat-responsible-for.html)
 - [New UEFI Secure Boot Vulnerability Could Allow Attackers to Load Malicious Bootkits](https://thehackernews.com/2025/01/new-uefi-secure-boot-vulnerability.html)
 - [Researchers Find Exploit Allowing NTLMv1 Despite Active Directory Restrictions](https://thehackernews.com/2025/01/researchers-find-exploit-allowing.html)
 - [Hackers Hide Malware in Images to Deploy VIP Keylogger and 0bj3ctivity Stealer](https://thehackernews.com/2025/01/hackers-hide-malware-in-images-to.html)
-- [Python-Based Malware Powers RansomHub Ransomware to Exploit Network Flaws](https://thehackernews.com/2025/01/python-based-malware-powers-ransomhub.html)
 <!-- BLOG-POST-LIST:END -->
