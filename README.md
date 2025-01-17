@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Bring Zero Trust to Wi-Fi Security with a Cloud-based Captive Portal?](https://thehackernews.com/2025/01/how-to-bring-zero-trust-to-wi-fi.html)
+- [New &#39;Sneaky 2FA&#39; Phishing Kit Targets Microsoft 365 Accounts with 2FA Code Bypass](https://thehackernews.com/2025/01/new-sneaky-2fa-phishing-kit-targets.html)
+- [U.S. Sanctions North Korean IT Worker Network Supporting WMD Programs](https://thehackernews.com/2025/01/us-sanctions-north-korean-it-worker.html)
 - [European Privacy Group Sues TikTok and AliExpress for Illicit Data Transfers to China](https://thehackernews.com/2025/01/european-privacy-group-sues-tiktok-and.html)
 - [Russian Star Blizzard Targets WhatsApp Accounts in New Spear-Phishing Campaign](https://thehackernews.com/2025/01/russian-star-blizzard-shifts-tactics-to.html)
-- [Ready to Simplify Trust Management? Join Free Webinar to See DigiCert ONE in Action](https://thehackernews.com/2025/01/ready-to-simplify-trust-management-join.html)
-- [The $10 Cyber Threat Responsible for the Biggest Breaches of 2024](https://thehackernews.com/2025/01/the-10-cyber-threat-responsible-for.html)
-- [New UEFI Secure Boot Vulnerability Could Allow Attackers to Load Malicious Bootkits](https://thehackernews.com/2025/01/new-uefi-secure-boot-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
