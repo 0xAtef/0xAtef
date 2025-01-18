@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Silk Typhoon](https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html)
 - [Critical Flaws in WGS-804HPT Switches Enable RCE and Network Exploitation](https://thehackernews.com/2025/01/critical-flaws-in-wgs-804hpt-switches.html)
 - [Python-Based Bots Exploiting PHP Servers Fuel Gambling Platform Proliferation](https://thehackernews.com/2025/01/python-based-bots-exploiting-php.html)
 - [How to Bring Zero Trust to Wi-Fi Security with a Cloud-based Captive Portal?](https://thehackernews.com/2025/01/how-to-bring-zero-trust-to-wi-fi.html)
 - [New &#39;Sneaky 2FA&#39; Phishing Kit Targets Microsoft 365 Accounts with 2FA Code Bypass](https://thehackernews.com/2025/01/new-sneaky-2fa-phishing-kit-targets.html)
-- [U.S. Sanctions North Korean IT Worker Network Supporting WMD Programs](https://thehackernews.com/2025/01/us-sanctions-north-korean-it-worker.html)
 <!-- BLOG-POST-LIST:END -->
