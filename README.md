@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Deploy Malicious npm Packages to Steal Solana Wallet Keys via Gmail SMTP](https://thehackernews.com/2025/01/hackers-deploy-malicious-npm-packages.html)
 - [TikTok Goes Dark in the U.S. as Federal Ban Takes Effect January 19, 2025](https://thehackernews.com/2025/01/tiktok-goes-dark-in-us-as-federal-ban.html)
-- [U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Silk Typhoon](https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html)
+- [U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Salt Typhoon](https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html)
 - [Critical Flaws in WGS-804HPT Switches Enable RCE and Network Exploitation](https://thehackernews.com/2025/01/critical-flaws-in-wgs-804hpt-switches.html)
 - [Python-Based Bots Exploiting PHP Servers Fuel Gambling Platform Proliferation](https://thehackernews.com/2025/01/python-based-bots-exploiting-php.html)
-- [How to Bring Zero Trust to Wi-Fi Security with a Cloud-based Captive Portal?](https://thehackernews.com/2025/01/how-to-bring-zero-trust-to-wi-fi.html)
 <!-- BLOG-POST-LIST:END -->
