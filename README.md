@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PNGPlug Loader Delivers ValleyRAT Malware Through Fake Software Installers](https://thehackernews.com/2025/01/pngplug-loader-delivers-valleyrat.html)
 - [CERT-UA Warns of Cyber Scams Using Fake AnyDesk Requests for Fraudulent Security Audits](https://thehackernews.com/2025/01/cert-ua-warns-of-cyber-scams-using-fake.html)
 - [Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers](https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html)
 - [DoNot Team Linked to New Tanzeem Android Malware Targeting Intelligence Collection](https://thehackernews.com/2025/01/donot-team-linked-to-new-tanzeem.html)
 - [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [20 January]](https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_20.html)
-- [Product Walkthrough: How Satori Secures Sensitive Data From Production to AI](https://thehackernews.com/2025/01/product-walkthrough-how-satori.html)
 <!-- BLOG-POST-LIST:END -->
