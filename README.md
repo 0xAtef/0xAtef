@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [13,000 MikroTik Routers Hijacked by Botnet for Malspam and Cyberattacks](https://thehackernews.com/2025/01/13000-mikrotik-routers-hijacked-by.html)
 - [Ex-CIA Analyst Pleads Guilty to Sharing Top-Secret Data with Unauthorized Parties](https://thehackernews.com/2025/01/ex-cia-analyst-pleads-guilty-to-sharing.html)
 - [HackGATE: Setting New Standards for Visibility and Control in Penetration Testing Projects](https://thehackernews.com/2025/01/hackgate-setting-new-standards-for.html)
 - [PNGPlug Loader Delivers ValleyRAT Malware Through Fake Software Installers](https://thehackernews.com/2025/01/pngplug-loader-delivers-valleyrat.html)
 - [CERT-UA Warns of Cyber Scams Using Fake AnyDesk Requests for Fraudulent Security Audits](https://thehackernews.com/2025/01/cert-ua-warns-of-cyber-scams-using-fake.html)
-- [Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers](https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html)
 <!-- BLOG-POST-LIST:END -->
