@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mirai Variant Murdoc_Botnet Exploits AVTECH IP Cameras and Huawei Routers](https://thehackernews.com/2025/01/murdocbotnet-found-exploiting-avtech-ip.html)
 - [13,000 MikroTik Routers Hijacked by Botnet for Malspam and Cyberattacks](https://thehackernews.com/2025/01/13000-mikrotik-routers-hijacked-by.html)
 - [Ex-CIA Analyst Pleads Guilty to Sharing Top-Secret Data with Unauthorized Parties](https://thehackernews.com/2025/01/ex-cia-analyst-pleads-guilty-to-sharing.html)
 - [HackGATE: Setting New Standards for Visibility and Control in Penetration Testing Projects](https://thehackernews.com/2025/01/hackgate-setting-new-standards-for.html)
 - [PNGPlug Loader Delivers ValleyRAT Malware Through Fake Software Installers](https://thehackernews.com/2025/01/pngplug-loader-delivers-valleyrat.html)
-- [CERT-UA Warns of Cyber Scams Using Fake AnyDesk Requests for Fraudulent Security Audits](https://thehackernews.com/2025/01/cert-ua-warns-of-cyber-scams-using-fake.html)
 <!-- BLOG-POST-LIST:END -->
