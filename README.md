@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trump Terminates DHS Advisory Committee Memberships, Disrupting Cybersecurity Review](https://thehackernews.com/2025/01/trump-terminates-dhs-advisory-committee.html)
 - [Hackers Exploit Zero-Day in cnPilot Routers to Deploy AIRASHI DDoS Botnet](https://thehackernews.com/2025/01/hackers-exploit-zero-day-in-cnpilot.html)
 - [Discover Hidden Browsing Threats: Free Risk Assessment for GenAI, Identity, Web, and SaaS Risks](https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html)
 - [President Trump Pardons Silk Road Creator Ross Ulbricht After 11 Years in Prison](https://thehackernews.com/2025/01/president-trump-pardons-silk-road.html)
 - [PlushDaemon APT Targets South Korean VPN Provider in Supply Chain Attack](https://thehackernews.com/2025/01/plushdaemon-apt-targets-south-korean.html)
-- [Oracle Releases January 2025 Patch to Address 318 Flaws Across Major Products](https://thehackernews.com/2025/01/oracle-releases-january-2025-patch-to.html)
 <!-- BLOG-POST-LIST:END -->
