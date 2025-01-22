@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mirai Botnet Launches Record 5.6 Tbps DDoS Attack with 13,000+ IoT Device](https://thehackernews.com/2025/01/mirai-botnet-launches-record-56-tbps.html)
 - [Mirai Variant Murdoc Botnet Exploits AVTECH IP Cameras and Huawei Routers](https://thehackernews.com/2025/01/murdocbotnet-found-exploiting-avtech-ip.html)
 - [13,000 MikroTik Routers Hijacked by Botnet for Malspam and Cyberattacks](https://thehackernews.com/2025/01/13000-mikrotik-routers-hijacked-by.html)
 - [Ex-CIA Analyst Pleads Guilty to Sharing Top-Secret Data with Unauthorized Parties](https://thehackernews.com/2025/01/ex-cia-analyst-pleads-guilty-to-sharing.html)
 - [HackGATE: Setting New Standards for Visibility and Control in Penetration Testing Projects](https://thehackernews.com/2025/01/hackgate-setting-new-standards-for.html)
-- [PNGPlug Loader Delivers ValleyRAT Malware Through Fake Software Installers](https://thehackernews.com/2025/01/pngplug-loader-delivers-valleyrat.html)
 <!-- BLOG-POST-LIST:END -->
