@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PlushDaemon APT Targets South Korean VPN Provider in Supply Chain Attack](https://thehackernews.com/2025/01/plushdaemon-apt-targets-south-korean.html)
 - [Oracle Releases January 2025 Patch to Address 318 Flaws Across Major Products](https://thehackernews.com/2025/01/oracle-releases-january-2025-patch-to.html)
 - [Mirai Botnet Launches Record 5.6 Tbps DDoS Attack with 13,000+ IoT Devices](https://thehackernews.com/2025/01/mirai-botnet-launches-record-56-tbps.html)
 - [Mirai Variant Murdoc Botnet Exploits AVTECH IP Cameras and Huawei Routers](https://thehackernews.com/2025/01/murdocbotnet-found-exploiting-avtech-ip.html)
 - [13,000 MikroTik Routers Hijacked by Botnet for Malspam and Cyberattacks](https://thehackernews.com/2025/01/13000-mikrotik-routers-hijacked-by.html)
-- [Ex-CIA Analyst Pleads Guilty to Sharing Top-Secret Data with Unauthorized Parties](https://thehackernews.com/2025/01/ex-cia-analyst-pleads-guilty-to-sharing.html)
 <!-- BLOG-POST-LIST:END -->
