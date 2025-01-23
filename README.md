@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [QakBot-Linked BC Malware Adds Enhanced DNS Tunneling and Remote Access Features](https://thehackernews.com/2025/01/qakbot-linked-bc-malware-adds-enhanced.html)
 - [Cisco Fixes Critical Privilege Escalation Flaw in Meeting Management &lpar;CVSS 9.9&rpar;](https://thehackernews.com/2025/01/cisco-fixes-critical-privilege.html)
 - [TRIPLESTRENGTH Hits Cloud for Cryptojacking, On-Premises Systems for Ransomware](https://thehackernews.com/2025/01/triplestrength-targets-cloud-platforms.html)
 - [Trump Terminates DHS Advisory Committee Memberships, Disrupting Cybersecurity Review](https://thehackernews.com/2025/01/trump-terminates-dhs-advisory-committee.html)
 - [Hackers Exploit Zero-Day in cnPilot Routers to Deploy AIRASHI DDoS Botnet](https://thehackernews.com/2025/01/hackers-exploit-zero-day-in-cnpilot.html)
-- [Discover Hidden Browsing Threats: Free Risk Assessment for GenAI, Identity, Web, and SaaS Risks](https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html)
 <!-- BLOG-POST-LIST:END -->
