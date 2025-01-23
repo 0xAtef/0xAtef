@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Experts Find Shared Codebase Linking Morpheus and HellCat Ransomware Payloads](https://thehackernews.com/2025/01/experts-find-shared-codebase-linking.html)
 - [How to Eliminate Identity-Based Threats](https://thehackernews.com/2025/01/eliminate-identity-based-threats.html)
 - [SonicWall Urges Immediate Patch for Critical CVE-2025-23006 Flaw Amid Likely Exploitation](https://thehackernews.com/2025/01/sonicwall-urges-immediate-patch-for.html)
 - [New Research: The State of Web Exposure 2025](https://thehackernews.com/2025/01/new-research-state-of-web-exposure-2025.html)
 - [QakBot-Linked BC Malware Adds Enhanced Remote Access and Data Gathering Features](https://thehackernews.com/2025/01/qakbot-linked-bc-malware-adds-enhanced.html)
-- [Cisco Fixes Critical Privilege Escalation Flaw in Meeting Management &lpar;CVSS 9.9&rpar;](https://thehackernews.com/2025/01/cisco-fixes-critical-privilege.html)
 <!-- BLOG-POST-LIST:END -->
