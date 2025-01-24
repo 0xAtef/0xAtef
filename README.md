@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RANsacked: Over 100 Security Flaws Found in LTE and 5G Network Implementations](https://thehackernews.com/2025/01/ransacked-over-100-security-flaws-found.html)
 - [2025 State of SaaS Backup and Recovery Report](https://thehackernews.com/2025/01/insights-from-2025-saas-backup-and-recovery-report.html)
 - [DoJ Indicts 5 Individuals for $866K North Korean IT Worker Scheme Violations](https://thehackernews.com/2025/01/doj-indicts-5-individuals-for-866k.html)
 - [Android&#39;s New Identity Check Feature Locks Device Settings Outside Trusted Locations](https://thehackernews.com/2025/01/androids-new-identity-check-feature.html)
 - [CISA Adds Five-Year-Old jQuery XSS Flaw to Exploited Vulnerabilities List](https://thehackernews.com/2025/01/cisa-adds-five-year-old-jquery-xss-flaw.html)
-- [Palo Alto Firewalls Found Vulnerable to Secure Boot Bypass and Firmware Exploits](https://thehackernews.com/2025/01/palo-alto-firewalls-found-vulnerable-to.html)
 <!-- BLOG-POST-LIST:END -->
