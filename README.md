@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Adds Five-Year-Old jQuery XSS Flaw to Exploited Vulnerabilities List](https://thehackernews.com/2025/01/cisa-adds-five-year-old-jquery-xss-flaw.html)
 - [Palo Alto Firewalls Found Vulnerable to Secure Boot Bypass and Firmware Exploits](https://thehackernews.com/2025/01/palo-alto-firewalls-found-vulnerable-to.html)
 - [Beware: Fake CAPTCHA Campaign Spreads Lumma Stealer in Multi-Industry Attacks](https://thehackernews.com/2025/01/beware-fake-captcha-campaign-spreads.html)
 - [New Research: The State of Web Exposure 2025](https://thehackernews.com/2025/01/new-research-state-of-web-exposure-2025.html)
 - [Custom Backdoor Exploiting Magic Packet Vulnerability in Juniper Routers](https://thehackernews.com/2025/01/custom-backdoor-exploiting-magic-packet.html)
-- [Experts Find Shared Codebase Linking Morpheus and HellCat Ransomware Payloads](https://thehackernews.com/2025/01/experts-find-shared-codebase-linking.html)
 <!-- BLOG-POST-LIST:END -->
