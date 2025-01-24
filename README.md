@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 State of SaaS Backup and Recovery Report](https://thehackernews.com/2025/01/insights-from-2025-saas-backup-and-recovery-report.html)
 - [DoJ Indicts 5 Individuals for $866K North Korean IT Worker Scheme Violations](https://thehackernews.com/2025/01/doj-indicts-5-individuals-for-866k.html)
 - [Android&#39;s New Identity Check Feature Locks Device Settings Outside Trusted Locations](https://thehackernews.com/2025/01/androids-new-identity-check-feature.html)
 - [CISA Adds Five-Year-Old jQuery XSS Flaw to Exploited Vulnerabilities List](https://thehackernews.com/2025/01/cisa-adds-five-year-old-jquery-xss-flaw.html)
 - [Palo Alto Firewalls Found Vulnerable to Secure Boot Bypass and Firmware Exploits](https://thehackernews.com/2025/01/palo-alto-firewalls-found-vulnerable-to.html)
-- [Beware: Fake CAPTCHA Campaign Spreads Lumma Stealer in Multi-Industry Attacks](https://thehackernews.com/2025/01/beware-fake-captcha-campaign-spreads.html)
 <!-- BLOG-POST-LIST:END -->
