@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MintsLoader Delivers StealC Malware and BOINC in Targeted Cyber Attacks](https://thehackernews.com/2025/01/mintsloader-delivers-stealc-malware-and.html)
 - [Meta&#39;s Llama Framework Flaw Exposes AI Systems to Remote Code Execution Risks](https://thehackernews.com/2025/01/metas-llama-framework-flaw-exposes-ai.html)
 - [RANsacked: Over 100 Security Flaws Found in LTE and 5G Network Implementations](https://thehackernews.com/2025/01/ransacked-over-100-security-flaws-found.html)
 - [2025 State of SaaS Backup and Recovery Report](https://thehackernews.com/2025/01/insights-from-2025-saas-backup-and-recovery-report.html)
 - [DoJ Indicts 5 Individuals for $866K North Korean IT Worker Scheme Violations](https://thehackernews.com/2025/01/doj-indicts-5-individuals-for-866k.html)
-- [Android&#39;s New Identity Check Feature Locks Device Settings Outside Trusted Locations](https://thehackernews.com/2025/01/androids-new-identity-check-feature.html)
 <!-- BLOG-POST-LIST:END -->
