@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [27 January]](https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_27.html)
 - [Do We Really Need The OWASP NHI Top 10?](https://thehackernews.com/2025/01/do-we-really-need-owasp-nhi-top-10.html)
 - [GamaCopy Mimics Gamaredon Tactics in Cyber Espionage Targeting Russian Entities](https://thehackernews.com/2025/01/gamacopy-mimics-gamaredon-tactics-in.html)
 - [MintsLoader Delivers StealC Malware and BOINC in Targeted Cyber Attacks](https://thehackernews.com/2025/01/mintsloader-delivers-stealc-malware-and.html)
 - [Meta&#39;s Llama Framework Flaw Exposes AI Systems to Remote Code Execution Risks](https://thehackernews.com/2025/01/metas-llama-framework-flaw-exposes-ai.html)
-- [RANsacked: Over 100 Security Flaws Found in LTE and 5G Network Implementations](https://thehackernews.com/2025/01/ransacked-over-100-security-flaws-found.html)
 <!-- BLOG-POST-LIST:END -->
