@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top-Rated Chinese AI App DeepSeek Limits Registrations Amid Cyberattacks](https://thehackernews.com/2025/01/top-rated-chinese-ai-app-deepseek.html)
 - [Apple Patches Actively Exploited Zero-Day Affecting iPhones, Macs, and More](https://thehackernews.com/2025/01/apple-patches-actively-exploited-zero.html)
 - [GitHub Desktop Vulnerability Risks Credential Leaks via Malicious Remote URLs](https://thehackernews.com/2025/01/github-desktop-vulnerability-risks.html)
 - [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [27 January]](https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_27.html)
 - [Do We Really Need The OWASP NHI Top 10?](https://thehackernews.com/2025/01/do-we-really-need-owasp-nhi-top-10.html)
-- [GamaCopy Mimics Gamaredon Tactics in Cyber Espionage Targeting Russian Entities](https://thehackernews.com/2025/01/gamacopy-mimics-gamaredon-tactics-in.html)
 <!-- BLOG-POST-LIST:END -->
