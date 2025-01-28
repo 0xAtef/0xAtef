@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OAuth Redirect Flaw in Airline Travel Integration Exposes Millions to Account Hijacking](https://thehackernews.com/2025/01/oauth-redirect-flaw-in-airline-travel.html)
 - [AI SOC Analysts: Propelling SecOps into the future](https://thehackernews.com/2025/01/ai-soc-analysts-propelling-secops-into.html)
 - [Ransomware Targets ESXi Systems via Stealthy SSH Tunnels for C2 Operations](https://thehackernews.com/2025/01/ransomware-targets-esxi-systems-via.html)
 - [How Long Does It Take Hackers to Crack Modern Hashing Algorithms?](https://thehackernews.com/2025/01/how-long-does-it-take-hackers-to-crack.html)
 - [Top-Rated Chinese AI App DeepSeek Limits Registrations Amid Cyberattacks](https://thehackernews.com/2025/01/top-rated-chinese-ai-app-deepseek.html)
-- [E.U. Sanctions 3 Russian Nationals for Cyber Attacks Targeting Estonia’s Key Ministries](https://thehackernews.com/2025/01/eu-sanctions-3-russian-nationals-for.html)
 <!-- BLOG-POST-LIST:END -->
