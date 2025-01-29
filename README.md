@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Interlock Ransomware Infects Healthcare Organizations](https://thehackernews.com/2025/01/how-interlock-ransomware-infects.html)
+- [Critical Cacti Security Flaw &lpar;CVE-2025-22604&rpar; Enables Remote Code Execution](https://thehackernews.com/2025/01/critical-cacti-security-flaw-cve-2025.html)
 - [UAC-0063 Expands Cyber Attacks to European Embassies Using Stolen Documents](https://thehackernews.com/2025/01/uac-0063-expands-cyber-attacks-to.html)
 - [Broadcom Warns of High-Severity SQL Injection Flaw in VMware Avi Load Balancer](https://thehackernews.com/2025/01/broadcom-warns-of-high-severity-sql.html)
 - [Zyxel CPE Devices Face Active Exploitation Due to Unpatched CVE-2024-40891 Vulnerability](https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html)
-- [PureCrypter Deploys Agent Tesla and New TorNet Backdoor in Ongoing Cyberattacks](https://thehackernews.com/2025/01/purecrypter-deploys-agent-tesla-and-new.html)
-- [OAuth Redirect Flaw in Airline Travel Integration Exposes Millions to Account Hijacking](https://thehackernews.com/2025/01/oauth-redirect-flaw-in-airline-travel.html)
 <!-- BLOG-POST-LIST:END -->
