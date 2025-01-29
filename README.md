@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UAC-0063 Expands Cyber Attacks to European Embassies Using Stolen Documents](https://thehackernews.com/2025/01/uac-0063-expands-cyber-attacks-to.html)
+- [Broadcom Warns of High-Severity SQL Injection Flaw in VMware Avi Load Balancer](https://thehackernews.com/2025/01/broadcom-warns-of-high-severity-sql.html)
+- [Zyxel CPE Devices Face Active Exploitation Due to Unpatched CVE-2024-40891 Vulnerability](https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html)
 - [PureCrypter Deploys Agent Tesla and New TorNet Backdoor in Ongoing Cyberattacks](https://thehackernews.com/2025/01/purecrypter-deploys-agent-tesla-and-new.html)
 - [OAuth Redirect Flaw in Airline Travel Integration Exposes Millions to Account Hijacking](https://thehackernews.com/2025/01/oauth-redirect-flaw-in-airline-travel.html)
-- [AI SOC Analysts: Propelling SecOps into the future](https://thehackernews.com/2025/01/ai-soc-analysts-propelling-secops-into.html)
-- [Ransomware Targets ESXi Systems via Stealthy SSH Tunnels for C2 Operations](https://thehackernews.com/2025/01/ransomware-targets-esxi-systems-via.html)
-- [How Long Does It Take Hackers to Crack Modern Hashing Algorithms?](https://thehackernews.com/2025/01/how-long-does-it-take-hackers-to-crack.html)
 <!-- BLOG-POST-LIST:END -->
