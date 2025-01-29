@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI in Cybersecurity: What&#39;s Effective and What’s Not – Insights from 200 Experts](https://thehackernews.com/2025/01/ai-in-cybersecurity-whats-effective-and.html)
+- [New SLAP &amp; FLOP Attacks Expose Apple M-Series Chips to Speculative Execution Exploits](https://thehackernews.com/2025/01/new-slap-flop-attacks-expose-apple-m.html)
 - [How Interlock Ransomware Infects Healthcare Organizations](https://thehackernews.com/2025/01/how-interlock-ransomware-infects.html)
 - [Critical Cacti Security Flaw &lpar;CVE-2025-22604&rpar; Enables Remote Code Execution](https://thehackernews.com/2025/01/critical-cacti-security-flaw-cve-2025.html)
 - [UAC-0063 Expands Cyber Attacks to European Embassies Using Stolen Documents](https://thehackernews.com/2025/01/uac-0063-expands-cyber-attacks-to.html)
-- [Broadcom Warns of High-Severity SQL Injection Flaw in VMware Avi Load Balancer](https://thehackernews.com/2025/01/broadcom-warns-of-high-severity-sql.html)
-- [Zyxel CPE Devices Face Active Exploitation Due to Unpatched CVE-2024-40891 Vulnerability](https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html)
 <!-- BLOG-POST-LIST:END -->
