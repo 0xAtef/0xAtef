@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Authorities Seize Domains of Popular Hacking Forums in Major Cybercrime Crackdown](https://thehackernews.com/2025/01/authorities-seize-domains-of-popular.html)
+- [Lightning AI Studio Vulnerability Allowed RCE via Hidden URL Parameter](https://thehackernews.com/2025/01/lightning-ai-studio-vulnerability.html)
 - [SOC Analysts - Reimagining Their Role Using AI](https://thehackernews.com/2025/01/soc-analysts-reimagining-their-role.html)
 - [DeepSeek AI Database Exposed: Over 1 Million Log Lines, Secret Keys Leaked](https://thehackernews.com/2025/01/deepseek-ai-database-exposed-over-1.html)
 - [Unpatched PHP Voyager Flaws Leave Servers Open to One-Click RCE Exploits](https://thehackernews.com/2025/01/unpatched-php-voyager-flaws-leave.html)
-- [New Aquabot Botnet Exploits CVE-2024-41710 in Mitel Phones for DDoS Attacks](https://thehackernews.com/2025/01/new-aquabot-botnet-exploits-cve-2024.html)
-- [Lazarus Group Uses React-Based Admin Panel to Control Global Cyber Attacks](https://thehackernews.com/2025/01/lazarus-group-uses-react-based-admin.html)
 <!-- BLOG-POST-LIST:END -->
