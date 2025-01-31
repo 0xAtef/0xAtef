@@ -175,7 +175,7 @@ BIO
 <!-- BLOG-POST-LIST:START -->
 - [Google: Over 57 Nation-State Threat Groups Using AI for Cyber Operations](https://thehackernews.com/2025/01/google-over-57-nation-state-threat.html)
 - [Authorities Seize Domains of Popular Hacking Forums in Major Cybercrime Crackdown](https://thehackernews.com/2025/01/authorities-seize-domains-of-popular.html)
-- [Lightning AI Studio Vulnerability Allowed RCE via Hidden URL Parameter](https://thehackernews.com/2025/01/lightning-ai-studio-vulnerability.html)
+- [Lightning AI Studio Vulnerability Could&#39;ve Allowed RCE via Hidden URL Parameter](https://thehackernews.com/2025/01/lightning-ai-studio-vulnerability.html)
 - [SOC Analysts - Reimagining Their Role Using AI](https://thehackernews.com/2025/01/soc-analysts-reimagining-their-role.html)
 - [DeepSeek AI Database Exposed: Over 1 Million Log Lines, Secret Keys Leaked](https://thehackernews.com/2025/01/deepseek-ai-database-exposed-over-1.html)
 <!-- BLOG-POST-LIST:END -->
