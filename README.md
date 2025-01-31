@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 AI-Powered Social Engineering Attacks](https://thehackernews.com/2025/01/top-5-ai-powered-social-engineering.html)
+- [Italy Bans Chinese DeepSeek AI Over Data Privacy and Ethical Concerns](https://thehackernews.com/2025/01/italy-bans-chinese-deepseek-ai-over.html)
+- [Google Bans 158,000 Malicious Android App Developer Accounts in 2024](https://thehackernews.com/2025/01/google-bans-158000-malicious-android.html)
 - [Broadcom Patches VMware Aria Flaws – Exploits May Lead to Credential Theft](https://thehackernews.com/2025/01/broadcom-patches-vmware-aria-flaws.html)
 - [Google: Over 57 Nation-State Threat Groups Using AI for Cyber Operations](https://thehackernews.com/2025/01/google-over-57-nation-state-threat.html)
-- [Authorities Seize Domains of Popular Hacking Forums in Major Cybercrime Crackdown](https://thehackernews.com/2025/01/authorities-seize-domains-of-popular.html)
-- [Lightning AI Studio Vulnerability Could&#39;ve Allowed RCE via Hidden URL Parameter](https://thehackernews.com/2025/01/lightning-ai-studio-vulnerability.html)
-- [SOC Analysts - Reimagining Their Role Using AI](https://thehackernews.com/2025/01/soc-analysts-reimagining-their-role.html)
 <!-- BLOG-POST-LIST:END -->
