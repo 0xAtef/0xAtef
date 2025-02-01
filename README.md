@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. and Dutch Authorities Dismantle 39 Domains Linked to BEC Fraud Network](https://thehackernews.com/2025/02/us-and-dutch-authorities-dismantle-39.html)
 - [BeyondTrust Zero-Day Breach Exposed 17 SaaS Customers via Compromised API Key](https://thehackernews.com/2025/02/beyondtrust-zero-day-breach-exposes-17.html)
 - [Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activists](https://thehackernews.com/2025/02/meta-confirms-zero-click-whatsapp.html)
 - [Malvertising Scam Uses Fake Google Ads to Hijack Microsoft Advertising Accounts](https://thehackernews.com/2025/02/malvertising-scam-uses-fake-google-ads.html)
 - [CISA and FDA Warn of Critical Backdoor in Contec CMS8000 Patient Monitors](https://thehackernews.com/2025/01/cisa-and-fda-warn-of-critical-backdoor.html)
-- [Top 5 AI-Powered Social Engineering Attacks](https://thehackernews.com/2025/01/top-5-ai-powered-social-engineering.html)
 <!-- BLOG-POST-LIST:END -->
