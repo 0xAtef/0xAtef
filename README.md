@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malvertising Scam Uses Fake Google Ads to Hijack Microsoft Advertising Accounts](https://thehackernews.com/2025/02/malvertising-scam-uses-fake-google-ads.html)
 - [CISA and FDA Warn of Critical Backdoor in Contec CMS8000 Patient Monitors](https://thehackernews.com/2025/01/cisa-and-fda-warn-of-critical-backdoor.html)
 - [Top 5 AI-Powered Social Engineering Attacks](https://thehackernews.com/2025/01/top-5-ai-powered-social-engineering.html)
 - [Italy Bans Chinese DeepSeek AI Over Data Privacy and Ethical Concerns](https://thehackernews.com/2025/01/italy-bans-chinese-deepseek-ai-over.html)
 - [Google Bans 158,000 Malicious Android App Developer Accounts in 2024](https://thehackernews.com/2025/01/google-bans-158000-malicious-android.html)
-- [Broadcom Patches VMware Aria Flaws – Exploits May Lead to Credential Theft](https://thehackernews.com/2025/01/broadcom-patches-vmware-aria-flaws.html)
 <!-- BLOG-POST-LIST:END -->
