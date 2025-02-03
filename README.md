@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPI Introduces Archival Status to Alert Users About Unmaintained Python Packages](https://thehackernews.com/2025/02/pypi-introduces-archival-status-to.html)
 - [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [27 February]](https://thehackernews.com/2025/02/thn-weekly-recap-top-cybersecurity.html)
 - [Coyote Malware Expands Reach: Now Targets 1,030 Sites and 73 Financial Institutions](https://thehackernews.com/2025/02/coyote-malware-expands-reach-now.html)
 - [What Is Attack Surface Management?](https://thehackernews.com/2025/02/what-is-attack-surface-management.html)
 - [Crazy Evil Gang Targets Crypto with StealC, AMOS, and Angel Drainer Malware](https://thehackernews.com/2025/02/crazy-evil-gang-targets-crypto-with.html)
-- [U.S. and Dutch Authorities Dismantle 39 Domains Linked to BEC Fraud Network](https://thehackernews.com/2025/02/us-and-dutch-authorities-dismantle-39.html)
 <!-- BLOG-POST-LIST:END -->
