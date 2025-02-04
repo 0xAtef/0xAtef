@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch Out For These 8 Cloud Security Shifts in 2025](https://thehackernews.com/2025/02/watch-out-for-these-8-cloud-security.html)
 - [Taiwan Bans DeepSeek AI Over National Security Concerns, Citing Data Leakage Risks](https://thehackernews.com/2025/02/taiwan-bans-deepseek-ai-over-national.html)
 - [AMD SEV-SNP Vulnerability Allows Malicious Microcode Injection with Admin Access](https://thehackernews.com/2025/02/amd-sev-snp-vulnerability-allows.html)
 - [Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Score](https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html)
 - [Google Patches 47 Android Security Flaws, Including Actively Exploited CVE-2024-53104](https://thehackernews.com/2025/02/google-patches-47-android-security.html)
-- [Microsoft SharePoint Connector Flaw Could&#39;ve Enabled Credential Theft Across Power Platform](https://thehackernews.com/2025/02/microsoft-sharepoint-connector-flaw.html)
 <!-- BLOG-POST-LIST:END -->
