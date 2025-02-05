@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Platform JavaScript Stealer Targets Crypto Wallets in New Lazarus Group Campaign](https://thehackernews.com/2025/02/cross-platform-javascript-stealer.html)
 - [Cybercriminals Use Go Resty and Node Fetch in 13 Million Password Spraying Attempts](https://thehackernews.com/2025/02/cybercriminals-use-axios-and-node-fetch.html)
 - [Silent Lynx Using PowerShell, Golang, and C++ Loaders in Multi-Stage Cyberattacks](https://thehackernews.com/2025/02/silent-lynx-using-powershell-golang-and.html)
 - [New Veeam Flaw Allows Arbitrary Code Execution via Man-in-the-Middle Attack](https://thehackernews.com/2025/02/new-veeam-flaw-allows-arbitrary-code.html)
 - [Navigating the Future: Key IT Vulnerability Management Trends](https://thehackernews.com/2025/02/navigating-future-key-it-vulnerability.html)
-- [AsyncRAT Campaign Uses Python Payloads and TryCloudflare Tunnels for Stealth Attacks](https://thehackernews.com/2025/02/asyncrat-campaign-uses-python-payloads.html)
 <!-- BLOG-POST-LIST:END -->
