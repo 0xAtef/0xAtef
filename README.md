@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AsyncRAT Campaign Uses Python Payloads and TryCloudflare Tunnels for Stealth Attacks](https://thehackernews.com/2025/02/asyncrat-campaign-uses-python-payloads.html)
 - [CISA Adds Four Actively Exploited Vulnerabilities to KEV Catalog, Urges Fixes by Feb 25](https://thehackernews.com/2025/02/cisa-adds-four-actively-exploited.html)
 - [Malicious Go Package Exploits Module Mirror Caching for Persistent Remote Access](https://thehackernews.com/2025/02/malicious-go-package-exploits-module.html)
 - [Russian Cybercrime Groups Exploiting 7-Zip Flaw to Bypass Windows MotW Protections](https://thehackernews.com/2025/02/russian-cybercrime-groups-exploiting-7.html)
 - [North Korean Hackers Deploy FERRET Malware via Fake Job Interviews on macOS](https://thehackernews.com/2025/02/north-korean-hackers-deploy-ferret.html)
-- [Watch Out For These 8 Cloud Security Shifts in 2025](https://thehackernews.com/2025/02/watch-out-for-these-8-cloud-security.html)
 <!-- BLOG-POST-LIST:END -->
