@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SparkCat Malware Uses OCR to Extract Crypto Wallet Recovery Phrases from Images](https://thehackernews.com/2025/02/sparkcat-malware-uses-ocr-to-extract.html)
+- [The Evolving Role of PAM in Cybersecurity Leadership Agendas for 2025](https://thehackernews.com/2025/02/the-evolving-role-of-pam-in.html)
+- [North Korean APT Kimsuky Uses forceCopy Malware to Steal Browser-Stored Credentials](https://thehackernews.com/2025/02/north-korean-apt-kimsuky-uses-lnk-files.html)
 - [Top 3 Ransomware Threats Active in 2025](https://thehackernews.com/2025/02/top-3-ransomware-threats-active-in-2025.html)
 - [Cisco Patches Critical ISE Vulnerabilities Enabling Root CmdExec and PrivEsc](https://thehackernews.com/2025/02/cisco-patches-critical-ise.html)
-- [Cross-Platform JavaScript Stealer Targets Crypto Wallets in New Lazarus Group Campaign](https://thehackernews.com/2025/02/cross-platform-javascript-stealer.html)
-- [Cybercriminals Use Go Resty and Node Fetch in 13 Million Password Spraying Attempts](https://thehackernews.com/2025/02/cybercriminals-use-axios-and-node-fetch.html)
-- [Silent Lynx Using PowerShell, Golang, and C++ Loaders in Multi-Stage Cyberattacks](https://thehackernews.com/2025/02/silent-lynx-using-powershell-golang-and.html)
 <!-- BLOG-POST-LIST:END -->
