@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 3 Ransomware Threats Active in 2025](https://thehackernews.com/2025/02/top-3-ransomware-threats-active-in-2025.html)
 - [Cisco Patches Critical ISE Vulnerabilities Enabling Root CmdExec and PrivEsc](https://thehackernews.com/2025/02/cisco-patches-critical-ise.html)
 - [Cross-Platform JavaScript Stealer Targets Crypto Wallets in New Lazarus Group Campaign](https://thehackernews.com/2025/02/cross-platform-javascript-stealer.html)
 - [Cybercriminals Use Go Resty and Node Fetch in 13 Million Password Spraying Attempts](https://thehackernews.com/2025/02/cybercriminals-use-axios-and-node-fetch.html)
 - [Silent Lynx Using PowerShell, Golang, and C++ Loaders in Multi-Stage Cyberattacks](https://thehackernews.com/2025/02/silent-lynx-using-powershell-golang-and.html)
-- [New Veeam Flaw Allows Arbitrary Code Execution via Man-in-the-Middle Attack](https://thehackernews.com/2025/02/new-veeam-flaw-allows-arbitrary-code.html)
 <!-- BLOG-POST-LIST:END -->
