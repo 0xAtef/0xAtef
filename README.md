@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Warns of Active Exploitation in Trimble Cityworks Vulnerability Leading to IIS RCE](https://thehackernews.com/2025/02/cisa-warns-of-active-exploitation-in.html)
 - [AI-Powered Social Engineering: Reinvented Threats](https://thehackernews.com/2025/02/ai-powered-social-engineering.html)
-- [Microsoft Identifies 3,000+ Publicly Disclosed ASP.NET Machine Keys Vulnerable to Code Injection](https://thehackernews.com/2025/02/microsoft-identifies-3000-publicly.html)
+- [Microsoft Identifies 3,000 Leaked ASP.NET Keys Enabling Code Injection Attacks](https://thehackernews.com/2025/02/microsoft-identifies-3000-publicly.html)
 - [India’s RBI Introduces Exclusive &quot;bank.in&quot; Domain to Combat Digital Banking Fraud](https://thehackernews.com/2025/02/indias-rbi-introduces-exclusive-bankin.html)
 - [Hackers Exploiting SimpleHelp RMM Flaws for Persistent Access and Ransomware](https://thehackernews.com/2025/02/hackers-exploit-simplehelp-rmm-flaws.html)
-- [Fake Google Chrome Sites Distribute ValleyRAT Malware via DLL Hijacking](https://thehackernews.com/2025/02/fake-google-chrome-sites-distribute.html)
 <!-- BLOG-POST-LIST:END -->
