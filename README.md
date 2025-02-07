@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploiting SimpleHelp RMM Flaws for Persistent Access and Ransomware](https://thehackernews.com/2025/02/hackers-exploit-simplehelp-rmm-flaws.html)
 - [Fake Google Chrome Sites Distribute ValleyRAT Malware via DLL Hijacking](https://thehackernews.com/2025/02/fake-google-chrome-sites-distribute.html)
 - [Ransomware Extortion Drops to $813.5M in 2024, Down from $1.25B in 2023](https://thehackernews.com/2025/02/ransomware-extortion-drops-to-8135m-in.html)
 - [SparkCat Malware Uses OCR to Extract Crypto Wallet Recovery Phrases from Images](https://thehackernews.com/2025/02/sparkcat-malware-uses-ocr-to-extract.html)
 - [The Evolving Role of PAM in Cybersecurity Leadership Agendas for 2025](https://thehackernews.com/2025/02/the-evolving-role-of-pam-in.html)
-- [North Korean APT Kimsuky Uses forceCopy Malware to Steal Browser-Stored Credentials](https://thehackernews.com/2025/02/north-korean-apt-kimsuky-uses-lnk-files.html)
 <!-- BLOG-POST-LIST:END -->
