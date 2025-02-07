@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek App Transmits Sensitive User and Device Data Without Encryption](https://thehackernews.com/2025/02/deepseek-app-transmits-sensitive-user.html)
 - [CISA Warns of Active Exploits Targeting Trimble Cityworks Vulnerability](https://thehackernews.com/2025/02/cisa-warns-of-active-exploitation-in.html)
 - [AI-Powered Social Engineering: Reinvented Threats](https://thehackernews.com/2025/02/ai-powered-social-engineering.html)
 - [Microsoft Identifies 3,000 Leaked ASP.NET Keys Enabling Code Injection Attacks](https://thehackernews.com/2025/02/microsoft-identifies-3000-publicly.html)
 - [India’s RBI Introduces Exclusive &quot;bank.in&quot; Domain to Combat Digital Banking Fraud](https://thehackernews.com/2025/02/indias-rbi-introduces-exclusive-bankin.html)
-- [Hackers Exploiting SimpleHelp RMM Flaws for Persistent Access and Ransomware](https://thehackernews.com/2025/02/hackers-exploit-simplehelp-rmm-flaws.html)
 <!-- BLOG-POST-LIST:END -->
