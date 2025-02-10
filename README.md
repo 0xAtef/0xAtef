@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [XE Hacker Group Exploits VeraCore Zero-Day to Deploy Persistent Web Shells](https://thehackernews.com/2025/02/xe-hacker-group-exploits-veracore-zero.html)
 - [Malicious ML Models on Hugging Face Leverage Broken Pickle Format to Evade Detection](https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html)
 - [DeepSeek App Transmits Sensitive User and Device Data Without Encryption](https://thehackernews.com/2025/02/deepseek-app-transmits-sensitive-user.html)
 - [CISA Warns of Active Exploits Targeting Trimble Cityworks Vulnerability](https://thehackernews.com/2025/02/cisa-warns-of-active-exploitation-in.html)
 - [AI-Powered Social Engineering: Reinvented Threats](https://thehackernews.com/2025/02/ai-powered-social-engineering.html)
-- [Microsoft Identifies 3,000 Leaked ASP.NET Keys Enabling Code Injection Attacks](https://thehackernews.com/2025/02/microsoft-identifies-3000-publicly.html)
 <!-- BLOG-POST-LIST:END -->
