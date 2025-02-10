@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [10 February]](https://thehackernews.com/2025/02/thn-weekly-recap-top-cybersecurity_10.html)
 - [Don&#39;t Overlook These 6 Critical Okta Security Configurations](https://thehackernews.com/2025/02/dont-overlook-these-6-critical-okta.html)
 - [DragonRank Exploits IIS Servers with BadIIS Malware for SEO Fraud and Gambling Redirects](https://thehackernews.com/2025/02/dragonrank-exploits-iis-servers-with.html)
 - [Zimbra Releases Security Updates for SQL Injection, Stored XSS, and SSRF Vulnerabilities](https://thehackernews.com/2025/02/zimbra-releases-security-updates-for.html)
 - [XE Hacker Group Exploits VeraCore Zero-Day to Deploy Persistent Web Shells](https://thehackernews.com/2025/02/xe-hacker-group-exploits-veracore-zero.html)
-- [Malicious ML Models on Hugging Face Leverage Broken Pickle Format to Evade Detection](https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html)
 <!-- BLOG-POST-LIST:END -->
