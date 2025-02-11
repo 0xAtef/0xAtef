@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8Base Ransomware Data Leak Sites Seized in International Law Enforcement Operation](https://thehackernews.com/2025/02/8base-ransomware-data-leak-sites-seized.html)
 - [Apple Patches Actively Exploited iOS Zero-Day CVE-2025-24200 in Emergency Update](https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html)
 - [Hackers Exploit Google Tag Manager to Deploy Credit Card Skimmers on Magento Stores](https://thehackernews.com/2025/02/hackers-exploit-google-tag-manager-to.html)
 - [⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [10 February]](https://thehackernews.com/2025/02/thn-weekly-recap-top-cybersecurity_10.html)
 - [Don&#39;t Overlook These 6 Critical Okta Security Configurations](https://thehackernews.com/2025/02/dont-overlook-these-6-critical-okta.html)
-- [DragonRank Exploits IIS Servers with BadIIS Malware for SEO Fraud and Gambling Redirects](https://thehackernews.com/2025/02/dragonrank-exploits-iis-servers-with.html)
 <!-- BLOG-POST-LIST:END -->
