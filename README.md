@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Ways to Keep MFA From Becoming too Much of a Good Thing](https://thehackernews.com/2025/02/4-ways-to-keep-mfa-from-becoming-too.html)
 - [Progress Software Patches High-Severity LoadMaster Flaws Affecting Multiple Versions](https://thehackernews.com/2025/02/progress-software-patches-high-severity.html)
 - [Gcore DDoS Radar Reveals 56% YoY Increase in DDoS Attacks](https://thehackernews.com/2025/02/gcore-ddos-radar-reveals-56-yoy.html)
 - [Apple Patches Actively Exploited iOS Zero-Day CVE-2025-24200 in Emergency Update](https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html)
 - [Protecting Your Software Supply Chain: Assessing the Risks Before Deployment](https://thehackernews.com/2025/02/protecting-your-software-supply-chain.html)
-- [Threat Actors Exploit ClickFix to Deploy NetSupport RAT in Latest Cyber Attacks](https://thehackernews.com/2025/02/threat-actors-exploit-clickfix-to.html)
 <!-- BLOG-POST-LIST:END -->
