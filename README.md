@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’s Patch Tuesday Fixes 63 Flaws, Including Two Under Active Exploitation](https://thehackernews.com/2025/02/microsofts-patch-tuesday-fixes-63-flaws.html)
 - [Ivanti Patches Critical Flaws in Connect Secure and Policy Secure – Update Now](https://thehackernews.com/2025/02/ivanti-patches-critical-flaws-in.html)
 - [Google Confirms Android SafetyCore Enables AI-Powered On-Device Content Classification](https://thehackernews.com/2025/02/google-confirms-android-safetycore.html)
 - [4 Ways to Keep MFA From Becoming too Much of a Good Thing](https://thehackernews.com/2025/02/4-ways-to-keep-mfa-from-becoming-too.html)
 - [Progress Software Patches High-Severity LoadMaster Flaws Affecting Multiple Versions](https://thehackernews.com/2025/02/progress-software-patches-high-severity.html)
-- [Gcore DDoS Radar Reveals 56% YoY Increase in DDoS Attacks](https://thehackernews.com/2025/02/gcore-ddos-radar-reveals-56-yoy.html)
 <!-- BLOG-POST-LIST:END -->
