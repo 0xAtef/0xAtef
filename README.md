@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Steer AI Adoption: A CISO Guide](https://thehackernews.com/2025/02/how-to-steer-ai-adoption-ciso-guide.html)
 - [North Korean Hackers Exploit PowerShell Trick to Hijack Devices in New Cyberattack](https://thehackernews.com/2025/02/north-korean-hackers-exploit-powershell.html)
 - [Microsoft’s Patch Tuesday Fixes 63 Flaws, Including Two Under Active Exploitation](https://thehackernews.com/2025/02/microsofts-patch-tuesday-fixes-63-flaws.html)
 - [Ivanti Patches Critical Flaws in Connect Secure and Policy Secure – Update Now](https://thehackernews.com/2025/02/ivanti-patches-critical-flaws-in.html)
 - [Google Confirms Android SafetyCore Enables AI-Powered On-Device Content Classification](https://thehackernews.com/2025/02/google-confirms-android-safetycore.html)
-- [4 Ways to Keep MFA From Becoming too Much of a Good Thing](https://thehackernews.com/2025/02/4-ways-to-keep-mfa-from-becoming-too.html)
 <!-- BLOG-POST-LIST:END -->
