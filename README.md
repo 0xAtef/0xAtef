@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FINALDRAFT Malware Exploits Microsoft Graph API for Espionage on Windows and Linux](https://thehackernews.com/2025/02/finaldraft-malware-exploits-microsoft.html)
 - [Microsoft Uncovers Sandworm Subgroup&#39;s Global Cyber Attacks Spanning 15+ Countries](https://thehackernews.com/2025/02/microsoft-uncovers-sandworm-subgroups.html)
 - [Researchers Find New Exploit Bypassing Patched NVIDIA Container Toolkit Vulnerability](https://thehackernews.com/2025/02/researchers-find-new-exploit-bypassing.html)
 - [How to Steer AI Adoption: A CISO Guide](https://thehackernews.com/2025/02/how-to-steer-ai-adoption-ciso-guide.html)
 - [North Korean Hackers Exploit PowerShell Trick to Hijack Devices in New Cyberattack](https://thehackernews.com/2025/02/north-korean-hackers-exploit-powershell.html)
-- [Microsoft’s Patch Tuesday Fixes 63 Flaws, Including Two Under Active Exploitation](https://thehackernews.com/2025/02/microsofts-patch-tuesday-fixes-63-flaws.html)
 <!-- BLOG-POST-LIST:END -->
