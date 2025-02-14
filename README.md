@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Social Engineering: Ancillary Tools and Techniques](https://thehackernews.com/2025/02/ai-powered-social-engineering-ancillary.html)
+- [Microsoft: Russian-Linked Hackers Using &#39;Device Code Phishing&#39; to Hijack Accounts](https://thehackernews.com/2025/02/microsoft-russian-linked-hackers-using.html)
+- [RansomHub Becomes 2024’s Top Ransomware Group, Hitting 600+ Organizations Globally](https://thehackernews.com/2025/02/ransomhub-becomes-2024s-top-ransomware.html)
 - [PostgreSQL Vulnerability Exploited Alongside BeyondTrust Zero-Day in Targeted Attacks](https://thehackernews.com/2025/02/postgresql-vulnerability-exploited.html)
 - [Hackers Use CAPTCHA Trick on Webflow CDN PDFs to Bypass Security Scanners](https://thehackernews.com/2025/02/hackers-use-captcha-trick-on-webflow.html)
-- [North Korean APT43 Uses PowerShell and Dropbox in Targeted South Korea Cyberattacks](https://thehackernews.com/2025/02/north-korean-apt43-uses-powershell-and.html)
-- [Fast Deployments, Secure Code: Watch this Learn to Sync Dev and Sec Teams](https://thehackernews.com/2025/02/fast-deployments-secure-code-watch-this.html)
-- [RA World Ransomware Attack in South Asia Links to Chinese Espionage Toolset](https://thehackernews.com/2025/02/hackers-exploited-pan-os-flaw-to-deploy.html)
 <!-- BLOG-POST-LIST:END -->
