@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ THN Weekly Recap: Google Secrets Stolen, Windows Hack, New Crypto Scams and More](https://thehackernews.com/2025/02/thn-weekly-recap-google-secrets-stolen.html)
+- [New Golang-Based Backdoor Uses Telegram Bot API for Evasive C2 Operations](https://thehackernews.com/2025/02/new-golang-based-backdoor-uses-telegram.html)
 - [Android&#39;s New Feature Blocks Fraudsters from Sideloading Apps During Calls](https://thehackernews.com/2025/02/androids-new-feature-blocks-fraudsters.html)
 - [New “whoAMI” Attack Exploits AWS AMI Name Confusion for Remote Code Execution](https://thehackernews.com/2025/02/new-whoami-attack-exploits-aws-ami-name.html)
 - [Lazarus Group Deploys Marstech1 JavaScript Implant in Targeted Developer Attacks](https://thehackernews.com/2025/02/lazarus-group-deploys-marstech1.html)
-- [AI-Powered Social Engineering: Ancillary Tools and Techniques](https://thehackernews.com/2025/02/ai-powered-social-engineering-ancillary.html)
-- [Microsoft: Russian-Linked Hackers Using &#39;Device Code Phishing&#39; to Hijack Accounts](https://thehackernews.com/2025/02/microsoft-russian-linked-hackers-using.html)
 <!-- BLOG-POST-LIST:END -->
