@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISO&#39;s Expert Guide To CTEM And Why It Matters](https://thehackernews.com/2025/02/cisos-expert-guide-to-ctem-and-why-it.html)
 - [⚡ THN Weekly Recap: Google Secrets Stolen, Windows Hack, New Crypto Scams and More](https://thehackernews.com/2025/02/thn-weekly-recap-google-secrets-stolen.html)
 - [New Golang-Based Backdoor Uses Telegram Bot API for Evasive C2 Operations](https://thehackernews.com/2025/02/new-golang-based-backdoor-uses-telegram.html)
 - [Android&#39;s New Feature Blocks Fraudsters from Sideloading Apps During Calls](https://thehackernews.com/2025/02/androids-new-feature-blocks-fraudsters.html)
 - [New “whoAMI” Attack Exploits AWS AMI Name Confusion for Remote Code Execution](https://thehackernews.com/2025/02/new-whoami-attack-exploits-aws-ami-name.html)
-- [Lazarus Group Deploys Marstech1 JavaScript Implant in Targeted Developer Attacks](https://thehackernews.com/2025/02/lazarus-group-deploys-marstech1.html)
 <!-- BLOG-POST-LIST:END -->
