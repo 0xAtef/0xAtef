@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Xerox Printer Flaws Could Let Attackers Capture Windows Active Directory Credentials](https://thehackernews.com/2025/02/new-xerox-printer-flaws-could-let.html)
 - [Cybercriminals Exploit Onerror Event in Image Tags to Deploy Payment Skimmers](https://thehackernews.com/2025/02/cybercriminals-exploit-onerror-event-in.html)
 - [Microsoft Uncovers New XCSSET macOS Malware Variant with Advanced Obfuscation Tactics](https://thehackernews.com/2025/02/microsoft-uncovers-new-xcsset-macos.html)
 - [South Korea Suspends DeepSeek AI Downloads Over Privacy Violations](https://thehackernews.com/2025/02/south-korea-suspends-deepseek-ai.html)
 - [CISO&#39;s Expert Guide To CTEM And Why It Matters](https://thehackernews.com/2025/02/cisos-expert-guide-to-ctem-and-why-it.html)
-- [⚡ THN Weekly Recap: Google Secrets Stolen, Windows Hack, New Crypto Scams and More](https://thehackernews.com/2025/02/thn-weekly-recap-google-secrets-stolen.html)
 <!-- BLOG-POST-LIST:END -->
