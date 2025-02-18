@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Juniper Session Smart Routers Vulnerability Could Let Attackers Bypass Authentication](https://thehackernews.com/2025/02/juniper-session-smart-routers.html)
 - [Debunking the AI Hype: Inside Real Hacker Tactics](https://thehackernews.com/2025/02/debunking-ai-hype-inside-real-hacker.html)
 - [Winnti APT41 Targets Japanese Firms in RevivalStone Cyber Espionage Campaign](https://thehackernews.com/2025/02/winnti-apt41-targets-japanese-firms-in.html)
 - [New Xerox Printer Flaws Could Let Attackers Capture Windows Active Directory Credentials](https://thehackernews.com/2025/02/new-xerox-printer-flaws-could-let.html)
 - [Cybercriminals Exploit Onerror Event in Image Tags to Deploy Payment Skimmers](https://thehackernews.com/2025/02/cybercriminals-exploit-onerror-event-in.html)
-- [Microsoft Uncovers New XCSSET macOS Malware Variant with Advanced Obfuscation Tactics](https://thehackernews.com/2025/02/microsoft-uncovers-new-xcsset-macos.html)
 <!-- BLOG-POST-LIST:END -->
