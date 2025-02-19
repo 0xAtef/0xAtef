@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Adds Palo Alto Networks and SonicWall Flaws to Exploited Vulnerabilities List](https://thehackernews.com/2025/02/cisa-adds-palo-alto-networks-and.html)
 - [New OpenSSH Flaws Enable Man-in-the-Middle and DoS Attacks — Patch Now](https://thehackernews.com/2025/02/new-openssh-flaws-enable-man-in-middle.html)
 - [Chinese Hackers Exploit MAVInject.exe to Evade Detection in Targeted Cyber Attacks](https://thehackernews.com/2025/02/chinese-hackers-exploit-mavinjectexe-to.html)
 - [New FrigidStealer Malware Targets macOS Users via Fake Browser Updates](https://thehackernews.com/2025/02/new-frigidstealer-malware-targets-macos.html)
 - [Debunking the AI Hype: Inside Real Hacker Tactics](https://thehackernews.com/2025/02/debunking-ai-hype-inside-real-hacker.html)
-- [Juniper Session Smart Routers Vulnerability Could Let Attackers Bypass Authentication](https://thehackernews.com/2025/02/juniper-session-smart-routers.html)
 <!-- BLOG-POST-LIST:END -->
