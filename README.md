@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Citrix Releases Security Fix for NetScaler Console Privilege Escalation Vulnerability](https://thehackernews.com/2025/02/citrix-releases-security-fix-for.html)
+- [Microsoft Patches Actively Exploited Power Pages Privilege Escalation Vulnerability](https://thehackernews.com/2025/02/microsoft-patches-actively-exploited.html)
 - [Hackers Exploit Signal&#39;s Linked Devices Feature to Hijack Accounts via Malicious QR Codes](https://thehackernews.com/2025/02/hackers-exploit-signals-linked-devices.html)
 - [New Snake Keylogger Variant Leverages AutoIt Scripting to Evade Detection](https://thehackernews.com/2025/02/new-snake-keylogger-variant-leverages.html)
 - [The Ultimate MSP Guide to Structuring and Selling vCISO Services](https://thehackernews.com/2025/02/the-ultimate-msp-guide-to-structuring.html)
-- [Trojanized Game Installers Deploy Cryptocurrency Miner in Large-Scale StaryDobry Attack](https://thehackernews.com/2025/02/trojanized-game-installers-deploy.html)
-- [CISA Adds Palo Alto Networks and SonicWall Flaws to Exploited Vulnerabilities List](https://thehackernews.com/2025/02/cisa-adds-palo-alto-networks-and.html)
 <!-- BLOG-POST-LIST:END -->
