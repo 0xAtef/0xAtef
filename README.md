@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PCI DSS 4.0 Mandates DMARC By 31st March 2025](https://thehackernews.com/2025/02/pci-dss-40-mandates-dmarc-by-31st-march.html)
+- [Chinese-Linked Attackers Exploit Check Point Flaw to Deploy ShadowPad and Ransomware](https://thehackernews.com/2025/02/chinese-linked-attackers-exploit-check.html)
+- [Cybercriminals Use Eclipse Jarsigner to Deploy XLoader Malware via ZIP Archives](https://thehackernews.com/2025/02/cybercriminals-use-eclipse-jarsigner-to.html)
 - [Microsoft&#39;s End of Support for Exchange 2016 and 2019: What IT Teams Must Do Now](https://thehackernews.com/2025/02/microsoft-end-of-support-for-exchange-2016-and-exchange-2019.html)
 - [Citrix Releases Security Fix for NetScaler Console Privilege Escalation Vulnerability](https://thehackernews.com/2025/02/citrix-releases-security-fix-for.html)
-- [Microsoft Patches Actively Exploited Power Pages Privilege Escalation Vulnerability](https://thehackernews.com/2025/02/microsoft-patches-actively-exploited.html)
-- [Hackers Exploit Signal&#39;s Linked Devices Feature to Hijack Accounts via Malicious QR Codes](https://thehackernews.com/2025/02/hackers-exploit-signals-linked-devices.html)
-- [New Snake Keylogger Variant Leverages AutoIt Scripting to Evade Detection](https://thehackernews.com/2025/02/new-snake-keylogger-variant-leverages.html)
 <!-- BLOG-POST-LIST:END -->
