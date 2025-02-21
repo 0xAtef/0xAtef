@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Learn How to Identify High-Risk Identity Gaps and Slash Security Debt in 2025](https://thehackernews.com/2025/02/webinar-learn-how-to-identify-high-risk.html)
 - [AI-Powered Deception is a Menace to Our Societies](https://thehackernews.com/2025/02/ai-powered-deception-is-menace-to-our.html)
 - [Cisco Confirms Salt Typhoon Exploited CVE-2018-0171 to Target U.S. Telecom Networks](https://thehackernews.com/2025/02/cisco-confirms-salt-typhoon-exploited.html)
 - [CISA Flags Craft CMS Vulnerability CVE-2025-23209 Amid Active Attacks](https://thehackernews.com/2025/02/cisa-flags-craft-cms-vulnerability-cve.html)
 - [North Korean Hackers Target Freelance Developers in Job Scam to Deploy Malware](https://thehackernews.com/2025/02/north-korean-hackers-target-freelance.html)
-- [China-Linked Attackers Exploit Check Point Flaw to Deploy ShadowPad and Ransomware](https://thehackernews.com/2025/02/chinese-linked-attackers-exploit-check.html)
 <!-- BLOG-POST-LIST:END -->
