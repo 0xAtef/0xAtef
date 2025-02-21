@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Confirms Salt Typhoon Exploited CVE-2018-0171 to Target U.S. Telecom Networks](https://thehackernews.com/2025/02/cisco-confirms-salt-typhoon-exploited.html)
+- [CISA Flags Craft CMS Vulnerability CVE-2025-23209 Amid Active Attacks](https://thehackernews.com/2025/02/cisa-flags-craft-cms-vulnerability-cve.html)
 - [North Korean Hackers Target Freelance Developers in Job Scam to Deploy Malware](https://thehackernews.com/2025/02/north-korean-hackers-target-freelance.html)
 - [China-Linked Attackers Exploit Check Point Flaw to Deploy ShadowPad and Ransomware](https://thehackernews.com/2025/02/chinese-linked-attackers-exploit-check.html)
 - [PCI DSS 4.0 Mandates DMARC By 31st March 2025](https://thehackernews.com/2025/02/pci-dss-40-mandates-dmarc-by-31st-march.html)
-- [Cybercriminals Use Eclipse Jarsigner to Deploy XLoader Malware via ZIP Archives](https://thehackernews.com/2025/02/cybercriminals-use-eclipse-jarsigner-to.html)
-- [Microsoft&#39;s End of Support for Exchange 2016 and 2019: What IT Teams Must Do Now](https://thehackernews.com/2025/02/microsoft-end-of-support-for-exchange-2016-and-exchange-2019.html)
 <!-- BLOG-POST-LIST:END -->
