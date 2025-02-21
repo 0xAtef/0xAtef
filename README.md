@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Drops iCloud&#39;s Advanced Data Protection in the U.K. Amid Encryption Backdoor Demands](https://thehackernews.com/2025/02/apple-drops-iclouds-advanced-data.html)
+- [Data Leak Exposes TopSec&#39;s Role in China’s Censorship-as-a-Service Operations](https://thehackernews.com/2025/02/data-leak-exposes-topsecs-role-in.html)
 - [Cybercriminals Can Now Clone Any Brand’s Site in Minutes Using Darcula PhaaS v3](https://thehackernews.com/2025/02/cybercriminals-can-now-clone-any-brands.html)
 - [Webinar: Learn How to Identify High-Risk Identity Gaps and Slash Security Debt in 2025](https://thehackernews.com/2025/02/webinar-learn-how-to-identify-high-risk.html)
 - [AI-Powered Deception is a Menace to Our Societies](https://thehackernews.com/2025/02/ai-powered-deception-is-menace-to-our.html)
-- [Cisco Confirms Salt Typhoon Exploited CVE-2018-0171 to Target U.S. Telecom Networks](https://thehackernews.com/2025/02/cisco-confirms-salt-typhoon-exploited.html)
-- [CISA Flags Craft CMS Vulnerability CVE-2025-23209 Amid Active Attacks](https://thehackernews.com/2025/02/cisa-flags-craft-cms-vulnerability-cve.html)
 <!-- BLOG-POST-LIST:END -->
