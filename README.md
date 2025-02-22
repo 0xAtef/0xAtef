@@ -39,7 +39,7 @@ I am a highly skilled and experienced Cyber Defense Engineer with a proven track
 
 My expertise includes designing and optimizing SOC processes, developing robust use cases, creating comprehensive playbooks, and implementing advanced detection rules and automation workflows to enhance security operations. I excel in crafting middleware for custom solution integration and automation, as well as streamlining integration processes to ensure seamless functionality across diverse security environments.
 
-Passionate about blue team capabilities, I specialize in threat detection, incident response, and proactive threat hunting. My technical acumen extends to SIEM administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and leveraging proficient scripting skills to drive operational efficiency.
+Passionate about blue team capabilities, I specialize in threat detection, digital forensics & incident response, and proactive threat hunting. My technical acumen extends to SIEM administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and leveraging proficient scripting skills to drive operational efficiency.
 
 I hold a professional certificate in Threat Hunting (eCTHPv2) and am committed to expanding my knowledge and practical expertise through additional certifications in blue and purple team disciplines. Guided by the principle, "You can’t protect what you don’t understand," I strive to stay informed of the latest trends, technologies, and adversary tactics in the ever-evolving field of cybersecurity.
 
