@@ -173,7 +173,7 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bybit Confirms Record-Breaking $1.46 Billion Crypto Heist in Sophisticated Cold Wallet Attack](https://thehackernews.com/2025/02/bybit-confirms-record-breaking-146.html)
+- [Bybit Confirms Record-Breaking $1.5 Billion Crypto Heist in Sophisticated Cold Wallet Attack](https://thehackernews.com/2025/02/bybit-confirms-record-breaking-146.html)
 - [OpenAI Bans Accounts Misusing ChatGPT for Surveillance and Influence Campaigns](https://thehackernews.com/2025/02/openai-bans-accounts-misusing-chatgpt.html)
 - [Apple Drops iCloud&#39;s Advanced Data Protection in the U.K. Amid Encryption Backdoor Demands](https://thehackernews.com/2025/02/apple-drops-iclouds-advanced-data.html)
 - [Data Leak Exposes TopSec&#39;s Role in China’s Censorship-as-a-Service Operations](https://thehackernews.com/2025/02/data-leak-exposes-topsecs-role-in.html)
