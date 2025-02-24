@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Australia Bans Kaspersky Software Over National Security and Espionage Concerns](https://thehackernews.com/2025/02/australia-bans-kaspersky-software-over.html)
 - [Bybit Confirms Record-Breaking $1.5 Billion Crypto Heist in Sophisticated Cold Wallet Attack](https://thehackernews.com/2025/02/bybit-confirms-record-breaking-146.html)
 - [OpenAI Bans Accounts Misusing ChatGPT for Surveillance and Influence Campaigns](https://thehackernews.com/2025/02/openai-bans-accounts-misusing-chatgpt.html)
 - [Apple Drops iCloud&#39;s Advanced Data Protection in the U.K. Amid Encryption Backdoor Demands](https://thehackernews.com/2025/02/apple-drops-iclouds-advanced-data.html)
 - [Data Leak Exposes TopSec&#39;s Role in China’s Censorship-as-a-Service Operations](https://thehackernews.com/2025/02/data-leak-exposes-topsecs-role-in.html)
-- [Cybercriminals Can Now Clone Any Brand’s Site in Minutes Using Darcula PhaaS v3](https://thehackernews.com/2025/02/cybercriminals-can-now-clone-any-brands.html)
 <!-- BLOG-POST-LIST:END -->
