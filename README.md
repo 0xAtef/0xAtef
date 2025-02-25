@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LightSpy Expands to 100+ Commands, Increasing Control Over Windows, macOS, Linux, and Mobile](https://thehackernews.com/2025/02/lightspy-expands-to-100-commands.html)
+- [Belarus-Linked Ghostwriter Uses Macropack-Obfuscated Excel Macros to Deploy Malware](https://thehackernews.com/2025/02/belarus-linked-ghostwriter-uses.html)
 - [5 Active Malware Campaigns in Q1 2025](https://thehackernews.com/2025/02/5-active-malware-campaigns-in-q1-2025.html)
 - [2,500+ Truesight.sys Driver Variants Exploited to Bypass EDR and Deploy HiddenGh0st RAT](https://thehackernews.com/2025/02/2500-truesightsys-driver-variants.html)
 - [GitVenom Malware Steals $456K in Bitcoin Using Fake GitHub Projects to Hijack Wallets](https://thehackernews.com/2025/02/gitvenom-malware-steals-456k-in-bitcoin.html)
-- [FatalRAT Phishing Attacks Target APAC Industries Using Chinese Cloud Services](https://thehackernews.com/2025/02/fatalrat-phishing-attacks-target-apac.html)
-- [Two Actively Exploited Security Flaws in Adobe and Oracle Products Flagged by CISA](https://thehackernews.com/2025/02/two-actively-exploited-security-flaws.html)
 <!-- BLOG-POST-LIST:END -->
