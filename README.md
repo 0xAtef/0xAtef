@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FatalRAT Phishing Attacks Target APAC Industries Using Chinese Cloud Services](https://thehackernews.com/2025/02/fatalrat-phishing-attacks-target-apac.html)
 - [Two Actively Exploited Security Flaws in Adobe and Oracle Products Flagged by CISA](https://thehackernews.com/2025/02/two-actively-exploited-security-flaws.html)
 - [New Malware Campaign Uses Cracked Software to Spread Lumma and ACR Stealer](https://thehackernews.com/2025/02/new-malware-campaign-uses-cracked.html)
 - [⚡ THN Weekly Recap: From $1.5B Crypto Heist to AI Misuse &amp; Apple’s Data Dilemma](https://thehackernews.com/2025/02/thn-weekly-recap-from-15b-crypto-heist.html)
 - [Becoming Ransomware Ready: Why Continuous Validation Is Your Best Defense](https://thehackernews.com/2025/02/becoming-ransomware-ready-why.html)
-- [Google Cloud KMS Adds Quantum-Safe Digital Signatures to Defend Against Future Threats](https://thehackernews.com/2025/02/google-cloud-kms-adds-quantum-safe.html)
 <!-- BLOG-POST-LIST:END -->
