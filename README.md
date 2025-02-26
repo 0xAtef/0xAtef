@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leaked Black Basta Chat Logs Reveal $107M Ransom Earnings and Internal Power Struggles](https://thehackernews.com/2025/02/leaked-black-basta-chat-logs-reveal.html)
 - [SOC 3.0 - The Evolution of the SOC and How AI is Empowering Human Talent](https://thehackernews.com/2025/02/soc-30-evolution-of-soc-and-how-ai-is.html)
 - [New Linux Malware ‘Auto-Color’ Grants Hackers Full Remote Access to Compromised Systems](https://thehackernews.com/2025/02/new-linux-malware-auto-color-grants.html)
 - [Three Password Cracking Techniques and How to Defend Against Them](https://thehackernews.com/2025/02/three-password-cracking-techniques-and.html)
 - [CERT-UA Warns of UAC-0173 Attacks Deploying DCRat to Compromise Ukrainian Notaries](https://thehackernews.com/2025/02/cert-ua-warns-of-uac-0173-attacks.html)
-- [Malicious PyPI Package &quot;automslc&quot; Enables 104K+ Unauthorized Deezer Music Downloads](https://thehackernews.com/2025/02/malicious-pypi-package-automslc-enables.html)
 <!-- BLOG-POST-LIST:END -->
