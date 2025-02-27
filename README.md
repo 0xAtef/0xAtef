@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Silver Fox APT Uses Winos 4.0 Malware in Cyber Attacks Against Taiwanese Organizations](https://thehackernews.com/2025/02/silver-fox-apt-uses-winos-40-malware-in.html)
 - [Space Pirates Targets Russian IT Firms With New LuckyStrike Agent Malware](https://thehackernews.com/2025/02/space-pirates-targets-russian-it-firms.html)
 - [89% of Enterprise GenAI Usage Is Invisible to Organizations Exposing Critical Security Risks, New Report Reveals](https://thehackernews.com/2025/02/89-of-enterprise-genai-usage-is.html)
 - [New TgToxic Banking Trojan Variant Evolves with Anti-Analysis Upgrades](https://thehackernews.com/2025/02/new-tgtoxic-banking-trojan-variant.html)
 - [PolarEdge Botnet Exploits Cisco and Other Flaws to Hijack ASUS, QNAP, and Synology Devices](https://thehackernews.com/2025/02/polaredge-botnet-exploits-cisco-and.html)
-- [Bybit Hack Traced to Safe{Wallet} Supply Chain Attack Exploited by North Korean Hackers](https://thehackernews.com/2025/02/bybit-hack-traced-to-safewallet-supply.html)
 <!-- BLOG-POST-LIST:END -->
