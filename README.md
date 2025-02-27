@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Space Pirates Targets Russian IT Firms With New LuckyStrike Agent Malware](https://thehackernews.com/2025/02/space-pirates-targets-russian-it-firms.html)
+- [89% of Enterprise GenAI Usage Is Invisible to Organizations Exposing Critical Security Risks, New Report Reveals](https://thehackernews.com/2025/02/89-of-enterprise-genai-usage-is.html)
+- [New TgToxic Banking Trojan Variant Evolves with Anti-Analysis Upgrades](https://thehackernews.com/2025/02/new-tgtoxic-banking-trojan-variant.html)
 - [PolarEdge Botnet Exploits Cisco and Other Flaws to Hijack ASUS, QNAP, and Synology Devices](https://thehackernews.com/2025/02/polaredge-botnet-exploits-cisco-and.html)
 - [Bybit Hack Traced to Safe{Wallet} Supply Chain Attack Exploited by North Korean Hackers](https://thehackernews.com/2025/02/bybit-hack-traced-to-safewallet-supply.html)
-- [Hackers Exploited Krpano Framework Flaw to Inject Spam Ads on 350+ Websites](https://thehackernews.com/2025/02/hackers-exploited-krpano-framework-flaw.html)
-- [Leaked Black Basta Ransomware Chat Logs Reveal Inner Workings and Internal Conflicts](https://thehackernews.com/2025/02/leaked-black-basta-chat-logs-reveal.html)
-- [SOC 3.0 - The Evolution of the SOC and How AI is Empowering Human Talent](https://thehackernews.com/2025/02/soc-30-evolution-of-soc-and-how-ai-is.html)
 <!-- BLOG-POST-LIST:END -->
