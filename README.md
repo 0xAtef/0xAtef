@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bybit Hack Traced to Safe{Wallet} Supply Chain Attack Exploited by North Korean Hackers](https://thehackernews.com/2025/02/bybit-hack-traced-to-safewallet-supply.html)
 - [Hackers Exploited Krpano Framework Flaw to Inject Spam Ads on 350+ Websites](https://thehackernews.com/2025/02/hackers-exploited-krpano-framework-flaw.html)
 - [Leaked Black Basta Ransomware Chat Logs Reveal Inner Workings and Internal Conflicts](https://thehackernews.com/2025/02/leaked-black-basta-chat-logs-reveal.html)
 - [SOC 3.0 - The Evolution of the SOC and How AI is Empowering Human Talent](https://thehackernews.com/2025/02/soc-30-evolution-of-soc-and-how-ai-is.html)
 - [New Linux Malware ‘Auto-Color’ Grants Hackers Full Remote Access to Compromised Systems](https://thehackernews.com/2025/02/new-linux-malware-auto-color-grants.html)
-- [Three Password Cracking Techniques and How to Defend Against Them](https://thehackernews.com/2025/02/three-password-cracking-techniques-and.html)
 <!-- BLOG-POST-LIST:END -->
