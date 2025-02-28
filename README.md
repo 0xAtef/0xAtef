@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Exposes LLMjacking Cybercriminals Behind Azure AI Abuse Scheme](https://thehackernews.com/2025/02/microsoft-exposes-llmjacking.html)
 - [12,000+ API Keys and Passwords Found in Public Datasets Used for LLM Training](https://thehackernews.com/2025/02/12000-api-keys-and-passwords-found-in.html)
 - [Sticky Werewolf Uses Undocumented Implant to Deploy Lumma Stealer in Russia and Belarus](https://thehackernews.com/2025/02/sticky-werewolf-uses-undocumented.html)
 - [Silver Fox APT Uses Winos 4.0 Malware in Cyber Attacks Against Taiwanese Organizations](https://thehackernews.com/2025/02/silver-fox-apt-uses-winos-40-malware-in.html)
 - [Space Pirates Targets Russian IT Firms With New LuckyStrike Agent Malware](https://thehackernews.com/2025/02/space-pirates-targets-russian-it-firms.html)
-- [89% of Enterprise GenAI Usage Is Invisible to Organizations Exposing Critical Security Risks, New Report Reveals](https://thehackernews.com/2025/02/89-of-enterprise-genai-usage-is.html)
 <!-- BLOG-POST-LIST:END -->
