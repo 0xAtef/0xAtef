@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla Updates Firefox Terms Again After Backlash Over Broad Data License Language](https://thehackernews.com/2025/03/mozilla-updates-firefox-terms-again.html)
 - [Amnesty Finds Cellebrite’s Zero-Day Used to Unlock Serbian Activist’s Android Phone](https://thehackernews.com/2025/02/amnesty-finds-cellebrites-zero-day.html)
 - [RDP: a Double-Edged Sword for IT Teams – Essential Yet Exploitable](https://thehackernews.com/2025/02/rdp-double-edged-sword-for-it-teams.html)
 - [Fake CAPTCHA PDFs Spread Lumma Stealer via Webflow, GoDaddy, and Other Domains](https://thehackernews.com/2025/02/5000-phishing-pdfs-on-260-domains.html)
 - [Microsoft Exposes LLMjacking Cybercriminals Behind Azure AI Abuse Scheme](https://thehackernews.com/2025/02/microsoft-exposes-llmjacking.html)
-- [12,000+ API Keys and Passwords Found in Public Datasets Used for LLM Training](https://thehackernews.com/2025/02/12000-api-keys-and-passwords-found-in.html)
 <!-- BLOG-POST-LIST:END -->
