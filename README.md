@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Use ClickFix Trick to Deploy PowerShell-Based Havoc C2 via SharePoint Sites](https://thehackernews.com/2025/03/hackers-use-clickfix-trick-to-deploy.html)
+- [Hackers Exploit Paragon Partition Manager Driver Vulnerability in Ransomware Attacks](https://thehackernews.com/2025/03/hackers-exploit-paragon-partition.html)
+- [U.K. ICO Investigates TikTok, Reddit, and Imgur Over Children&#39;s Data Protection Practices](https://thehackernews.com/2025/03/uk-ico-investigates-tiktok-reddit-and.html)
 - [⚡ THN Weekly Recap: Alerts on Zero-Day Exploits, AI Breaches, and Crypto Heists](https://thehackernews.com/2025/03/thn-weekly-recap-alerts-on-zero-day.html)
 - [The New Ransomware Groups Shaking Up 2025](https://thehackernews.com/2025/03/the-new-ransomware-groups-shaking-up.html)
-- [Vo1d Botnet&#39;s Peak Surpasses 1.59M Infected Android TVs, Spanning 226 Countries](https://thehackernews.com/2025/03/vo1d-botnets-peak-surpasses-159m.html)
-- [Mozilla Updates Firefox Terms Again After Backlash Over Broad Data License Language](https://thehackernews.com/2025/03/mozilla-updates-firefox-terms-again.html)
-- [Amnesty Finds Cellebrite’s Zero-Day Used to Unlock Serbian Activist’s Android Phone](https://thehackernews.com/2025/02/amnesty-finds-cellebrites-zero-day.html)
 <!-- BLOG-POST-LIST:END -->
