@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The New Ransomware Groups Shaking Up 2025](https://thehackernews.com/2025/03/the-new-ransomware-groups-shaking-up.html)
 - [Vo1d Botnet&#39;s Peak Surpasses 1.59M Infected Android TVs, Spanning 226 Countries](https://thehackernews.com/2025/03/vo1d-botnets-peak-surpasses-159m.html)
 - [Mozilla Updates Firefox Terms Again After Backlash Over Broad Data License Language](https://thehackernews.com/2025/03/mozilla-updates-firefox-terms-again.html)
 - [Amnesty Finds Cellebrite’s Zero-Day Used to Unlock Serbian Activist’s Android Phone](https://thehackernews.com/2025/02/amnesty-finds-cellebrites-zero-day.html)
 - [RDP: a Double-Edged Sword for IT Teams – Essential Yet Exploitable](https://thehackernews.com/2025/02/rdp-double-edged-sword-for-it-teams.html)
-- [Fake CAPTCHA PDFs Spread Lumma Stealer via Webflow, GoDaddy, and Other Domains](https://thehackernews.com/2025/02/5000-phishing-pdfs-on-260-domains.html)
 <!-- BLOG-POST-LIST:END -->
