@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VMware Security Flaws Exploited in the Wild—Broadcom Releases Urgent Patches](https://thehackernews.com/2025/03/vmware-security-flaws-exploited-in.html)
 - [How New AI Agents Will Transform Credential Stuffing Attacks](https://thehackernews.com/2025/03/how-new-ai-agents-will-transform.html)
 - [Suspected Iranian Hackers Used Compromised Indian Firm&#39;s Email to Target U.A.E. Aviation Sector](https://thehackernews.com/2025/03/suspected-iranian-hackers-used.html)
 - [Over 4,000 ISP IPs Targeted in Brute-Force Attacks to Deploy Info Stealers and Cryptominers](https://thehackernews.com/2025/03/over-4000-isp-networks-targeted-in.html)
 - [Cisco, Hitachi, Microsoft, and Progress Flaws Actively Exploited—CISA Sounds Alarm](https://thehackernews.com/2025/03/cisco-hitachi-microsoft-and-progress.html)
-- [Google&#39;s March 2025 Android Security Update Fixes Two Actively Exploited Vulnerabilities](https://thehackernews.com/2025/03/googles-march-2025-android-security.html)
 <!-- BLOG-POST-LIST:END -->
