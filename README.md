@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco, Hitachi, Microsoft, and Progress Flaws Actively Exploited—CISA Sounds Alarm](https://thehackernews.com/2025/03/cisco-hitachi-microsoft-and-progress.html)
 - [Google&#39;s March 2025 Android Security Update Fixes Two Actively Exploited Vulnerabilities](https://thehackernews.com/2025/03/googles-march-2025-android-security.html)
 - [Hackers Exploit AWS Misconfigurations to Launch Phishing Attacks via SES and WorkMail](https://thehackernews.com/2025/03/hackers-exploit-aws-misconfigurations.html)
 - [Hackers Use ClickFix Trick to Deploy PowerShell-Based Havoc C2 via SharePoint Sites](https://thehackernews.com/2025/03/hackers-use-clickfix-trick-to-deploy.html)
 - [Hackers Exploit Paragon Partition Manager Driver Vulnerability in Ransomware Attacks](https://thehackernews.com/2025/03/hackers-exploit-paragon-partition.html)
-- [U.K. ICO Investigates TikTok, Reddit, and Imgur Over Children&#39;s Data Protection Practices](https://thehackernews.com/2025/03/uk-ico-investigates-tiktok-reddit-and.html)
 <!-- BLOG-POST-LIST:END -->
