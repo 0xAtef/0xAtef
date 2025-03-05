@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Defending against USB drive attacks with Wazuh](https://thehackernews.com/2025/03/defending-against-usb-drive-attacks.html)
+- [Dark Caracal Uses Poco RAT to Target Spanish-Speaking Enterprises in Latin America](https://thehackernews.com/2025/03/dark-caracal-uses-poco-rat-to-target.html)
+- [Google Rolls Out AI Scam Detection for Android to Combat Conversational Fraud](https://thehackernews.com/2025/03/google-rolls-out-ai-scam-detection-for.html)
 - [Chinese APT Lotus Panda Targets Governments With New Sagerunex Backdoor Variants](https://thehackernews.com/2025/03/chinese-apt-lotus-panda-targets.html)
 - [Identity: The New Cybersecurity Battleground](https://thehackernews.com/2025/03/identity-new-cybersecurity-battleground.html)
-- [Seven Malicious Go Packages Found Deploying Malware on Linux and macOS Systems](https://thehackernews.com/2025/03/seven-malicious-go-packages-found.html)
-- [Researchers Link CACTUS Ransomware Tactics to Former Black Basta Affiliates](https://thehackernews.com/2025/03/researchers-link-cactus-ransomware.html)
-- [VMware Security Flaws Exploited in the Wild—Broadcom Releases Urgent Patches](https://thehackernews.com/2025/03/vmware-security-flaws-exploited-in.html)
 <!-- BLOG-POST-LIST:END -->
