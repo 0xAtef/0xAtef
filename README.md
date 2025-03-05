@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese APT Lotus Panda Targets Governments With New Sagerunex Backdoor Variants](https://thehackernews.com/2025/03/chinese-apt-lotus-panda-targets.html)
+- [Identity: The New Cybersecurity Battleground](https://thehackernews.com/2025/03/identity-new-cybersecurity-battleground.html)
 - [Seven Malicious Go Packages Found Deploying Malware on Linux and macOS Systems](https://thehackernews.com/2025/03/seven-malicious-go-packages-found.html)
 - [Researchers Link CACTUS Ransomware Tactics to Former Black Basta Affiliates](https://thehackernews.com/2025/03/researchers-link-cactus-ransomware.html)
 - [VMware Security Flaws Exploited in the Wild—Broadcom Releases Urgent Patches](https://thehackernews.com/2025/03/vmware-security-flaws-exploited-in.html)
-- [How New AI Agents Will Transform Credential Stuffing Attacks](https://thehackernews.com/2025/03/how-new-ai-agents-will-transform.html)
-- [Suspected Iranian Hackers Used Compromised Indian Firm&#39;s Email to Target U.A.E. Aviation Sector](https://thehackernews.com/2025/03/suspected-iranian-hackers-used.html)
 <!-- BLOG-POST-LIST:END -->
