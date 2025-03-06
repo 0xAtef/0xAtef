@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Charges 12 Chinese Nationals in State-Backed Hacking Operations](https://thehackernews.com/2025/03/us-charges-12-chinese-nationals-in.html)
 - [China-Linked Silk Typhoon Expands Cyber Attacks to IT Supply Chains for Initial Access](https://thehackernews.com/2025/03/china-linked-silk-typhoon-expands-cyber.html)
 - [Defending against USB drive attacks with Wazuh](https://thehackernews.com/2025/03/defending-against-usb-drive-attacks.html)
 - [Dark Caracal Uses Poco RAT to Target Spanish-Speaking Enterprises in Latin America](https://thehackernews.com/2025/03/dark-caracal-uses-poco-rat-to-target.html)
 - [Google Rolls Out AI Scam Detection for Android to Combat Conversational Fraud](https://thehackernews.com/2025/03/google-rolls-out-ai-scam-detection-for.html)
-- [Chinese APT Lotus Panda Targets Governments With New Sagerunex Backdoor Variants](https://thehackernews.com/2025/03/chinese-apt-lotus-panda-targets.html)
 <!-- BLOG-POST-LIST:END -->
