@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Elastic Releases Urgent Fix for Critical Kibana Vulnerability Enabling Remote Code Execution](https://thehackernews.com/2025/03/elastic-releases-urgent-fix-for.html)
+- [EncryptHub Deploys Ransomware and Stealer via Trojanized Apps, PPI Services, and Phishing](https://thehackernews.com/2025/03/encrypthub-deploys-ransomware-and.html)
 - [Outsmarting Cyber Threats with Attack Graphs](https://thehackernews.com/2025/03/outsmarting-cyber-threats-with-attack.html)
+- [Medusa Ransomware Hits 40+ Victims in 2025, Demands $100K–$15M Ransom](https://thehackernews.com/2025/03/medusa-ransomware-hits-40-victims-in.html)
 - [Over 1,000 WordPress Sites Infected with JavaScript Backdoors Enabling Persistent Attacker Access](https://thehackernews.com/2025/03/over-1000-wordpress-sites-infected-with.html)
-- [U.S. Charges 12 Chinese Nationals in State-Backed Hacking Operations](https://thehackernews.com/2025/03/us-charges-12-chinese-nationals-in.html)
-- [China-Linked Silk Typhoon Expands Cyber Attacks to IT Supply Chains for Initial Access](https://thehackernews.com/2025/03/china-linked-silk-typhoon-expands-cyber.html)
-- [Defending against USB drive attacks with Wazuh](https://thehackernews.com/2025/03/defending-against-usb-drive-attacks.html)
 <!-- BLOG-POST-LIST:END -->
