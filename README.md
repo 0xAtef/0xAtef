@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Learn How ASPM Transforms Application Security from Reactive to Proactive](https://thehackernews.com/2025/03/webinar-learn-how-aspm-transforms.html)
 - [What PCI DSS v4 Really Means – Lessons from A&amp;F Compliance Journey](https://thehackernews.com/2025/03/what-pci-dss-v4-really-means-lessons.html)
 - [This Malicious PyPI Package Stole Ethereum Private Keys via Polygon RPC Transactions](https://thehackernews.com/2025/03/this-malicious-pypi-package-stole.html)
 - [U.S. Secret Service Seizes Russian Garantex Crypto Exchange Website](https://thehackernews.com/2025/03/us-secret-service-seizes-russian.html)
 - [Safe{Wallet} Confirms North Korean TraderTraitor Hackers Stole $1.5 Billion in Bybit Heist](https://thehackernews.com/2025/03/safewallet-confirms-north-korean.html)
-- [PHP-CGI RCE Flaw Exploited in Attacks on Japan&#39;s Tech, Telecom, and E-Commerce Sectors](https://thehackernews.com/2025/03/php-cgi-rce-flaw-exploited-in-attacks.html)
 <!-- BLOG-POST-LIST:END -->
