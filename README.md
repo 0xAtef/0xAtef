@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP-CGI RCE Flaw Exploited in Attacks on Japan&#39;s Tech, Telecom, and E-Commerce Sectors](https://thehackernews.com/2025/03/php-cgi-rce-flaw-exploited-in-attacks.html)
 - [Elastic Releases Urgent Fix for Critical Kibana Vulnerability Enabling Remote Code Execution](https://thehackernews.com/2025/03/elastic-releases-urgent-fix-for.html)
 - [EncryptHub Deploys Ransomware and Stealer via Trojanized Apps, PPI Services, and Phishing](https://thehackernews.com/2025/03/encrypthub-deploys-ransomware-and.html)
 - [Outsmarting Cyber Threats with Attack Graphs](https://thehackernews.com/2025/03/outsmarting-cyber-threats-with-attack.html)
 - [Medusa Ransomware Hits 40+ Victims in 2025, Demands $100K–$15M Ransom](https://thehackernews.com/2025/03/medusa-ransomware-hits-40-victims-in.html)
-- [Over 1,000 WordPress Sites Infected with JavaScript Backdoors Enabling Persistent Attacker Access](https://thehackernews.com/2025/03/over-1000-wordpress-sites-infected-with.html)
 <!-- BLOG-POST-LIST:END -->
