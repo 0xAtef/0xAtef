@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FIN7, FIN8, and Others Use Ragnar Loader for Persistent Access and Ransomware Operations](https://thehackernews.com/2025/03/fin7-fin8-and-others-use-ragnar-loader.html)
 - [Microsoft Warns of Malvertising Campaign Infecting Over 1 Million Devices Worldwide](https://thehackernews.com/2025/03/microsoft-warns-of-malvertising.html)
 - [Webinar: Learn How ASPM Transforms Application Security from Reactive to Proactive](https://thehackernews.com/2025/03/webinar-learn-how-aspm-transforms.html)
 - [What PCI DSS v4 Really Means – Lessons from A&amp;F Compliance Journey](https://thehackernews.com/2025/03/what-pci-dss-v4-really-means-lessons.html)
 - [This Malicious PyPI Package Stole Ethereum Private Keys via Polygon RPC Transactions](https://thehackernews.com/2025/03/this-malicious-pypi-package-stole.html)
-- [U.S. Secret Service Seizes Russian Garantex Crypto Exchange Website](https://thehackernews.com/2025/03/us-secret-service-seizes-russian.html)
 <!-- BLOG-POST-LIST:END -->
