@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This Malicious PyPI Package Stole Ethereum Private Keys via Polygon RPC Transactions](https://thehackernews.com/2025/03/this-malicious-pypi-package-stole.html)
+- [U.S. Secret Service Seizes Russian Garantex Crypto Exchange Website](https://thehackernews.com/2025/03/us-secret-service-seizes-russian.html)
 - [Safe{Wallet} Confirms North Korean TraderTraitor Hackers Stole $1.5 Billion in Bybit Heist](https://thehackernews.com/2025/03/safewallet-confirms-north-korean.html)
 - [PHP-CGI RCE Flaw Exploited in Attacks on Japan&#39;s Tech, Telecom, and E-Commerce Sectors](https://thehackernews.com/2025/03/php-cgi-rce-flaw-exploited-in-attacks.html)
 - [Elastic Releases Urgent Fix for Critical Kibana Vulnerability Enabling Remote Code Execution](https://thehackernews.com/2025/03/elastic-releases-urgent-fix-for.html)
-- [EncryptHub Deploys Ransomware and Stealer via Trojanized Apps, PPI Services, and Phishing](https://thehackernews.com/2025/03/encrypthub-deploys-ransomware-and.html)
-- [Outsmarting Cyber Threats with Attack Graphs](https://thehackernews.com/2025/03/outsmarting-cyber-threats-with-attack.html)
 <!-- BLOG-POST-LIST:END -->
