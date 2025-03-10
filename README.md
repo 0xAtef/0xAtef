@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Expose New Polymorphic Attack That Clones Browser Extensions to Steal Credentials](https://thehackernews.com/2025/03/researchers-expose-new-polymorphic.html)
 - [Desert Dexter Targets 900 Victims Using Facebook Ads and Telegram Malware Links](https://thehackernews.com/2025/03/desert-dexter-targets-900-victims-using.html)
 - [Why The Modern Google Workspace Needs Unified Security](https://thehackernews.com/2025/03/why-modern-google-workspace-needs.html)
 - [⚡ THN Weekly Recap: New Attacks, Old Tricks, Bigger Impact](https://thehackernews.com/2025/03/thn-weekly-recap-new-attacks-old-tricks.html)
 - [SilentCryptoMiner Infects 2,000 Russian Users via Fake VPN and DPI Bypass Tools](https://thehackernews.com/2025/03/silentcryptominer-infects-2000-russian.html)
-- [FIN7, FIN8, and Others Use Ragnar Loader for Persistent Access and Ransomware Operations](https://thehackernews.com/2025/03/fin7-fin8-and-others-use-ragnar-loader.html)
 <!-- BLOG-POST-LIST:END -->
