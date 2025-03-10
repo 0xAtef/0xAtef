@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why The Modern Google Workspace Needs Unified Security](https://thehackernews.com/2025/03/why-modern-google-workspace-needs.html)
 - [⚡ THN Weekly Recap: New Attacks, Old Tricks, Bigger Impact](https://thehackernews.com/2025/03/thn-weekly-recap-new-attacks-old-tricks.html)
 - [SilentCryptoMiner Infects 2,000 Russian Users via Fake VPN and DPI Bypass Tools](https://thehackernews.com/2025/03/silentcryptominer-infects-2000-russian.html)
 - [FIN7, FIN8, and Others Use Ragnar Loader for Persistent Access and Ransomware Operations](https://thehackernews.com/2025/03/fin7-fin8-and-others-use-ragnar-loader.html)
 - [Microsoft Warns of Malvertising Campaign Infecting Over 1 Million Devices Worldwide](https://thehackernews.com/2025/03/microsoft-warns-of-malvertising.html)
-- [Webinar: Learn How ASPM Transforms Application Security from Reactive to Proactive](https://thehackernews.com/2025/03/webinar-learn-how-aspm-transforms.html)
 <!-- BLOG-POST-LIST:END -->
