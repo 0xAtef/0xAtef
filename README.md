@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ballista Botnet Exploits Unpatched TP-Link Vulnerability, Infects Over 6,000 Devices](https://thehackernews.com/2025/03/ballista-botnet-exploits-unpatched-tp.html)
 - [Your Risk Scores Are Lying: Adversarial Exposure Validation Exposes Real Threats](https://thehackernews.com/2025/03/your-risk-scores-are-lying-adversarial.html)
 - [Steganography Explained: How XWorm Hides Inside Images](https://thehackernews.com/2025/03/steganography-explained-how-xworm-hides.html)
 - [SideWinder APT Targets Maritime, Nuclear, and IT Sectors Across Asia, Middle East, and Africa](https://thehackernews.com/2025/03/sidewinder-apt-targets-maritime-nuclear.html)
 - [Moxa Issues Fix for Critical Authentication Bypass Vulnerability in PT Switches](https://thehackernews.com/2025/03/moxa-issues-fix-for-critical.html)
-- [CISA Adds Five Actively Exploited Vulnerabilities in Advantive VeraCore and Ivanti EPM to KEV List](https://thehackernews.com/2025/03/cisa-adds-five-actively-exploited.html)
 <!-- BLOG-POST-LIST:END -->
