@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Risk Scores Are Lying: Adversarial Exposure Validation Exposes Real Threats](https://thehackernews.com/2025/03/your-risk-scores-are-lying-adversarial.html)
+- [Steganography Explained: How XWorm Hides Inside Images](https://thehackernews.com/2025/03/steganography-explained-how-xworm-hides.html)
 - [SideWinder APT Targets Maritime, Nuclear, and IT Sectors Across Asia, Middle East, and Africa](https://thehackernews.com/2025/03/sidewinder-apt-targets-maritime-nuclear.html)
 - [Moxa Issues Fix for Critical Authentication Bypass Vulnerability in PT Switches](https://thehackernews.com/2025/03/moxa-issues-fix-for-critical.html)
 - [CISA Adds Five Actively Exploited Vulnerabilities in Advantive VeraCore and Ivanti EPM to KEV List](https://thehackernews.com/2025/03/cisa-adds-five-actively-exploited.html)
-- [Researchers Expose New Polymorphic Attack That Clones Browser Extensions to Steal Credentials](https://thehackernews.com/2025/03/researchers-expose-new-polymorphic.html)
-- [Desert Dexter Targets 900 Victims Using Facebook Ads and Telegram Malware Links](https://thehackernews.com/2025/03/desert-dexter-targets-900-victims-using.html)
 <!-- BLOG-POST-LIST:END -->
