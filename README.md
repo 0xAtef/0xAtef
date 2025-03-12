@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Releases Patch for WebKit Zero-Day Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2025/03/apple-releases-patch-for-webkit-zero.html)
 - [Blind Eagle Hacks Colombian Institutions Using NTLM Flaw, RATs and GitHub-Based Attacks](https://thehackernews.com/2025/03/blind-eagle-hacks-colombian.html)
 - [Ballista Botnet Exploits Unpatched TP-Link Vulnerability, Targets Over 6,000 Devices](https://thehackernews.com/2025/03/ballista-botnet-exploits-unpatched-tp.html)
 - [Your Risk Scores Are Lying: Adversarial Exposure Validation Exposes Real Threats](https://thehackernews.com/2025/03/your-risk-scores-are-lying-adversarial.html)
 - [Steganography Explained: How XWorm Hides Inside Images](https://thehackernews.com/2025/03/steganography-explained-how-xworm-hides.html)
-- [SideWinder APT Targets Maritime, Nuclear, and IT Sectors Across Asia, Middle East, and Africa](https://thehackernews.com/2025/03/sidewinder-apt-targets-maritime-nuclear.html)
 <!-- BLOG-POST-LIST:END -->
