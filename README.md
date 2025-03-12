@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hackers Breach Juniper Networks Routers With Custom Backdoors and Rootkits](https://thehackernews.com/2025/03/chinese-hackers-breach-juniper-networks.html)
 - [Over 400 IPs Exploiting Multiple SSRF Vulnerabilities in Coordinated Cyber Attack](https://thehackernews.com/2025/03/over-400-ips-exploiting-multiple-ssrf.html)
 - [Pentesters: Is AI Coming for Your Role?](https://thehackernews.com/2025/03/pentesters-is-ai-coming-for-your-role.html)
 - [URGENT: Microsoft Patches 57 Security Flaws, Including 6 Actively Exploited Zero-Days](https://thehackernews.com/2025/03/urgent-microsoft-patches-57-security.html)
 - [Apple Releases Patch for WebKit Zero-Day Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2025/03/apple-releases-patch-for-webkit-zero.html)
-- [Blind Eagle Hacks Colombian Institutions Using NTLM Flaw, RATs and GitHub-Based Attacks](https://thehackernews.com/2025/03/blind-eagle-hacks-colombian.html)
 <!-- BLOG-POST-LIST:END -->
