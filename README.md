@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Warns of FreeType Vulnerability &lpar;CVE-2025-27363&rpar; With Active Exploitation Risk](https://thehackernews.com/2025/03/meta-warns-of-freetype-vulnerability.html)
+- [WARNING: Expiring Root Certificate May Disable Firefox Add-Ons, Security Features, and DRM Playback](https://thehackernews.com/2025/03/warning-expiring-root-certificate-may.html)
 - [Chinese Hackers Breach Juniper Networks Routers With Custom Backdoors and Rootkits](https://thehackernews.com/2025/03/chinese-hackers-breach-juniper-networks.html)
 - [Over 400 IPs Exploiting Multiple SSRF Vulnerabilities in Coordinated Cyber Attack](https://thehackernews.com/2025/03/over-400-ips-exploiting-multiple-ssrf.html)
 - [Pentesters: Is AI Coming for Your Role?](https://thehackernews.com/2025/03/pentesters-is-ai-coming-for-your-role.html)
-- [URGENT: Microsoft Patches 57 Security Flaws, Including 6 Actively Exploited Zero-Days](https://thehackernews.com/2025/03/urgent-microsoft-patches-57-security.html)
-- [Apple Releases Patch for WebKit Zero-Day Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2025/03/apple-releases-patch-for-webkit-zero.html)
 <!-- BLOG-POST-LIST:END -->
