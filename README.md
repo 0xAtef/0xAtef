@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Uncovers New ruby-saml Vulnerabilities Allowing Account Takeover Attacks](https://thehackernews.com/2025/03/github-uncovers-new-ruby-saml.html)
 - [Future-Proofing Business Continuity: BCDR Trends and Challenges for 2025](https://thehackernews.com/2025/03/bcdr-2025-trends-and-challenges-for-msps-and-it-teams.html)
 - [Meta Warns of FreeType Vulnerability &lpar;CVE-2025-27363&rpar; With Active Exploitation Risk](https://thehackernews.com/2025/03/meta-warns-of-freetype-vulnerability.html)
 - [WARNING: Expiring Root Certificate May Disable Firefox Add-Ons, Security Features, and DRM Playback](https://thehackernews.com/2025/03/warning-expiring-root-certificate-may.html)
 - [Chinese Hackers Breach Juniper Networks Routers With Custom Backdoors and Rootkits](https://thehackernews.com/2025/03/chinese-hackers-breach-juniper-networks.html)
-- [Over 400 IPs Exploiting Multiple SSRF Vulnerabilities in Coordinated Cyber Attack](https://thehackernews.com/2025/03/over-400-ips-exploiting-multiple-ssrf.html)
 <!-- BLOG-POST-LIST:END -->
