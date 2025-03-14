@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OBSCURE#BAT Malware Uses Fake CAPTCHA Pages to Deploy Rootkit r77 and Evade Detection](https://thehackernews.com/2025/03/obscurebat-malware-uses-fake-captcha.html)
 - [Microsoft Warns of ClickFix Phishing Campaign Targeting Hospitality Sector via Fake Booking[.]com Emails](https://thehackernews.com/2025/03/microsoft-warns-of-clickfix-phishing.html)
 - [North Korea’s ScarCruft Deploys KoSpy Malware, Spying on Android Users via Fake Utility Apps](https://thehackernews.com/2025/03/north-koreas-scarcruft-deploys-kospy.html)
 - [GitHub Uncovers New ruby-saml Vulnerabilities Allowing Account Takeover Attacks](https://thehackernews.com/2025/03/github-uncovers-new-ruby-saml.html)
 - [Future-Proofing Business Continuity: BCDR Trends and Challenges for 2025](https://thehackernews.com/2025/03/bcdr-2025-trends-and-challenges-for-msps-and-it-teams.html)
-- [Meta Warns of FreeType Vulnerability &lpar;CVE-2025-27363&rpar; With Active Exploitation Risk](https://thehackernews.com/2025/03/meta-warns-of-freetype-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
