@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Live Ransomware Demo: See How Hackers Breach Networks and Demand a Ransom](https://thehackernews.com/2025/03/live-ransomware-demo-see-how-hackers.html)
+- [Why Most Microsegmentation Projects Fail—And How Andelyn Biosciences Got It Right](https://thehackernews.com/2025/03/why-most-microsegmentation-projects.html)
 - [New MassJacker Malware Targets Piracy Users, Hijacking Cryptocurrency Transactions](https://thehackernews.com/2025/03/new-massjacker-malware-targets-piracy.html)
 - [OBSCURE#BAT Malware Uses Fake CAPTCHA Pages to Deploy Rootkit r77 and Evade Detection](https://thehackernews.com/2025/03/obscurebat-malware-uses-fake-captcha.html)
 - [Microsoft Warns of ClickFix Phishing Campaign Targeting Hospitality Sector via Fake Booking[.]com Emails](https://thehackernews.com/2025/03/microsoft-warns-of-clickfix-phishing.html)
-- [North Korea’s ScarCruft Deploys KoSpy Malware, Spying on Android Users via Fake Utility Apps](https://thehackernews.com/2025/03/north-koreas-scarcruft-deploys-kospy.html)
-- [GitHub Uncovers New ruby-saml Vulnerabilities Allowing Account Takeover Attacks](https://thehackernews.com/2025/03/github-uncovers-new-ruby-saml.html)
 <!-- BLOG-POST-LIST:END -->
