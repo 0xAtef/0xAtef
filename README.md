@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Tomcat Vulnerability Actively Exploited Just 30 Hours After Public Disclosure](https://thehackernews.com/2025/03/apache-tomcat-vulnerability-comes-under.html)
 - [Unpatched Edimax Camera Flaw Exploited for Mirai Botnet Attacks Since Last Year](https://thehackernews.com/2025/03/unpatched-edimax-camera-flaw-exploited.html)
 - [Cybercriminals Exploit CSS to Evade Spam Filters and Track Email Users&#39; Actions](https://thehackernews.com/2025/03/cybercriminals-exploit-css-to-evade.html)
 - [⚡ THN Weekly Recap: Router Hacks, PyPI Attacks, New Ransomware Decryptor, and More](https://thehackernews.com/2025/03/thn-weekly-recap-router-hacks-pypi.html)
 - [SANS Institute Warns of Novel Cloud-Native Ransomware Attacks](https://thehackernews.com/2025/03/sans-institute-warns-of-novel-cloud.html)
-- [GitHub Action Compromise Puts CI/CD Secrets at Risk in Over 23,000 Repositories](https://thehackernews.com/2025/03/github-action-compromise-puts-cicd.html)
 <!-- BLOG-POST-LIST:END -->
