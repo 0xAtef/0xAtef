@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Action Compromise Puts CI/CD Secrets at Risk in Over 23,000 Repositories](https://thehackernews.com/2025/03/github-action-compromise-puts-cicd.html)
 - [Malicious PyPI Packages Stole Cloud Tokens—Over 14,100 Downloads Before Removal](https://thehackernews.com/2025/03/malicious-pypi-packages-stole-cloud.html)
 - [Alleged Israeli LockBit Developer Rostislav Panev Extradited to U.S. for Cybercrime Charges](https://thehackernews.com/2025/03/alleged-israeli-lockbit-developer.html)
 - [GSMA Confirms End-to-End Encryption for RCS, Enabling Secure Cross-Platform Messaging](https://thehackernews.com/2025/03/gsma-confirms-end-to-end-encryption-for.html)
 - [Live Ransomware Demo: See How Hackers Breach Networks and Demand a Ransom](https://thehackernews.com/2025/03/live-ransomware-demo-see-how-hackers.html)
-- [Why Most Microsegmentation Projects Fail—And How Andelyn Biosciences Got It Right](https://thehackernews.com/2025/03/why-most-microsegmentation-projects.html)
 <!-- BLOG-POST-LIST:END -->
