@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Improve Okta Security in Four Steps](https://thehackernews.com/2025/03/how-to-improve-okta-security-in-four.html)
+- [China-Linked MirrorFace Deploys ANEL and AsyncRAT in New Cyber Espionage Operation](https://thehackernews.com/2025/03/china-linked-mirrorface-deploys-anel.html)
+- [BADBOX 2.0 Botnet Infects 1 Million Android Devices for Ad Fraud and Proxy Abuse](https://thehackernews.com/2025/03/badbox-20-botnet-infects-1-million.html)
 - [Microsoft Warns of StilachiRAT: A Stealthy RAT Targeting Credentials and Crypto Wallets](https://thehackernews.com/2025/03/microsoft-warns-of-stilachirat-stealthy.html)
 - [Apache Tomcat Vulnerability Actively Exploited Just 30 Hours After Public Disclosure](https://thehackernews.com/2025/03/apache-tomcat-vulnerability-comes-under.html)
-- [Unpatched Edimax Camera Flaw Exploited for Mirai Botnet Attacks Since Last Year](https://thehackernews.com/2025/03/unpatched-edimax-camera-flaw-exploited.html)
-- [Cybercriminals Exploit CSS to Evade Spam Filters and Track Email Users&#39; Actions](https://thehackernews.com/2025/03/cybercriminals-exploit-css-to-evade.html)
-- [⚡ THN Weekly Recap: Router Hacks, PyPI Attacks, New Ransomware Decryptor, and More](https://thehackernews.com/2025/03/thn-weekly-recap-router-hacks-pypi.html)
 <!-- BLOG-POST-LIST:END -->
