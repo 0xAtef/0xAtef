@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Ad Fraud Campaign Exploits 331 Apps with 60M+ Downloads for Phishing and Intrusive Ads](https://thehackernews.com/2025/03/new-ad-fraud-campaign-exploits-331-apps.html)
 - [How to Improve Okta Security in Four Steps](https://thehackernews.com/2025/03/how-to-improve-okta-security-in-four.html)
 - [China-Linked MirrorFace Deploys ANEL and AsyncRAT in New Cyber Espionage Operation](https://thehackernews.com/2025/03/china-linked-mirrorface-deploys-anel.html)
 - [BADBOX 2.0 Botnet Infects 1 Million Android Devices for Ad Fraud and Proxy Abuse](https://thehackernews.com/2025/03/badbox-20-botnet-infects-1-million.html)
 - [Microsoft Warns of StilachiRAT: A Stealthy RAT Targeting Credentials and Crypto Wallets](https://thehackernews.com/2025/03/microsoft-warns-of-stilachirat-stealthy.html)
-- [Apache Tomcat Vulnerability Actively Exploited Just 30 Hours After Public Disclosure](https://thehackernews.com/2025/03/apache-tomcat-vulnerability-comes-under.html)
 <!-- BLOG-POST-LIST:END -->
