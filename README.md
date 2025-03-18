@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New ‘Rules File Backdoor’ Attack Lets Hackers Inject Malicious Code via AI Code Editors](https://thehackernews.com/2025/03/new-rules-file-backdoor-attack-lets.html)
 - [Unpatched Windows Zero-Day Flaw Exploited by 11 State-Sponsored Threat Groups Since 2017](https://thehackernews.com/2025/03/unpatched-windows-zero-day-flaw.html)
 - [Google Acquires Wiz for $32 Billion in Its Biggest Deal Ever to Boost Cloud Security](https://thehackernews.com/2025/03/google-acquires-wiz-for-32-billion-in.html)
 - [New Critical AMI BMC Vulnerability Enables Remote Server Takeover and Bricking](https://thehackernews.com/2025/03/new-critical-ami-bmc-vulnerability.html)
 - [How to Improve Okta Security in Four Steps](https://thehackernews.com/2025/03/how-to-improve-okta-security-in-four.html)
-- [New Ad Fraud Campaign Exploits 331 Apps with 60M+ Downloads for Phishing and Intrusive Ads](https://thehackernews.com/2025/03/new-ad-fraud-campaign-exploits-331-apps.html)
 <!-- BLOG-POST-LIST:END -->
