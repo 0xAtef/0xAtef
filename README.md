@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical mySCADA myPRO Flaws Could Let Attackers Take Over Industrial Control Systems](https://thehackernews.com/2025/03/critical-myscada-mypro-flaws-could-let.html)
 - [CISA Warns of Active Exploitation in GitHub Action Supply Chain Compromise](https://thehackernews.com/2025/03/cisa-warns-of-active-exploitation-in.html)
 - [New ‘Rules File Backdoor’ Attack Lets Hackers Inject Malicious Code via AI Code Editors](https://thehackernews.com/2025/03/new-rules-file-backdoor-attack-lets.html)
 - [Unpatched Windows Zero-Day Flaw Exploited by 11 State-Sponsored Threat Groups Since 2017](https://thehackernews.com/2025/03/unpatched-windows-zero-day-flaw.html)
 - [Google Acquires Wiz for $32 Billion in Its Biggest Deal Ever to Boost Cloud Security](https://thehackernews.com/2025/03/google-acquires-wiz-for-32-billion-in.html)
-- [New Critical AMI BMC Vulnerability Enables Remote Server Takeover and Bricking](https://thehackernews.com/2025/03/new-critical-ami-bmc-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
