@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch This Webinar to Learn How to Eliminate Identity-Based Attacks—Before They Happen](https://thehackernews.com/2025/03/watch-this-webinar-to-learn-how-to.html)
+- [ClearFake Infects 9,300 Sites, Uses Fake reCAPTCHA and Turnstile to Spread Info-Stealers](https://thehackernews.com/2025/03/clearfake-infects-9300-sites-uses-fake.html)
 - [5 Identity Threat Detection &amp; Response Must-Haves for Super SaaS Security](https://thehackernews.com/2025/03/5-identity-threat-detection-response.html)
 - [Critical mySCADA myPRO Flaws Could Let Attackers Take Over Industrial Control Systems](https://thehackernews.com/2025/03/critical-myscada-mypro-flaws-could-let.html)
 - [CISA Warns of Active Exploitation in GitHub Action Supply Chain Compromise](https://thehackernews.com/2025/03/cisa-warns-of-active-exploitation-in.html)
-- [New ‘Rules File Backdoor’ Attack Lets Hackers Inject Malicious Code via AI Code Editors](https://thehackernews.com/2025/03/new-rules-file-backdoor-attack-lets.html)
-- [Unpatched Windows Zero-Day Flaw Exploited by 11 State-Sponsored Threat Groups Since 2017](https://thehackernews.com/2025/03/unpatched-windows-zero-day-flaw.html)
 <!-- BLOG-POST-LIST:END -->
