@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Veeam and IBM Release Patches for High-Risk Flaws in Backup and AIX Systems](https://thehackernews.com/2025/03/veeam-and-ibm-release-patches-for-high.html)
 - [How to Protect Your Business from Cyber Threats: Mastering the Shared Responsibility Model](https://thehackernews.com/2025/03/how-to-protect-your-business-from-cyber.html)
 - [Six Governments Likely Use Israeli Paragon Spyware to Hack IM Apps and Harvest Data](https://thehackernews.com/2025/03/six-governments-likely-use-israeli.html)
 - [Why Continuous Compliance Monitoring Is Essential For IT Managed Service Providers](https://thehackernews.com/2025/03/why-continuous-compliance-monitoring-is.html)
 - [CISA Adds NAKIVO Vulnerability to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2025/03/cisa-adds-nakivo-vulnerability-to-kev.html)
-- [CERT-UA Warns: Dark Crystal RAT Targets Ukrainian Defense via Malicious Signal Messages](https://thehackernews.com/2025/03/cert-ua-warns-dark-crystal-rat-targets.html)
 <!-- BLOG-POST-LIST:END -->
