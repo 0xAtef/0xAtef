@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CERT-UA Warns: Dark Crystal RAT Targets Ukrainian Defense via Malicious Signal Messages](https://thehackernews.com/2025/03/cert-ua-warns-dark-crystal-rat-targets.html)
 - [Hackers Exploit Severe PHP Flaw to Deploy Quasar RAT and XMRig Miners](https://thehackernews.com/2025/03/hackers-exploit-severe-php-flaw-to.html)
 - [Leaked Black Basta Chats Suggest Russian Officials Aided Leader&#39;s Escape from Armenia](https://thehackernews.com/2025/03/leaked-black-basta-chats-suggest.html)
 - [Watch This Webinar to Learn How to Eliminate Identity-Based Attacks—Before They Happen](https://thehackernews.com/2025/03/watch-this-webinar-to-learn-how-to.html)
 - [ClearFake Infects 9,300 Sites, Uses Fake reCAPTCHA and Turnstile to Spread Info-Stealers](https://thehackernews.com/2025/03/clearfake-infects-9300-sites-uses-fake.html)
-- [5 Identity Threat Detection &amp; Response Must-Haves for Super SaaS Security](https://thehackernews.com/2025/03/5-identity-threat-detection-response.html)
 <!-- BLOG-POST-LIST:END -->
