@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Medusa Ransomware Uses Malicious Driver to Disable Anti-Malware with Stolen Certificates](https://thehackernews.com/2025/03/medusa-ransomware-uses-malicious-driver.html)
 - [10 Critical Network Pentest Findings IT Teams Overlook](https://thehackernews.com/2025/03/10-critical-network-pentest-findings-it.html)
 - [China-Linked APT Aquatic Panda: 10-Month Campaign, 7 Global Targets, 5 Malware Families](https://thehackernews.com/2025/03/china-linked-apt-aquatic-panda-10-month.html)
 - [Kaspersky Links Head Mare to Twelve, Targeting Russian Entities via Shared C2 Servers](https://thehackernews.com/2025/03/kaspersky-links-head-mare-to-twelve.html)
 - [Ongoing Cyber Attacks Exploit Critical Vulnerabilities in Cisco Smart Licensing Utility](https://thehackernews.com/2025/03/ongoing-cyber-attacks-exploit-critical.html)
-- [YouTube Game Cheats Spread Arcane Stealer Malware to Russian-Speaking Users](https://thehackernews.com/2025/03/youtube-game-cheats-spread-arcane.html)
 <!-- BLOG-POST-LIST:END -->
