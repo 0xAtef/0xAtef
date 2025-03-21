@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Critical Network Pentest Findings IT Teams Overlook](https://thehackernews.com/2025/03/10-critical-network-pentest-findings-it.html)
+- [China-Linked APT Aquatic Panda: 10-Month Campaign, 7 Global Targets, 5 Malware Families](https://thehackernews.com/2025/03/china-linked-apt-aquatic-panda-10-month.html)
+- [Kaspersky Links Head Mare to Twelve, Targeting Russian Entities via Shared C2 Servers](https://thehackernews.com/2025/03/kaspersky-links-head-mare-to-twelve.html)
 - [Ongoing Cyber Attacks Exploit Critical Vulnerabilities in Cisco Smart Licensing Utility](https://thehackernews.com/2025/03/ongoing-cyber-attacks-exploit-critical.html)
 - [YouTube Game Cheats Spread Arcane Stealer Malware to Russian-Speaking Users](https://thehackernews.com/2025/03/youtube-game-cheats-spread-arcane.html)
-- [Veeam and IBM Release Patches for High-Risk Flaws in Backup and AIX Systems](https://thehackernews.com/2025/03/veeam-and-ibm-release-patches-for-high.html)
-- [How to Protect Your Business from Cyber Threats: Mastering the Shared Responsibility Model](https://thehackernews.com/2025/03/how-to-protect-your-business-from-cyber.html)
-- [Six Governments Likely Use Israeli Paragon Spyware to Hack IM Apps and Harvest Data](https://thehackernews.com/2025/03/six-governments-likely-use-israeli.html)
 <!-- BLOG-POST-LIST:END -->
