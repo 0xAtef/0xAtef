@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Supply Chain Breach: Coinbase Attack Exposes 218 Repositories, Leaks CI/CD Secrets](https://thehackernews.com/2025/03/github-supply-chain-breach-coinbase.html)
 - [U.S. Treasury Lifts Tornado Cash Sanctions Amid North Korea Money Laundering Probe](https://thehackernews.com/2025/03/us-treasury-lifts-tornado-cash.html)
 - [UAT-5918 Targets Taiwan&#39;s Critical Infrastructure Using Web Shells and Open-Source Tools](https://thehackernews.com/2025/03/uat-5918-targets-taiwans-critical.html)
 - [Medusa Ransomware Uses Malicious Driver to Disable Anti-Malware with Stolen Certificates](https://thehackernews.com/2025/03/medusa-ransomware-uses-malicious-driver.html)
 - [China-Linked APT Aquatic Panda: 10-Month Campaign, 7 Global Targets, 5 Malware Families](https://thehackernews.com/2025/03/china-linked-apt-aquatic-panda-10-month.html)
-- [10 Critical Network Pentest Findings IT Teams Overlook](https://thehackernews.com/2025/03/10-critical-network-pentest-findings-it.html)
 <!-- BLOG-POST-LIST:END -->
