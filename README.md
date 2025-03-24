@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ THN Weekly Recap: GitHub Supply Chain Attack, AI Malware, BYOVD Tactics, and More](https://thehackernews.com/2025/03/thn-weekly-recap-github-supply-chain.html)
+- [VSCode Marketplace Removes Two Extensions Deploying Early-Stage Ransomware](https://thehackernews.com/2025/03/vscode-marketplace-removes-two.html)
+- [How to Balance Password Security Against User Experience](https://thehackernews.com/2025/03/how-to-balance-password-security.html)
 - [Critical Next.js Vulnerability Allows Attackers to Bypass Middleware Authorization Checks](https://thehackernews.com/2025/03/critical-nextjs-vulnerability-allows.html)
 - [Coinbase Initially Targeted in GitHub Actions Supply Chain Attack; 218 Repositories&#39; CI/CD Secrets Exposed](https://thehackernews.com/2025/03/github-supply-chain-breach-coinbase.html)
-- [U.S. Treasury Lifts Tornado Cash Sanctions Amid North Korea Money Laundering Probe](https://thehackernews.com/2025/03/us-treasury-lifts-tornado-cash.html)
-- [UAT-5918 Targets Taiwan&#39;s Critical Infrastructure Using Web Shells and Open-Source Tools](https://thehackernews.com/2025/03/uat-5918-targets-taiwans-critical.html)
-- [Medusa Ransomware Uses Malicious Driver to Disable Anti-Malware with Stolen Certificates](https://thehackernews.com/2025/03/medusa-ransomware-uses-malicious-driver.html)
 <!-- BLOG-POST-LIST:END -->
