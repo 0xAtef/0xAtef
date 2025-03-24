@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Adds Inline Data Protection to Edge for Business to Block GenAI Data Leaks](https://thehackernews.com/2025/03/microsoft-adds-inline-data-protection.html)
 - [VanHelsing RaaS Launch: 3 Victims, $5K Entry Fee, Multi-OS, and Double Extortion Tactics](https://thehackernews.com/2025/03/vanhelsing-raas-launch-3-victims-5k.html)
 - [⚡ THN Weekly Recap: GitHub Supply Chain Attack, AI Malware, BYOVD Tactics, and More](https://thehackernews.com/2025/03/thn-weekly-recap-github-supply-chain.html)
 - [VSCode Marketplace Removes Two Extensions Deploying Early-Stage Ransomware](https://thehackernews.com/2025/03/vscode-marketplace-removes-two.html)
 - [How to Balance Password Security Against User Experience](https://thehackernews.com/2025/03/how-to-balance-password-security.html)
-- [Critical Next.js Vulnerability Allows Attackers to Bypass Middleware Authorization Checks](https://thehackernews.com/2025/03/critical-nextjs-vulnerability-allows.html)
 <!-- BLOG-POST-LIST:END -->
