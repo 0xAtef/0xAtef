@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Next.js Vulnerability Allows Attackers to Bypass Middleware Authorization Checks](https://thehackernews.com/2025/03/critical-nextjs-vulnerability-allows.html)
 - [Coinbase Initially Targeted in GitHub Actions Supply Chain Attack; 218 Repositories&#39; CI/CD Secrets Exposed](https://thehackernews.com/2025/03/github-supply-chain-breach-coinbase.html)
 - [U.S. Treasury Lifts Tornado Cash Sanctions Amid North Korea Money Laundering Probe](https://thehackernews.com/2025/03/us-treasury-lifts-tornado-cash.html)
 - [UAT-5918 Targets Taiwan&#39;s Critical Infrastructure Using Web Shells and Open-Source Tools](https://thehackernews.com/2025/03/uat-5918-targets-taiwans-critical.html)
 - [Medusa Ransomware Uses Malicious Driver to Disable Anti-Malware with Stolen Certificates](https://thehackernews.com/2025/03/medusa-ransomware-uses-malicious-driver.html)
-- [China-Linked APT Aquatic Panda: 10-Month Campaign, 7 Global Targets, 5 Malware Families](https://thehackernews.com/2025/03/china-linked-apt-aquatic-panda-10-month.html)
 <!-- BLOG-POST-LIST:END -->
