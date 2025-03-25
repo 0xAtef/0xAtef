@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Use .NET MAUI to Target Indian and Chinese Users with Fake Banking, Social Apps](https://thehackernews.com/2025/03/hackers-use-net-maui-to-target-indian.html)
 - [INTERPOL Arrests 306 Suspects, Seizes 1,842 Devices in Cross-Border Cybercrime Bust](https://thehackernews.com/2025/03/interpol-arrests-306-suspects-seizes.html)
 - [Critical Ingress NGINX Controller Vulnerability Allows RCE Without Authentication](https://thehackernews.com/2025/03/critical-ingress-nginx-controller.html)
 - [Microsoft Adds Inline Data Protection to Edge for Business to Block GenAI Data Leaks](https://thehackernews.com/2025/03/microsoft-adds-inline-data-protection.html)
 - [VanHelsing RaaS Launch: 3 Victims, $5K Entry Fee, Multi-OS, and Double Extortion Tactics](https://thehackernews.com/2025/03/vanhelsing-raas-launch-3-victims-5k.html)
-- [⚡ THN Weekly Recap: GitHub Supply Chain Attack, AI Malware, BYOVD Tactics, and More](https://thehackernews.com/2025/03/thn-weekly-recap-github-supply-chain.html)
 <!-- BLOG-POST-LIST:END -->
