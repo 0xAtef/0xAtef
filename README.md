@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How PAM Mitigates Insider Threats: Preventing Data Breaches, Privilege Misuse, and More](https://thehackernews.com/2025/03/how-pam-mitigates-insider-threats.html)
 - [Hackers Using E-Crime Tool Atlantis AIO for Credential Stuffing on 140+ Platforms](https://thehackernews.com/2025/03/hackers-using-e-crime-tool-atlantis-aio.html)
 - [Zero-Day Alert: Google Releases Chrome Patch for Exploit Used in Russian Espionage Attacks](https://thehackernews.com/2025/03/zero-day-alert-google-releases-chrome.html)
 - [New Security Flaws Found in VMware Tools and CrushFTP — High Risk, No Workaround](https://thehackernews.com/2025/03/new-security-flaws-found-in-vmware.html)
 - [Researchers Uncover ~200 Unique C2 Domains Linked to Raspberry Robin Access Broker](https://thehackernews.com/2025/03/researchers-uncover-200-unique-c2.html)
-- [Chinese Hackers Breach Asian Telecom, Remain Undetected for Over 4 Years](https://thehackernews.com/2025/03/chinese-hackers-breach-asian-telecom.html)
 <!-- BLOG-POST-LIST:END -->
