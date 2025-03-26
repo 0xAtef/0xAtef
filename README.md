@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New SparrowDoor Backdoor Variants Found in Attacks on U.S. and Mexican Organizations](https://thehackernews.com/2025/03/new-sparrowdoor-backdoor-variants-found.html)
 - [EncryptHub Exploits Windows Zero-Day to Deploy Rhadamanthys and StealC Malware](https://thehackernews.com/2025/03/encrypthub-exploits-windows-zero-day-to.html)
 - [RedCurl Shifts from Espionage to Ransomware with First-Ever QWCrypt Deployment](https://thehackernews.com/2025/03/redcurl-shifts-from-espionage-to.html)
 - [Malicious npm Package Modifies Local &#39;ethers&#39; Library to Launch Reverse Shell Attacks](https://thehackernews.com/2025/03/malicious-npm-package-modifies-local.html)
 - [Sparring in the Cyber Ring: Using Automated Pentesting to Build Resilience](https://thehackernews.com/2025/03/sparring-in-cyber-ring-using-automated.html)
-- [Zero-Day Alert: Google Releases Chrome Patch for Exploit Used in Russian Espionage Attacks](https://thehackernews.com/2025/03/zero-day-alert-google-releases-chrome.html)
 <!-- BLOG-POST-LIST:END -->
