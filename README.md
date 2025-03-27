@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [150,000 Sites Compromised by JavaScript Injection Promoting Chinese Gambling Platforms](https://thehackernews.com/2025/03/150000-sites-compromised-by-javascript.html)
 - [CISA Warns of Sitecore RCE Flaws; Active Exploits Hit Next.js and DrayTek Devices](https://thehackernews.com/2025/03/cisa-flags-two-six-year-old-sitecore.html)
 - [NetApp SnapCenter Flaw Could Let Users Gain Remote Admin Access on Plug-In Systems](https://thehackernews.com/2025/03/netapp-snapcenter-flaw-could-let-users.html)
 - [New SparrowDoor Backdoor Variants Found in Attacks on U.S. and Mexican Organizations](https://thehackernews.com/2025/03/new-sparrowdoor-backdoor-variants-found.html)
 - [EncryptHub Exploits Windows Zero-Day to Deploy Rhadamanthys and StealC Malware](https://thehackernews.com/2025/03/encrypthub-exploits-windows-zero-day-to.html)
-- [RedCurl Shifts from Espionage to Ransomware with First-Ever QWCrypt Deployment](https://thehackernews.com/2025/03/redcurl-shifts-from-espionage-to.html)
 <!-- BLOG-POST-LIST:END -->
