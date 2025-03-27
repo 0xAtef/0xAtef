@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Report Explains Why CASB Solutions Fail to Address Shadow SaaS and How to Fix It](https://thehackernews.com/2025/03/new-report-explains-why-casb-solutions.html)
 - [Top 3 MS Office Exploits Hackers Use in 2025 – Stay Alert!](https://thehackernews.com/2025/03/top-3-ms-office-exploits-hackers-use-in.html)
 - [150,000 Sites Compromised by JavaScript Injection Promoting Chinese Gambling Platforms](https://thehackernews.com/2025/03/150000-sites-compromised-by-javascript.html)
 - [CISA Warns of Sitecore RCE Flaws; Active Exploits Hit Next.js and DrayTek Devices](https://thehackernews.com/2025/03/cisa-flags-two-six-year-old-sitecore.html)
 - [NetApp SnapCenter Flaw Could Let Users Gain Remote Admin Access on Plug-In Systems](https://thehackernews.com/2025/03/netapp-snapcenter-flaw-could-let-users.html)
-- [New SparrowDoor Backdoor Variants Found in Attacks on U.S. and Mexican Organizations](https://thehackernews.com/2025/03/new-sparrowdoor-backdoor-variants-found.html)
 <!-- BLOG-POST-LIST:END -->
