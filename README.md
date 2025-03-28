@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CoffeeLoader Uses GPU-Based Armoury Packer to Evade EDR and Antivirus Detection](https://thehackernews.com/2025/03/coffeeloader-uses-gpu-based-armoury.html)
 - [Product Walkthrough: How Datto BCDR Delivers Unstoppable Business Continuity](https://thehackernews.com/2025/03/how-to-ensure-business-continuity-with-datto-b.html)
 - [PJobRAT Malware Campaign Targeted Taiwanese Users via Fake Chat Apps](https://thehackernews.com/2025/03/pjobrat-malware-campaign-targeted.html)
 - [Nine-Year-Old npm Packages Hijacked to Exfiltrate API Keys via Obfuscated Scripts](https://thehackernews.com/2025/03/nine-year-old-npm-packages-hijacked-to.html)
 - [Mozilla Patches Critical Firefox Bug Similar to Chrome’s Recent Zero-Day Vulnerability](https://thehackernews.com/2025/03/mozilla-patches-critical-firefox-bug.html)
-- [New Morphing Meerkat Phishing Kit Mimics 114 Brands Using Victims’ DNS Email Records](https://thehackernews.com/2025/03/new-morphing-meerkat-phishing-kit.html)
 <!-- BLOG-POST-LIST:END -->
