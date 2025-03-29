@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Android Trojan Crocodilus Abuses Accessibility to Steal Banking and Crypto Credentials](https://thehackernews.com/2025/03/new-android-trojan-crocodilus-abuses.html)
 - [BlackLock Ransomware Exposed After Researchers Exploit Leak Site Vulnerability](https://thehackernews.com/2025/03/blacklock-ransomware-exposed-after.html)
 - [Researchers Uncover 46 Critical Flaws in Solar Inverters From Sungrow, Growatt, and SMA](https://thehackernews.com/2025/03/researchers-uncover-46-critical-flaws.html)
 - [CoffeeLoader Uses GPU-Based Armoury Packer to Evade EDR and Antivirus Detection](https://thehackernews.com/2025/03/coffeeloader-uses-gpu-based-armoury.html)
 - [Product Walkthrough: How Datto BCDR Delivers Unstoppable Business Continuity](https://thehackernews.com/2025/03/how-to-ensure-business-continuity-with-datto-b.html)
-- [PJobRAT Malware Campaign Targeted Taiwanese Users via Fake Chat Apps](https://thehackernews.com/2025/03/pjobrat-malware-campaign-targeted.html)
 <!-- BLOG-POST-LIST:END -->
