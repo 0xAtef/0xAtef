@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Chrome 0-Day, IngressNightmare, Solar Bugs, DNS Tactics, and More](https://thehackernews.com/2025/03/weekly-recap-chrome-0-day.html)
+- [5 Impactful AWS Vulnerabilities You&#39;re Responsible For](https://thehackernews.com/2025/03/5-impactful-aws-vulnerabilities-youre.html)
 - [Russia-Linked Gamaredon Uses Troop-Related Lures to Deploy Remcos RAT in Ukraine](https://thehackernews.com/2025/03/russia-linked-gamaredon-uses-troop.html)
 - [RESURGE Malware Exploits Ivanti Flaw with Rootkit and Web Shell Features](https://thehackernews.com/2025/03/resurge-malware-exploits-ivanti-flaw.html)
 - [New Android Trojan Crocodilus Abuses Accessibility to Steal Banking and Crypto Credentials](https://thehackernews.com/2025/03/new-android-trojan-crocodilus-abuses.html)
-- [BlackLock Ransomware Exposed After Researchers Exploit Leak Site Vulnerability](https://thehackernews.com/2025/03/blacklock-ransomware-exposed-after.html)
-- [Researchers Uncover 46 Critical Flaws in Solar Inverters From Sungrow, Growatt, and SMA](https://thehackernews.com/2025/03/researchers-uncover-46-critical-flaws.html)
 <!-- BLOG-POST-LIST:END -->
