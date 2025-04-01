@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Backports Critical Fixes for 3 Live Exploits Impacting iOS and macOS Legacy Devices](https://thehackernews.com/2025/04/apple-backports-critical-fixes-for-3.html)
+- [Nearly 24,000 IPs Target PAN-OS GlobalProtect in Coordinated Login Scan Campaign](https://thehackernews.com/2025/04/nearly-24000-ips-target-pan-os.html)
+- [China-Linked Earth Alux Uses VARGEIT and COBEACON in Multi-Stage Cyber Intrusions](https://thehackernews.com/2025/04/china-linked-earth-alux-uses-vargeit.html)
+- [New Case Study: Global Retailer Overshares CSRF Tokens with Facebook](https://thehackernews.com/2025/04/new-case-study-global-retailer.html)
 - [Apple Fined €150 Million by French Regulator Over Discriminatory ATT Consent Practices](https://thehackernews.com/2025/04/apple-fined-150-million-by-french.html)
-- [Russian Hackers Exploit CVE-2025-26633 via MSC EvilTwin to Deploy SilentPrism and DarkWisp](https://thehackernews.com/2025/03/russian-hackers-exploit-cve-2025-26633.html)
-- [Hackers Exploit WordPress mu-Plugins to Inject Spam and Hijack Site Images](https://thehackernews.com/2025/03/hackers-exploit-wordpress-mu-plugins-to.html)
-- [⚡ Weekly Recap: Chrome 0-Day, IngressNightmare, Solar Bugs, DNS Tactics, and More](https://thehackernews.com/2025/03/weekly-recap-chrome-0-day.html)
-- [5 Impactful AWS Vulnerabilities You&#39;re Responsible For](https://thehackernews.com/2025/03/5-impactful-aws-vulnerabilities-youre.html)
 <!-- BLOG-POST-LIST:END -->
