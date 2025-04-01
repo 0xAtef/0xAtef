@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Over 1,500 PostgreSQL Servers Compromised in Fileless Cryptocurrency Mining Campaign](https://thehackernews.com/2025/04/over-1500-postgresql-servers.html)
 - [Enterprise Gmail Users Can Now Send End-to-End Encrypted Emails to Any Platform](https://thehackernews.com/2025/04/enterprise-gmail-users-can-now-send-end.html)
 - [Lucid PhaaS Hits 169 Targets in 88 Countries Using iMessage and RCS Smishing](https://thehackernews.com/2025/04/lucid-phaas-hits-169-targets-in-88.html)
 - [Apple Backports Critical Fixes for 3 Recent 0-Days Impacting Older iOS and macOS Devices](https://thehackernews.com/2025/04/apple-backports-critical-fixes-for-3.html)
 - [Nearly 24,000 IPs Target PAN-OS GlobalProtect in Coordinated Login Scan Campaign](https://thehackernews.com/2025/04/nearly-24000-ips-target-pan-os.html)
-- [China-Linked Earth Alux Uses VARGEIT and COBEACON in Multi-Stage Cyber Intrusions](https://thehackernews.com/2025/04/china-linked-earth-alux-uses-vargeit.html)
 <!-- BLOG-POST-LIST:END -->
