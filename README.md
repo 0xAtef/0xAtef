@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Fined €150 Million by French Regulator Over Discriminatory ATT Consent Practices](https://thehackernews.com/2025/04/apple-fined-150-million-by-french.html)
 - [Russian Hackers Exploit CVE-2025-26633 via MSC EvilTwin to Deploy SilentPrism and DarkWisp](https://thehackernews.com/2025/03/russian-hackers-exploit-cve-2025-26633.html)
 - [Hackers Exploit WordPress mu-Plugins to Inject Spam and Hijack Site Images](https://thehackernews.com/2025/03/hackers-exploit-wordpress-mu-plugins-to.html)
 - [⚡ Weekly Recap: Chrome 0-Day, IngressNightmare, Solar Bugs, DNS Tactics, and More](https://thehackernews.com/2025/03/weekly-recap-chrome-0-day.html)
 - [5 Impactful AWS Vulnerabilities You&#39;re Responsible For](https://thehackernews.com/2025/03/5-impactful-aws-vulnerabilities-youre.html)
-- [Russia-Linked Gamaredon Uses Troop-Related Lures to Deploy Remcos RAT in Ukraine](https://thehackernews.com/2025/03/russia-linked-gamaredon-uses-troop.html)
 <!-- BLOG-POST-LIST:END -->
