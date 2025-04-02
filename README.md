@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Helping Your Clients Achieve NIST Compliance: A Step by Step Guide for Service Providers](https://thehackernews.com/2025/04/helping-your-clients-achieve-nist.html)
+- [Outlaw Group Uses SSH Brute-Force to Deploy Cryptojacking Malware on Linux Servers](https://thehackernews.com/2025/04/outlaw-group-uses-ssh-brute-force-to.html)
 - [How SSL Misconfigurations Impact Your Attack Surface](https://thehackernews.com/2025/04/how-ssl-misconfigurations-impact-your.html)
 - [FIN7 Deploys Anubis Backdoor to Hijack Windows Systems via Compromised SharePoint Sites](https://thehackernews.com/2025/04/fin7-deploys-anubis-backdoor-to-hijack.html)
 - [New Malware Loaders Use Call Stack Spoofing, GitHub C2, and .NET Reactor for Stealth](https://thehackernews.com/2025/04/new-malware-loaders-use-call-stack.html)
-- [Over 1,500 PostgreSQL Servers Compromised in Fileless Cryptocurrency Mining Campaign](https://thehackernews.com/2025/04/over-1500-postgresql-servers.html)
-- [Enterprise Gmail Users Can Now Send End-to-End Encrypted Emails to Any Platform](https://thehackernews.com/2025/04/enterprise-gmail-users-can-now-send-end.html)
 <!-- BLOG-POST-LIST:END -->
