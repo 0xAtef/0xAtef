@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How SSL Misconfigurations Impact Your Attack Surface](https://thehackernews.com/2025/04/how-ssl-misconfigurations-impact-your.html)
 - [FIN7 Deploys Anubis Backdoor to Hijack Windows Systems via Compromised SharePoint Sites](https://thehackernews.com/2025/04/fin7-deploys-anubis-backdoor-to-hijack.html)
 - [New Malware Loaders Use Call Stack Spoofing, GitHub C2, and .NET Reactor for Stealth](https://thehackernews.com/2025/04/new-malware-loaders-use-call-stack.html)
 - [Over 1,500 PostgreSQL Servers Compromised in Fileless Cryptocurrency Mining Campaign](https://thehackernews.com/2025/04/over-1500-postgresql-servers.html)
 - [Enterprise Gmail Users Can Now Send End-to-End Encrypted Emails to Any Platform](https://thehackernews.com/2025/04/enterprise-gmail-users-can-now-send-end.html)
-- [Lucid PhaaS Hits 169 Targets in 88 Countries Using iMessage and RCS Smishing](https://thehackernews.com/2025/04/lucid-phaas-hits-169-targets-in-88.html)
 <!-- BLOG-POST-LIST:END -->
