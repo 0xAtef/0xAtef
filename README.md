@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Triada Malware Preloaded on Counterfeit Android Phones Infects 2,600+ Devices](https://thehackernews.com/2025/04/triada-malware-preloaded-on-counterfeit.html)
 - [Legacy Stripe API Exploited to Validate Stolen Payment Cards in Web Skimmer Campaign](https://thehackernews.com/2025/04/legacy-stripe-api-exploited-to-validate.html)
 - [Europol Dismantles Kidflix With 72,000 CSAM Videos Seized in Major Operation](https://thehackernews.com/2025/04/europol-dismantles-kidflix-with-72000.html)
 - [Google Fixed Cloud Run Vulnerability Allowing Unauthorized Image Access via IAM Misuse](https://thehackernews.com/2025/04/google-fixed-cloud-run-vulnerability.html)
 - [Helping Your Clients Achieve NIST Compliance: A Step by Step Guide for Service Providers](https://thehackernews.com/2025/04/helping-your-clients-achieve-nist.html)
-- [Outlaw Group Uses SSH Brute-Force to Deploy Cryptojacking Malware on Linux Servers](https://thehackernews.com/2025/04/outlaw-group-uses-ssh-brute-force-to.html)
 <!-- BLOG-POST-LIST:END -->
