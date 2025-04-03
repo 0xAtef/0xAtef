@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Threats Are Evolving Fast — Learn Practical Defense Tactics in this Expert Webinar](https://thehackernews.com/2025/04/ai-threats-are-evolving-fast-learn.html)
+- [AI Adoption in the Enterprise: Breaking Through the Security and Compliance Gridlock](https://thehackernews.com/2025/04/ai-adoption-in-enterprise-breaking.html)
 - [Google Patches Quick Share Vulnerability Enabling Silent File Transfers Without Consent](https://thehackernews.com/2025/04/google-patches-quick-share.html)
 - [Triada Malware Preloaded on Counterfeit Android Phones Infects 2,600+ Devices](https://thehackernews.com/2025/04/triada-malware-preloaded-on-counterfeit.html)
 - [Legacy Stripe API Exploited to Validate Stolen Payment Cards in Web Skimmer Campaign](https://thehackernews.com/2025/04/legacy-stripe-api-exploited-to-validate.html)
-- [Europol Dismantles Kidflix With 72,000 CSAM Videos Seized in Major Operation](https://thehackernews.com/2025/04/europol-dismantles-kidflix-with-72000.html)
-- [Google Fixed Cloud Run Vulnerability Allowing Unauthorized Image Access via IAM Misuse](https://thehackernews.com/2025/04/google-fixed-cloud-run-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
