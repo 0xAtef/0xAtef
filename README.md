@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Warns of Tax-Themed Email Attacks Using PDFs and QR Codes to Deliver Malware](https://thehackernews.com/2025/04/microsoft-warns-of-tax-themed-email.html)
 - [Lazarus Group Targets Job Seekers With ClickFix Tactic to Deploy GolangGhost Malware](https://thehackernews.com/2025/04/lazarus-group-targets-job-seekers-with.html)
 - [AI Threats Are Evolving Fast — Learn Practical Defense Tactics in this Expert Webinar](https://thehackernews.com/2025/04/ai-threats-are-evolving-fast-learn.html)
 - [AI Adoption in the Enterprise: Breaking Through the Security and Compliance Gridlock](https://thehackernews.com/2025/04/ai-adoption-in-enterprise-breaking.html)
 - [Google Patches Quick Share Vulnerability Enabling Silent File Transfers Without Consent](https://thehackernews.com/2025/04/google-patches-quick-share.html)
-- [Triada Malware Preloaded on Counterfeit Android Phones Infects 2,600+ Devices](https://thehackernews.com/2025/04/triada-malware-preloaded-on-counterfeit.html)
 <!-- BLOG-POST-LIST:END -->
