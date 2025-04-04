@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Have We Reached a Distroless Tipping Point?](https://thehackernews.com/2025/04/have-we-reached-distroless-tipping-point.html)
 - [Critical Ivanti Flaw Actively Exploited to Deploy TRAILBLAZE and BRUSHFIRE Malware](https://thehackernews.com/2025/04/critical-ivanti-flaw-actively-exploited.html)
+- [OPSEC Failure Exposes Coquettte’s Malware Campaigns on Bulletproof Hosting Servers](https://thehackernews.com/2025/04/opsec-failure-exposes-coquetttes.html)
 - [CERT-UA Reports Cyberattacks Targeting Ukrainian State Systems with WRECKSTEEL Malware](https://thehackernews.com/2025/04/cert-ua-reports-cyberattacks-targeting.html)
 - [Critical Flaw in Apache Parquet Allows Remote Attackers to Execute Arbitrary Code](https://thehackernews.com/2025/04/critical-flaw-in-apache-parquet-allows.html)
-- [Microsoft Warns of Tax-Themed Email Attacks Using PDFs and QR Codes to Deliver Malware](https://thehackernews.com/2025/04/microsoft-warns-of-tax-themed-email.html)
-- [Lazarus Group Targets Job Seekers With ClickFix Tactic to Deploy GolangGhost Malware](https://thehackernews.com/2025/04/lazarus-group-targets-job-seekers-with.html)
 <!-- BLOG-POST-LIST:END -->
