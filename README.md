@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Python Packages on PyPI Downloaded 39,000+ Times, Steal Sensitive Data](https://thehackernews.com/2025/04/malicious-python-packages-on-pypi.html)
 - [SpotBugs Access Token Theft Identified as Root Cause of GitHub Supply Chain Attack](https://thehackernews.com/2025/04/spotbugs-access-token-theft-identified.html)
 - [Have We Reached a Distroless Tipping Point?](https://thehackernews.com/2025/04/have-we-reached-distroless-tipping-point.html)
 - [Critical Ivanti Flaw Actively Exploited to Deploy TRAILBLAZE and BRUSHFIRE Malware](https://thehackernews.com/2025/04/critical-ivanti-flaw-actively-exploited.html)
 - [OPSEC Failure Exposes Coquettte’s Malware Campaigns on Bulletproof Hosting Servers](https://thehackernews.com/2025/04/opsec-failure-exposes-coquetttes.html)
-- [CERT-UA Reports Cyberattacks Targeting Ukrainian State Systems with WRECKSTEEL Malware](https://thehackernews.com/2025/04/cert-ua-reports-cyberattacks-targeting.html)
 <!-- BLOG-POST-LIST:END -->
