@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: VPN Exploits, Oracle&#39;s Silent Breach, ClickFix Comeback and More](https://thehackernews.com/2025/04/weekly-recap-vpn-exploits-oracles.html)
 - [Security Theater: Vanity Metrics Keep You Busy - and Exposed](https://thehackernews.com/2025/04/security-theater-vanity-metrics-keep.html)
 - [PoisonSeed Exploits CRM Accounts to Launch Cryptocurrency Seed Phrase Poisoning Attacks](https://thehackernews.com/2025/04/poisonseed-exploits-crm-accounts-to.html)
 - [Microsoft Credits EncryptHub, Hacker Behind 618+ Breaches, for Disclosing Windows Flaws](https://thehackernews.com/2025/04/microsoft-credits-encrypthub-hacker.html)
 - [North Korean Hackers Deploy BeaverTail Malware via 11 Malicious npm Packages](https://thehackernews.com/2025/04/north-korean-hackers-deploy-beavertail.html)
-- [Malicious Python Packages on PyPI Downloaded 39,000+ Times, Steal Sensitive Data](https://thehackernews.com/2025/04/malicious-python-packages-on-pypi.html)
 <!-- BLOG-POST-LIST:END -->
