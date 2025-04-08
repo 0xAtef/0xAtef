@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon EC2 SSM Agent Flaw Patched After Privilege Escalation via Path Traversal](https://thehackernews.com/2025/04/amazon-ec2-ssm-agent-flaw-patched-after.html)
+- [Cryptocurrency Miner and Clipper Malware Spread via SourceForge Cracked Software Listings](https://thehackernews.com/2025/04/cryptocurrency-miner-and-clipper.html)
 - [Agentic AI in the SOC - Dawn of Autonomous Alert Triage](https://thehackernews.com/2025/04/agentic-ai-in-soc-dawn-of-autonomous.html)
 - [UAC-0226 Deploys GIFTEDCROOK Stealer via Malicious Excel Files Targeting Ukraine](https://thehackernews.com/2025/04/uac-0226-deploys-giftedcrook-stealer.html)
 - [CISA Adds CrushFTP Vulnerability to KEV Catalog Following Confirmed Active Exploitation](https://thehackernews.com/2025/04/cisa-adds-crushftp-vulnerability-to-kev.html)
-- [Google Releases Android Update to Patch Two Actively Exploited Vulnerabilities](https://thehackernews.com/2025/04/google-releases-android-update-to-patch.html)
-- [CISA and FBI Warn Fast Flux is Powering Resilient Malware, C2, and Phishing Networks](https://thehackernews.com/2025/04/cisa-and-fbi-warn-fast-flux-is-powering.html)
 <!-- BLOG-POST-LIST:END -->
