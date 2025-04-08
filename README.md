@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agentic AI in the SOC - Dawn of Autonomous Alert Triage](https://thehackernews.com/2025/04/agentic-ai-in-soc-dawn-of-autonomous.html)
+- [UAC-0226 Deploys GIFTEDCROOK Stealer via Malicious Excel Files Targeting Ukraine](https://thehackernews.com/2025/04/uac-0226-deploys-giftedcrook-stealer.html)
 - [CISA Adds CrushFTP Vulnerability to KEV Catalog Following Confirmed Active Exploitation](https://thehackernews.com/2025/04/cisa-adds-crushftp-vulnerability-to-kev.html)
 - [Google Releases Android Update to Patch Two Actively Exploited Vulnerabilities](https://thehackernews.com/2025/04/google-releases-android-update-to-patch.html)
 - [CISA and FBI Warn Fast Flux is Powering Resilient Malware, C2, and Phishing Networks](https://thehackernews.com/2025/04/cisa-and-fbi-warn-fast-flux-is-powering.html)
-- [⚡ Weekly Recap: VPN Exploits, Oracle&#39;s Silent Breach, ClickFix Surge and More](https://thehackernews.com/2025/04/weekly-recap-vpn-exploits-oracles.html)
-- [Security Theater: Vanity Metrics Keep You Busy - and Exposed](https://thehackernews.com/2025/04/security-theater-vanity-metrics-keep.html)
 <!-- BLOG-POST-LIST:END -->
