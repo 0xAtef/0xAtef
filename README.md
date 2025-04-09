@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New TCESB Malware Found in Active Attacks Exploiting ESET Security Scanner](https://thehackernews.com/2025/04/new-tcesb-malware-found-in-active.html)
+- [Explosive Growth of Non-Human Identities Creating Massive Security Blind Spots](https://thehackernews.com/2025/04/explosive-growth-of-non-human.html)
 - [PipeMagic Trojan Exploits Windows Zero-Day Vulnerability to Deploy Ransomware](https://thehackernews.com/2025/04/pipemagic-trojan-exploits-windows-clfs.html)
 - [CISA Warns of CentreStack&#39;s Hard-Coded MachineKey Vulnerability Enabling RCE Attacks](https://thehackernews.com/2025/04/cisa-warns-of-centrestacks-hard-coded.html)
 - [Microsoft Patches 126 Flaws Including Actively Exploited Windows CLFS Vulnerability](https://thehackernews.com/2025/04/microsoft-patches-126-flaws-including.html)
-- [Adobe Patches 11 Critical ColdFusion Flaws Amid 30 Total Vulnerabilities Discovered](https://thehackernews.com/2025/04/adobe-patches-11-critical-coldfusion.html)
-- [Fortinet Urges FortiSwitch Upgrades to Patch Critical Admin Password Change Flaw](https://thehackernews.com/2025/04/fortinet-urges-fortiswitch-upgrades-to.html)
 <!-- BLOG-POST-LIST:END -->
