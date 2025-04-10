@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Incomplete Patch in NVIDIA Toolkit Leaves CVE-2024-0132 Open to Container Escapes](https://thehackernews.com/2025/04/incomplete-patch-in-nvidia-toolkit.html)
 - [Malicious npm Package Targets Atomic Wallet, Exodus Users by Swapping Crypto Addresses](https://thehackernews.com/2025/04/malicious-npm-package-targets-atomic.html)
 - [PlayPraetor Reloaded: CTM360 Uncovers a Play Masquerading Party](https://thehackernews.com/2025/04/playpraetor-reloaded-ctm360-uncovers.html)
 - [The Identities Behind AI Agents: A Deep Dive Into AI &amp; NHI](https://thehackernews.com/2025/04/the-identities-behind-ai-agents-deep.html)
 - [Gamaredon Uses Infected Removable Drives to Breach Western Military Mission in Ukraine](https://thehackernews.com/2025/04/gamaredon-uses-infected-removable.html)
-- [Europol Arrests Five SmokeLoader Clients Linked by Seized Database Evidence](https://thehackernews.com/2025/04/europol-arrests-five-smokeloader.html)
 <!-- BLOG-POST-LIST:END -->
