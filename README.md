@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Europol Arrests Five SmokeLoader Clients Linked by Seized Database Evidence](https://thehackernews.com/2025/04/europol-arrests-five-smokeloader.html)
 - [AkiraBot Targets 420,000 Sites with OpenAI-Generated Spam, Bypassing CAPTCHA Protections](https://thehackernews.com/2025/04/akirabot-targets-420000-sites-with.html)
 - [Lovable AI Found Most Vulnerable to VibeScamming — Enabling Anyone to Build Live Scam Pages](https://thehackernews.com/2025/04/lovable-ai-found-most-vulnerable-to.html)
 - [New TCESB Malware Found in Active Attacks Exploiting ESET Security Scanner](https://thehackernews.com/2025/04/new-tcesb-malware-found-in-active.html)
 - [Explosive Growth of Non-Human Identities Creating Massive Security Blind Spots](https://thehackernews.com/2025/04/explosive-growth-of-non-human.html)
-- [PipeMagic Trojan Exploits Windows Zero-Day Vulnerability to Deploy Ransomware](https://thehackernews.com/2025/04/pipemagic-trojan-exploits-windows-clfs.html)
 <!-- BLOG-POST-LIST:END -->
