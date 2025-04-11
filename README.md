@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Initial Access Brokers Shift Tactics, Selling More for Less](https://thehackernews.com/2025/04/initial-access-brokers-shift-tactics.html)
 - [Palo Alto Networks Warns of Brute-Force Attempts Targeting PAN-OS GlobalProtect Gateways](https://thehackernews.com/2025/04/palo-alto-networks-warns-of-brute-force.html)
 - [SpyNote, BadBazaar, MOONSHINE Malware Target Android and iOS Users via Fake Apps](https://thehackernews.com/2025/04/spynote-badbazaar-moonshine-malware.html)
 - [OttoKit WordPress Plugin Admin Creation Vulnerability Under Active Exploitation](https://thehackernews.com/2025/04/ottokit-wordpress-plugin-admin-creation.html)
 - [Incomplete Patch in NVIDIA Toolkit Leaves CVE-2024-0132 Open to Container Escapes](https://thehackernews.com/2025/04/incomplete-patch-in-nvidia-toolkit.html)
-- [Malicious npm Package Targets Atomic Wallet, Exodus Users by Swapping Crypto Addresses](https://thehackernews.com/2025/04/malicious-npm-package-targets-atomic.html)
 <!-- BLOG-POST-LIST:END -->
