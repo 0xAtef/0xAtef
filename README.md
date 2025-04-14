@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ResolverRAT Campaign Targets Healthcare, Pharma via Phishing and DLL Side-Loading](https://thehackernews.com/2025/04/resolverrat-campaign-targets-healthcare.html)
 - [Phishing Campaigns Use Real-Time Checks to Validate Victim Emails Before Credential Theft](https://thehackernews.com/2025/04/phishing-campaigns-use-real-time-checks.html)
 - [⚡ Weekly Recap: Windows 0-Day, VPN Exploits, Weaponized AI, Hijacked Antivirus and More](https://thehackernews.com/2025/04/weekly-recap-windows-0-day-vpn-exploits.html)
 - [Cybersecurity in the AI Era: Evolve Faster Than the Threats or Get Left Behind](https://thehackernews.com/2025/04/cybersecurity-in-ai-era-evolve-faster.html)
 - [Pakistan-Linked Hackers Expand Targets in India with CurlBack RAT and Spark RAT](https://thehackernews.com/2025/04/pakistan-linked-hackers-expand-targets.html)
-- [Fortinet Warns Attackers Retain FortiGate Access Post-Patching via SSL-VPN Symlink Exploit](https://thehackernews.com/2025/04/fortinet-warns-attackers-retain.html)
 <!-- BLOG-POST-LIST:END -->
