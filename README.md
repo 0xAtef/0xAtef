@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity in the AI Era: Evolve Faster Than the Threats or Get Left Behind](https://thehackernews.com/2025/04/cybersecurity-in-ai-era-evolve-faster.html)
 - [Pakistan-Linked Hackers Expand Targets in India with CurlBack RAT and Spark RAT](https://thehackernews.com/2025/04/pakistan-linked-hackers-expand-targets.html)
 - [Fortinet Warns Attackers Retain FortiGate Access Post-Patching via SSL-VPN Symlink Exploit](https://thehackernews.com/2025/04/fortinet-warns-attackers-retain.html)
 - [Paper Werewolf Deploys PowerModul Implant in Targeted Cyberattacks on Russian Sectors](https://thehackernews.com/2025/04/paper-werewolf-deploys-powermodul.html)
 - [Initial Access Brokers Shift Tactics, Selling More for Less](https://thehackernews.com/2025/04/initial-access-brokers-shift-tactics.html)
-- [Palo Alto Networks Warns of Brute-Force Attempts Targeting PAN-OS GlobalProtect Gateways](https://thehackernews.com/2025/04/palo-alto-networks-warns-of-brute-force.html)
 <!-- BLOG-POST-LIST:END -->
