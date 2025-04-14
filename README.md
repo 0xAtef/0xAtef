@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Windows 0-Day, VPN Exploits, Weaponized AI, Hijacked Antivirus and More](https://thehackernews.com/2025/04/weekly-recap-windows-0-day-vpn-exploits.html)
 - [Cybersecurity in the AI Era: Evolve Faster Than the Threats or Get Left Behind](https://thehackernews.com/2025/04/cybersecurity-in-ai-era-evolve-faster.html)
 - [Pakistan-Linked Hackers Expand Targets in India with CurlBack RAT and Spark RAT](https://thehackernews.com/2025/04/pakistan-linked-hackers-expand-targets.html)
 - [Fortinet Warns Attackers Retain FortiGate Access Post-Patching via SSL-VPN Symlink Exploit](https://thehackernews.com/2025/04/fortinet-warns-attackers-retain.html)
 - [Paper Werewolf Deploys PowerModul Implant in Targeted Cyberattacks on Russian Sectors](https://thehackernews.com/2025/04/paper-werewolf-deploys-powermodul.html)
-- [Initial Access Brokers Shift Tactics, Selling More for Less](https://thehackernews.com/2025/04/initial-access-brokers-shift-tactics.html)
 <!-- BLOG-POST-LIST:END -->
