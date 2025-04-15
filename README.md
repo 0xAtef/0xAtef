@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Crypto Developers Targeted by Python Malware Disguised as Coding Challenges](https://thehackernews.com/2025/04/crypto-developers-targeted-by-python.html)
 - [Gladinet’s Triofox and CentreStack Under Active Exploitation via Critical RCE Vulnerability](https://thehackernews.com/2025/04/gladinets-triofox-and-centrestack-under.html)
 - [Meta Resumes E.U. AI Training Using Public User Data After Regulator Approval](https://thehackernews.com/2025/04/meta-resumes-eu-ai-training-using.html)
 - [ResolverRAT Campaign Targets Healthcare, Pharma via Phishing and DLL Side-Loading](https://thehackernews.com/2025/04/resolverrat-campaign-targets-healthcare.html)
 - [Phishing Campaigns Use Real-Time Checks to Validate Victim Emails Before Credential Theft](https://thehackernews.com/2025/04/phishing-campaigns-use-real-time-checks.html)
-- [⚡ Weekly Recap: Windows 0-Day, VPN Exploits, Weaponized AI, Hijacked Antivirus and More](https://thehackernews.com/2025/04/weekly-recap-windows-0-day-vpn-exploits.html)
 <!-- BLOG-POST-LIST:END -->
