@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gladinet’s Triofox and CentreStack Under Active Exploitation via Critical RCE Vulnerability](https://thehackernews.com/2025/04/gladinets-triofox-and-centrestack-under.html)
+- [Meta Resumes E.U. AI Training Using Public User Data After Regulator Approval](https://thehackernews.com/2025/04/meta-resumes-eu-ai-training-using.html)
 - [ResolverRAT Campaign Targets Healthcare, Pharma via Phishing and DLL Side-Loading](https://thehackernews.com/2025/04/resolverrat-campaign-targets-healthcare.html)
 - [Phishing Campaigns Use Real-Time Checks to Validate Victim Emails Before Credential Theft](https://thehackernews.com/2025/04/phishing-campaigns-use-real-time-checks.html)
 - [⚡ Weekly Recap: Windows 0-Day, VPN Exploits, Weaponized AI, Hijacked Antivirus and More](https://thehackernews.com/2025/04/weekly-recap-windows-0-day-vpn-exploits.html)
-- [Cybersecurity in the AI Era: Evolve Faster Than the Threats or Get Left Behind](https://thehackernews.com/2025/04/cybersecurity-in-ai-era-evolve-faster.html)
-- [Pakistan-Linked Hackers Expand Targets in India with CurlBack RAT and Spark RAT](https://thehackernews.com/2025/04/pakistan-linked-hackers-expand-targets.html)
 <!-- BLOG-POST-LIST:END -->
