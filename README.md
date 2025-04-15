@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool](https://thehackernews.com/2025/04/chinese-hackers-target-linux-systems.html)
+- [Critical Apache Roller Vulnerability &lpar;CVSS 10.0&rpar; Enables Unauthorized Session Persistence](https://thehackernews.com/2025/04/critical-apache-roller-vulnerability.html)
 - [Majority of Browser Extensions Can Access Sensitive Enterprise Data, New Report Finds](https://thehackernews.com/2025/04/majority-of-browser-extensions-can.html)
+- [Malicious PyPI Package Targets MEXC Trading API to Steal Credentials and Redirect Orders](https://thehackernews.com/2025/04/malicious-pypi-package-targets-mexc.html)
 - [Crypto Developers Targeted by Python Malware Disguised as Coding Challenges](https://thehackernews.com/2025/04/crypto-developers-targeted-by-python.html)
-- [Gladinet’s Triofox and CentreStack Under Active Exploitation via Critical RCE Vulnerability](https://thehackernews.com/2025/04/gladinets-triofox-and-centrestack-under.html)
-- [Meta Resumes E.U. AI Training Using Public User Data After Regulator Approval](https://thehackernews.com/2025/04/meta-resumes-eu-ai-training-using.html)
-- [ResolverRAT Campaign Targets Healthcare, Pharma via Phishing and DLL Side-Loading](https://thehackernews.com/2025/04/resolverrat-campaign-targets-healthcare.html)
 <!-- BLOG-POST-LIST:END -->
