@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Blocked 5.1B Harmful Ads and Suspended 39.2M Advertiser Accounts in 2024](https://thehackernews.com/2025/04/google-blocked-51b-harmful-ads-and.html)
 - [Gamma AI Platform Abused in Phishing Chain to Spoof Microsoft SharePoint Logins](https://thehackernews.com/2025/04/ai-powered-gamma-used-to-host-microsoft.html)
 - [From Third-Party Vendors to U.S. Tariffs: The New Cyber Risks Facing Supply Chains](https://thehackernews.com/2025/04/from-third-party-vendors-to-us-tariffs.html)
 - [New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks](https://thehackernews.com/2025/04/new-bpfdoor-controller-enables-stealthy.html)
 - [Product Walkthrough: A Look Inside Wing Security&#39;s Layered SaaS Identity Defense](https://thehackernews.com/2025/04/product-walkthrough-look-inside-wing.html)
-- [Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users](https://thehackernews.com/2025/04/chinese-android-phones-shipped-with.html)
 <!-- BLOG-POST-LIST:END -->
