@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks](https://thehackernews.com/2025/04/new-bpfdoor-controller-enables-stealthy.html)
+- [Product Walkthrough: A Look Inside Wing Security&#39;s Layered SaaS Identity Defense](https://thehackernews.com/2025/04/product-walkthrough-look-inside-wing.html)
 - [Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users](https://thehackernews.com/2025/04/chinese-android-phones-shipped-with.html)
 - [U.S. Govt. Funding for MITRE&#39;s CVE Ends April 16, Cybersecurity Community on Alert](https://thehackernews.com/2025/04/us-govt-funding-for-mitres-cve-ends.html)
 - [Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool](https://thehackernews.com/2025/04/chinese-hackers-target-linux-systems.html)
-- [Critical Apache Roller Vulnerability &lpar;CVSS 10.0&rpar; Enables Unauthorized Session Persistence](https://thehackernews.com/2025/04/critical-apache-roller-vulnerability.html)
-- [Majority of Browser Extensions Can Access Sensitive Enterprise Data, New Report Finds](https://thehackernews.com/2025/04/majority-of-browser-extensions-can.html)
 <!-- BLOG-POST-LIST:END -->
