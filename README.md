@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gamma AI Platform Abused in Phishing Chain to Spoof Microsoft SharePoint Logins](https://thehackernews.com/2025/04/ai-powered-gamma-used-to-host-microsoft.html)
+- [From Third-Party Vendors to U.S. Tariffs: The New Cyber Risks Facing Supply Chains](https://thehackernews.com/2025/04/from-third-party-vendors-to-us-tariffs.html)
 - [New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks](https://thehackernews.com/2025/04/new-bpfdoor-controller-enables-stealthy.html)
 - [Product Walkthrough: A Look Inside Wing Security&#39;s Layered SaaS Identity Defense](https://thehackernews.com/2025/04/product-walkthrough-look-inside-wing.html)
 - [Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users](https://thehackernews.com/2025/04/chinese-android-phones-shipped-with.html)
-- [U.S. Govt. Funding for MITRE&#39;s CVE Ends April 16, Cybersecurity Community on Alert](https://thehackernews.com/2025/04/us-govt-funding-for-mitres-cve-ends.html)
-- [Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool](https://thehackernews.com/2025/04/chinese-hackers-target-linux-systems.html)
 <!-- BLOG-POST-LIST:END -->
