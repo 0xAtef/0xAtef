@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users](https://thehackernews.com/2025/04/chinese-android-phones-shipped-with.html)
 - [U.S. Govt. Funding for MITRE&#39;s CVE Ends April 16, Cybersecurity Community on Alert](https://thehackernews.com/2025/04/us-govt-funding-for-mitres-cve-ends.html)
 - [Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool](https://thehackernews.com/2025/04/chinese-hackers-target-linux-systems.html)
 - [Critical Apache Roller Vulnerability &lpar;CVSS 10.0&rpar; Enables Unauthorized Session Persistence](https://thehackernews.com/2025/04/critical-apache-roller-vulnerability.html)
 - [Majority of Browser Extensions Can Access Sensitive Enterprise Data, New Report Finds](https://thehackernews.com/2025/04/majority-of-browser-extensions-can.html)
-- [Malicious PyPI Package Targets MEXC Trading API to Steal Credentials and Redirect Orders](https://thehackernews.com/2025/04/malicious-pypi-package-targets-mexc.html)
 <!-- BLOG-POST-LIST:END -->
