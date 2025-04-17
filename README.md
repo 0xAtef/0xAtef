@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mustang Panda Targets Myanmar With StarProxy, EDR Bypass, and TONESHELL Updates](https://thehackernews.com/2025/04/mustang-panda-targets-myanmar-with.html)
 - [State-Sponsored Hackers Weaponize ClickFix Tactic in Targeted Malware Campaigns](https://thehackernews.com/2025/04/state-sponsored-hackers-weaponize.html)
 - [Artificial Intelligence – What&#39;s all the fuss?](https://thehackernews.com/2025/04/artificial-intelligence-whats-all-fuss.html)
 - [Critical Erlang/OTP SSH Vulnerability &lpar;CVSS 10.0&rpar; Allows Unauthenticated Code Execution](https://thehackernews.com/2025/04/critical-erlangotp-ssh-vulnerability.html)
 - [Blockchain Offers Security Benefits – But Don&#39;t Neglect Your Passwords](https://thehackernews.com/2025/04/blockchain-offers-security-benefits-but.html)
-- [Node.js Malware Campaign Targets Crypto Users with Fake Binance and TradingView Installers](https://thehackernews.com/2025/04/nodejs-malware-campaign-targets-crypto.html)
 <!-- BLOG-POST-LIST:END -->
