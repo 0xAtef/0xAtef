@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Stage Malware Attack Uses .JSE and PowerShell to Deploy Agent Tesla and XLoader](https://thehackernews.com/2025/04/multi-stage-malware-attack-uses-jse-and.html)
 - [[Webinar] AI Is Already Inside Your SaaS Stack — Learn How to Prevent the Next Silent Breach](https://thehackernews.com/2025/04/webinar-ai-is-already-inside-your-saas.html)
 - [Experts Uncover New XorDDoS Controller, Infrastructure as Malware Expands to Docker, Linux, IoT](https://thehackernews.com/2025/04/experts-uncover-new-xorddos-controller.html)
 - [CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download](https://thehackernews.com/2025/04/cve-2025-24054-under-active.html)
 - [Mustang Panda Targets Myanmar With StarProxy, EDR Bypass, and TONESHELL Updates](https://thehackernews.com/2025/04/mustang-panda-targets-myanmar-with.html)
-- [State-Sponsored Hackers Weaponize ClickFix Tactic in Targeted Malware Campaigns](https://thehackernews.com/2025/04/state-sponsored-hackers-weaponize.html)
 <!-- BLOG-POST-LIST:END -->
