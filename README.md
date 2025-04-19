@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ASUS Confirms Critical Flaw in AiCloud Routers; Users Urged to Update Firmware](https://thehackernews.com/2025/04/asus-confirms-critical-flaw-in-aicloud.html)
 - [Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States](https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html)
 - [Multi-Stage Malware Attack Uses .JSE and PowerShell to Deploy Agent Tesla and XLoader](https://thehackernews.com/2025/04/multi-stage-malware-attack-uses-jse-and.html)
 - [[Webinar] AI Is Already Inside Your SaaS Stack — Learn How to Prevent the Next Silent Breach](https://thehackernews.com/2025/04/webinar-ai-is-already-inside-your-saas.html)
 - [Experts Uncover New XorDDoS Controller, Infrastructure as Malware Expands to Docker, Linux, IoT](https://thehackernews.com/2025/04/experts-uncover-new-xorddos-controller.html)
-- [CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download](https://thehackernews.com/2025/04/cve-2025-24054-under-active.html)
 <!-- BLOG-POST-LIST:END -->
