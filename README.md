@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [APT29 Deploys GRAPELOADER Malware Targeting European Diplomats Through Wine-Tasting Lures](https://thehackernews.com/2025/04/apt29-deploys-grapeloader-malware.html)
 - [Rogue npm Packages Mimic Telegram Bot API to Plant SSH Backdoors on Linux Systems](https://thehackernews.com/2025/04/rogue-npm-packages-mimic-telegram-bot.html)
 - [ASUS Confirms Critical Flaw in AiCloud Routers; Users Urged to Update Firmware](https://thehackernews.com/2025/04/asus-confirms-critical-flaw-in-aicloud.html)
 - [Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States](https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html)
 - [Multi-Stage Malware Attack Uses .JSE and PowerShell to Deploy Agent Tesla and XLoader](https://thehackernews.com/2025/04/multi-stage-malware-attack-uses-jse-and.html)
-- [[Webinar] AI Is Already Inside Your SaaS Stack — Learn How to Prevent the Next Silent Breach](https://thehackernews.com/2025/04/webinar-ai-is-already-inside-your-saas.html)
 <!-- BLOG-POST-LIST:END -->
