@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kimsuky Exploits BlueKeep RDP Vulnerability to Breach Systems in South Korea and Japan](https://thehackernews.com/2025/04/kimsuky-exploits-bluekeep-rdp.html)
 - [SuperCard X Android Malware Enables Contactless ATM and PoS Fraud via NFC Relay Attacks](https://thehackernews.com/2025/04/supercard-x-android-malware-enables.html)
 - [5 Reasons Device Management Isn&#39;t Device Trust​](https://thehackernews.com/2025/04/5-reasons-device-management-isnt-device.html)
 - [⚡ THN Weekly Recap: iOS Zero-Days, 4Chan Breach, NTLM Exploits, WhatsApp Spyware &amp; More](https://thehackernews.com/2025/04/thn-weekly-recap-ios-zero-days-4chan.html)
 - [Hackers Abuse Russian Bulletproof Host Proton66 for Global Attacks and Malware Delivery](https://thehackernews.com/2025/04/hackers-abuse-russian-bulletproof-host.html)
-- [APT29 Deploys GRAPELOADER Malware Targeting European Diplomats Through Wine-Tasting Lures](https://thehackernews.com/2025/04/apt29-deploys-grapeloader-malware.html)
 <!-- BLOG-POST-LIST:END -->
