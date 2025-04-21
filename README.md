@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SuperCard X Android Malware Enables Contactless ATM and PoS Fraud via NFC Relay Attacks](https://thehackernews.com/2025/04/supercard-x-android-malware-enables.html)
 - [5 Reasons Device Management Isn&#39;t Device Trust​](https://thehackernews.com/2025/04/5-reasons-device-management-isnt-device.html)
 - [⚡ THN Weekly Recap: iOS Zero-Days, 4Chan Breach, NTLM Exploits, WhatsApp Spyware &amp; More](https://thehackernews.com/2025/04/thn-weekly-recap-ios-zero-days-4chan.html)
 - [Hackers Abuse Russian Bulletproof Host Proton66 for Global Attacks and Malware Delivery](https://thehackernews.com/2025/04/hackers-abuse-russian-bulletproof-host.html)
 - [APT29 Deploys GRAPELOADER Malware Targeting European Diplomats Through Wine-Tasting Lures](https://thehackernews.com/2025/04/apt29-deploys-grapeloader-malware.html)
-- [Rogue npm Packages Mimic Telegram Bot API to Plant SSH Backdoors on Linux Systems](https://thehackernews.com/2025/04/rogue-npm-packages-mimic-telegram-bot.html)
 <!-- BLOG-POST-LIST:END -->
