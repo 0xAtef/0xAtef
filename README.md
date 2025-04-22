@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GCP Cloud Composer Bug Let Attackers Elevate Access via Malicious PyPI Packages](https://thehackernews.com/2025/04/gcp-cloud-composer-bug-let-attackers.html)
 - [5 Major Concerns With Employees Using The Browser](https://thehackernews.com/2025/04/5-major-concerns-with-employees-using.html)
 - [Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials](https://thehackernews.com/2025/04/phishers-exploit-google-sites-and-dkim.html)
 - [Microsoft Secures MSA Signing with Azure Confidential VMs Following Storm-0558 Breach](https://thehackernews.com/2025/04/microsoft-secures-msa-signing-with.html)
 - [Lotus Panda Hacks SE Asian Governments With Browser Stealers and Sideloaded Malware](https://thehackernews.com/2025/04/lotus-panda-hacks-se-asian-governments.html)
-- [Kimsuky Exploits BlueKeep RDP Vulnerability to Breach Systems in South Korea and Japan](https://thehackernews.com/2025/04/kimsuky-exploits-bluekeep-rdp.html)
 <!-- BLOG-POST-LIST:END -->
