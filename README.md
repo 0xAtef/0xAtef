@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Secures MSA Signing with Azure Confidential VMs Following Storm-0558 Breach](https://thehackernews.com/2025/04/microsoft-secures-msa-signing-with.html)
 - [Lotus Panda Hacks SE Asian Governments With Browser Stealers and Sideloaded Malware](https://thehackernews.com/2025/04/lotus-panda-hacks-se-asian-governments.html)
 - [Kimsuky Exploits BlueKeep RDP Vulnerability to Breach Systems in South Korea and Japan](https://thehackernews.com/2025/04/kimsuky-exploits-bluekeep-rdp.html)
 - [SuperCard X Android Malware Enables Contactless ATM and PoS Fraud via NFC Relay Attacks](https://thehackernews.com/2025/04/supercard-x-android-malware-enables.html)
 - [5 Reasons Device Management Isn&#39;t Device Trust​](https://thehackernews.com/2025/04/5-reasons-device-management-isnt-device.html)
-- [⚡ THN Weekly Recap: iOS Zero-Days, 4Chan Breach, NTLM Exploits, WhatsApp Spyware &amp; More](https://thehackernews.com/2025/04/thn-weekly-recap-ios-zero-days-4chan.html)
 <!-- BLOG-POST-LIST:END -->
