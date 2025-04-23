@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Drops Cookie Prompt in Chrome, Adds IP Protection to Incognito](https://thehackernews.com/2025/04/google-drops-cookie-prompt-in-chrome.html)
 - [Docker Malware Exploits Teneo Web3 Node to Earn Crypto via Fake Heartbeat Signals](https://thehackernews.com/2025/04/docker-malware-exploits-teneo-web3-node.html)
 - [GCP Cloud Composer Bug Let Attackers Elevate Access via Malicious PyPI Packages](https://thehackernews.com/2025/04/gcp-cloud-composer-bug-let-attackers.html)
 - [5 Major Concerns With Employees Using The Browser](https://thehackernews.com/2025/04/5-major-concerns-with-employees-using.html)
 - [Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials](https://thehackernews.com/2025/04/phishers-exploit-google-sites-and-dkim.html)
-- [Microsoft Secures MSA Signing with Azure Confidential VMs Following Storm-0558 Breach](https://thehackernews.com/2025/04/microsoft-secures-msa-signing-with.html)
 <!-- BLOG-POST-LIST:END -->
