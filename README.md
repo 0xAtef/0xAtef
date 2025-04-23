@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Three Reasons Why the Browser is Best for Stopping Phishing Attacks](https://thehackernews.com/2025/04/three-reasons-why-browser-is-best-for.html)
+- [Russian Hackers Exploit Microsoft OAuth to Target Ukraine Allies via Signal and WhatsApp](https://thehackernews.com/2025/04/russian-hackers-exploit-microsoft-oauth.html)
 - [Ripple&#39;s xrpl.js npm Package Backdoored to Steal Private Keys in Major Supply Chain Attack](https://thehackernews.com/2025/04/ripples-xrpljs-npm-package-backdoored.html)
 - [Google Drops Cookie Prompt in Chrome, Adds IP Protection to Incognito](https://thehackernews.com/2025/04/google-drops-cookie-prompt-in-chrome.html)
 - [Docker Malware Exploits Teneo Web3 Node to Earn Crypto via Fake Heartbeat Signals](https://thehackernews.com/2025/04/docker-malware-exploits-teneo-web3-node.html)
-- [GCP Cloud Composer Bug Let Attackers Elevate Access via Malicious PyPI Packages](https://thehackernews.com/2025/04/gcp-cloud-composer-bug-let-attackers.html)
-- [5 Major Concerns With Employees Using The Browser](https://thehackernews.com/2025/04/5-major-concerns-with-employees-using.html)
 <!-- BLOG-POST-LIST:END -->
