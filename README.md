@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools](https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html)
+- [159 CVEs Exploited in Q1 2025 — 28.3% Within 24 Hours of Disclosure](https://thehackernews.com/2025/04/159-cves-exploited-in-q1-2025-283.html)
 - [Darcula Adds GenAI to Phishing Toolkit, Lowering the Barrier for Cybercriminals](https://thehackernews.com/2025/04/darcula-adds-genai-to-phishing-toolkit.html)
 - [Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign](https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html)
 - [Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely](https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html)
-- [WhatsApp Adds Advanced Chat Privacy to Blocks Chat Exports and Auto-Downloads](https://thehackernews.com/2025/04/whatsapp-adds-advanced-chat-privacy-to.html)
-- [DPRK Hackers Steal $137M from TRON Users in Single-Day Phishing Attack](https://thehackernews.com/2025/04/dprk-hackers-steal-137m-from-tron-users.html)
 <!-- BLOG-POST-LIST:END -->
