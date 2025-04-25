@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers](https://thehackernews.com/2025/04/researchers-identify-rackstatic.html)
+- [DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks](https://thehackernews.com/2025/04/dslogdrat-malware-deployed-via-ivanti.html)
 - [Lazarus Hits 6 South Korean Firms via Cross EX, Innorix Flaws and ThreatNeedle Malware](https://thehackernews.com/2025/04/lazarus-hits-6-south-korean-firms-via.html)
 - [Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools](https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html)
 - [Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign](https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html)
-- [159 CVEs Exploited in Q1 2025 — 28.3% Within 24 Hours of Disclosure](https://thehackernews.com/2025/04/159-cves-exploited-in-q1-2025-283.html)
-- [Darcula Adds GenAI to Phishing Toolkit, Lowering the Barrier for Cybercriminals](https://thehackernews.com/2025/04/darcula-adds-genai-to-phishing-toolkit.html)
 <!-- BLOG-POST-LIST:END -->
