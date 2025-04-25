@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SAP Confirms Critical NetWeaver Flaw Amid Suspected Zero-Day Exploitation by Hackers](https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html)
+- [Why NHIs Are Security&#39;s Most Dangerous Blind Spot](https://thehackernews.com/2025/04/why-nhis-are-securitys-most-dangerous.html)
 - [Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers](https://thehackernews.com/2025/04/researchers-identify-rackstatic.html)
 - [DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks](https://thehackernews.com/2025/04/dslogdrat-malware-deployed-via-ivanti.html)
 - [Lazarus Hits 6 South Korean Firms via Cross EX, Innorix Flaws and ThreatNeedle Malware](https://thehackernews.com/2025/04/lazarus-hits-6-south-korean-firms-via.html)
-- [Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools](https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html)
-- [Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign](https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html)
 <!-- BLOG-POST-LIST:END -->
