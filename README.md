@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors](https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html)
 - [Hackers Exploit Critical Craft CMS Flaws; Hundreds of Servers Likely Compromised](https://thehackernews.com/2025/04/hackers-exploit-critical-craft-cms.html)
 - [Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers](https://thehackernews.com/2025/04/storm-1977-hits-education-clouds-with.html)
 - [ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion](https://thehackernews.com/2025/04/toymaker-uses-lagtoy-to-sell-access-to.html)
 - [North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures](https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html)
-- [New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework](https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html)
 <!-- BLOG-POST-LIST:END -->
