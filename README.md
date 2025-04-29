@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Adds Actively Exploited Broadcom and Commvault Flaws to KEV Database](https://thehackernews.com/2025/04/cisa-adds-actively-exploited-broadcom.html)
 - [⚡ Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs &amp; More](https://thehackernews.com/2025/04/weekly-recap-critical-sap-exploit-ai.html)
 - [How Breaches Start: Breaking Down 5 Real Vulns](https://thehackernews.com/2025/04/how-breaches-start-breaking-down-5-real.html)
 - [Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools](https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html)
 - [WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors](https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html)
-- [Hackers Exploit Critical Craft CMS Flaws; Hundreds of Servers Likely Compromised](https://thehackernews.com/2025/04/hackers-exploit-critical-craft-cms.html)
 <!-- BLOG-POST-LIST:END -->
