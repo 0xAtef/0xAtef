@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Research Reveals: 95% of AppSec Fixes Don’t Reduce Risk](https://thehackernews.com/2025/05/new-research-reveals-95-of-appsec-fixes.html)
+- [DarkWatchman, Sheriff Malware Hit Russia and Ukraine with Stealth and Nation-Grade Tactics](https://thehackernews.com/2025/05/darkwatchman-sheriff-malware-hit-russia.html)
 - [Commvault Confirms Hackers Exploited CVE-2025-3928 as Zero-Day in Azure Breach](https://thehackernews.com/2025/05/commvault-confirms-hackers-exploited.html)
 - [SonicWall Confirms Active Exploitation of Flaws Affecting Multiple Appliance Models](https://thehackernews.com/2025/05/sonicwall-confirms-active-exploitation.html)
 - [Researchers Demonstrate How MCP Prompt Injection Can Be Used for Both Attack and Defense](https://thehackernews.com/2025/04/experts-uncover-critical-mcp-and-a2a.html)
-- [[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats](https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html)
-- [Chinese Hackers Abuse IPv6 SLAAC for AitM Attacks via Spellbinder Lateral Movement Tool](https://thehackernews.com/2025/04/chinese-hackers-abuse-ipv6-slaac-for.html)
 <!-- BLOG-POST-LIST:END -->
