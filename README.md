@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SonicWall Confirms Active Exploitation of Flaws Affecting Multiple Appliance Models](https://thehackernews.com/2025/05/sonicwall-confirms-active-exploitation.html)
 - [Researchers Demonstrate How MCP Prompt Injection Can Be Used for Both Attack and Defense](https://thehackernews.com/2025/04/experts-uncover-critical-mcp-and-a2a.html)
 - [[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats](https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html)
 - [Chinese Hackers Abuse IPv6 SLAAC for AitM Attacks via Spellbinder Lateral Movement Tool](https://thehackernews.com/2025/04/chinese-hackers-abuse-ipv6-slaac-for.html)
 - [Customer Account Takeovers: The Multi-Billion Dollar Problem You Don’t Know About](https://thehackernews.com/2025/04/customer-account-takeovers-multi.html)
-- [Nebulous Mantis Targets NATO-Linked Entities with Multi-Stage Malware Attacks](https://thehackernews.com/2025/04/nebulous-mantis-targets-nato-linked.html)
 <!-- BLOG-POST-LIST:END -->
