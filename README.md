@@ -173,9 +173,9 @@ BIO
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MintsLoader Drops GhostWeaver via Phishing, ClickFix — Uses DGA, TLS for Stealth Attacks](https://thehackernews.com/2025/05/mintsloader-drops-ghostweaver-via.html)
 - [Microsoft Sets Passkeys Default for New Accounts; 15 Billion Users Gain Passwordless Support](https://thehackernews.com/2025/05/microsoft-sets-passkeys-default-for-new.html)
 - [Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers](https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html)
 - [Why top SOC teams are shifting to Network Detection and Response](https://thehackernews.com/2025/05/why-top-soc-teams-are-shifting-to.html)
 - [Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign](https://thehackernews.com/2025/05/claude-ai-exploited-to-operate-100-fake.html)
-- [New Research Reveals: 95% of AppSec Fixes Don’t Reduce Risk](https://thehackernews.com/2025/05/new-research-reveals-95-of-appsec-fixes.html)
 <!-- BLOG-POST-LIST:END -->
