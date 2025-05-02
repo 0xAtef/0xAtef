@@ -1,138 +1,145 @@
-
-<!--<div align="center">
-    <img src="https://camo.githubusercontent.com/c04834991bd724271632b1aa569fd5ae9564b2c12fdea274f8d577695c8f835d/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958" align="center" style="width: 100%" /> 
-</div>  -->
-<h1 align="center">I'm Mohamed Atef</h1>
-
-  <!---
-Sr. Security Analyst Specializing in ( Thread Detection | Threat Hunting | Incident Response | Automation | Administration )
-
-I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOCs, developing (Processes, use cases, playbooks, and automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting
-
-In the online realm, I am recognized as 0xAtef. My professional passion revolves around SOC, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, as well as SOC Automation, with a specific focus on Blue/Purple teaming
-
-I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity
-
-
-
-# Sr. Security Analyst Specializing in Threat Detection, Threat Hunting, Incident Response, and Automation
-
-I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in leading SOCs, developing processes, use cases, playbooks, and automation workflows, as well as designing Detection rules. My skills include SIEM administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.
-
-In the online realm, I am recognized as 0xAtef. My professional passion revolves around SOC operations, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, and SOC Automation, with a specific focus on Blue/Purple teaming. I am also skilled in EDR assessment and C2 framework usage.
-
-I am deeply enthusiastic about development and scripting, particularly in the realm of automation. My core belief is that to effectively protect, you need to understand what you are protecting. I am dedicated to staying well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
---->
-<!---<h1 align="center"> Senior Cyber Defense Engineer | Threat Detection Engineer </h1>--->
-<h1 align="center"> Cyber Defense Lead </h1>
-
-<!--
-With proven experience in leading Security Operations, Conducting Product assessments (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR), and developing SOC Processes, Use Cases, Playbooks, Detection Rules, and Automation Workflows.
-
-As a Cyber Defense Engineer, my professional passion encompasses whatever is related to blue team capabilities like threat detection, incident response, and threat hunting and my skills extend to SIEM Administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.
-
-I hold a professional certificate in Threat Hunting (ecthpv2) and am willing to solidify my practical capabilities with other blue/purple team certificates in the future. My core belief is that you can’t protect what you don’t understand, so I’m eager to stay well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.
--->
-
-
-I am a highly skilled and experienced Cyber Defense Engineer with a proven track record in leading Security Operations and conducting in-depth product assessments, including EDR, Mail Gateway, Threat Intelligence Platforms (TIP), Attack Surface Management (ASM), Dark Web Monitoring, Digital Risk Protection (DRP), and SOAR solutions.
-
-My expertise includes designing and optimizing SOC processes, developing robust use cases, creating comprehensive playbooks, and implementing advanced detection rules and automation workflows to enhance security operations. I excel in crafting middleware for custom solution integration and automation, as well as streamlining integration processes to ensure seamless functionality across diverse security environments.
-
-Passionate about blue team capabilities, I specialize in threat detection, digital forensics & incident response, and proactive threat hunting. My technical acumen extends to SIEM administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and leveraging proficient scripting skills to drive operational efficiency.
-
-I hold a professional certificate in Threat Hunting (eCTHPv2) and am committed to expanding my knowledge and practical expertise through additional certifications in blue and purple team disciplines. Guided by the principle, "You can’t protect what you don’t understand," I strive to stay informed of the latest trends, technologies, and adversary tactics in the ever-evolving field of cybersecurity.
-
-
-# Security Projects Overview
-
-
-- <a href="https://0xatef.github.io/Projects/#thehive-open-source-soar" target="_blank"> TheHive: Open Source SOAR </a>
-- <a href="https://0xatef.github.io/Projects/#misp-malware-information-sharing-platform" target="_blank"> MISP: Malware Information Sharing Platform </a>
-- <a href="https://0xatef.github.io/Projects/#bookstack-documentation-platform)" target="_blank"> BookStack: Documentation Platform </a>
-- <a href="https://0xatef.github.io/Projects/#edr-assessment" target="_blank"> EDR Assessment </a>
-- <a href="https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana" target="_blank"> ELK: Elasticsearch, Logstash, Kibana </a>
-- <a href="https://0xatef.github.io/Projects/#c2-frameworks" target="_blank"> C2 Frameworks </a>
-- <a href="https://0xatef.github.io/Projects/#attack-simulation" target="_blank"> Attack Simulation </a>
-- <a href="https://0xatef.github.io/Projects/#how-to-send-logs-from-an-api-to-qradar-siem-through-syslog-middleware" target="_blank"> How to Send Logs From an API to QRadar SIEM Through Syslog Middleware </a>
-
-
-
-<br>
-<br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0xAtef/count.svg?"  />
-</div>
-<!---
-```json
-{
-  "whoami": "Mohamed Atef",
-  "fav_anime_char": ["Killua Zoldyck","Itachi Uchiha"],
-  "job_title": "Cyber Security Engineer",
-  "position": "Sr.SOC Engineer",
-  "Certified": "Threat Hunting (eCTHPv2)",
-  "coding": "Python",
-  "Passion": ["Thread Detection","Threat Hunting","IR","Development","Automation","SOAR","SOC"],
-  "Tools": ["Qrader","Splunk","ELK","n8n"],
-  "quote": ["Never give up!", "You Need To Understand What You Protect"]
-}
-```
---->
-
-<!---
-BIO
-- 💻 I love writing code and learning anything about Python | Automation
-- 📚 I highly love SOC, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, as well as SOC Automation, with a specific focus on Blue/Purple teaming
-- ⚙️ I use daily: `.py`, `n8n`
-- 🌍 I'm mostly active within the **Threat Detection & Response | SOAR | Open Source**
-- 🌱 Learning all about **Thread Detection | Threat Hunting | Incident Response | Automation**
-- 📫 Reach me: [0xAtef](0xatef.github.io)
-- ⚡️ Fun fact: Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE
---->
-  
-<!---
-> My Fav Quote
->> 💬 **A Wise Man Said Once You Need To Understand What You Protect** 💬
->
->> 🏹 **Be Like A Bow & Arrow, The Stronger You Draw, The Stronger You Throw**
---->
-
-<br>
-<be>
-
-
-
-<div align="Center">
-
-<a href="https://github.com/0xAtef" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/0xAtef" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/0xAtef" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@0xAtef" target="_blank">
-    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
- <a href="https://0xatef.github.io/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/website?logo=Website&style=for-the-badge&up_color=white&up_message=0xAtef&url=https%3A%2F%2F0xatef.github.io%2F" style="margin-bottom: 5px;" />
-</a> 
-<a href="https://cyberdefenders.org/p/0xAtef" target="_blank">
-    <img alt="Website" src="https://img.shields.io/website?label=Cyber%20Defenders&style=for-the-badge&up_color=blue&up_message=0xAtef&url=https://cyberdefenders.org/p/0xAtef" style="margin-bottom: 5px;" />
-</a> 
-</div>  
+<h1 align="center">🚀 I’m Mohamed Atef</h1>
+<h3 align="center">Cyber Defense Lead</h3>
 
 ---
 
-<a href="https://tryhackme.com/p/0xAtef"  target="_blank">
-	<img src="https://tryhackme-badges.s3.amazonaws.com/0xAtef.png" alt="TryHackMe"> 
-</a>
+## 📖 About Me
+
+I am a highly skilled **Cyber Defense Engineer** with a proven track record in leading Security Operations and conducting in-depth assessments of **Endpoint Detection & Response (EDR)** and **Email Security Gateways**, **Threat Intelligence Platforms (TIP)**, **Attack Surface Management (ASM)**, **Dark Web Monitoring** and **Digital Risk Protection (DRP)**, as well as **Security Orchestration, Automation, and Response (SOAR)** solutions.
+
+My passion lies in designing and optimizing **SOC processes**, developing robust **use cases** and **incident response playbooks**, and implementing advanced **detection rules** and **automation workflows**. I also specialize in building **custom middleware integrations**, ensuring seamless and scalable security operations across diverse environments.
 
 
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/0xAtef.png" width="250" />
+> **Core Principle:**  
+> “You can’t protect what you don’t understand.”
+
+---
+
+## 🛡️ Expertise
+
+| Area                                          | Tools & Technologies                                      |
+|-----------------------------------------------|-----------------------------------------------------------|
+| Threat Detection & DFIR                       | SIEM, EDR/XDR, Forensic Toolkits (Velociraptor, KAPE)     |
+| SOC Operations & Monitoring                   | SOAR, SIEM, Endpoint Protection (EDR/AV), Azure Monitor Logs |
+| Cyber Threat Intelligence (CTI)               | MISP, Group-IB (GIB), CTM360                              |
+| Automation & Orchestration                    | Python, n8n, TheHive, IBM QRadar SOAR, GitHub Actions     |
+| Attack Simulation                             | Atomic Red Team, Metasploit Framework, CALDERA, MITRE ATT&CK |
+| Scripting, Integration & Middleware Development | Python, syslog, REST APIs, parsing & DSM building        |
+| Strategy & Process Design                     | SOC Playbooks, Incident Response Plans, CTI SOPs, SOC SOPs |
+| Attack Surface Management & Digital Risk      | ASM platforms, DRP services, Dark Web Monitoring tools    |
+
+---
+
+## 🧾 Certificates
+
+- **eCTHPv2** – Certified Threat Hunting Professional (EC-Council)
+- **Group-IB** – Threat Intelligence Analyst
+- **Belkasoft** – Windows Forensics Certification
+
+---
+
+## 🏆 Key Accomplishments
+
+- **MISP Galaxy “Ransomware Groups”**  
+  Designed and published a custom MISP Galaxy mapping ransomware actors to ATT&CK techniques and metadata.
+
+- **n8n Automation Workflows**  
+  Built end-to-end enrichment pipelines in n8n for MISP events (IoCs, TTPs, victim profiles).
+
+- **MISP Analytics Dashboard**  
+  Created interactive Jupyter Notebook dashboards visualizing events per day, threat categories, and APT actor profiles.
+
+- **Ransomware.live Integration**  
+  Integrated the ransomware.live API into n8n workflows for automated group data enrichment in MISP.
+
+- **MITRE ATT&CK Mapping Automation**  
+  Automated mapping of APT groups to MITRE ATT&CK Intrusion Sets using TAXII feeds and MISP galaxy tags.
+
+- **Security Community Contributions**  
+  Authored multiple blog posts and delivered presentations on MISP best practices and RSS feed integration.
+
+- **External Source Integrations**  
+  Integrated MISP with external intelligence sources: Group-IB (GIB), CTM360.
+
+- **TheHive SOAR Platform Development**  
+  Developed and maintained TheHive for incident response and threat handling; integrated with Cortex, MISP, QRadar, TIP, Digital Risk Protection, email, MS Teams, n8n, and Shuffle to streamline workflows.
+
+- **Security Product Assessments**  
+  Conducted comprehensive evaluations of EDR, Threat Intelligence Platforms, Dark Web Monitoring, Digital Risk Protection, and Attack Surface Management solutions for detection efficacy and integration.
+
+- **Attack Simulation Exercises**  
+  Utilized CALDERA for adversary emulation, running real-world attack scenarios to test and strengthen organizational defenses.
+
+- **Custom SIEM Middleware**  
+  Built middleware to ingest API log data into SIEM platforms, improving log centralization and analysis capabilities.
+
+- **Card Data Discovery Validator**  
+  Created a Python-based tool to validate and mask cardholder data following security compliance standards.
+
+
+## 🚀 Featured Projects
+
+- **[TheHive: Open Source SOAR](https://0xatef.github.io/Projects/#thehive-open-source-soar)**  
+- **[MISP: Malware Information Sharing Platform](https://0xatef.github.io/Projects/#misp-malware-information-sharing-platform)**  
+- **[BookStack: Documentation Platform](https://0xatef.github.io/Projects/#bookstack-documentation-platform)**  
+- **[EDR Assessment Guide](https://0xatef.github.io/Projects/#edr-assessment)**  
+- **[ELK Stack Deployment](https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana)**  
+- **[C2 Framework Integrations](https://0xatef.github.io/Projects/#c2-frameworks)**  
+- **[Attack Simulation Labs](https://0xatef.github.io/Projects/#attack-simulation)**  
+- **[API-to-QRadar Syslog Middleware](https://0xatef.github.io/Projects/#how-to-send-logs-from-an-api-to-qradar-siem-through-syslog-middleware)**  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/0xAtef/count.svg" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=0xAtef&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="0xAtef's GitHub Stats" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAtef&theme=dark&hide_border=true" alt="0xAtef's GitHub Streak" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAtef&layout=compact&theme=dark&hide_border=true" alt="0xAtef's Top Languages" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/0xAtef" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/0xAtef" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/0xAtef" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@0xAtef" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://0xAtef.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black" alt="Website" />
+  </a>
+  <a href="https://cyberdefenders.org/p/0xAtef" target="_blank">
+    <img src="https://img.shields.io/badge/Cyber%20Defenders-0057B8?style=for-the-badge" alt="Cyber Defenders" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://tryhackme.com/p/0xAtef" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xAtef.png" alt="TryHackMe" />
+  </a>
+  <a href="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/0xAtef.png" target="_blank">
+    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/0xAtef.png" alt="Cyber Defenders Badge" width="200" />
+  </a>
+</div>
+
 
 ---
 
