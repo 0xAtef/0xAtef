@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Charges Yemeni Hacker Behind Black Kingdom Ransomware Targeting 1,500 Systems](https://thehackernews.com/2025/05/us-charges-yemeni-hacker-behind-black.html)
 - [TikTok Slammed With €530 Million GDPR Fine for Sending E.U. Data to China](https://thehackernews.com/2025/05/tiktok-slammed-with-530-million-gdpr.html)
 - [How to Automate CVE and Vulnerability Advisory Response with Tines](https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html)
 - [MintsLoader Drops GhostWeaver via Phishing, ClickFix — Uses DGA, TLS for Stealth Attacks](https://thehackernews.com/2025/05/mintsloader-drops-ghostweaver-via.html)
 - [Microsoft Sets Passkeys Default for New Accounts; 15 Billion Users Gain Passwordless Support](https://thehackernews.com/2025/05/microsoft-sets-passkeys-default-for-new.html)
-- [Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers](https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html)
 <!-- BLOG-POST-LIST:END -->
