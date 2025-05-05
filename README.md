@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html)
+- [Perfection is a Myth. Leverage Isn&#39;t: How Small Teams Can Secure Their Google Workspace](https://thehackernews.com/2025/05/perfection-is-myth-leverage-isnt-how.html)
 - [Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data](https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html)
 - [Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack](https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html)
 - [Iranian Hackers Maintain 2-Year Access to Middle East CNI via VPN Flaws and Malware](https://thehackernews.com/2025/05/iranian-hackers-maintain-2-year-access.html)
-- [U.S. Charges Yemeni Hacker Behind Black Kingdom Ransomware Targeting 1,500 Systems](https://thehackernews.com/2025/05/us-charges-yemeni-hacker-behind-black.html)
-- [TikTok Slammed With €530 Million GDPR Fine for Sending E.U. Data to China](https://thehackernews.com/2025/05/tiktok-slammed-with-530-million-gdpr.html)
 <!-- BLOG-POST-LIST:END -->
