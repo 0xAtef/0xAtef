@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Entra ID Data Protection: Essential or Overkill?](https://thehackernews.com/2025/05/entra-id-data-protectionessential-or.html)
 - [Update ASAP: Google Fixes Android Flaw &lpar;CVE-2025-27363&rpar; Exploited by Attackers](https://thehackernews.com/2025/05/google-fixes-actively-exploited-android.html)
 - [Critical Langflow Flaw Added to CISA KEV List Amid Ongoing Exploitation Evidence](https://thehackernews.com/2025/05/critical-langflow-flaw-added-to-cisa.html)
 - [Wormable AirPlay Flaws Enable Zero-Click RCE on Apple Devices via Public Wi-Fi](https://thehackernews.com/2025/05/wormable-airplay-flaws-enable-zero.html)
 - [Commvault CVE-2025-34028 Added to CISA KEV After Active Exploitation Confirmed](https://thehackernews.com/2025/05/commvault-cve-2025-34028-added-to-cisa.html)
-- [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html)
 <!-- BLOG-POST-LIST:END -->
