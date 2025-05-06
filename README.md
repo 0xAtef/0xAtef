@@ -180,7 +180,7 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Fixes Actively Exploited Android System Flaw in May 2025 Security Update](https://thehackernews.com/2025/05/google-fixes-actively-exploited-android.html)
+- [Update ASAP: Google Fixes Android Flaw &lpar;CVE-2025-27363&rpar; Exploited by Attackers](https://thehackernews.com/2025/05/google-fixes-actively-exploited-android.html)
 - [Critical Langflow Flaw Added to CISA KEV List Amid Ongoing Exploitation Evidence](https://thehackernews.com/2025/05/critical-langflow-flaw-added-to-cisa.html)
 - [Wormable AirPlay Flaws Enable Zero-Click RCE on Apple Devices via Public Wi-Fi](https://thehackernews.com/2025/05/wormable-airplay-flaws-enable-zero.html)
 - [Commvault CVE-2025-34028 Added to CISA KEV After Active Exploitation Confirmed](https://thehackernews.com/2025/05/commvault-cve-2025-34028-added-to-cisa.html)
