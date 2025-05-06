@@ -184,5 +184,5 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 - [New Investment Scams Use Facebook Ads, RDGA Domains, and IP Checks to Filter Victims](https://thehackernews.com/2025/05/new-investment-scams-use-facebook-ads.html)
 - [Third Parties and Machine Credentials: The Silent Drivers Behind 2025&#39;s Worst Breaches](https://thehackernews.com/2025/05/third-parties-and-machine-credentials.html)
 - [Microsoft Warns Default Helm Charts Could Leave Kubernetes Apps Exposed to Data Leaks](https://thehackernews.com/2025/05/microsoft-warns-default-helm-charts-for.html)
-- [Entra ID Data Protection: Essential or Overkill?](https://thehackernews.com/2025/05/entra-id-data-protectionessential-or.html)
+- [Entra ID Data Protection: Essential or Overkill?](https://thehackernews.com/2025/05/entra-id-data-protectionessential-or.html)
 <!-- BLOG-POST-LIST:END -->
