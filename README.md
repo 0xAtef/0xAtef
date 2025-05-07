@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version](https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html)
+- [Reevaluating SSEs: A Technical Gap Analysis of Last-Mile Protection](https://thehackernews.com/2025/05/reevaluating-sses-technical-gap.html)
 - [Play Ransomware Exploited Windows CVE-2025-29824 as Zero-Day to Breach U.S. Organization](https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html)
 - [Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times](https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html)
 - [NSO Group Fined $168M for Targeting 1,400 WhatsApp Users With Pegasus Spyware](https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html)
-- [Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet](https://thehackernews.com/2025/05/hackers-exploit-samsung-magicinfo.html)
-- [New Investment Scams Use Facebook Ads, RDGA Domains, and IP Checks to Filter Victims](https://thehackernews.com/2025/05/new-investment-scams-use-facebook-ads.html)
 <!-- BLOG-POST-LIST:END -->
