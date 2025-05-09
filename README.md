@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Vulnerability Management – Can You CVE What I CVE?](https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html)
 - [Google Rolls Out On-Device AI Protections to Detect Scams in Chrome and Android](https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html)
 - [Chinese Hackers Exploit SAP RCE Flaw CVE-2025-31324, Deploy Golang-Based SuperShell](https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html)
 - [38,000+ FreeDrain Subdomains Found Exploiting SEO to Steal Crypto Wallet Seed Phrases](https://thehackernews.com/2025/05/38000-freedrain-subdomains-found.html)
 - [Security Tools Alone Don&#39;t Protect You — Control Effectiveness Does](https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html)
-- [SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root](https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html)
 <!-- BLOG-POST-LIST:END -->
