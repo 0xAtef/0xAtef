@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation](https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html)
+- [OtterCookie v4 Adds VM Detection and Chrome, MetaMask Credential Theft Capabilities](https://thehackernews.com/2025/05/ottercookie-v4-adds-vm-detection-and.html)
 - [Initial Access Brokers Target Brazil Execs via NF-e Spam and Legit RMM Trials](https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html)
 - [Deploying AI Agents? Learn to Secure Them Before Hackers Strike Your Business](https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html)
 - [Beyond Vulnerability Management – Can You CVE What I CVE?](https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html)
-- [Malicious npm Packages Infect 3,200+ Cursor Users With Backdoor, Steal Credentials](https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html)
-- [Google Rolls Out On-Device AI Protections to Detect Scams in Chrome and Android](https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html)
 <!-- BLOG-POST-LIST:END -->
