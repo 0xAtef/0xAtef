@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users](https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html)
 - [Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns](https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html)
 - [Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team](https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html)
 - [Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails](https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html)
 - [Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server](https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html)
-- [Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems](https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html)
 <!-- BLOG-POST-LIST:END -->
