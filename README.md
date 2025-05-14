@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit](https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html)
+- [BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan](https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html)
 - [Xinbi Telegram Market Tied to $8.4B in Crypto Crime, Romance Scams, North Korea Laundering](https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html)
 - [CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users](https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html)
 - [Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns](https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html)
-- [Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team](https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html)
-- [Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails](https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html)
 <!-- BLOG-POST-LIST:END -->
