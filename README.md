@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html)
 - [New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors](https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html)
 - [Top 10 Best Practices for Effective Data Protection](https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html)
 - [Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks](https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html)
 - [Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks](https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html)
-- [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html)
 <!-- BLOG-POST-LIST:END -->
