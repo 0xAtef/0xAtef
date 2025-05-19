@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access](https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html)
 - [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html)
 - [Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards](https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html)
 - [⚡ Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html)
 - [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html)
-- [New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors](https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html)
 <!-- BLOG-POST-LIST:END -->
