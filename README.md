@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html)
+- [Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards](https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html)
+- [⚡ Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html)
 - [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html)
 - [New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors](https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html)
-- [Top 10 Best Practices for Effective Data Protection](https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html)
-- [Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks](https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html)
-- [Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks](https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html)
 <!-- BLOG-POST-LIST:END -->
