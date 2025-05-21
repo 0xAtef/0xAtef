@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager](https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html)
 - [Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery](https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html)
 - [100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads](https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html)
 - [AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation](https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html)
 - [The Crowded Battle: Key Insights from the 2025 State of Pentesting Report](https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html)
-- [South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware](https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html)
 <!-- BLOG-POST-LIST:END -->
