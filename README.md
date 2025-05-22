@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hackers Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks](https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html)
+- [Webinar: Learn How to Build a Reasonable and Legally Defensible Cybersecurity Program](https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html)
 - [Identity Security Has an Automation Problem—And It&#39;s Bigger Than You Think](https://thehackernews.com/2025/05/identity-security-has-automation.html)
+- [Unpatched Versa Concerto Flaws Let Attackers Escape Docker and Compromise Host](https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html)
 - [FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections](https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html)
-- [Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics](https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html)
-- [PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms](https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html)
-- [Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims](https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html)
 <!-- BLOG-POST-LIST:END -->
