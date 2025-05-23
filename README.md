@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SafeLine WAF: Open Source Web Application Firewall with Zero-Day Detection and Bot Protection](https://thehackernews.com/2025/05/safeline-waf-open-source-web.html)
 - [U.S. Dismantles DanaBot Malware Network, Charges 16 in $50M Global Cybercrime Operation](https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html)
 - [CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs](https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html)
 - [GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts](https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html)
 - [Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks](https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html)
-- [Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise](https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html)
 <!-- BLOG-POST-LIST:END -->
