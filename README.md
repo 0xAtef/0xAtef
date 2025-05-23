@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs](https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html)
+- [GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts](https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html)
 - [Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks](https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html)
 - [Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise](https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html)
 - [Chinese Hackers Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks](https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html)
-- [Webinar: Learn How to Build a Reasonable and Legally Defensible Cybersecurity Program](https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html)
-- [Identity Security Has an Automation Problem—And It&#39;s Bigger Than You Think](https://thehackernews.com/2025/05/identity-security-has-automation.html)
 <!-- BLOG-POST-LIST:END -->
