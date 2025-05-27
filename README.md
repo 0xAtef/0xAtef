@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages](https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html)
+- [AI Agents and the Non‑Human Identity Crisis: How to Deploy AI More Securely at Scale](https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html)
 - [Employees Searching Payroll Portals on Google Tricked Into Sending Paychecks to Hackers](https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html)
 - [Hackers Are Calling Your Office: FBI Alerts Law Firms to Luna Moth’s Stealth Phishing Campaign](https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html)
 - [Russia-Linked Hackers Target Tajikistan Government with Weaponized Word Documents](https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html)
-- [Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto](https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html)
-- [CISO&#39;s Guide To Web Privacy Validation And Why It&#39;s Important](https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html)
 <!-- BLOG-POST-LIST:END -->
