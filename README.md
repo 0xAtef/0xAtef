@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats](https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html)
 - [New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency](https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html)
 - [Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets](https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html)
 - [Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages](https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html)
 - [AI Agents and the Non‑Human Identity Crisis: How to Deploy AI More Securely at Scale](https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html)
-- [Employees Searching Payroll Portals on Google Tricked Into Sending Paychecks to Hackers](https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html)
 <!-- BLOG-POST-LIST:END -->
