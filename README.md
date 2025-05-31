@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation](https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html)
 - [New EDDIESTEALER Malware Bypasses Chrome&#39;s App-Bound Encryption to Steal Browser Data](https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html)
 - [China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia and Brazil](https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html)
 - [From the &quot;Department of No&quot; to a &quot;Culture of Yes&quot;: A Healthcare CISO&#39;s Journey to Enabling Modern Care](https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html)
 - [U.S. Sanctions Funnull for $200M Romance Baiting Scams Tied to Crypto Fraud](https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html)
-- [ConnectWise Hit by Cyberattack; Nation-State Actor Suspected in Targeted Breach](https://thehackernews.com/2025/05/connectwise-hit-by-cyberattack-nation.html)
 <!-- BLOG-POST-LIST:END -->
