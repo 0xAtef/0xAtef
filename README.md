@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptojacking Campaign Exploits DevOps APIs Using Off-the-Shelf Tools from GitHub](https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html)
+- [Preinstalled Apps on Ulefone, Krüger&amp;Matz Phones Let Any App Reset Device, Steal PIN](https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html)
 - [Qualcomm Fixes 3 Zero-Days Used in Targeted Android Attacks via Adreno GPU](https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html)
 - [⚡ Weekly Recap: APT Intrusions, AI Malware, Zero-Click Exploits, Browser Hijacks and More](https://thehackernews.com/2025/06/weekly-recap-apt-intrusions-ai-malware.html)
 - [The Secret Defense Strategy of Four Critical Industries Combating Advanced Cyber Threats](https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html)
-- [Fake Recruiter Emails Target CFOs Using Legit NetBird Tool Across 6 Global Regions](https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html)
-- [New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora](https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html)
 <!-- BLOG-POST-LIST:END -->
