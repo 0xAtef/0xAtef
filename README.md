@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code](https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html)
 - [Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization](https://thehackernews.com/2025/06/scattered-spider-understanding-help.html)
 - [Android Trojan Crocodilus Now Active in 8 Countries, Targeting Banks and Crypto Wallets](https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html)
 - [Google Chrome to Distrust Two Certificate Authorities Over Compliance and Conduct Issues](https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html)
 - [Microsoft and CrowdStrike Launch Shared Threat Actor Glossary to Cut Attribution Confusion](https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html)
-- [New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch](https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html)
 <!-- BLOG-POST-LIST:END -->
