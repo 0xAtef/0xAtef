@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome to Distrust Two Certificate Authorities Over Compliance and Conduct Issues](https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html)
+- [Microsoft and CrowdStrike Launch Shared Threat Actor Glossary to Cut Attribution Confusion](https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html)
 - [New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch](https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html)
 - [Cryptojacking Campaign Exploits DevOps APIs Using Off-the-Shelf Tools from GitHub](https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html)
 - [Preinstalled Apps on Ulefone, Krüger&amp;Matz Phones Let Any App Reset Device, Steal PIN](https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html)
-- [Qualcomm Fixes 3 Zero-Days Used in Targeted Android Attacks via Adreno GPU](https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html)
-- [⚡ Weekly Recap: APT Intrusions, AI Malware, Zero-Click Exploits, Browser Hijacks and More](https://thehackernews.com/2025/06/weekly-recap-apt-intrusions-ai-malware.html)
 <!-- BLOG-POST-LIST:END -->
