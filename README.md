@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads](https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html)
 - [Your SaaS Data Isn&#39;t Safe: Why Traditional DLP Solutions Fail in the Browser Era](https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html)
 - [Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks](https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html)
 - [HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass](https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html)
 - [Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack](https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html)
-- [Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code](https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html)
 <!-- BLOG-POST-LIST:END -->
