@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html)
 - [Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands](https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html)
 - [Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html)
 - [Iran-Linked BladedFeline Hits Iraqi and Kurdish Targets with Whisper and Spearal Malware](https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html)
 - [DoJ Seizes 145 Domains Tied to BidenCash Carding Marketplace in Global Takedown](https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html)
-- [Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI](https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html)
 <!-- BLOG-POST-LIST:END -->
