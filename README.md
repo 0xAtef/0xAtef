@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New PathWiper Data Wiper Malware Disrupts Ukrainian Critical Infrastructure in 2025 Attack](https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html)
 - [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hard-Coded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html)
 - [Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands](https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html)
 - [Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html)
 - [Iran-Linked BladedFeline Hits Iraqi and Kurdish Targets with Whisper and Spearal Malware](https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html)
-- [DoJ Seizes 145 Domains Tied to BidenCash Carding Marketplace in Global Takedown](https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html)
 <!-- BLOG-POST-LIST:END -->
