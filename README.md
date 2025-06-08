@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Malicious Browser Extensions Infect 722 Users Across Latin America Since Early 2025](https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html)
+- [New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally](https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html)
+- [Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025](https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html)
 - [New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users](https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html)
 - [Empower Users and Protect Against GenAI Data Loss](https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html)
 - [Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam](https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html)
-- [Inside the Mind of the Adversary: Why More Security Leaders Are Selecting AEV](https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html)
 <!-- BLOG-POST-LIST:END -->
