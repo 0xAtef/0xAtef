@@ -182,7 +182,7 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 <!-- BLOG-POST-LIST:START -->
 - [⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html)
 - [Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise](https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html)
-- [OpenAI Bans ChatGPT Accounts Used by Russian, Iranian and Chinese Hacker Groups](https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html)
+- [OpenAI Bans ChatGPT Accounts Used by Russian, Iranian, and Chinese Hacker Groups](https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html)
 - [New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally](https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html)
 - [Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025](https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html)
 <!-- BLOG-POST-LIST:END -->
