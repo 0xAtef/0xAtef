@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises](https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html)
 - [CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog](https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html)
 - [Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group](https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html)
 - [Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks](https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html)
 - [⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html)
-- [Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise](https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html)
 <!-- BLOG-POST-LIST:END -->
