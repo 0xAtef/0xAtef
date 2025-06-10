@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users](https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html)
 - [The Hidden Threat in Your Stack: Why Non-Human Identity Management is the Next Cybersecurity Frontier](https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html)
 - [Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account](https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html)
 - [Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises](https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html)
 - [CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog](https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html)
-- [Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group](https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html)
 <!-- BLOG-POST-LIST:END -->
