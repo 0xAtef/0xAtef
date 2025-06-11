@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SinoTrack GPS Devices Vulnerable to Remote Vehicle Control via Default Passwords](https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html)
+- [How to Build a Lean Security Model: 5 Lessons from River Island](https://thehackernews.com/2025/06/how-to-build-lean-security-model-5.html)
 - [Microsoft Patches 67 Vulnerabilities Including WEBDAV Zero-Day Exploited in the Wild](https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html)
 - [Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps](https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html)
 - [Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud](https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html)
-- [FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware](https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html)
-- [Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users](https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html)
 <!-- BLOG-POST-LIST:END -->
