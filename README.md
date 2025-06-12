@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks](https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html)
 - [Over 80,000 Microsoft Entra ID Accounts Targeted Using Open-Source TeamFiltration Tool](https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html)
 - [Former Black Basta Members Use Microsoft Teams and Python Scripts in 2025 Attacks](https://thehackernews.com/2025/06/former-black-basta-members-use.html)
 - [295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager](https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html)
 - [INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure](https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html)
-- [Why DNS Security Is Your First Defense Against Cyber Attacks?](https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html)
 <!-- BLOG-POST-LIST:END -->
