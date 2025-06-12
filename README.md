@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar](https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html)
 - [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html)
 - [Non-Human Identities: How to Address the Expanding Security Risk](https://thehackernews.com/2025/06/non-human-identities-how-to-address.html)
 - [ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks](https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html)
 - [Over 80,000 Microsoft Entra ID Accounts Targeted Using Open-Source TeamFiltration Tool](https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html)
-- [Former Black Basta Members Use Microsoft Teams and Python Scripts in 2025 Attacks](https://thehackernews.com/2025/06/former-black-basta-members-use.html)
 <!-- BLOG-POST-LIST:END -->
