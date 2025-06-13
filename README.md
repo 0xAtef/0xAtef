@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion](https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html)
+- [CTEM is the New SOC: Shifting from Monitoring Alerts to Measuring Risk](https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html)
 - [Apple Zero-Click Flaw in Messages Exploited to Spy on Journalists Using Paragon Spyware](https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html)
 - [WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network](https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html)
 - [New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes](https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html)
-- [AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar](https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html)
-- [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html)
 <!-- BLOG-POST-LIST:END -->
