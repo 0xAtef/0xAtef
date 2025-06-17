@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Are Forgotten AD Service Accounts Leaving You at Risk?](https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html)
+- [Hard-Coded &#39;b&#39; Password in Sitecore XP Sparks Major RCE Risk in Enterprise Deployments](https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html)
+- [Backups Are Under Attack: How to Protect Your Backups](https://thehackernews.com/2025/06/how-to-protect-your-backups-from-ransomware-attacks.html)
 - [New Flodrix Botnet Variant Exploits Langflow AI Server RCE Bug to Launch DDoS Attacks](https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html)
 - [TP-Link Router Flaw CVE-2023-33538 Under Active Exploit, CISA Issues Immediate Alert](https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html)
-- [Meta Starts Showing Ads on WhatsApp After 6-Year Delay From 2018 Announcement](https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html)
-- [U.S. Seizes $7.74M in Crypto Tied to North Korea’s Global Fake IT Worker Network](https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html)
-- [Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment](https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html)
 <!-- BLOG-POST-LIST:END -->
