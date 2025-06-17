@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Flodrix Botnet Variant Exploits Langflow AI Server RCE Bug to Launch DDoS Attacks](https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html)
 - [TP-Link Router Flaw CVE-2023-33538 Under Active Exploit, CISA Issues Immediate Alert](https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html)
 - [Meta Starts Showing Ads on WhatsApp After 6-Year Delay From 2018 Announcement](https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html)
 - [U.S. Seizes $7.74M in Crypto Tied to North Korea’s Global Fake IT Worker Network](https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html)
 - [Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment](https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html)
-- [⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More](https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html)
 <!-- BLOG-POST-LIST:END -->
