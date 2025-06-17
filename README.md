@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html)
 - [LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents](https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html)
 - [Silver Fox APT Targets Taiwan with Complex Gh0stCringe and HoldingHands RAT Malware](https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html)
 - [Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms](https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html)
 - [Are Forgotten AD Service Accounts Leaving You at Risk?](https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html)
-- [Hard-Coded &#39;b&#39; Password in Sitecore XP Sparks Major RCE Risk in Enterprise Deployments](https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html)
 <!-- BLOG-POST-LIST:END -->
