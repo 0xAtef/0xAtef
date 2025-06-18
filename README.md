@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability](https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html)
+- [Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents](https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html)
 - [Veeam Patches CVE-2025-23121: Critical RCE Bug Rated 9.9 CVSS in Backup &amp; Replication](https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html)
 - [Iran Slows Internet to Prevent Cyber Attacks Amid Escalating Regional Conflict](https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html)
 - [Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html)
-- [LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents](https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html)
-- [Silver Fox APT Targets Taiwan with Complex Gh0stCringe and HoldingHands RAT Malware](https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html)
 <!-- BLOG-POST-LIST:END -->
