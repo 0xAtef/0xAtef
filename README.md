@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Adds Passkey Login Support to Facebook for Android and iOS Users](https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html)
 - [New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html)
 - [New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains](https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html)
 - [1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub](https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html)
 - [FedRAMP at Startup Speed: Lessons Learned](https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html)
-- [Water Curse Employs 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign](https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html)
 <!-- BLOG-POST-LIST:END -->
