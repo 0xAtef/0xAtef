@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [67 Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers](https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html)
 - [New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud and NFC Theft](https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html)
 - [BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with macOS Backdoor Malware](https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html)
 - [Secure Vibe Coding: The Complete New Guide](https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html)
 - [Uncover LOTS Attacks Hiding in Trusted Tools — Learn How in This Free Expert Session](https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html)
-- [Russian APT29 Exploits Gmail App Passwords to Bypass 2FA in Targeted Phishing Campaign](https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html)
 <!-- BLOG-POST-LIST:END -->
