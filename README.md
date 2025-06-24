@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploit Misconfigured Docker APIs to Mine Cryptocurrency via Tor Network](https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html)
 - [U.S. House Bans WhatsApp on Official Devices Over Security and Data Protection Issues](https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html)
 - [APT28 Uses Signal Chat to Deploy BEARDSHELL Malware and COVENANT in Ukraine](https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html)
 - [China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom](https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html)
 - [Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content](https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html)
-- [DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes](https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html)
 <!-- BLOG-POST-LIST:END -->
