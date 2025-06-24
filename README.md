@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom](https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html)
 - [Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content](https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html)
 - [DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes](https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html)
 - [XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks](https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html)
 - [How AI-Enabled Workflow Automation Can Help SOCs Reduce Burnout](https://thehackernews.com/2025/06/how-ai-enabled-workflow-automation-can.html)
-- [Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks](https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html)
 <!-- BLOG-POST-LIST:END -->
