@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pro-Iranian Hacktivist Group Leaks Personal Records from the 2024 Saudi Games](https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html)
+- [Beware the Hidden Risk in Your Entra Environment](https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html)
 - [SonicWall NetExtender Trojan and ConnectWise Exploits Used in Remote Access Attacks](https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html)
 - [North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages](https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html)
 - [Microsoft Extends Windows 10 Security Updates for One Year with New Enrollment Options](https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html)
-- [New U.S. Visa Rule Requires Applicants to Set Social Media Account Privacy to Public](https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html)
-- [Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue](https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html)
 <!-- BLOG-POST-LIST:END -->
