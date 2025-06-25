@@ -180,9 +180,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC](https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html)
 - [Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure](https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html)
 - [Pro-Iranian Hacktivist Group Leaks Personal Records from the 2024 Saudi Games](https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html)
 - [Beware the Hidden Risk in Your Entra Environment](https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html)
 - [SonicWall NetExtender Trojan and ConnectWise Exploits Used in Remote Access Attacks](https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html)
-- [North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages](https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html)
 <!-- BLOG-POST-LIST:END -->
