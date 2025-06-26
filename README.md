@@ -1,7 +1,4 @@
-<h1 align="center">🚀 I’m Mohamed Atef</h1>
-<h3 align="center">Cyber Defense Lead</h3>
-
----
+<h1 align="center">🚀 I’m Mohamed Atef - Cyber Defender </h1>
 
 ## 📖 About Me
 
