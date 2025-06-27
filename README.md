@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Business Case for Agentic AI SOC Analysts](https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html)
+- [Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit](https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html)
 - [MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted](https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html)
 - [OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors](https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html)
 - [Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks](https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html)
-- [Critical RCE Flaws in Cisco ISE and ISE-PIC Allow Unauthenticated Attackers to Gain Root Access](https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html)
-- [New FileFix Method Emerges as a Threat Following 517% Rise in ClickFix Attacks](https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html)
 <!-- BLOG-POST-LIST:END -->
