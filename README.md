@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks](https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html)
 - [Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories](https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html)
 - [⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more](https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html)
 - [FBI Warns of Scattered Spider&#39;s Expanding Attacks on Airlines Using Social Engineering](https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html)
 - [GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool](https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html)
-- [Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns](https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html)
 <!-- BLOG-POST-LIST:END -->
