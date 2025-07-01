@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Vulnerability in Anthropic&#39;s MCP Exposes Developer Machines to Remote Exploits](https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html)
 - [TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns](https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html)
 - [New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html)
 - [A New Maturity Model for Browser Security: Closing the Last-Mile Risk](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html)
 - [Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html)
-- [U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms](https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html)
 <!-- BLOG-POST-LIST:END -->
