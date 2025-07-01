@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Patches Critical Zero-Day Flaw in Chrome’s V8 Engine After Active Exploitation](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html)
+- [A New Maturity Model for Browser Security: Closing the Last-Mile Risk](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html)
+- [Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html)
 - [U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms](https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html)
 - [Microsoft Removes Password Management from Authenticator App Starting August 2025](https://thehackernews.com/2025/07/microsoft-removes-password-management.html)
 - [U.S. Agencies Warn of Rising Iranian Cyberattacks on Defense, OT Networks, and Critical Infrastructure](https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html)
-- [Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects](https://thehackernews.com/2025/06/europol-dismantles-540-million.html)
 <!-- BLOG-POST-LIST:END -->
