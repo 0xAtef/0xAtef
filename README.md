@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html)
+- [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html)
 - [U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html)
 - [Vercel&#39;s v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html)
 - [Critical Vulnerability in Anthropic&#39;s MCP Exposes Developer Machines to Remote Exploits](https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html)
-- [TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns](https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html)
-- [New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html)
 <!-- BLOG-POST-LIST:END -->
