@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign](https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html)
 - [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html)
 - [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html)
 - [U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html)
 - [Vercel&#39;s v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html)
-- [Critical Vulnerability in Anthropic&#39;s MCP Exposes Developer Machines to Remote Exploits](https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html)
 <!-- BLOG-POST-LIST:END -->
