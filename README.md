@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Ordered to Pay $314M for Misusing Android Users&#39; Cellular Data Without Permission](https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html)
 - [Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams](https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html)
 - [Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets](https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html)
 - [The Hidden Weaknesses in AI SOC Tools that No One Talks About](https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html)
 - [Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms](https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html)
-- [Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials](https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html)
 <!-- BLOG-POST-LIST:END -->
