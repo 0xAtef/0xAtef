@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NightEagle APT Exploits Microsoft Exchange Flaw to Target China&#39;s Military and Tech Sectors](https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html)
 - [Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It](https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html)
 - [Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros](https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html)
 - [Google Ordered to Pay $314M for Misusing Android Users&#39; Cellular Data Without Permission](https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html)
 - [Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams](https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html)
-- [Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets](https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html)
 <!-- BLOG-POST-LIST:END -->
