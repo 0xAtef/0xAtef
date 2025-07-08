@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways Identity-based Attacks Are Breaching Retail](https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html)
+- [RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks](https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html)
+- [BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally](https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html)
 - [Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms](https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html)
 - [CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation](https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html)
-- [SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools](https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html)
-- [⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More](https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html)
-- [Manufacturing Security: Why Default Passwords Must Go](https://thehackernews.com/2025/07/manufacturing-security-why-default.html)
 <!-- BLOG-POST-LIST:END -->
