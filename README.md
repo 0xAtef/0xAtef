@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension](https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html)
 - [5 Ways Identity-based Attacks Are Breaching Retail](https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html)
 - [RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks](https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html)
 - [BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally](https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html)
 - [Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms](https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html)
-- [CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation](https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html)
 <!-- BLOG-POST-LIST:END -->
