@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware](https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html)
 - [U.S. Sanctions North Korean Andariel Hacker Behind Fraudulent IT Worker Scheme](https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html)
 - [How To Automate Ticket Creation, Device Identification and Threat Triage With Tines](https://thehackernews.com/2025/07/how-to-automate-ticket-creation-device.html)
 - [Chinese Hacker Xu Zewei Arrested for Ties to Silk Typhoon Group and U.S. Cyber Attacks](https://thehackernews.com/2025/07/chinese-hacker-xu-zewei-arrested-for.html)
 - [Microsoft Patches 130 Vulnerabilities, Including Critical Flaws in SPNEGO and SQL Server](https://thehackernews.com/2025/07/microsoft-patches-130-vulnerabilities.html)
-- [Hackers Use Leaked Shellter Tool License to Spread Lumma Stealer and SectopRAT Malware](https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html)
 <!-- BLOG-POST-LIST:END -->
