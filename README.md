@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods](https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html)
+- [What Security Leaders Need to Know About AI Governance for SaaS](https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html)
+- [New ZuRu Malware Variant Targeting Developers via Trojanized Termius macOS App](https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html)
+- [AMD Warns of New Transient Scheduler Attacks Impacting a Wide Range of CPUs](https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html)
 - [ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs](https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html)
-- [Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets](https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html)
-- [DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware](https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html)
-- [U.S. Sanctions North Korean Andariel Hacker Behind Fraudulent IT Worker Scheme](https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html)
-- [How To Automate Ticket Creation, Device Identification and Threat Triage With Tines](https://thehackernews.com/2025/07/how-to-automate-ticket-creation-device.html)
 <!-- BLOG-POST-LIST:END -->
