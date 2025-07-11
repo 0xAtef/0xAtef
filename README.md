@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html)
 - [Securing Data in the AI Era](https://thehackernews.com/2025/07/securing-data-in-ai-era.html)
 - [Critical Wing FTP Server Vulnerability &lpar;CVE-2025-47812&rpar; Actively Being Exploited in the Wild](https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html)
 - [Iranian-Backed Pay2Key Ransomware Resurfaces with 80% Profit Share for Cybercriminals](https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html)
 - [CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises](https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html)
-- [Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads](https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
