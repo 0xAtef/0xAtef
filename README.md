@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing Data in the AI Era](https://thehackernews.com/2025/07/securing-data-in-ai-era.html)
+- [Critical Wing FTP Server Vulnerability &lpar;CVE-2025-47812&rpar; Actively Being Exploited in the Wild](https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html)
+- [Iranian-Backed Pay2Key Ransomware Resurfaces with 80% Profit Share for Cybercriminals](https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html)
 - [CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises](https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html)
 - [Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads](https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html)
-- [Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord](https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html)
-- [Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods](https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html)
-- [What Security Leaders Need to Know About AI Governance for SaaS](https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html)
 <!-- BLOG-POST-LIST:END -->
