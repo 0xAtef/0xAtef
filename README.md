@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub](https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html)
 - [Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb &lpar;CVE-2025-25257&rpar;](https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html)
 - [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html)
 - [Securing Data in the AI Era](https://thehackernews.com/2025/07/securing-data-in-ai-era.html)
 - [Critical Wing FTP Server Vulnerability &lpar;CVE-2025-47812&rpar; Actively Being Exploited in the Wild](https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html)
-- [Iranian-Backed Pay2Key Ransomware Resurfaces with 80% Profit Share for Cybercriminals](https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html)
 <!-- BLOG-POST-LIST:END -->
