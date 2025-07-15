@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors](https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html)
 - [Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools](https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html)
 - [State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments](https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html)
 - [Securing Agentic AI: How to Protect the Invisible Identity Access](https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html)
 - [AsyncRAT&#39;s Open-Source Code Sparks Surge in Dangerous Malware Variants Across the Globe](https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html)
-- [North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign](https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html)
 <!-- BLOG-POST-LIST:END -->
