@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign](https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html)
 - [The Unusual Suspect: Git Repos](https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html)
 - [New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries](https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html)
 - [⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More](https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html)
 - [CBI Shuts Down £390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center](https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html)
-- [eSIM Vulnerability in Kigen&#39;s eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks](https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html)
 <!-- BLOG-POST-LIST:END -->
