@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access](https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html)
+- [AI Agents Act Like Employees With Root Access—Here&#39;s How to Regain Control](https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html)
+- [New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code](https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html)
 - [Deepfakes. Fake Recruiters. Cloned CFOs — Learn How to Stop AI-Driven Attacks in Real Time](https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html)
 - [Urgent: Google Releases Critical Chrome Update for CVE-2025-6558 Exploit Active in the Wild](https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html)
-- [New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code](https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html)
-- [Google AI &quot;Big Sleep&quot; Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act](https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html)
-- [Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors](https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html)
 <!-- BLOG-POST-LIST:END -->
