@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms](https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html)
 - [UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit](https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html)
 - [Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access](https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html)
 - [AI Agents Act Like Employees With Root Access—Here&#39;s How to Regain Control](https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html)
 - [New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code](https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html)
-- [Deepfakes. Fake Recruiters. Cloned CFOs — Learn How to Stop AI-Driven Attacks in Real Time](https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html)
 <!-- BLOG-POST-LIST:END -->
