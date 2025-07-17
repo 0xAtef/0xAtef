@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Europol Disrupts NoName057&lpar;16&rpar; Hacktivist Group Linked to DDoS Attacks Against Ukraine](https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html)
+- [CTEM vs ASM vs Vulnerability Management: What Security Leaders Need to Know in 2025](https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html)
 - [Chinese Hackers Target Taiwan&#39;s Semiconductor Sector with Cobalt Strike, Custom Backdoors](https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html)
 - [Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code](https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html)
 - [Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms](https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html)
-- [UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit](https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html)
-- [Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access](https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html)
 <!-- BLOG-POST-LIST:END -->
