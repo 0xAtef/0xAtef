@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones](https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html)
+- [UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns](https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html)
+- [Ivanti Zero-Days Exploited to Drop MDifyLoader and Launch In-Memory Cobalt Strike Attacks](https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html)
 - [Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services](https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html)
 - [CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign](https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html)
-- [Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices](https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html)
-- [From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware](https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html)
-- [Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters](https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html)
 <!-- BLOG-POST-LIST:END -->
