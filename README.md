@@ -229,5 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services](https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html)
+- [CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign](https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html)
+- [Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices](https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html)
+- [From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware](https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html)
+- [Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters](https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html)
 <!-- BLOG-POST-LIST:END -->
