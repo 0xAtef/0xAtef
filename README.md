@@ -1,14 +1,38 @@
-<h1 align="center">🚀 I’m Mohamed Atef - Cyber Defender </h1>
+<h1 align="center">🚀 I'm Mohamed Atef - Sr. Cyber Defense DFIR Analyst</h1>
 
 ## 📖 About Me
 
-I am a highly skilled **Cyber Defense Engineer** with a proven track record in leading Security Operations and conducting in-depth assessments of **Endpoint Detection & Response (EDR)** and **Email Security Gateways**, **Threat Intelligence Platforms (TIP)**, **Attack Surface Management (ASM)**, **Dark Web Monitoring** and **Digital Risk Protection (DRP)**, as well as **Security Orchestration, Automation, and Response (SOAR)** solutions.
+**Senior Cyber Defense DFIR Analyst** with a strong focus on **Cyber Threat Intelligence (CTI)**, **threat detection engineering**, and **threat hunting**. While formally positioned within DFIR, my role spans across threat intelligence engineering, SOC architecture, and detection strategy, driving proactive defense initiatives and intelligence-led security operations.
 
-My passion lies in designing and optimizing **SOC processes**, developing robust **use cases** and **incident response playbooks**, and implementing advanced **detection rules** and **automation workflows**. I also specialize in building **custom middleware integrations**, ensuring seamless and scalable security operations across diverse environments.
+I lead the development of **CTI strategies**, **SOPs**, and **tooling**, including custom-built platforms like **"ThreatOps"**—a CTI automation tool designed to collect, parse, and operationalize RSS-based intelligence feeds, enriching internal security insights and empowering enterprise-wide threat programs.
 
+With a foundation in **SOC operations**, including analysis, administration, and engineering, I bring prior experience in architecting and integrating core security solutions (**SIEM**, **SOAR**, **EDR**, **TIPs**, **ASM**, **DRP**), building end-to-end detection pipelines, and optimizing intelligence workflows.
+
+**Key Responsibilities:**
+- 🔍 Support **threat-informed investigations** and incident response by providing contextual intelligence, adversary insights, and lightweight analysis
+- 🎯 Perform **proactive threat hunting** leveraging EDR/SIEM data mapped to **MITRE ATT&CK**, identifying stealthy behaviors and detection gaps
+- ⚙️ Develop and operate an **automated CTI pipeline** using **MISP**, **N8n**, and **Python** for scalable IOC ingestion, enrichment, and correlation
+- 🛠️ Engineer and maintain **"ThreatOps"** - custom CTI automation tool for RSS feed intelligence operationalization
+- 📋 Design and implement **CTI SOPs** and intelligence workflows aligned with the intelligence lifecycle
+- 🔬 Analyze **adversary TTPs** and campaign data to inform detection engineering and response tuning
+- 🤖 Automate threat intelligence, hunting, and incident response workflows to improve cross-platform visibility and reduce analyst workload
+
+Actively engaged in **purple teaming** to validate detection logic and enhance visibility. While my current DFIR responsibilities are more strategic than deep-dive forensics, I maintain hands-on capability in incident response, enrichment-driven triage, and light DFIR investigations.
+
+**Certified** in **Threat Hunting** and **Windows Forensics**, I continuously contribute to threat-informed defense models, develop custom detection content, and ensure seamless integration of CTI into SOC workflows. My mission is to bridge intelligence, engineering, and response into a unified, adaptive cyber defense capability.
 
 > **Core Principle:**  
-> “You can’t protect what you don’t understand.”
+> "You can't protect what you don't understand."
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 **Currently working on**: Enhancing ThreatOps platform with ML-based threat scoring and advanced RSS feed correlation
+- 🌱 **Learning**: Advanced threat hunting techniques, YARA rule optimization, and cloud-native security architectures  
+- 👯 **Looking to collaborate on**: Open-source CTI tools, MISP community projects, and threat hunting methodologies
+- 💬 **Ask me about**: CTI automation, MISP optimization, threat hunting strategies, and SOC architecture design
+- ⚡ **Fun fact**: I've automated over 80% of routine CTI processes, freeing analysts to focus on high-value threat analysis
 
 ---
 
@@ -16,14 +40,15 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 | Area                                          | Tools & Technologies                                      |
 |-----------------------------------------------|-----------------------------------------------------------|
-| Threat Detection & DFIR                       | SIEM, EDR/XDR, Forensic Toolkits (Velociraptor, KAPE)     |
-| SOC Operations & Monitoring                   | SOAR, SIEM, Endpoint Protection (EDR/AV), Azure Monitor Logs |
-| Cyber Threat Intelligence (CTI)               | MISP, Group-IB (GIB), CTM360                              |
-| Automation & Orchestration                    | Python, n8n, TheHive, IBM QRadar SOAR, GitHub Actions     |
-| Attack Simulation                             | Atomic Red Team, Metasploit Framework, CALDERA, MITRE ATT&CK |
-| Scripting, Integration & Middleware Development | Python, syslog, REST APIs, parsing & DSM building        |
-| Strategy & Process Design                     | SOC Playbooks, Incident Response Plans, CTI SOPs, SOC SOPs |
-| Attack Surface Management & Digital Risk      | ASM platforms, DRP services, Dark Web Monitoring tools    |
+| **Cyber Threat Intelligence (CTI)**          | MISP, Group-IB (GIB), CTM360, TAXII  |
+| **Threat Detection & Hunting**               | SIEM, EDR/XDR, MITRE ATT&CK, Threat Hunting Frameworks   |
+| **DFIR & Incident Response**                 | Forensic Toolkits (Velociraptor, KAPE), XDR |
+| **SOC Operations & Monitoring**              | SOAR, SIEM, TIP, Endpoint Protection (XDR/EDR/AV), Detection Engineering |
+| **Automation & Orchestration**               | Python, n8n, TheHive, IBM QRadar SOAR, GitHub Actions    |
+| **Attack Simulation & Purple Teaming**       | Atomic Red Team, Metasploit Framework, CALDERA           |
+| **Intelligence Engineering & Integration**   | Python, REST APIs, RSS Parsing, CTI Pipeline Development |
+| **Strategy & Process Design**                | CTI SOPs, Intelligence Lifecycle, SOC Playbooks, IR Plans |
+| **Attack Surface Management & Digital Risk** | ASM platforms, DRP services, Dark Web Monitoring tools   |
 
 ---
 
@@ -35,10 +60,25 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 ---
 
+## 💼 Professional Journey
+
+- **2024-Present**: **Sr. Cyber Defense DFIR Analyst** - Leading CTI operations, threat hunting, and detection engineering
+- **2022-2024**: **Sr. SOC/Cyber Defense Analyst/Admin/Engineer** - SOC operations, SIEM/SOAR administration, security architecture
+- **2021-2022**: **Security Operations Specialist** - Incident response, security monitoring, and compliance
+- **Career Focus**: Evolved from traditional SOC operations to specialized CTI and threat hunting leadership
+
+---
+
 ## 🏆 Key Accomplishments
 
-- **MISP Galaxy “Ransomware Groups”**  
+- **Automated CTI Pipeline Development**  
+  Built comprehensive automated CTI pipeline using MISP, N8n, and Python for scalable IOC ingestion, enrichment, tagging, and correlation with internal telemetry sources.
+
+- **MISP Galaxy "Ransomware Groups"**  
   Designed and published a custom MISP Galaxy mapping ransomware actors to ATT&CK techniques and metadata.
+
+- **CTI SOPs and Intelligence Workflows**  
+  Designed and implemented comprehensive CTI Standard Operating Procedures and intelligence workflows, aligning with the intelligence lifecycle to support collection planning, threat analysis, and stakeholder dissemination.
 
 - **n8n Automation Workflows**  
   Built end-to-end enrichment pipelines in n8n for MISP events (IoCs, TTPs, victim profiles).
@@ -74,16 +114,34 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
   Created a Python-based tool to validate and mask cardholder data following security compliance standards.
 
 
+## 🤝 Community Contributions
+
+- **📝 Security Research & Writing**  
+  Regular contributor to threat intelligence and security operations content, sharing insights on CTI automation and threat hunting methodologies.
+
+- **🛠️ Open Source Development**  
+  Active contributor to MISP community projects and developer of custom CTI tools available for security community use.
+
+- **🎓 Knowledge Sharing**  
+  Presentations and blog posts on MISP optimization, RSS feed integration, and CTI automation best practices.
+
+- **🔗 Industry Collaboration**  
+  Collaborating with security vendors and open source communities to enhance threat intelligence sharing and detection capabilities.
+
+---
+
 ## 🚀 Featured Projects
 
-- **[TheHive: Open Source SOAR](https://0xatef.github.io/Projects/#thehive-open-source-soar)**  
-- **[MISP: Malware Information Sharing Platform](https://0xatef.github.io/Projects/#misp-malware-information-sharing-platform)**  
-- **[BookStack: Documentation Platform](https://0xatef.github.io/Projects/#bookstack-documentation-platform)**  
-- **[EDR Assessment Guide](https://0xatef.github.io/Projects/#edr-assessment)**  
-- **[ELK Stack Deployment](https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana)**  
-- **[C2 Framework Integrations](https://0xatef.github.io/Projects/#c2-frameworks)**  
-- **[Attack Simulation Labs](https://0xatef.github.io/Projects/#attack-simulation)**  
-- **[API-to-QRadar Syslog Middleware](https://0xatef.github.io/Projects/#how-to-send-logs-from-an-api-to-qradar-siem-through-syslog-middleware)**  
+- **[ThreatOps: Custom CTI Automation Platform](#threatops)** - Custom-built tool for RSS feed intelligence collection and operationalization
+- **[MISP: Malware Information Sharing Platform](https://0xatef.github.io/Projects/#misp-malware-information-sharing-platform)** - Advanced CTI pipeline and automation workflows  
+- **[TheHive: Open Source SOAR](https://0xatef.github.io/Projects/#thehive-open-source-soar)** - Incident response and threat handling automation
+- **[Threat Hunting Framework](#threat-hunting)** - MITRE ATT&CK-based hunting methodologies and detection engineering
+- **[EDR Assessment Guide](https://0xatef.github.io/Projects/#edr-assessment)** - Comprehensive evaluation framework for endpoint detection solutions
+- **[CTI Pipeline Automation](#cti-pipeline)** - End-to-end automated threat intelligence processing and enrichment
+- **[ELK Stack Deployment](https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana)** - Security-focused log analysis and visualization
+- **[C2 Framework Integrations](https://0xatef.github.io/Projects/#c2-frameworks)** - Purple team testing and detection validation
+- **[Attack Simulation Labs](https://0xatef.github.io/Projects/#attack-simulation)** - Controlled environments for threat emulation and hunting
+- **[API-to-QRadar Syslog Middleware](https://0xatef.github.io/Projects/#how-to-send-logs-from-an-api-to-qradar-siem-through-syslog-middleware)** - Custom integration solutions
 
 ---
 
@@ -177,9 +235,5 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices](https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html)
-- [Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services](https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html)
-- [From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware](https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html)
-- [Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters](https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html)
-- [Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner](https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html)
+
 <!-- BLOG-POST-LIST:END -->
