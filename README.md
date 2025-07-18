@@ -177,9 +177,9 @@ My passion lies in designing and optimizing **SOC processes**, developing robust
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices](https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html)
+- [Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services](https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html)
+- [From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware](https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html)
 - [Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters](https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html)
 - [Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner](https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html)
-- [Europol Disrupts NoName057&lpar;16&rpar; Hacktivist Group Linked to DDoS Attacks Against Ukraine](https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html)
-- [CTEM vs ASM vs Vulnerability Management: What Security Leaders Need to Know in 2025](https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html)
-- [Chinese Hackers Target Taiwan&#39;s Semiconductor Sector with Cobalt Strike, Custom Backdoors](https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html)
 <!-- BLOG-POST-LIST:END -->
