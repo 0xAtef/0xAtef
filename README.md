@@ -148,12 +148,6 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/0xAtef/count.svg" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=0xAtef&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="0xAtef's GitHub Stats" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAtef&theme=dark&hide_border=true" alt="0xAtef's GitHub Streak" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAtef&layout=compact&theme=dark&hide_border=true" alt="0xAtef's Top Languages" />
