@@ -229,8 +229,8 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations](https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html)
-- [Malware Injected into 6 npm Packages After Maintainer Tokens Stolen in Phishing Attack](https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html)
+- [Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers](https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html)
+- [Malware Injected into 5 npm Packages After Maintainer Tokens Stolen in Phishing Attack](https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html)
 - [Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers](https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html)
 - [China&#39;s Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones](https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html)
 - [UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns](https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html)
