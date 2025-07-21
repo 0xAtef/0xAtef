@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse](https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html)
 - [Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks](https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html)
 - [Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access](https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html)
 - [3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics](https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html)
 - [EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware](https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html)
-- [Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers](https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html)
 <!-- BLOG-POST-LIST:END -->
