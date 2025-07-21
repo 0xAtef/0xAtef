@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents](https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html)
+- [China-Linked Hackers Launch Targeted Espionage Campaign on African IT Infrastructure](https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html)
 - [⚡ Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More](https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html)
 - [Assessing the Role of AI in Zero Trust](https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html)
 - [PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse](https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html)
-- [Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks](https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html)
-- [Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access](https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html)
 <!-- BLOG-POST-LIST:END -->
