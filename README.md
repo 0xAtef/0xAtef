@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks](https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html)
+- [Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access](https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html)
+- [3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics](https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html)
 - [EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware](https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html)
 - [Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers](https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html)
-- [Malware Injected into 5 npm Packages After Maintainer Tokens Stolen in Phishing Attack](https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html)
-- [Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers](https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html)
-- [China&#39;s Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones](https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html)
 <!-- BLOG-POST-LIST:END -->
