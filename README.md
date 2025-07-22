@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Advance from SOC Manager to CISO?](https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html)
 - [Hackers Exploit SharePoint Zero-Day Since July 7 to Steal Keys, Maintain Persistent Access](https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html)
 - [Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents](https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html)
 - [China-Linked Hackers Launch Targeted Espionage Campaign on African IT Infrastructure](https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html)
 - [⚡ Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More](https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html)
-- [Assessing the Role of AI in Zero Trust](https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html)
 <!-- BLOG-POST-LIST:END -->
