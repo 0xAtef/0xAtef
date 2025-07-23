@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Launches OSS Rebuild to Expose Malicious Code in Widely Used Open-Source Packages](https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html)
 - [CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks](https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html)
 - [CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF](https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html)
 - [Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups](https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html)
 - [Cisco Confirms Active Exploits Targeting ISE Flaws Enabling Unauthenticated Root Access](https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html)
-- [Credential Theft and Remote Access Surge as AllaKore, PureRAT, and Hijack Loader Proliferate](https://thehackernews.com/2025/07/credential-theft-and-remote-access.html)
 <!-- BLOG-POST-LIST:END -->
