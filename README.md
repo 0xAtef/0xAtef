@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Coyote Malware Variant Exploits Windows UI Automation to Steal Banking Credentials](https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html)
 - [Kerberoasting Detections: A New Approach to a Decade-Old Challenge](https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html)
 - [Google Launches OSS Rebuild to Expose Malicious Code in Widely Used Open-Source Packages](https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html)
 - [CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks](https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html)
 - [CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF](https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html)
-- [Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups](https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html)
 <!-- BLOG-POST-LIST:END -->
