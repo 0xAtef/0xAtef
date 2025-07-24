@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems](https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html)
+- [Fire Ant Exploits VMware Flaws to Compromise ESXi Hosts and vCenter Environments](https://thehackernews.com/2025/07/fire-ant-exploits-vmware-flaw-to.html)
 - [CastleLoader Malware Infects 469 Devices Using Fake GitHub Repos and ClickFix Phishing](https://thehackernews.com/2025/07/castleloader-malware-infects-469.html)
 - [Sophos and SonicWall Patch Critical RCE Flaws Affecting Firewalls and SMA 100 Devices](https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html)
 - [Watch This Webinar to Uncover Hidden Flaws in Login, AI, and Digital Trust — and Fix Them](https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html)
-- [Pentests once a year? Nope. It’s time to build an offensive SOC](https://thehackernews.com/2025/07/pentests-once-year-nope-its-time-to.html)
-- [China-Based APTs Deploy Fake Dalai Lama Apps to Spy on Tibetan Community](https://thehackernews.com/2025/07/china-based-apts-deploy-fake-dalai-lama.html)
 <!-- BLOG-POST-LIST:END -->
