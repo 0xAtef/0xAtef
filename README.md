@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sophos and SonicWall Patch Critical RCE Flaws Affecting Firewalls and SMA 100 Devices](https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html)
 - [Watch This Webinar to Uncover Hidden Flaws in Login, AI, and Digital Trust — and Fix Them](https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html)
 - [Pentests once a year? Nope. It’s time to build an offensive SOC](https://thehackernews.com/2025/07/pentests-once-year-nope-its-time-to.html)
 - [China-Based APTs Deploy Fake Dalai Lama Apps to Spy on Tibetan Community](https://thehackernews.com/2025/07/china-based-apts-deploy-fake-dalai-lama.html)
 - [Storm-2603 Exploits SharePoint Flaws to Deploy Warlock Ransomware on Unpatched Systems](https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html)
-- [Europol Arrests XSS Forum Admin in Kyiv After 12-Year Run Operating Cybercrime Marketplace](https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html)
 <!-- BLOG-POST-LIST:END -->
