@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Storm-2603 Exploits SharePoint Flaws to Deploy Warlock Ransomware on Unpatched Systems](https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html)
 - [Europol Arrests XSS Forum Admin in Kyiv After 12-Year Run Operating Cybercrime Marketplace](https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html)
 - [Hackers Deploy Stealth Backdoor in WordPress Mu-Plugins to Maintain Admin Access](https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html)
 - [Threat Actor Mimo Targets Magento and Docker to Deploy Crypto Miners and Proxyware](https://thehackernews.com/2025/07/threat-actor-mimo-targets-magento-and.html)
 - [New Coyote Malware Variant Exploits Windows UI Automation to Steal Banking Credentials](https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html)
-- [Kerberoasting Detections: A New Approach to a Decade-Old Challenge](https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html)
 <!-- BLOG-POST-LIST:END -->
