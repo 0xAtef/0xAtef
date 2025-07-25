@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Sanctions Firm Behind N. Korean IT Scheme; Arizona Woman Jailed for Running Laptop Farm](https://thehackernews.com/2025/07/us-sanctions-firm-behind-n-korean-it.html)
+- [Patchwork Targets Turkish Defense Firms with Spear-Phishing Using Malicious LNK Files](https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html)
 - [Cyber Espionage Campaign Hits Russian Aerospace Sector Using EAGLET Backdoor](https://thehackernews.com/2025/07/cyber-espionage-campaign-hits-russian.html)
 - [Soco404 and Koske Malware Target Cloud Services with Cross-Platform Cryptomining Attacks](https://thehackernews.com/2025/07/soco404-and-koske-malware-target-cloud.html)
 - [Overcoming Risks from Chinese GenAI Tool Usage](https://thehackernews.com/2025/07/overcoming-risks-from-chinese-genai.html)
-- [Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems](https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html)
-- [Fire Ant Exploits VMware Flaws to Compromise ESXi Hosts and vCenter Environments](https://thehackernews.com/2025/07/fire-ant-exploits-vmware-flaw-to.html)
 <!-- BLOG-POST-LIST:END -->
