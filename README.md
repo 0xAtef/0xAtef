@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scattered Spider Hijacks VMware ESXi to Deploy Ransomware on Critical U.S. Infrastructure](https://thehackernews.com/2025/07/scattered-spider-hijacks-vmware-esxi-to.html)
 - [Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide](https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html)
 - [U.S. Sanctions Firm Behind N. Korean IT Scheme; Arizona Woman Jailed for Running Laptop Farm](https://thehackernews.com/2025/07/us-sanctions-firm-behind-n-korean-it.html)
 - [Patchwork Targets Turkish Defense Firms with Spear-Phishing Using Malicious LNK Files](https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html)
 - [Cyber Espionage Campaign Hits Russian Aerospace Sector Using EAGLET Backdoor](https://thehackernews.com/2025/07/cyber-espionage-campaign-hits-russian.html)
-- [Soco404 and Koske Malware Target Cloud Services with Cross-Platform Cryptomining Attacks](https://thehackernews.com/2025/07/soco404-and-koske-malware-target-cloud.html)
 <!-- BLOG-POST-LIST:END -->
