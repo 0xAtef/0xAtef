@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chaos RaaS Emerges After BlackSuit Takedown, Demanding $300K from U.S. Victims](https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html)
 - [How the Browser Became the Main Cyber Battleground](https://thehackernews.com/2025/07/how-browser-became-main-cyber.html)
 - [Cybercriminals Use Fake Apps to Steal Data and Blackmail Users Across Asia’s Mobile Networks](https://thehackernews.com/2025/07/cybercriminals-use-fake-apps-to-steal.html)
 - [Why React Didn&#39;t Kill XSS: The New JavaScript Injection Playbook](https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html)
 - [CISA Adds PaperCut NG/MF CSRF Vulnerability to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2025/07/cisa-adds-papercut-ngmf-csrf.html)
-- [Hackers Breach Toptal GitHub, Publish 10 Malicious npm Packages With 5,000 Downloads](https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html)
 <!-- BLOG-POST-LIST:END -->
