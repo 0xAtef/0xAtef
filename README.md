@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Adds PaperCut NG/MF CSRF Vulnerability to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2025/07/cisa-adds-papercut-ngmf-csrf.html)
 - [Hackers Breach Toptal GitHub, Publish 10 Malicious npm Packages With 5,000 Downloads](https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html)
 - [⚡ Weekly Recap — SharePoint Breach, Spyware, IoT Hijacks, DPRK Fraud, Crypto Drains and More](https://thehackernews.com/2025/07/weekly-recap-sharepoint-breach-spyware.html)
 - [Email Security Is Stuck in the Antivirus Era: Why It Needs a Modern Approach](https://thehackernews.com/2025/07/email-security-is-stuck-in-antivirus.html)
 - [Scattered Spider Hijacks VMware ESXi to Deploy Ransomware on Critical U.S. Infrastructure](https://thehackernews.com/2025/07/scattered-spider-hijacks-vmware-esxi-to.html)
-- [Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide](https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html)
 <!-- BLOG-POST-LIST:END -->
