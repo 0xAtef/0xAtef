@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits](https://thehackernews.com/2025/07/critical-dahua-camera-flaws-enable.html)
-- [Chinese Firms Linked to Silk Typhoon Filed 15+ Patents for Cyber Espionage Tools](https://thehackernews.com/2025/07/chinese-firms-linked-to-silk-typhoon.html)
+- [FunkSec Ransomware Decryptor Released Free to Public After Group Goes Dormant](https://thehackernews.com/2025/07/funksec-ransomware-decryptor-released.html)
 - [Product Walkthrough: A Look Inside Pillar&#39;s AI Security Platform](https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html)
 - [Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome](https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html)
-- [Google Launches DBSC Open Beta in Chrome and Enhances Patch Transparency via Project Zero](https://thehackernews.com/2025/07/google-launches-dbsc-open-beta-in.html)
+- [Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits](https://thehackernews.com/2025/07/critical-dahua-camera-flaws-enable.html)
+- [Chinese Firms Linked to Silk Typhoon Filed 15+ Patents for Cyber Espionage Tools](https://thehackernews.com/2025/07/chinese-firms-linked-to-silk-typhoon.html)
 <!-- BLOG-POST-LIST:END -->
