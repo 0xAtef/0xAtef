@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploit SAP Vulnerability to Breach Linux Systems and Deploy Auto-Color Malware](https://thehackernews.com/2025/07/hackers-exploit-sap-vulnerability-to.html)
+- [Scattered Spider Hacker Arrests Halt Attacks, But Copycat Threats Sustain Security Pressure](https://thehackernews.com/2025/07/scattered-spider-hacker-arrests-halt.html)
 - [Wiz Uncovers Critical Access Bypass Flaw in AI-Powered Vibe Coding Platform Base44](https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html)
 - [PyPI Warns of Ongoing Phishing Campaign Using Fake Verification Emails and Lookalike Domain](https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html)
 - [Chaos RaaS Emerges After BlackSuit Takedown, Demanding $300K from U.S. Victims](https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html)
-- [How the Browser Became the Main Cyber Battleground](https://thehackernews.com/2025/07/how-browser-became-main-cyber.html)
-- [Cybercriminals Use Fake Apps to Steal Data and Blackmail Users Across Asia’s Mobile Networks](https://thehackernews.com/2025/07/cybercriminals-use-fake-apps-to-steal.html)
 <!-- BLOG-POST-LIST:END -->
