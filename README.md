@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Launches DBSC Open Beta in Chrome and Enhances Patch Transparency via Project Zero](https://thehackernews.com/2025/07/google-launches-dbsc-open-beta-in.html)
 - [Hackers Exploit SAP Vulnerability to Breach Linux Systems and Deploy Auto-Color Malware](https://thehackernews.com/2025/07/hackers-exploit-sap-vulnerability-to.html)
 - [Scattered Spider Hacker Arrests Halt Attacks, But Copycat Threats Sustain Security Pressure](https://thehackernews.com/2025/07/scattered-spider-hacker-arrests-halt.html)
 - [Wiz Uncovers Critical Access Bypass Flaw in AI-Powered Vibe Coding Platform Base44](https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html)
 - [PyPI Warns of Ongoing Phishing Campaign Using Fake Verification Emails and Lookalike Domain](https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html)
-- [Chaos RaaS Emerges After BlackSuit Takedown, Demanding $300K from U.S. Victims](https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html)
 <!-- BLOG-POST-LIST:END -->
