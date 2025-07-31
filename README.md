@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html)
 - [UNC2891 Breaches ATM Network via 4G Raspberry Pi, Tries CAKETAP Rootkit for Fraud](https://thehackernews.com/2025/07/unc2891-breaches-atm-network-via-4g.html)
 - [Alert Fatigue, Data Overload, and the Fall of Traditional SIEMs](https://thehackernews.com/2025/07/alert-fatigue-data-overload-and-fall-of.html)
 - [Hackers Exploit Critical WordPress Theme Flaw to Hijack Sites via Remote Plugin Install](https://thehackernews.com/2025/07/hackers-exploit-critical-wordpress.html)
 - [Hackers Use Facebook Ads to Spread JSCEAL Malware via Fake Cryptocurrency Trading Apps](https://thehackernews.com/2025/07/hackers-use-facebook-ads-to-spread.html)
-- [FunkSec Ransomware Decryptor Released Free to Public After Group Goes Dormant](https://thehackernews.com/2025/07/funksec-ransomware-decryptor-released.html)
 <!-- BLOG-POST-LIST:END -->
