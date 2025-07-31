@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Experts Detect Multi-Layer Redirect Tactic Used to Steal Microsoft 365 Login Credentials](https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html)
 - [N. Korean Hackers Used Job Lures, Cloud Account Access, and Malware to Steal Millions in Crypto](https://thehackernews.com/2025/07/n-korean-hackers-used-job-lures-cloud.html)
 - [AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html)
 - [UNC2891 Breaches ATM Network via 4G Raspberry Pi, Tries CAKETAP Rootkit for Fraud](https://thehackernews.com/2025/07/unc2891-breaches-atm-network-via-4g.html)
 - [Alert Fatigue, Data Overload, and the Fall of Traditional SIEMs](https://thehackernews.com/2025/07/alert-fatigue-data-overload-and-fall-of.html)
-- [Hackers Exploit Critical WordPress Theme Flaw to Hijack Sites via Remote Plugin Install](https://thehackernews.com/2025/07/hackers-exploit-critical-wordpress.html)
 <!-- BLOG-POST-LIST:END -->
