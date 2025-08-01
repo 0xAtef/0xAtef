@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You Are What You Eat: Why Your AI Security Tools Are Only as Strong as the Data You Feed Them](https://thehackernews.com/2025/08/you-are-what-you-eat-why-your-ai.html)
 - [Storm-2603 Deploys DNS-Controlled Backdoor in Warlock and LockBit Ransomware Attacks](https://thehackernews.com/2025/08/storm-2603-exploits-sharepoint-flaws-to.html)
 - [Secret Blizzard Deploys Malware in ISP-Level AitM Attacks on Moscow Embassies](https://thehackernews.com/2025/07/secret-blizzard-deploys-malware-in-isp.html)
 - [Experts Detect Multi-Layer Redirect Tactic Used to Steal Microsoft 365 Login Credentials](https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html)
 - [N. Korean Hackers Used Job Lures, Cloud Account Access, and Malware to Steal Millions in Crypto](https://thehackernews.com/2025/07/n-korean-hackers-used-job-lures-cloud.html)
-- [AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html)
 <!-- BLOG-POST-LIST:END -->
