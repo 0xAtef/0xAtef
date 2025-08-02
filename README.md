@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices](https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html)
 - [Cursor AI Code Editor Fixed Flaw Allowing Attackers to Run Commands via Prompt Injection](https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html)
 - [Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts](https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html)
 - [AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown](https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html)
 - [You Are What You Eat: Why Your AI Security Tools Are Only as Strong as the Data You Feed Them](https://thehackernews.com/2025/08/you-are-what-you-eat-why-your-ai.html)
-- [Storm-2603 Deploys DNS-Controlled Backdoor in Warlock and LockBit Ransomware Attacks](https://thehackernews.com/2025/08/storm-2603-exploits-sharepoint-flaws-to.html)
 <!-- BLOG-POST-LIST:END -->
