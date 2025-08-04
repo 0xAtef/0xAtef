@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw, ATM Hack &amp; More](https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html)
+- [Man-in-the-Middle Attack Prevention Guide](https://thehackernews.com/2025/08/man-in-middle-attack-prevention-guide.html)
+- [New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft](https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html)
 - [The Wild West of Shadow IT](https://thehackernews.com/2025/08/the-wild-west-of-shadow-it.html)
 - [PlayPraetor Android Trojan Infects 11,000+ Devices via Fake Google Play Pages and Meta Ads](https://thehackernews.com/2025/08/playpraetor-android-trojan-infects.html)
-- [CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign](https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html)
-- [New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft](https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html)
-- [Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices](https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html)
 <!-- BLOG-POST-LIST:END -->
