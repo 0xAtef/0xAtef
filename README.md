@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vietnamese Hackers Use PXA Stealer, Hit 4,000 IPs and Steal 200,000 Passwords Globally](https://thehackernews.com/2025/08/vietnamese-hackers-use-pxa-stealer-hit.html)
 - [⚡ Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw, ATM Hack &amp; More](https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html)
 - [Man-in-the-Middle Attack Prevention Guide](https://thehackernews.com/2025/08/man-in-middle-attack-prevention-guide.html)
 - [New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft](https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html)
 - [The Wild West of Shadow IT](https://thehackernews.com/2025/08/the-wild-west-of-shadow-it.html)
-- [PlayPraetor Android Trojan Infects 11,000+ Devices via Fake Google Play Pages and Meta Ads](https://thehackernews.com/2025/08/playpraetor-android-trojan-infects.html)
 <!-- BLOG-POST-LIST:END -->
