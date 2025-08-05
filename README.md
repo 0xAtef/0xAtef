@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [15,000 Fake TikTok Shop Domains Deliver Malware, Steal Crypto via AI-Driven Scam Campaign](https://thehackernews.com/2025/08/15000-fake-tiktok-shop-domains-deliver.html)
 - [SonicWall Investigating Potential SSL VPN Zero-Day After 20+ Targeted Attacks Reported](https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html)
 - [NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers](https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html)
 - [Vietnamese Hackers Use PXA Stealer, Hit 4,000 IPs and Steal 200,000 Passwords Globally](https://thehackernews.com/2025/08/vietnamese-hackers-use-pxa-stealer-hit.html)
 - [⚡ Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw, ATM Hack &amp; More](https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html)
-- [Man-in-the-Middle Attack Prevention Guide](https://thehackernews.com/2025/08/man-in-middle-attack-prevention-guide.html)
 <!-- BLOG-POST-LIST:END -->
