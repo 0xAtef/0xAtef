@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’s August Patch Fixes Two Qualcomm Vulnerabilities Exploited in the Wild](https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html)
+- [Cursor AI Code Editor Vulnerability Enables RCE via Malicious MCP File Swaps Post Approval](https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html)
 - [Misconfigurations Are Not Vulnerabilities: The Costly Confusion Behind Security Risks](https://thehackernews.com/2025/08/misconfigurations-are-not.html)
 - [How Top CISOs Save Their SOCs from Alert Chaos to Never Miss Real Incidents](https://thehackernews.com/2025/08/how-top-cisos-save-their-socs-from.html)
 - [15,000 Fake TikTok Shop Domains Deliver Malware, Steal Crypto via AI-Driven Scam Campaign](https://thehackernews.com/2025/08/15000-fake-tiktok-shop-domains-deliver.html)
-- [SonicWall Investigating Potential SSL VPN Zero-Day After 20+ Targeted Attacks Reported](https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html)
-- [NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers](https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html)
 <!-- BLOG-POST-LIST:END -->
