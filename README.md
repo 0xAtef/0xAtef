@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams](https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html)
 - [AI Slashes Workloads for vCISOs by 68% as SMBs Demand More – New Report Reveals](https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html)
 - [Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools](https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html)
 - [Trend Micro Confirms Active Exploitation of Critical Apex One Flaws in On-Premise Systems](https://thehackernews.com/2025/08/trend-micro-confirms-active.html)
 - [CERT-UA Warns of HTA-Delivered C# Malware Attacks Using Court Summons Lures](https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html)
-- [AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder’s Vision](https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html)
 <!-- BLOG-POST-LIST:END -->
