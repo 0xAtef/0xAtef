@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CERT-UA Warns of HTA-Delivered C# Malware Attacks Using Court Summons Lures](https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html)
 - [AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder’s Vision](https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html)
 - [CISA Adds 3 D-Link Vulnerabilities to KEV Catalog Amid Active Exploitation Evidence](https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html)
 - [ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections](https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html)
 - [Google’s August Patch Fixes Two Qualcomm Vulnerabilities Exploited in the Wild](https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html)
-- [Cursor AI Code Editor Vulnerability Enables RCE via Malicious MCP File Swaps Post Approval](https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
