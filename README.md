@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need](https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html)
 - [Malicious Go, npm Packages Deliver Cross-Platform Malware, Trigger Remote Data Wipes](https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html)
 - [The AI-Powered Security Shift: What 2025 Is Teaching Us About Cloud Defense](https://thehackernews.com/2025/08/the-ai-powered-security-shift-what-2025.html)
 - [Microsoft Discloses Exchange Server Flaw Enabling Silent Cloud Access in Hybrid Setups](https://thehackernews.com/2025/08/microsoft-discloses-exchange-server.html)
-- [6,500 Axis Servers Expose Remoting Protocol, 4,000 in U.S. Vulnerable to Exploits](https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html)
-- [SonicWall Confirms Patched Vulnerability Behind Recent VPN Attacks, Not a Zero-Day](https://thehackernews.com/2025/08/sonicwall-confirms-patched.html)
+- [6,500 Axis Servers Expose Remoting Protocol; 4,000 in U.S. Vulnerable to Exploits](https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html)
 <!-- BLOG-POST-LIST:END -->
