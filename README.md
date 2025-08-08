@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Tools Fuel Brazilian Phishing Scam While Efimer Trojan Steals Crypto from 5,000 Victims](https://thehackernews.com/2025/08/ai-tools-fuel-brazilian-phishing-scam.html)
 - [Leaked Credentials Up 160%: What Attackers Are Doing With Them](https://thehackernews.com/2025/08/leaked-credentials-up-160-what.html)
 - [RubyGems, PyPI Hit by Malicious Packages Stealing Credentials, Crypto, Forcing Security Changes](https://thehackernews.com/2025/08/rubygems-pypi-hit-by-malicious-packages.html)
 - [GreedyBear Steals $1M in Crypto Using 150+ Malicious Firefox Wallet Extensions](https://thehackernews.com/2025/08/greedybear-steals-1m-in-crypto-using.html)
 - [SocGholish Malware Spread via Ad Tools; Delivers Access to LockBit, Evil Corp, and Others](https://thehackernews.com/2025/08/socgholish-malware-spread-via-ad-tools.html)
-- [Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need](https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html)
 <!-- BLOG-POST-LIST:END -->
