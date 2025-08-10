@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP](https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html)
 - [Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation](https://thehackernews.com/2025/08/researchers-detail-windows-epm.html)
 - [Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks](https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html)
 - [Researchers Reveal ReVault Attack Targeting Dell ControlVault3 Firmware in 100+ Laptop Models](https://thehackernews.com/2025/08/researchers-reveal-revault-attack.html)
 - [Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems](https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html)
-- [CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials](https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html)
 <!-- BLOG-POST-LIST:END -->
