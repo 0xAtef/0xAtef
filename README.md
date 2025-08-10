@@ -230,8 +230,8 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks](https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html)
+- [Researchers Reveal ReVault Attack Targeting Dell ControlVault3 Firmware in 100+ Laptop Models](https://thehackernews.com/2025/08/researchers-reveal-revault-attack.html)
 - [Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems](https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html)
 - [CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials](https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html)
 - [AI Tools Fuel Brazilian Phishing Scam While Efimer Trojan Steals Crypto from 5,000 Victims](https://thehackernews.com/2025/08/ai-tools-fuel-brazilian-phishing-scam.html)
-- [Leaked Credentials Up 160%: What Attackers Are Doing With Them](https://thehackernews.com/2025/08/leaked-credentials-up-160-what.html)
 <!-- BLOG-POST-LIST:END -->
