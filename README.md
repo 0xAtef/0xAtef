@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Spot Surge in Erlang/OTP SSH RCE Exploits, 70% Target OT Firewalls](https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html)
 - [⚡ Weekly Recap: BadCam Attack, WinRAR 0-Day, EDR Killer, NVIDIA Flaws, Ransomware Attacks &amp; More](https://thehackernews.com/2025/08/weekly-recap-badcam-attack-winrar-0-day.html)
 - [6 Lessons Learned: Focusing Security Where Business Value Lives](https://thehackernews.com/2025/08/6-lessons-learned-focusing-security.html)
 - [WinRAR Zero-Day Under Active Exploitation – Update to Latest Version Immediately](https://thehackernews.com/2025/08/winrar-zero-day-under-active.html)
 - [New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP](https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html)
-- [Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation](https://thehackernews.com/2025/08/researchers-detail-windows-epm.html)
 <!-- BLOG-POST-LIST:END -->
