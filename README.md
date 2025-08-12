@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dutch NCSC Confirms Active Exploitation of Citrix NetScaler CVE-2025-6543 in Critical Sectors](https://thehackernews.com/2025/08/dutch-ncsc-confirms-active-exploitation.html)
 - [New TETRA Radio Encryption Flaws Expose Law Enforcement Communications](https://thehackernews.com/2025/08/new-tetra-radio-encryption-flaws-expose.html)
 - [Researchers Spot Surge in Erlang/OTP SSH RCE Exploits, 70% Target OT Firewalls](https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html)
 - [⚡ Weekly Recap: BadCam Attack, WinRAR 0-Day, EDR Killer, NVIDIA Flaws, Ransomware Attacks &amp; More](https://thehackernews.com/2025/08/weekly-recap-badcam-attack-winrar-0-day.html)
 - [6 Lessons Learned: Focusing Security Where Business Value Lives](https://thehackernews.com/2025/08/6-lessons-learned-focusing-security.html)
-- [WinRAR Zero-Day Under Active Exploitation – Update to Latest Version Immediately](https://thehackernews.com/2025/08/winrar-zero-day-under-active.html)
 <!-- BLOG-POST-LIST:END -->
