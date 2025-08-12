@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercrime Groups ShinyHunters, Scattered Spider Join Forces in Extortion Attacks on Businesses](https://thehackernews.com/2025/08/cybercrime-groups-shinyhunters.html)
 - [New ‘Curly COMrades’ APT Using NGEN COM Hijacking in Georgia, Moldova Attacks](https://thehackernews.com/2025/08/new-curly-comrades-apt-using-ngen-com.html)
 - [The Ultimate Battle: Enterprise Browsers vs. Secure Browser Extensions](https://thehackernews.com/2025/08/the-ultimate-battle-enterprise-browsers.html)
 - [Dutch NCSC Confirms Active Exploitation of Citrix NetScaler CVE-2025-6543 in Critical Sectors](https://thehackernews.com/2025/08/dutch-ncsc-confirms-active-exploitation.html)
 - [New TETRA Radio Encryption Flaws Expose Law Enforcement Communications](https://thehackernews.com/2025/08/new-tetra-radio-encryption-flaws-expose.html)
-- [Researchers Spot Surge in Erlang/OTP SSH RCE Exploits, 70% Target OT Firewalls](https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html)
 <!-- BLOG-POST-LIST:END -->
