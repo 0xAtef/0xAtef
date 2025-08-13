@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New PS1Bot Malware Campaign Uses Malvertising to Deploy Multi-Stage In-Memory Attacks](https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html)
 - [Zoom and Xerox Release Critical Security Updates Fixing Privilege Escalation and RCE Flaws](https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html)
 - [Fortinet Warns About FortiSIEM Vulnerability &lpar;CVE-2025-25256&rpar; With In-the-Wild Exploit Code](https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html)
 - [AI SOC 101: Key Capabilities Security Leaders Need to Know](https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html)
 - [Webinar: What the Next Wave of AI Cyberattacks Will Look Like — And How to Survive](https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html)
-- [Microsoft August 2025 Patch Tuesday Fixes Kerberos Zero-Day Among 111 Total New Flaws](https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html)
 <!-- BLOG-POST-LIST:END -->
