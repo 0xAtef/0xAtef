@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fortinet Warns About FortiSIEM Vulnerability &lpar;CVE-2025-25256&rpar; With In-the-Wild Exploit Code](https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html)
+- [AI SOC 101: Key Capabilities Security Leaders Need to Know](https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html)
 - [Webinar: What the Next Wave of AI Cyberattacks Will Look Like — And How to Survive](https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html)
 - [Microsoft August 2025 Patch Tuesday Fixes Kerberos Zero-Day Among 111 Total New Flaws](https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html)
 - [Charon Ransomware Hits Middle East Sectors Using APT-Level Evasion Tactics](https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html)
-- [Researchers Spot XZ Utils Backdoor in Dozens of Docker Hub Images, Fueling Supply Chain Risks](https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html)
-- [Fortinet SSL VPNs Hit by Global Brute-Force Wave Before Attackers Shift to FortiManager](https://thehackernews.com/2025/08/fortinet-ssl-vpns-hit-by-global-brute.html)
 <!-- BLOG-POST-LIST:END -->
