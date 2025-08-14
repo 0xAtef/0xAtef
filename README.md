@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Steps for Attack Surface Reduction](https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html)
 - [Google Requires Crypto App Licenses in 15 Regions as FBI Warns of $9.9M Scam Losses](https://thehackernews.com/2025/08/google-requires-crypto-app-licenses-in.html)
 - [CISA Adds Two N-able N-central Flaws to Known Exploited Vulnerabilities Catalog](https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html)
 - [New PS1Bot Malware Campaign Uses Malvertising to Deploy Multi-Stage In-Memory Attacks](https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html)
 - [Zoom and Xerox Release Critical Security Updates Fixing Privilege Escalation and RCE Flaws](https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html)
-- [Fortinet Warns About FortiSIEM Vulnerability &lpar;CVE-2025-25256&rpar; With In-the-Wild Exploit Code](https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html)
 <!-- BLOG-POST-LIST:END -->
