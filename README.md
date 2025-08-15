@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions](https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html)
+- [Zero Trust + AI: Privacy in the Age of Agentic AI](https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html)
 - [Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution](https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html)
 - [New HTTP/2 &#39;MadeYouReset&#39; Vulnerability Enables Large-Scale DoS Attacks](https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html)
 - [Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon’s Reach to Linux and macOS](https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html)
-- [Have You Turned Off Your Virtual Oven?](https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html)
-- [New Android Malware Wave Hits Banking via NFC Relay Fraud, Call Hijacking, and Root Exploits](https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html)
 <!-- BLOG-POST-LIST:END -->
