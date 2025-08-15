@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools](https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html)
 - [U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions](https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html)
 - [Zero Trust + AI: Privacy in the Age of Agentic AI](https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html)
 - [Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution](https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html)
 - [New HTTP/2 &#39;MadeYouReset&#39; Vulnerability Enables Large-Scale DoS Attacks](https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html)
-- [Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon’s Reach to Linux and macOS](https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html)
 <!-- BLOG-POST-LIST:END -->
