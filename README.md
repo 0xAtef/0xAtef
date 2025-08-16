@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure](https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html)
 - [Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware](https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html)
 - [Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools](https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html)
 - [U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions](https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html)
 - [Zero Trust + AI: Privacy in the Age of Agentic AI](https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html)
-- [Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution](https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html)
 <!-- BLOG-POST-LIST:END -->
