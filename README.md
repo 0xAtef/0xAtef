@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures](https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html)
 - [Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware](https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html)
 - [⚡ Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors &amp; More](https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html)
 - [Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks](https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html)
 - [Wazuh for Regulatory Compliance](https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html)
-- [ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure](https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html)
 <!-- BLOG-POST-LIST:END -->
