@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages](https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html)
 - [Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025](https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html)
 - [Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger](https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html)
 - [Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft](https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html)
 - [Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks](https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html)
-- [DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft](https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html)
 <!-- BLOG-POST-LIST:END -->
