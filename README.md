@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft](https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html)
 - [Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks](https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html)
 - [DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft](https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html)
 - [🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do](https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html)
 - [FBI Warns FSB-Linked Hackers Exploiting Unpatched Cisco Devices for Cyber Espionage](https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html)
-- [Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts](https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html)
 <!-- BLOG-POST-LIST:END -->
