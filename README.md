@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automation Is Redefining Pentest Delivery](https://thehackernews.com/2025/08/automation-is-redefining-pentest.html)
 - [Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware](https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html)
 - [Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks](https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html)
 - [Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages](https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html)
 - [Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025](https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html)
-- [Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger](https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html)
 <!-- BLOG-POST-LIST:END -->
