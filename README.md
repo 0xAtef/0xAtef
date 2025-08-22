@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection](https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html)
 - [Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage](https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html)
 - [Automation Is Redefining Pentest Delivery](https://thehackernews.com/2025/08/automation-is-redefining-pentest.html)
 - [INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown](https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html)
 - [Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware](https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html)
-- [Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks](https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html)
 <!-- BLOG-POST-LIST:END -->
