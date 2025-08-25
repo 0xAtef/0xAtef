@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing](https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html)
 - [Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot](https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html)
 - [GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets](https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html)
 - [Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection](https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html)
 - [Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage](https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html)
-- [Automation Is Redefining Pentest Delivery](https://thehackernews.com/2025/08/automation-is-redefining-pentest.html)
 <!-- BLOG-POST-LIST:END -->
