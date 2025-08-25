@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats](https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html)
+- [Docker Fixes CVE-2025-9074, Critical Container Escape Vulnerability With CVSS Score 9.3](https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html)
 - [Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads](https://thehackernews.com/2025/08/phishing-campaign-uses-upcrypter-in.html)
 - [⚡ Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits &amp; More](https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html)
 - [Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations](https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html)
-- [Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing](https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html)
-- [Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot](https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html)
 <!-- BLOG-POST-LIST:END -->
