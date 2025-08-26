@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775](https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html)
+- [New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station](https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html)
 - [MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers](https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html)
 - [AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html)
 - [ShadowCaptcha Exploits WordPress Sites to Spread Ransomware, Info Stealers, and Crypto Miners](https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html)
-- [HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands](https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html)
-- [Google to Verify All Android Developers in 4 Countries to Block Malicious Apps](https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html)
 <!-- BLOG-POST-LIST:END -->
