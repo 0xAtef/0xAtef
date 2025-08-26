@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html)
+- [ShadowCaptcha Exploits WordPress Sites to Spread Ransomware, Info Stealers, and Crypto Miners](https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html)
 - [HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands](https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html)
 - [Google to Verify All Android Developers in 4 Countries to Block Malicious Apps](https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html)
 - [CISA Adds Three Exploited Vulnerabilities to KEV Catalog Affecting Citrix and Git](https://thehackernews.com/2025/08/cisa-adds-three-exploited.html)
-- [UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats](https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html)
-- [Docker Fixes CVE-2025-9074, Critical Container Escape Vulnerability With CVSS Score 9.3](https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html)
 <!-- BLOG-POST-LIST:END -->
