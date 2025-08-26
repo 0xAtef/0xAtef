@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google to Verify All Android Developers in 4 Countries to Block Malicious Apps](https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html)
+- [CISA Adds Three Exploited Vulnerabilities to KEV Catalog Affecting Citrix and Git](https://thehackernews.com/2025/08/cisa-adds-three-exploited.html)
 - [UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats](https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html)
 - [Docker Fixes CVE-2025-9074, Critical Container Escape Vulnerability With CVSS Score 9.3](https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html)
 - [Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads](https://thehackernews.com/2025/08/phishing-campaign-uses-upcrypter-in.html)
-- [⚡ Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits &amp; More](https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html)
-- [Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations](https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html)
 <!-- BLOG-POST-LIST:END -->
