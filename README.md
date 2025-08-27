@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ShadowSilk Hits 36 Government Targets in Central Asia and APAC Using Telegram Bots](https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html)
 - [The 5 Golden Rules of Safe AI Adoption](https://thehackernews.com/2025/08/the-5-golden-rules-of-safe-ai-adoption.html)
 - [Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer Data](https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html)
 - [Blind Eagle’s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra](https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html)
 - [Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775](https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html)
-- [New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station](https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html)
 <!-- BLOG-POST-LIST:END -->
