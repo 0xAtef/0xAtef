@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Someone Created First AI-Powered Ransomware Using OpenAI&#39;s gpt-oss:20b Model](https://thehackernews.com/2025/08/someone-created-first-ai-powered.html)
 - [Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors](https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html)
 - [ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots](https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html)
 - [The 5 Golden Rules of Safe AI Adoption](https://thehackernews.com/2025/08/the-5-golden-rules-of-safe-ai-adoption.html)
 - [Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer Data](https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html)
-- [Blind Eagle’s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra](https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html)
 <!-- BLOG-POST-LIST:END -->
