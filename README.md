@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Why Top Teams Are Prioritizing Code-to-Cloud Mapping in Our 2025 AppSec](https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html)
 - [Hidden Vulnerabilities of Project Management Tools &amp; How FluentPro Backup Secures Them](https://thehackernews.com/2025/08/hidden-vulnerabilities-of-project.html)
 - [Malicious Nx Packages in ‘s1ngularity’ Attack Leaked 2,349 GitHub, Cloud, and AI Credentials](https://thehackernews.com/2025/08/malicious-nx-packages-in-s1ngularity.html)
 - [U.S. Treasury Sanctions DPRK IT-Worker Scheme, Exposing $600K Crypto Transfers and $1M+ Profits](https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html)
 - [Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks](https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html)
-- [Someone Created the First AI-Powered Ransomware Using OpenAI&#39;s gpt-oss:20b Model](https://thehackernews.com/2025/08/someone-created-first-ai-powered.html)
 <!-- BLOG-POST-LIST:END -->
