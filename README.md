@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page](https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html)
+- [FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available](https://thehackernews.com/2025/08/freepbx-servers-targeted-by-zero-day.html)
 - [Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain](https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html)
 - [Google Warns Salesloft OAuth Breach Extends Beyond Salesforce, Impacting All Integrations](https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html)
 - [TamperedChef Malware Disguised as Fake PDF Editors Steals Credentials and Cookies](https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html)
-- [Researchers Find VS Code Flaw Allowing Attackers to Republish Deleted Extensions Under Same Names](https://thehackernews.com/2025/08/researchers-find-vs-code-flaw-allowing.html)
-- [Salt Typhoon Exploits Cisco, Ivanti, Palo Alto Flaws to Breach 600 Organizations Worldwide](https://thehackernews.com/2025/08/salt-typhoon-exploits-cisco-ivanti-palo.html)
 <!-- BLOG-POST-LIST:END -->
