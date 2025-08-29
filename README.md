@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Can Your Security Stack See ChatGPT? Why Network Visibility Matters](https://thehackernews.com/2025/08/can-your-security-stack-see-chatgpt-why.html)
 - [Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page](https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html)
 - [FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available](https://thehackernews.com/2025/08/freepbx-servers-targeted-by-zero-day.html)
 - [Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain](https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html)
 - [Google Warns Salesloft OAuth Breach Extends Beyond Salesforce, Impacting All Integrations](https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html)
-- [TamperedChef Malware Disguised as Fake PDF Editors Steals Credentials and Cookies](https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html)
 <!-- BLOG-POST-LIST:END -->
