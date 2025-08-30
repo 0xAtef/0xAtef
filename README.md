@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html)
 - [WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html)
 - [Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution](https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html)
 - [Webinar: Learn How to Unite Dev, Sec, and Ops Teams With One Shared Playbook](https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html)
 - [Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication](https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html)
-- [Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign](https://thehackernews.com/2025/08/abandoned-sogou-zhuyin-update-server.html)
 <!-- BLOG-POST-LIST:END -->
