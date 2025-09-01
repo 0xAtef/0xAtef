@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans](https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html)
 - [⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App &amp; More](https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html)
 - [When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider](https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html)
 - [ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics](https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html)
 - [Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html)
-- [WhatsApp Patches Zero-Click Exploit Targeting iOS and macOS Devices](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html)
 <!-- BLOG-POST-LIST:END -->
