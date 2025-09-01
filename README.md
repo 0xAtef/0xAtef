@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics](https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html)
 - [Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html)
 - [WhatsApp Patches Zero-Click Exploit Targeting iOS and macOS Devices](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html)
 - [Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution](https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html)
 - [Webinar: Learn How to Unite Dev, Sec, and Ops Teams With One Shared Playbook](https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html)
-- [Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication](https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html)
 <!-- BLOG-POST-LIST:END -->
