@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Warn of MystRodX Backdoor Using DNS and ICMP Triggers for Stealthy Control](https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html)
 - [Shadow AI Discovery: A Critical Part of Enterprise AI Governance](https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html)
 - [Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices](https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html)
 - [Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware](https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html)
 - [Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets](https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html)
-- [Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans](https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html)
 <!-- BLOG-POST-LIST:END -->
