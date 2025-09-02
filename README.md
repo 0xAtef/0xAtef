@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware](https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html)
 - [Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets](https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html)
 - [Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans](https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html)
 - [⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App &amp; More](https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html)
 - [When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider](https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html)
-- [ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics](https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html)
 <!-- BLOG-POST-LIST:END -->
