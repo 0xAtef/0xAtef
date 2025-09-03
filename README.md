@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers](https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html)
 - [Threat Actors Weaponize HexStrike AI to Exploit Citrix Flaws Within a Week of Disclosure](https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html)
 - [Detecting Data Leaks Before Disaster](https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html)
 - [Android Security Alert: Google Patches 120 Flaws, Including Two Zero-Days Under Attack](https://thehackernews.com/2025/09/android-security-alert-google-patches.html)
 - [Iranian Hackers Exploit 100+ Embassy Email Accounts in Global Phishing Targeting Diplomats](https://thehackernews.com/2025/09/iranian-hackers-exploit-100-embassy.html)
-- [AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html)
 <!-- BLOG-POST-LIST:END -->
