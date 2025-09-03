@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack](https://thehackernews.com/2025/09/cloudflare-blocks-record-breaking-115.html)
 - [CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html)
 - [Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations](https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html)
 - [Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE](https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html)
 - [Researchers Warn of MystRodX Backdoor Using DNS and ICMP Triggers for Stealthy Control](https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html)
-- [Shadow AI Discovery: A Critical Part of Enterprise AI Governance](https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html)
 <!-- BLOG-POST-LIST:END -->
