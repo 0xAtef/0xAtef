@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Exploit X’s Grok AI to Bypass Ad Protections and Spread Malware to Millions](https://thehackernews.com/2025/09/cybercriminals-exploit-xs-grok-ai-to.html)
+- [Simple Steps for Attack Surface Reduction](https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html)
+- [Google Fined $379 Million by French Regulator for Cookie Consent Violations](https://thehackernews.com/2025/09/google-fined-379-million-by-french.html)
+- [CISA Flags TP-Link Router Flaws CVE-2023-50224 and CVE-2025-9377 as Actively Exploited](https://thehackernews.com/2025/09/cisa-flags-tp-link-router-flaws-cve.html)
 - [Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers](https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html)
-- [Threat Actors Weaponize HexStrike AI to Exploit Citrix Flaws Within a Week of Disclosure](https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html)
-- [Detecting Data Leaks Before Disaster](https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html)
-- [Android Security Alert: Google Patches 120 Flaws, Including Two Zero-Days Under Attack](https://thehackernews.com/2025/09/android-security-alert-google-patches.html)
-- [Iranian Hackers Exploit 100+ Embassy Email Accounts in Global Phishing Targeting Diplomats](https://thehackernews.com/2025/09/iranian-hackers-exploit-100-embassy.html)
 <!-- BLOG-POST-LIST:END -->
