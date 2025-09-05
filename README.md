@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automation Is Redefining Pentest Delivery](https://thehackernews.com/2025/09/automation-is-redefining-pentest.html)
 - [VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages](https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html)
 - [Russian APT28 Deploys “NotDoor” Outlook Backdoor Against Companies in NATO Countries](https://thehackernews.com/2025/09/russian-apt28-deploys-notdoor-outlook.html)
 - [GhostRedirector Hacks 65 Windows Servers Using Rungan Backdoor and Gamshen IIS Module](https://thehackernews.com/2025/09/ghostredirector-hacks-65-windows.html)
 - [Cybercriminals Exploit X’s Grok AI to Bypass Ad Protections and Spread Malware to Millions](https://thehackernews.com/2025/09/cybercriminals-exploit-xs-grok-ai-to.html)
-- [Simple Steps for Attack Surface Reduction](https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html)
 <!-- BLOG-POST-LIST:END -->
