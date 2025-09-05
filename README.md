@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation](https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html)
 - [TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations](https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html)
 - [SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild](https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html)
 - [Automation Is Redefining Pentest Delivery](https://thehackernews.com/2025/09/automation-is-redefining-pentest.html)
 - [VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages](https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html)
-- [Russian APT28 Deploys “NotDoor” Outlook Backdoor Against Companies in NATO Countries](https://thehackernews.com/2025/09/russian-apt28-deploys-notdoor-outlook.html)
 <!-- BLOG-POST-LIST:END -->
