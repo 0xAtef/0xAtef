@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You Didn’t Get Phished — You Onboarded the Attacker](https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html)
 - [Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html)
 - [Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys](https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html)
 - [CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation](https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html)
 - [TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations](https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html)
-- [SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild](https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html)
 <!-- BLOG-POST-LIST:END -->
