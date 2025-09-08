@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms](https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html)
 - [⚡ Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats &amp; More](https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html)
 - [You Didn’t Get Phished — You Onboarded the Attacker](https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html)
 - [Noisy Bear Campaign Targeting Kazakhstan Energy Sector Outed as a Planned Phishing Test](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html)
 - [Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys](https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html)
-- [CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation](https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html)
 <!-- BLOG-POST-LIST:END -->
