@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack](https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html)
 - [45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage](https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html)
 - [GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies](https://thehackernews.com/2025/09/github-account-compromise-led-to.html)
 - [GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms](https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html)
 - [⚡ Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats &amp; More](https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html)
-- [You Didn’t Get Phished — You Onboarded the Attacker](https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html)
 <!-- BLOG-POST-LIST:END -->
