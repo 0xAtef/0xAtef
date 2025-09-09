@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From MostereRAT to ClickFix: New Malware Campaigns Highlight Rising AI and Phishing Risks](https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html)
+- [TOR-Based Cryptojacking Attack Expands Through Misconfigured Docker APIs](https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html)
+- [[Webinar] Shadow AI Agents Multiply Fast —  Learn How to Detect and Control Them](https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html)
 - [How Leading CISOs are Getting Budget Approval](https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html)
 - [20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack](https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html)
-- [45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage](https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html)
-- [GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies](https://thehackernews.com/2025/09/github-account-compromise-led-to.html)
-- [GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms](https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html)
 <!-- BLOG-POST-LIST:END -->
