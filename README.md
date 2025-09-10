@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts](https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html)
+- [SAP Patches Critical NetWeaver &lpar;CVSS Up to 10.0&rpar; and Previously Exploited S/4HANA Flaws](https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html)
 - [Axios Abuse and Salty 2FA Kits Fuel Advanced Microsoft 365 Phishing Attacks](https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html)
 - [RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities](https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html)
 - [[Webinar] Shadow AI Agents Multiply Fast —  Learn How to Detect and Control Them](https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html)
-- [From MostereRAT to ClickFix: New Malware Campaigns Highlight Rising AI and Phishing Risks](https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html)
-- [How Leading CISOs are Getting Budget Approval](https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html)
 <!-- BLOG-POST-LIST:END -->
