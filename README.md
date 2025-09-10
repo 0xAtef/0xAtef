@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CHILLYHELL macOS Backdoor and ZynorRAT RAT Threaten macOS, Windows, and Linux Systems](https://thehackernews.com/2025/09/chillyhell-macos-backdoor-and-zynorrat.html)
 - [Microsoft Fixes 80 Flaws — Including SMB PrivEsc and Azure CVSS 10.0 Bugs](https://thehackernews.com/2025/09/microsoft-fixes-80-flaws-including-smb.html)
 - [Apple iPhone Air and iPhone 17 Feature A19 Chips With Spyware-Resistant Memory Safety](https://thehackernews.com/2025/09/apple-iphone-air-and-iphone-17-feature.html)
 - [China-Linked APT41 Hackers Target U.S. Trade Officials Amid 2025 Negotiations](https://thehackernews.com/2025/09/china-linked-apt41-hackers-target-us.html)
 - [The Time-Saving Guide for Service Providers: Automating vCISO and Compliance Services](https://thehackernews.com/2025/09/the-time-saving-guide-for-service.html)
-- [Watch Out for Salty2FA: New Phishing Kit Targeting US and EU Enterprises](https://thehackernews.com/2025/09/watch-out-for-salty2fa-new-phishing-kit.html)
 <!-- BLOG-POST-LIST:END -->
