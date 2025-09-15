@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns](https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html)
 - [HiddenGh0st, Winos and kkRAT Exploit SEO, GitHub Pages in Chinese Malware Attacks](https://thehackernews.com/2025/09/hiddengh0st-winos-and-kkrat-exploit-seo.html)
 - [FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks](https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html)
 - [Samsung Fixes Critical Zero-Day CVE-2025-21043 Exploited in Android Attacks](https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html)
 - [Apple Warns French Users of Fourth Spyware Campaign in 2025, CERT-FR Confirms](https://thehackernews.com/2025/09/apple-warns-french-users-of-fourth.html)
-- [New HybridPetya Ransomware Bypasses UEFI Secure Boot With CVE-2024-7344 Exploit](https://thehackernews.com/2025/09/new-hybridpetya-ransomware-bypasses.html)
 <!-- BLOG-POST-LIST:END -->
