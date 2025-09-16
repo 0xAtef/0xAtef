@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [40 npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials](https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html)
 - [Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs](https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html)
 - [6 Browser-Based Attacks Security Teams Need to Prepare For Right Now](https://thehackernews.com/2025/09/6-browser-based-attacks-security-teams.html)
 - [⚡ Weekly Recap: Bootkit Malware, AI-Powered Attacks, Supply Chain Breaches, Zero-Days &amp; More](https://thehackernews.com/2025/09/weekly-recap-bootkit-malware-ai-powered.html)
 - [AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns](https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html)
-- [HiddenGh0st, Winos and kkRAT Exploit SEO, GitHub Pages in Chinese Malware Attacks](https://thehackernews.com/2025/09/hiddengh0st-winos-and-kkrat-exploit-seo.html)
 <!-- BLOG-POST-LIST:END -->
