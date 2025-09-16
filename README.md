@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New FileFix Variant Delivers StealC Malware Through Multilingual Phishing Site](https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html)
 - [Apple Backports Fix for CVE-2025-43300 Exploited in Sophisticated Spyware Attack](https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html)
 - [Securing the Agentic Era: Introducing Astrix&#39;s AI Agent Control Plane](https://thehackernews.com/2025/09/securing-agentic-era-introducing.html)
 - [Phoenix RowHammer Attack Bypasses Advanced DDR5 Memory Protections in 109 Seconds](https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html)
 - [40 npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials](https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html)
-- [Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs](https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html)
 <!-- BLOG-POST-LIST:END -->
