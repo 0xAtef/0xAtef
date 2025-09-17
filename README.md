@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks](https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html)
 - [Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts](https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html)
 - [From Quantum Hacks to AI Defenses – Expert Guide to Building Unbreakable Cyber Resilience](https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html)
 - [Rethinking AI Data Security: A Buyer&#39;s Guide](https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html)
 - [Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims](https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html)
-- [DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM](https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html)
 <!-- BLOG-POST-LIST:END -->
