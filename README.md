@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Quantum Hacks to AI Defenses – Expert Guide to Building Unbreakable Cyber Resilience](https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html)
 - [Rethinking AI Data Security: A Buyer&#39;s Guide](https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html)
 - [Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims](https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html)
 - [DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM](https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html)
 - [RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains](https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html)
-- [Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover](https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html)
 <!-- BLOG-POST-LIST:END -->
