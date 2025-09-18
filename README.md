@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions](https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html)
 - [TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks](https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html)
 - [Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts](https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html)
 - [From Quantum Hacks to AI Defenses – Expert Guide to Building Unbreakable Cyber Resilience](https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html)
 - [Rethinking AI Data Security: A Buyer&#39;s Guide](https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html)
-- [Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims](https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html)
 <!-- BLOG-POST-LIST:END -->
