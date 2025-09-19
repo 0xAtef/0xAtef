@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine](https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html)
 - [U.K. Arrests Two Teen Scattered Spider Hackers Linked to August 2024 TfL Cyber Attack](https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html)
 - [CISA Warns of Two Malware Strains Exploiting Ivanti EPMM CVE-2025-4427 and CVE-2025-4428](https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html)
 - [SonicWall Urges Password Resets After Cloud Backup Breach Affecting Under 5% of Customers](https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html)
 - [CountLoader Broadens Russian Ransomware Operations With Multi-Version Malware Loader](https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html)
-- [SilentSync RAT Delivered via Two Malicious PyPI Packages Targeting Python Developers](https://thehackernews.com/2025/09/silentsync-rat-delivered-via-two.html)
 <!-- BLOG-POST-LIST:END -->
