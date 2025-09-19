@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Warns of Two Malware Strains Exploiting Ivanti EPMM CVE-2025-4427 and CVE-2025-4428](https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html)
 - [SonicWall Urges Password Resets After Cloud Backup Breach Affecting Under 5% of Customers](https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html)
 - [CountLoader Broadens Russian Ransomware Operations With Multi-Version Malware Loader](https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html)
 - [SilentSync RAT Delivered via Two Malicious PyPI Packages Targeting Python Developers](https://thehackernews.com/2025/09/silentsync-rat-delivered-via-two.html)
 - [How CISOs Can Drive Effective AI Governance](https://thehackernews.com/2025/09/how-cisos-can-drive-effective-ai.html)
-- [Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions](https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html)
 <!-- BLOG-POST-LIST:END -->
