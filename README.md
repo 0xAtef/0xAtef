@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent](https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html)
 - [UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware](https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html)
 - [SystemBC Powers REM Proxy With 1,500 Daily VPS Victims Across 80 C2 Servers](https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html)
 - [Fortra Releases Critical Patch for CVSS 10.0 GoAnywhere MFT Vulnerability](https://thehackernews.com/2025/09/fortra-releases-critical-patch-for-cvss.html)
 - [17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge](https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html)
-- [How To Automate Alert Triage With AI Agents and Confluence SOPs Using Tines](https://thehackernews.com/2025/09/how-to-automate-alert-triage-with-ai.html)
 <!-- BLOG-POST-LIST:END -->
