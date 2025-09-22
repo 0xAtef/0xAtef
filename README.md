@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ComicForm and SectorJ149 Hackers Deploy Formbook Malware in Eurasian Cyberattacks](https://thehackernews.com/2025/09/comicform-and-sectorj149-hackers-deploy.html)
 - [⚡ Weekly Recap: Chrome 0-Day, AI Hacking Tools, DDR5 Bit-Flips, npm Worm &amp; More](https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html)
 - [How to Gain Control of AI Agents and Non-Human Identities](https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html)
 - [Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants](https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html)
 - [DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html)
-- [LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html)
 <!-- BLOG-POST-LIST:END -->
