@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [State-Sponsored Hackers Exploiting Libraesva Email Security Gateway Vulnerability](https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html)
 - [Two New Supermicro BMC Bugs Allow Malicious Firmware to Evade Root of Trust Security](https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html)
 - [Eurojust Arrests 5 in €100M Cryptocurrency Investment Fraud Spanning 23 Countries](https://thehackernews.com/2025/09/eurojust-arrests-5-in-100m.html)
 - [U.S. Secret Service Seizes 300 SIM Servers, 100K Cards Threatening U.S. Officials Near UN](https://thehackernews.com/2025/09/us-secret-service-seizes-300-sim.html)
 - [SolarWinds Releases Hotfix for Critical CVE-2025-26399 Remote Code Execution Flaw](https://thehackernews.com/2025/09/solarwinds-releases-hotfix-for-critical.html)
-- [Lean Teams, Higher Stakes: Why CISOs Must Rethink Incident Remediation](https://thehackernews.com/2025/09/lean-teams-higher-stakes-why-cisos-must.html)
 <!-- BLOG-POST-LIST:END -->
