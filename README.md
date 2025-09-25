@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Rust Crates Steal Solana and Ethereum Keys — 8,424 Downloads Confirmed](https://thehackernews.com/2025/09/malicious-rust-crates-steal-solana-and.html)
 - [Cisco Warns of Actively Exploited SNMP Vulnerability Allowing RCE or DoS in IOS Software](https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html)
 - [Chinese Hackers RedNovember Target Global Governments Using Pantegana and Cobalt Strike](https://thehackernews.com/2025/09/chinese-hackers-rednovember-target.html)
 - [UNC5221 Uses BRICKSTORM Backdoor to Infiltrate U.S. Legal and Technology Sectors](https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html)
 - [Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models](https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html)
-- [How One Bad Password Ended a 158-Year-Old Business](https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html)
 <!-- BLOG-POST-LIST:END -->
