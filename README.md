@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco ASA Firewall Zero-Day Exploits Deploy RayInitiator and LINE VIPER Malware](https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html)
 - [Urgent: Cisco ASA Zero-Day Duo Under Attack; CISA Triggers Emergency Mitigation Directive](https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html)
 - [Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal &amp; More](https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html)
 - [Vane Viper Generates 1 Trillion DNS Queries to Power Global Malware and Ad Fraud Network](https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html)
 - [Salesforce Patches Critical ForcedLeak Bug Exposing CRM Data via AI Prompt Injection](https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html)
-- [North Korean Hackers Use New AkdoorTea Backdoor to Target Global Crypto Developers](https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html)
 <!-- BLOG-POST-LIST:END -->
