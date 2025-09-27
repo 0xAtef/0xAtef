@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Researchers Expose SVG and PureRAT Phishing Threats Targeting Ukraine and Vietnam](https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html)
+- [China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks](https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html)
+- [Researchers Expose Phishing Threats Distributing CountLoader and PureRAT](https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html)
 - [New COLDRIVER Malware Campaign Joins BO Team and Bearlyfy in Russia-Focused Cyberattacks](https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html)
 - [Crash Tests for Security: Why BAS Is Proof of Defense, Not Assumptions](https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html)
 - [Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure](https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html)
-- [New macOS XCSSET Variant Targets Firefox with Clipper and Persistence Module](https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html)
 <!-- BLOG-POST-LIST:END -->
