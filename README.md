@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The State of AI in the SOC 2025 - Insights from Recent Study](https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html)
 - [Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security](https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html)
 - [First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package](https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html)
 - [China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks](https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html)
 - [Researchers Expose Phishing Threats Distributing CountLoader and PureRAT](https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html)
-- [New COLDRIVER Malware Campaign Joins BO Team and Bearlyfy in Russia-Focused Cyberattacks](https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html)
 <!-- BLOG-POST-LIST:END -->
