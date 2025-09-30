@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evolving Enterprise Defense to Secure the Modern AI Supply Chain](https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html)
+- [U.K. Police Just Seized £5.5 Billion in Bitcoin — The World’s Largest Crypto Bust](https://thehackernews.com/2025/09/uk-police-just-seized-55-billion-in.html)
 - [CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems](https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html)
 - [EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations](https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html)
 - [⚡ Weekly Recap: Cisco 0-Day, Record DDoS, LockBit 5.0, BMC Bugs, ShadowV2 Botnet &amp; More](https://thehackernews.com/2025/09/weekly-recap-cisco-0-day-record-ddos.html)
-- [The State of AI in the SOC 2025 - Insights from Recent Study](https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html)
-- [Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security](https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html)
 <!-- BLOG-POST-LIST:END -->
