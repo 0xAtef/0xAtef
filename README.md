@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections](https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html)
 - [Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware](https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html)
 - [Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits](https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html)
 - [Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake](https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html)
 - [Stop Alert Chaos: Context Is the Key to Effective Incident Response](https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html)
-- [Urgent: China-Linked Hackers Exploit New VMware Zero-Day Since October 2024](https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html)
 <!-- BLOG-POST-LIST:END -->
