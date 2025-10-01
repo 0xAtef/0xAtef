@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Android Banking Trojan “Klopatra” Uses Hidden VNC to Control Infected Smartphones](https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html)
 - [Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs](https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html)
 - [$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections](https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html)
 - [Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware](https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html)
 - [Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits](https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html)
-- [Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake](https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html)
 <!-- BLOG-POST-LIST:END -->
