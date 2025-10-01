@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Leading Security Teams Blend AI + Human Workflows &lpar;Free Webinar&rpar;](https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html)
+- [Red Hat OpenShift AI Flaw Exposes Hybrid Cloud Infrastructure to Full Takeover](https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html)
 - [2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising](https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html)
 - [Hackers Exploit Milesight Routers to Send Phishing SMS to European Users](https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html)
 - [New Android Banking Trojan “Klopatra” Uses Hidden VNC to Control Infected Smartphones](https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html)
-- [Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs](https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html)
-- [New $50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections](https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html)
 <!-- BLOG-POST-LIST:END -->
