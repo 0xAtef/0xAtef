@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown](https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html)
 - [Automating Pentest Delivery: 7 Key Workflows for Maximum Impact](https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html)
 - [ThreatsDay Bulletin: CarPlay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html)
 - [Google Mandiant Probes New Oracle Extortion Wave Possibly Linked to Cl0p Ransomware](https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html)
 - [How to Close Threat Detection Gaps: Your SOC&#39;s Action Plan](https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html)
-- [Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro](https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html)
 <!-- BLOG-POST-LIST:END -->
