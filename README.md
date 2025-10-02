@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro](https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html)
 - [New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer](https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html)
 - [OneLogin Bug Let Attackers Use API Keys to Steal OIDC Secrets and Impersonate Apps](https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html)
 - [Learn How Leading Security Teams Blend AI + Human Workflows &lpar;Free Webinar&rpar;](https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html)
 - [Red Hat OpenShift AI Flaw Exposes Hybrid Cloud Infrastructure to Full Takeover](https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html)
-- [Hackers Exploit Milesight Routers to Send Phishing SMS to European Users](https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html)
 <!-- BLOG-POST-LIST:END -->
