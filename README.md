@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Close Threat Detection Gaps: Your SOC&#39;s Action Plan](https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html)
 - [Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro](https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html)
 - [New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer](https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html)
 - [OneLogin Bug Let Attackers Use API Keys to Steal OIDC Secrets and Impersonate Apps](https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html)
 - [Learn How Leading Security Teams Blend AI + Human Workflows &lpar;Free Webinar&rpar;](https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html)
-- [Red Hat OpenShift AI Flaw Exposes Hybrid Cloud Infrastructure to Full Takeover](https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html)
 <!-- BLOG-POST-LIST:END -->
