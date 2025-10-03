@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security](https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html)
 - [New &quot;Cavalry Werewolf&quot; Attack Hits Russian Agencies with FoalShell and StallionRAT](https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html)
 - [CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild](https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html)
 - [Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware](https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html)
 - [Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown](https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html)
-- [Automating Pentest Delivery: 7 Key Workflows for Maximum Impact](https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html)
 <!-- BLOG-POST-LIST:END -->
