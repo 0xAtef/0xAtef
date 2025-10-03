@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads](https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html)
 - [Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL](https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html)
 - [Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security](https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html)
 - [New &quot;Cavalry Werewolf&quot; Attack Hits Russian Agencies with FoalShell and StallionRAT](https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html)
 - [CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild](https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html)
-- [Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware](https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html)
 <!-- BLOG-POST-LIST:END -->
