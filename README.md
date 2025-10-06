@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files](https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html)
 - [Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks](https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html)
 - [CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief](https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html)
 - [Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day](https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html)
 - [Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer](https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html)
-- [Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads](https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html)
 <!-- BLOG-POST-LIST:END -->
