@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations](https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html)
 - [⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm &amp; More](https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html)
 - [5 Critical Questions For Adopting an AI Security Solution](https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html)
 - [Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks](https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html)
 - [Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers](https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html)
-- [Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files](https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html)
 <!-- BLOG-POST-LIST:END -->
