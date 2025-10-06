@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files](https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html)
+- [⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm &amp; More](https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html)
+- [5 Critical Questions For Adopting an AI Security Solution](https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html)
 - [Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks](https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html)
-- [CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief](https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html)
-- [Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day](https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html)
-- [Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer](https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html)
+- [Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers](https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html)
+- [Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files](https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html)
 <!-- BLOG-POST-LIST:END -->
