@@ -229,7 +229,7 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [13-Year Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely](https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html)
+- [13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely](https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html)
 - [Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware](https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html)
 - [Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks](https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html)
 - [New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations](https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html)
