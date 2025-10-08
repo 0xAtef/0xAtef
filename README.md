@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Step Into the Password Graveyard… If You Dare &lpar;and Join the Live Session&rpar;](https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html)
+- [Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now](https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html)
 - [No Time to Waste: Embedding AI to Cut Noise and Reduce Risk](https://thehackernews.com/2025/09/automation-is-redefining-pentest.html)
 - [OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks](https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html)
 - [BatShadow Group Uses New Go-Based &#39;Vampire Bot&#39; Malware to Hunt Job Seekers](https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html)
-- [Google&#39;s New AI Doesn&#39;t Just Find Vulnerabilities — It Rewrites Code to Patch Them](https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html)
-- [New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise](https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html)
 <!-- BLOG-POST-LIST:END -->
