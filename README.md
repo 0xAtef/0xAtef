@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks](https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html)
 - [BatShadow Group Uses New Go-Based &#39;Vampire Bot&#39; Malware to Hunt Job Seekers](https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html)
 - [Google&#39;s New AI Doesn&#39;t Just Find Vulnerabilities — It Rewrites Code to Patch Them](https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html)
 - [New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise](https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html)
 - [XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities](https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html)
-- [13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely](https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html)
 <!-- BLOG-POST-LIST:END -->
