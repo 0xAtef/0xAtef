@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme](https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html)
 - [Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks](https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html)
 - [Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave](https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html)
 - [Step Into the Password Graveyard… If You Dare &lpar;and Join the Live Session&rpar;](https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html)
 - [LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem](https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html)
-- [Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now](https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html)
 <!-- BLOG-POST-LIST:END -->
