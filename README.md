@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart?](https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html)
+- [175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign](https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html)
 - [From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability](https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html)
 - [CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw](https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html)
 - [From HealthKick to GOVERSHELL: The Evolution of UTA0388&#39;s Espionage Malware](https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html)
-- [New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps](https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html)
-- [Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks](https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html)
 <!-- BLOG-POST-LIST:END -->
