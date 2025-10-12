@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login](https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html)
 - [Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts](https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html)
 - [Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html)
 - [Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers](https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html)
 - [Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries](https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html)
-- [From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation](https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html)
 <!-- BLOG-POST-LIST:END -->
