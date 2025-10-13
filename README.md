@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors](https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html)
+- [Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor](https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html)
 - [Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns](https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html)
 - [New Rust-Based Malware &quot;ChaosBot&quot; Uses Discord Channels to Control Victims&#39; PCs](https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html)
 - [New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login](https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html)
-- [Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts](https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html)
-- [Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html)
 <!-- BLOG-POST-LIST:END -->
