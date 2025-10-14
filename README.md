@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Moving Beyond Awareness: How Threat Hunting Builds Readiness](https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html)
+- [RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing](https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html)
+- [New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions](https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html)
+- [What AI Reveals About Web Applications— and Why It Matters](https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html)
 - [npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels](https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html)
-- [Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain](https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html)
-- [⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel &amp; More](https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html)
-- [Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk](https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html)
-- [Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors](https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html)
 <!-- BLOG-POST-LIST:END -->
