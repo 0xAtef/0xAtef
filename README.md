@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain](https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html)
 - [⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel &amp; More](https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html)
 - [Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk](https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html)
 - [Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors](https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html)
 - [Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor](https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html)
-- [Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns](https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html)
 <!-- BLOG-POST-LIST:END -->
