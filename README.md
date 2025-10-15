@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login](https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html)
 - [Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year](https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html)
 - [Moving Beyond Awareness: How Threat Hunting Builds Readiness](https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html)
 - [RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing](https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html)
 - [New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions](https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html)
-- [What AI Reveals About Web Applications— and Why It Matters](https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html)
 <!-- BLOG-POST-LIST:END -->
