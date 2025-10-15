@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks](https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html)
 - [How Attackers Bypass Synced Passkeys](https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html)
 - [Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped](https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html)
 - [Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control](https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html)
 - [Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access](https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html)
-- [New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login](https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html)
 <!-- BLOG-POST-LIST:END -->
