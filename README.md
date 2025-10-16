@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ThreatsDay Bulletin: $15B Crypto Bust, Satellite Spying, Billion-Dollar Smishing, Android RATs &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html)
 - [CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack](https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html)
 - [Chinese Threat Group &#39;Jewelbug&#39; Quietly Infiltrated Russian IT Network for Months](https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html)
 - [F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion](https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html)
 - [Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks](https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html)
-- [How Attackers Bypass Synced Passkeys](https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html)
 <!-- BLOG-POST-LIST:END -->
