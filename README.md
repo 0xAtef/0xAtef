@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts](https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html)
+- [Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites](https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html)
+- [LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets](https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html)
 - [Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform](https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html)
 - [Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in &quot;Zero Disco&#39; Attacks](https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html)
-- [Beware the Hidden Costs of Pen Testing](https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html)
-- [ThreatsDay Bulletin: $15B Crypto Bust, Satellite Spying, Billion-Dollar Smishing, Android RATs &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html)
-- [CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack](https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html)
 <!-- BLOG-POST-LIST:END -->
