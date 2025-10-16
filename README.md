@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform](https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html)
+- [Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in &quot;Zero Disco&#39; Attacks](https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html)
 - [Beware the Hidden Costs of Pen Testing](https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html)
 - [ThreatsDay Bulletin: $15B Crypto Bust, Satellite Spying, Billion-Dollar Smishing, Android RATs &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html)
 - [CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack](https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html)
-- [Chinese Threat Group &#39;Jewelbug&#39; Quietly Infiltrated Russian IT Network for Months](https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html)
-- [F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion](https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html)
 <!-- BLOG-POST-LIST:END -->
