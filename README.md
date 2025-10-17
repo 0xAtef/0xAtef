@@ -233,5 +233,5 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 - [Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites](https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html)
 - [LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets](https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html)
 - [Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform](https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html)
-- [Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in &quot;Zero Disco&#39; Attacks](https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html)
+- [Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in &#39;Zero Disco&#39; Attacks](https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html)
 <!-- BLOG-POST-LIST:END -->
