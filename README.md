@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices](https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html)
 - [Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign](https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html)
 - [North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts](https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html)
 - [Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites](https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html)
 - [LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets](https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html)
-- [Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform](https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html)
 <!-- BLOG-POST-LIST:END -->
