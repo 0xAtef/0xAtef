@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT](https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html)
 - [North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware](https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html)
 - [Identity Security: Your First and Last Line of Defense](https://thehackernews.com/2025/10/identity-security-your-first-and-last.html)
 - [Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices](https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html)
 - [Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign](https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html)
-- [North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts](https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html)
 <!-- BLOG-POST-LIST:END -->
