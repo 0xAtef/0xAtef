@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding &amp; More](https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html)
+- [Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches](https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html)
+- [131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign](https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html)
 - [MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems](https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html)
 - [Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide](https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html)
-- [New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs](https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html)
-- [Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT](https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html)
-- [North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware](https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html)
 <!-- BLOG-POST-LIST:END -->
