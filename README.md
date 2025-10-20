@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five New Exploited Bugs Land in CISA&#39;s Catalog — Oracle and Microsoft Among Targets](https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html)
 - [⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding &amp; More](https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html)
 - [Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches](https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html)
 - [131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign](https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html)
 - [MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems](https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html)
-- [Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide](https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html)
 <!-- BLOG-POST-LIST:END -->
