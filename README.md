@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams](https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html)
+- [PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign](https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html)
 - [Securing AI to Benefit from AI](https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html)
 - [Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers](https://thehackernews.com/2025/10/google-identifies-three-new-russian.html)
 - [Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network](https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html)
-- [Five New Exploited Bugs Land in CISA&#39;s Catalog — Oracle and Microsoft Among Targets](https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html)
-- [⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding &amp; More](https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html)
 <!-- BLOG-POST-LIST:END -->
