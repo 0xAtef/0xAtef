@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution](https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html)
 - [Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams](https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html)
 - [PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign](https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html)
 - [Securing AI to Benefit from AI](https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html)
 - [Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers](https://thehackernews.com/2025/10/google-identifies-three-new-russian.html)
-- [Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network](https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html)
 <!-- BLOG-POST-LIST:END -->
