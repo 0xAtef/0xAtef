@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware](https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html)
 - [TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution](https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html)
 - [TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution](https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html)
 - [Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams](https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html)
 - [PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign](https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html)
-- [Securing AI to Benefit from AI](https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html)
 <!-- BLOG-POST-LIST:END -->
