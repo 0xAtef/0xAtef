@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Organizations Are Abandoning Static Secrets for Managed Identities](https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html)
 - [“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards](https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html)
 - [Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw](https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html)
 - [Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms](https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html)
 - [Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign](https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html)
-- [Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files](https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html)
 <!-- BLOG-POST-LIST:END -->
