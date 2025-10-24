@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Self-Spreading &#39;GlassWorm&#39; Infects VS Code Extensions in Widespread Supply Chain Attack](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html)
 - [North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets](https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html)
 - [Secure AI at Scale and Speed — Learn the Framework in this Free Webinar](https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html)
 - [ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html)
 - [Why Organizations Are Abandoning Static Secrets for Managed Identities](https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html)
-- [“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards](https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html)
 <!-- BLOG-POST-LIST:END -->
