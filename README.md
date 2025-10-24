@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign](https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html)
 - [The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently](https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html)
 - [3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation](https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html)
 - [Self-Spreading &#39;GlassWorm&#39; Infects VS Code Extensions in Widespread Supply Chain Attack](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html)
 - [North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets](https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html)
-- [Secure AI at Scale and Speed — Learn the Framework in this Free Webinar](https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html)
 <!-- BLOG-POST-LIST:END -->
