@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability](https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html)
+- [Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation](https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html)
+- [Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation](https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html)
 - [APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign](https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html)
 - [The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently](https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html)
 - [3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation](https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html)
-- [Self-Spreading &#39;GlassWorm&#39; Infects VS Code Extensions in Widespread Supply Chain Attack](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html)
 <!-- BLOG-POST-LIST:END -->
