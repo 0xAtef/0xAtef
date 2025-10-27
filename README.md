@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack](https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html)
 - [ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands](https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html)
 - [Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation](https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html)
 - [Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation](https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html)
 - [APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign](https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html)
-- [The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently](https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html)
 <!-- BLOG-POST-LIST:END -->
