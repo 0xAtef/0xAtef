@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves](https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html)
 - [New Android Trojan &#39;Herodotus&#39; Outsmarts Anti-Fraud Systems by Typing Like a Human](https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html)
 - [Researchers Expose GhostCall and GhostHire: BlueNoroff&#39;s New Malware Chains](https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html)
 - [Why Early Threat Detection Is a Must for Long-Term Business Growth](https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html)
 - [Is Your Google Workspace as Secure as You Think it is?](https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html)
-- [Chrome Zero-Day Exploited to Deliver Italian Memento Labs&#39; LeetAgent Spyware](https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html)
 <!-- BLOG-POST-LIST:END -->
