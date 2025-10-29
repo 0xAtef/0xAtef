@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover Practical AI Tactics for GRC — Join the Free Expert Webinar](https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html)
 - [10 npm Packages Caught Stealing Developer Credentials on Windows, macOS, and Linux](https://thehackernews.com/2025/10/10-npm-packages-caught-stealing.html)
 - [Active Exploits Hit Dassault and XWiki — CISA Confirms Critical Flaws Under Attack](https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html)
 - [New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves](https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html)
 - [New Android Trojan &#39;Herodotus&#39; Outsmarts Anti-Fraud Systems by Typing Like a Human](https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html)
-- [Researchers Expose GhostCall and GhostHire: BlueNoroff&#39;s New Malware Chains](https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html)
 <!-- BLOG-POST-LIST:END -->
