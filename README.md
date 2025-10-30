@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising](https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html)
+- [PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs](https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html)
 - [Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices](https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html)
 - [New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts](https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html)
 - [Discover Practical AI Tactics for GRC — Join the Free Expert Webinar](https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html)
-- [Preparing for the Digital Battlefield of 2026: Ghost Identities, Poisoned Accounts, &amp; AI Agent Havoc](https://thehackernews.com/2025/10/preparing-for-digital-battlefield-of.html)
-- [Russian Hackers Target Ukrainian Organizations Using Stealthy Living-Off-the-Land Tactics](https://thehackernews.com/2025/10/russian-hackers-target-ukrainian.html)
 <!-- BLOG-POST-LIST:END -->
