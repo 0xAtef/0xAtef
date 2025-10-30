@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month](https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html)
+- [Russian Ransomware Gangs Weaponize Open-Source AdaptixC2 for Advanced Attacks](https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html)
 - [New &quot;Brash&quot; Exploit Crashes Chromium Browsers Instantly with a Single Malicious URL](https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html)
 - [The Death of the Security Checkbox: BAS Is the Power Behind Real Defense](https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html)
 - [ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising](https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html)
-- [PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs](https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html)
-- [Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices](https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html)
 <!-- BLOG-POST-LIST:END -->
