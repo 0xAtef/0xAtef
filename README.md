@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically](https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html)
 - [Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack](https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html)
 - [China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats](https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html)
 - [China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems](https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html)
 - [The MSP Cybersecurity Readiness Guide: Turning Security into Growth](https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html)
-- [CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers](https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html)
 <!-- BLOG-POST-LIST:END -->
