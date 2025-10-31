@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers](https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html)
 - [Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery](https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html)
 - [CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks](https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html)
 - [A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do](https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html)
 - [Google&#39;s Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month](https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html)
-- [Russian Ransomware Gangs Weaponize Open-Source AdaptixC2 for Advanced Attacks](https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html)
 <!-- BLOG-POST-LIST:END -->
