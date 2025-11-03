@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool &amp; More](https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html)
+- [The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations](https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html)
 - [Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data](https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html)
 - [New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea](https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html)
 - [ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html)
-- [OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically](https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html)
-- [Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack](https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html)
 <!-- BLOG-POST-LIST:END -->
