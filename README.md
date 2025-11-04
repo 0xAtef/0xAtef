@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit](https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html)
+- [U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks](https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html)
 - [Microsoft Detects &quot;SesameOp&quot; Backdoor Using OpenAI&#39;s API as a Stealth Command Channel](https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html)
 - [Malicious VSX Extension &quot;SleepyDuck&quot; Uses Ethereum to Keep Its Command Server Alive](https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html)
 - [Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks](https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html)
-- [⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool &amp; More](https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html)
-- [The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations](https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html)
 <!-- BLOG-POST-LIST:END -->
