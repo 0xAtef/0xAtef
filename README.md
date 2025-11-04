@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Europol and Eurojust Dismantle €600 Million Crypto Fraud Network in Global Sweep](https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html)
 - [Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks](https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html)
 - [Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed](https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html)
 - [Ransomware Defense Using the Wazuh Open Source Platform](https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html)
 - [Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors](https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html)
-- [Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit](https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html)
 <!-- BLOG-POST-LIST:END -->
