@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing the Open Android Ecosystem with Samsung Knox](https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html)
 - [Mysterious &#39;SmudgedSerpent&#39; Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions](https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html)
 - [U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud](https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html)
 - [Why SOC Burnout Can Be Avoided: Practical Steps](https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html)
 - [CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence](https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html)
-- [A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces](https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html)
 <!-- BLOG-POST-LIST:END -->
