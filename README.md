@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine](https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html)
+- [Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362](https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html)
 - [From Tabletop to Turnkey: Building Cyber Resilience in Financial Services](https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html)
 - [ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks &amp; More](https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html)
 - [Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response](https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html)
-- [Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection](https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html)
-- [SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach](https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html)
 <!-- BLOG-POST-LIST:END -->
