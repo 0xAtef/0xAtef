@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Tabletop to Turnkey: Building Cyber Resilience in Financial Services](https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html)
+- [ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks &amp; More](https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html)
 - [Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response](https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html)
 - [Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection](https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html)
 - [SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach](https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html)
-- [Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly](https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html)
-- [Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data](https://thehackernews.com/2025/11/researchers-find-chatgpt.html)
 <!-- BLOG-POST-LIST:END -->
