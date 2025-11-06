@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach](https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html)
 - [Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly](https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html)
 - [Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data](https://thehackernews.com/2025/11/researchers-find-chatgpt.html)
 - [Securing the Open Android Ecosystem with Samsung Knox](https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html)
 - [Mysterious &#39;SmudgedSerpent&#39; Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions](https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html)
-- [U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud](https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html)
 <!-- BLOG-POST-LIST:END -->
