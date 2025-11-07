@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp](https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html)
 - [From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools](https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html)
 - [Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation](https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html)
 - [Enterprise Credentials at Risk – Same Old, Same Old?](https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html)
 - [Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts](https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html)
-- [Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities](https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html)
 <!-- BLOG-POST-LIST:END -->
