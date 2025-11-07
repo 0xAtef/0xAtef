@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation](https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html)
 - [Enterprise Credentials at Risk – Same Old, Same Old?](https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html)
 - [Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts](https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html)
 - [Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities](https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html)
 - [Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine](https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html)
-- [Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362](https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html)
 <!-- BLOG-POST-LIST:END -->
