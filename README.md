@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Uncovers &#39;Whisper Leak&#39; Attack That Identifies AI Chat Topics in Encrypted Traffic](https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html)
 - [Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware](https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html)
 - [From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools](https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html)
 - [Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation](https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html)
 - [Enterprise Credentials at Risk – Same Old, Same Old?](https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html)
-- [Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts](https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html)
 <!-- BLOG-POST-LIST:END -->
