@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites](https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html)
 - [CISO&#39;s Expert Guide To AI Supply Chain Attacks](https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html)
 - [Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories](https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html)
 - [Android Trojan &#39;Fantasy Hub&#39; Malware Service Turns Telegram Into a Hub for Hackers](https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html)
 - [Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature](https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html)
-- [Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon](https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html)
 <!-- BLOG-POST-LIST:END -->
