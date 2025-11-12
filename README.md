@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Sues China-Based Hackers Behind $1 Billion Lighthouse Phishing Platform](https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html)
 - [Amazon Uncovers Attacks Exploited Cisco ISE and Citrix NetScaler as Zero-Day Flaws](https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html)
 - [[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR](https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html)
 - [Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security](https://thehackernews.com/2025/11/active-directory-under-siege-why.html)
 - [Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack](https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html)
-- [Google Launches &#39;Private AI Compute&#39; — Secure AI Processing with On-Device-Level Privacy](https://thehackernews.com/2025/11/google-launches-private-ai-compute.html)
 <!-- BLOG-POST-LIST:END -->
