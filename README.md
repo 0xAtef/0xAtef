@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR](https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html)
 - [Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security](https://thehackernews.com/2025/11/active-directory-under-siege-why.html)
 - [Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack](https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html)
 - [Google Launches &#39;Private AI Compute&#39; — Secure AI Processing with On-Device-Level Privacy](https://thehackernews.com/2025/11/google-launches-private-ai-compute.html)
 - [WhatsApp Malware &#39;Maverick&#39; Hijacks Browser Sessions to Target Brazil&#39;s Biggest Banks](https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html)
-- [GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites](https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html)
 <!-- BLOG-POST-LIST:END -->
