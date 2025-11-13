@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories](https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html)
 - [CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks](https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html)
 - [Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack](https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html)
 - [Google Sues China-Based Hackers Behind $1 Billion Lighthouse Phishing Platform](https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html)
 - [Amazon Uncovers Attacks Exploited Cisco ISE and Citrix NetScaler as Zero-Day Flaws](https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html)
-- [[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR](https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html)
 <!-- BLOG-POST-LIST:END -->
