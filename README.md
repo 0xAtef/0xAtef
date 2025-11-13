@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests&#39; Payment Data](https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html)
 - [Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain](https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html)
 - [When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security](https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html)
 - [Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown](https://thehackernews.com/2025/11/operation-endgame-dismantles.html)
 - [ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories](https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html)
-- [CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks](https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html)
 <!-- BLOG-POST-LIST:END -->
