@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks](https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html)
+- [Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense &amp; Government Targets](https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html)
 - [Ransomware&#39;s Fragmentation Reaches a Breaking Point While LockBit Returns](https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html)
 - [Chinese Hackers Use Anthropic&#39;s AI to Launch Automated Cyber Espionage Campaign](https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html)
 - [Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts](https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html)
-- [Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests&#39; Payment Data](https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html)
-- [Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain](https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html)
 <!-- BLOG-POST-LIST:END -->
