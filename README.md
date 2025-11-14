@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fortinet FortiWeb Flaw Actively Exploited in the Wild Before Company&#39;s Silent Patch](https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html)
+- [Chinese Hackers Use Anthropic&#39;s AI to Launch Automated Cyber Espionage Campaign](https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html)
+- [Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts](https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html)
 - [Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests&#39; Payment Data](https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html)
 - [Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain](https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html)
 - [When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security](https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html)
-- [Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown](https://thehackernews.com/2025/11/operation-endgame-dismantles.html)
 <!-- BLOG-POST-LIST:END -->
