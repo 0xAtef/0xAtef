@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware&#39;s Fragmentation Reaches a Breaking Point While LockBit Returns](https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html)
 - [Chinese Hackers Use Anthropic&#39;s AI to Launch Automated Cyber Espionage Campaign](https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html)
 - [Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts](https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html)
 - [Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests&#39; Payment Data](https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html)
 - [Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain](https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html)
-- [When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security](https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html)
 <!-- BLOG-POST-LIST:END -->
