@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale](https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html)
+- [Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities](https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html)
+- [Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages](https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html)
 - [Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet](https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html)
 - [Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability](https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html)
-- [New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT](https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html)
-- [⚡ Weekly Recap: Fortinet Exploited, China&#39;s AI Hacks, PhaaS Empire Falls &amp; More](https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html)
-- [5 Reasons Why Attackers Are Phishing Over LinkedIn](https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html)
 <!-- BLOG-POST-LIST:END -->
