@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild](https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html)
 - [Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar](https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html)
 - [Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year](https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html)
 - [Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale](https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html)
 - [Researchers Detail Tuoni C2&#39;s Role in an Attempted 2025 Real-Estate Cyber Intrusion](https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html)
-- [Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks](https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html)
 <!-- BLOG-POST-LIST:END -->
