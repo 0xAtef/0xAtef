@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves](https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html)
 - [CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat](https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html)
 - [New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices](https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html)
 - [Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt](https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html)
 - [TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign](https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html)
-- [Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability &lpar;CVE-2025-11001&rpar;](https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html)
 <!-- BLOG-POST-LIST:END -->
