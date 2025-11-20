@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign](https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html)
 - [Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability &lpar;CVE-2025-11001&rpar;](https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html)
 - [Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices](https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html)
 - [WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide](https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html)
 - [Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software](https://thehackernews.com/2025/11/application-containment-how-to-use.html)
-- [EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates](https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html)
 <!-- BLOG-POST-LIST:END -->
