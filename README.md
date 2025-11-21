@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity](https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html)
 - [ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet](https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html)
 - [Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows](https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html)
 - [ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves](https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html)
 - [CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat](https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html)
-- [New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices](https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html)
 <!-- BLOG-POST-LIST:END -->
