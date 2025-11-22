@@ -229,9 +229,9 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html)
+- [CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability](https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html)
 - [Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation](https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html)
 - [Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security](https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html)
 - [Why IT Admins Choose Samsung for Mobile Security](https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html)
-- [APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains](https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html)
-- [SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny](https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html)
 <!-- BLOG-POST-LIST:END -->
