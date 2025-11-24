@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates](https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html)
-- [ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts](https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html)
-- [Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild](https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html)
-- [Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar](https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html)
-- [Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year](https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html)
+- [Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs](https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html)
+- [ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access](https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html)
+- [China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html)
+- [Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html)
+- [CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability](https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html)
 <!-- BLOG-POST-LIST:END -->
