@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions](https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html)
 - [Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft](https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html)
 - [⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach &amp; More](https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html)
 - [Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs](https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html)
 - [ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access](https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html)
-- [China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html)
 <!-- BLOG-POST-LIST:END -->
