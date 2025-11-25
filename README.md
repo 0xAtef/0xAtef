@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers](https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html)
 - [ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens](https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html)
 - [3 SOC Challenges You Need to Solve Before 2026](https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html)
 - [Hackers Hijack Blender 3D Assets to Deploy StealC V2 Data-Stealing Malware](https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html)
 - [CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users](https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html)
-- [New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions](https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html)
 <!-- BLOG-POST-LIST:END -->
