@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware](https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html)
 - [FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams](https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html)
 - [Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys](https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html)
 - [JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers](https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html)
 - [ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens](https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html)
-- [3 SOC Challenges You Need to Solve Before 2026](https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html)
 <!-- BLOG-POST-LIST:END -->
