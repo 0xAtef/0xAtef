@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html)
 - [Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim &#39;Korean Leaks&#39; Data Heist](https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html)
 - [When Your $2M Security Detection Fails: Can your SOC Save You?](https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html)
 - [Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html)
 - [Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps](https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html)
-- [RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware](https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html)
 <!-- BLOG-POST-LIST:END -->
