@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html)
+- [Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps](https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html)
 - [RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware](https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html)
 - [FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams](https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html)
 - [Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys](https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html)
-- [JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers](https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html)
-- [ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens](https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html)
 <!-- BLOG-POST-LIST:END -->
