@@ -155,7 +155,7 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html)
+- [Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html)
 - [Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim &#39;Korean Leaks&#39; Data Heist](https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html)
 - [When Your $2M Security Detection Fails: Can your SOC Save You?](https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html)
 - [Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html)
