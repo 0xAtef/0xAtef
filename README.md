@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update](https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html)
+- [Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html)
 - [ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories](https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html)
 - [Gainsight Expands Impacted Customer List Following Salesforce Security Alert](https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html)
 - [Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html)
-- [Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim &#39;Korean Leaks&#39; Data Heist](https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html)
-- [When Your $2M Security Detection Fails: Can your SOC Save You?](https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html)
 <!-- BLOG-POST-LIST:END -->
