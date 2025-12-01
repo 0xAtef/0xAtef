@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid &amp; More](https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html)
+- [Webinar: The &quot;Agentic&quot; Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams](https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html)
 - [New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control](https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html)
 - [Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets](https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html)
 - [CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html)
-- [Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages](https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html)
-- [North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware](https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html)
 <!-- BLOG-POST-LIST:END -->
