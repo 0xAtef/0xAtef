@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud](https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html)
+- [ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware](https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html)
 - [⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid &amp; More](https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html)
 - [Webinar: The &quot;Agentic&quot; Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams](https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html)
 - [New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control](https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html)
-- [Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets](https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html)
-- [CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html)
 <!-- BLOG-POST-LIST:END -->
