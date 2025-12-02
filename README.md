@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Capture Lazarus APT&#39;s Remote-Worker Scheme Live on Camera](https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html)
+- [GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools](https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html)
+- [Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools](https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html)
 - [Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks](https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html)
 - [SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities](https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html)
-- [Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild](https://thehackernews.com/2025/12/google-patches-107-android-flaws.html)
-- [India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud](https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html)
-- [ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware](https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html)
 <!-- BLOG-POST-LIST:END -->
