@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse](https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html)
 - [Researchers Capture Lazarus APT&#39;s Remote-Worker Scheme Live on Camera](https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html)
 - [GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools](https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html)
 - [Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools](https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html)
 - [Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks](https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html)
-- [SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities](https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html)
 <!-- BLOG-POST-LIST:END -->
