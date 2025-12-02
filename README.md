@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks](https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html)
 - [SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities](https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html)
 - [Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild](https://thehackernews.com/2025/12/google-patches-107-android-flaws.html)
 - [India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud](https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html)
 - [ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware](https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html)
-- [⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid &amp; More](https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html)
 <!-- BLOG-POST-LIST:END -->
