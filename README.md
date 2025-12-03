@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html)
+- [Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar](https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html)
 - [Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation](https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html)
 - [WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts](https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html)
 - [Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud](https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html)
-- [Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar](https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html)
-- [Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage](https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html)
 <!-- BLOG-POST-LIST:END -->
