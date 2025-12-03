@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code](https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html)
+- [Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems](https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html)
 - [India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse](https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html)
 - [Researchers Capture Lazarus APT&#39;s Remote-Worker Scheme Live on Camera](https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html)
 - [GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools](https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html)
-- [Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools](https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html)
-- [Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks](https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html)
 <!-- BLOG-POST-LIST:END -->
