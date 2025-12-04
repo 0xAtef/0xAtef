@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts](https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html)
 - [Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html)
 - [Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar](https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html)
 - [Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation](https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html)
 - [WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts](https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html)
-- [Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud](https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html)
 <!-- BLOG-POST-LIST:END -->
