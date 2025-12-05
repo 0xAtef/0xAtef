@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems](https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html)
 - [JPCERT Confirms Active Command Injection Attacks on Array AG Gateways](https://thehackernews.com/2025/12/jpcert-confirms-active-command.html)
 - [Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China](https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html)
 - [ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html)
 - [5 Threats That Reshaped Web Security This Year [2025]](https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html)
-- [GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections](https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html)
 <!-- BLOG-POST-LIST:END -->
