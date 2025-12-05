@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability](https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html)
 - [Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html)
 - [&quot;Getting to Yes&quot;: An Anti-Sales Guide for MSPs](https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html)
 - [CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems](https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html)
 - [JPCERT Confirms Active Command Injection Attacks on Array AG Gateways](https://thehackernews.com/2025/12/jpcert-confirms-active-command.html)
-- [Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China](https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html)
 <!-- BLOG-POST-LIST:END -->
