@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails](https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html)
 - [Critical XXE Bug CVE-2025-66516 &lpar;CVSS 10.0&rpar; Hits Apache Tika, Requires Urgent Patch](https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html)
 - [Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability](https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html)
 - [Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html)
 - [&quot;Getting to Yes&quot;: An Anti-Sales Guide for MSPs](https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html)
-- [CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems](https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html)
 <!-- BLOG-POST-LIST:END -->
