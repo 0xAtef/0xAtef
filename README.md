@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JPCERT Confirms Active Command Injection Attacks on Array AG Gateways](https://thehackernews.com/2025/12/jpcert-confirms-active-command.html)
 - [Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China](https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html)
 - [ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html)
 - [5 Threats That Reshaped Web Security This Year [2025]](https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html)
 - [GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections](https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html)
-- [Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts](https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html)
 <!-- BLOG-POST-LIST:END -->
