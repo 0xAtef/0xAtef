@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware](https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html)
 - [Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data](https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html)
 - [Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT](https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html)
 - [⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs &amp; More](https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html)
 - [How Can Retailers Cyber-Prepare for the Most Vulnerable Time of the Year?](https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html)
-- [Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features](https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html)
 <!-- BLOG-POST-LIST:END -->
