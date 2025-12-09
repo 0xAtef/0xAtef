@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure](https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html)
 - [Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading](https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html)
 - [How to Streamline Zero Trust Using the Shared Signals Framework](https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html)
 - [Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats](https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html)
 - [STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware](https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html)
-- [Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data](https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html)
 <!-- BLOG-POST-LIST:END -->
