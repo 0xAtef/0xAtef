@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days](https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html)
 - [Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws](https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html)
 - [North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware](https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html)
 - [Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure](https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html)
 - [Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading](https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html)
-- [How to Streamline Zero Trust Using the Shared Signals Framework](https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html)
 <!-- BLOG-POST-LIST:END -->
