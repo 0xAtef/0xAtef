@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes](https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html)
+- [Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups](https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html)
 - [Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days](https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html)
 - [Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws](https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html)
 - [North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware](https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html)
-- [Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure](https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html)
-- [Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading](https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html)
 <!-- BLOG-POST-LIST:END -->
