@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw](https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html)
 - [Active Attacks Exploit Gladinet&#39;s Hard-Coded Keys for Unauthorized Access and Code Execution](https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html)
 - [React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors](https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html)
 - [.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL](https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html)
 - [Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling](https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html)
-- [Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes](https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html)
 <!-- BLOG-POST-LIST:END -->
