@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale](https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html)
 - [Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work](https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html)
 - [New React RSC Vulnerabilities Enable DoS and Source Code Exposure](https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html)
 - [React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation](https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html)
 - [CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html)
-- [ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html)
 <!-- BLOG-POST-LIST:END -->
