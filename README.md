@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html)
 - [ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html)
 - [NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems](https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html)
 - [The Impact of Robotic Process Automation &lpar;RPA&rpar; on Identity and Access Management](https://thehackernews.com/2025/12/the-impact-of-robotic-process.html)
 - [WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor](https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html)
-- [Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks](https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html)
 <!-- BLOG-POST-LIST:END -->
