@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams &amp; More](https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html)
+- [A Browser Extension Risk Guide After the ShadyPanda Campaign](https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html)
 - [Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector](https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html)
 - [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
 - [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html)
-- [Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html)
-- [Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads](https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html)
 <!-- BLOG-POST-LIST:END -->
