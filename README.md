@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
 - [⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams &amp; More](https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html)
 - [A Browser Extension Risk Guide After the ShadyPanda Campaign](https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html)
 - [Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector](https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html)
 - [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
-- [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html)
 <!-- BLOG-POST-LIST:END -->
