@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector](https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html)
 - [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
 - [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html)
 - [Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html)
 - [Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads](https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html)
-- [New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale](https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html)
 <!-- BLOG-POST-LIST:END -->
