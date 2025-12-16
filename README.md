@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google to Shut Down Dark Web Monitoring Tool in February 2026](https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html)
 - [Featured Chrome Browser Extension Caught Intercepting Millions of Users&#39; AI Chats](https://thehackernews.com/2025/12/featured-chrome-browser-extension.html)
 - [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
 - [⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams &amp; More](https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html)
 - [A Browser Extension Risk Guide After the ShadyPanda Campaign](https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html)
-- [Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector](https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html)
 <!-- BLOG-POST-LIST:END -->
