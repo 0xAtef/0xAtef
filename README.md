@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign](https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html)
 - [Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data](https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html)
 - [Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure](https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html)
 - [Why Data Security and Privacy Need to Start in Code](https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html)
 - [Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass](https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html)
-- [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
 <!-- BLOG-POST-LIST:END -->
