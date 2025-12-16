@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Data Security and Privacy Need to Start in Code](https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html)
+- [Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass](https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html)
 - [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
 - [Google to Shut Down Dark Web Monitoring Tool in February 2026](https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html)
 - [Featured Chrome Browser Extension Caught Intercepting Millions of Users&#39; AI Chats](https://thehackernews.com/2025/12/featured-chrome-browser-extension.html)
-- [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
-- [⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams &amp; More](https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html)
 <!-- BLOG-POST-LIST:END -->
