@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix SOC Blind Spots: See Threats to Your Industry &amp; Country in Real Time](https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html)
+- [China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware](https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html)
 - [GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads](https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html)
 - [Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign](https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html)
 - [Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data](https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html)
-- [Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure](https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html)
-- [Why Data Security and Privacy Need to Start in Code](https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html)
 <!-- BLOG-POST-LIST:END -->
