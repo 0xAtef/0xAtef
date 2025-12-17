@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
+- [Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks](https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html)
 - [APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign](https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html)
 - [New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails](https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html)
 - [Fix SOC Blind Spots: See Threats to Your Industry &amp; Country in Real Time](https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html)
-- [China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware](https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html)
-- [GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads](https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html)
 <!-- BLOG-POST-LIST:END -->
