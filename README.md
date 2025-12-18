@@ -158,6 +158,6 @@ user@0xAtef:~$ executing
 - [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
 - [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
 - [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
+- [North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft](https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html)
 - [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
-- [Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks](https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html)
 <!-- BLOG-POST-LIST:END -->
