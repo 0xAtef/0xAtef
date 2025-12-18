@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware](https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html)
 - [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
 - [ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html)
 - [North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft](https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html)
 - [The Case for Dynamic AI-SaaS Security as Copilots Scale](https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html)
-- [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
 <!-- BLOG-POST-LIST:END -->
