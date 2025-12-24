@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips](https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html)
 - [Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition](https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html)
 - [Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites](https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html)
 - [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
 - [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html)
-- [U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme](https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html)
 <!-- BLOG-POST-LIST:END -->
