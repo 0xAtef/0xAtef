@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper](https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html)
 - [Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media](https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html)
 - [Attacks are Evolving: 3 Ways to Protect Your Business in 2026](https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html)
 - [SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips](https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html)
 - [Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition](https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html)
-- [Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites](https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html)
 <!-- BLOG-POST-LIST:END -->
