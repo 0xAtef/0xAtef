@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime &amp; More](https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html)
 - [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html)
 - [27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials](https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html)
 - [Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors](https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html)
 - [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html)
-- [Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html)
 <!-- BLOG-POST-LIST:END -->
