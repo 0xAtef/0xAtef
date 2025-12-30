@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
 - [Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html)
 - [How to Integrate AI into Modern SOC Workflows](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html)
 - [Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor](https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html)
 - [⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime &amp; More](https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html)
-- [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html)
 <!-- BLOG-POST-LIST:END -->
