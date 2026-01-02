@@ -155,9 +155,9 @@ user@0xAtef:~$ executing
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
 - [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 - [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 - [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
 - [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
-- [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
 <!-- BLOG-POST-LIST:END -->
