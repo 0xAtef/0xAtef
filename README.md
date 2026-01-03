@@ -30,6 +30,8 @@
 
 Strategic SOC/Cyber Defense Lead with extensive experience in leading and architecting proactive security operations, bridging the gap between Cyber Threat Intelligence (CTI), threat detection engineering, and incident response. Expert in establishing and managing MSOC/Resident SOC teams, building end-to-end detection pipelines mapped to MITRE ATT&CK, and driving an intelligence-led defense strategy. Proven track record in designing, integrating, and optimizing core security solutions (SIEM, SOAR, EDR, TIPs, DRP), developing custom automation and tooling (Python, N8N, "ThreatOps"), and applying DFIR/Forensics for deep-dive investigations. A certified professional dedicated to leveraging strategic leadership and deep technical expertise to build a unified, adaptive, and highly effective cyber defense capability.
 
+> **"You need to understand what you are protecting"**
+
 ---
 
 ## 🛠️ Technology Stack
@@ -72,6 +74,48 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 ![Covenant](https://img.shields.io/badge/Covenant-A65FB5?style=for-the-badge&logo=covenant&logoColor=white)
 ![Havoc](https://img.shields.io/badge/Havoc-D04435?style=for-the-badge&logo=havoc&logoColor=white)
 ![Caldera](https://img.shields.io/badge/Caldera-C0392B?style=for-the-badge&logo=caldera&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🔬 Forensics Tools
+![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logoColor=white)
+![Eric Zimmerman Tools](https://img.shields.io/badge/Eric%20Zimmerman%20Tools-FF6B6B?style=for-the-badge&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-00A8E8?style=for-the-badge&logoColor=white)
+![SIFT](https://img.shields.io/badge/SIFT-1B1B3C?style=for-the-badge&logoColor=white)
+
+### 🌐 Network Security
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 🛠️ Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🎯 Skills Summary
+
+- **Cyber Defense Center** - Strategic planning and operations
+- **Cyber Defense Intelligence** - Intelligence-driven defense strategies
+- **SOC** - Security Operations Center management and operations
+- **DFIR** - Digital Forensics and Incident Response
+- **Cyber Threat Hunting (CTH)** - Proactive threat detection and hunting
+- **Cyber Threat Intelligence (CTI)** - Threat intelligence collection, analysis, and operationalization
+- **Standard Operating Procedure (SOP)** - Process development and documentation
+- **Playbook** - Incident response and security playbook development
+- **Compromise Assessment** - Advanced threat detection and eradication
+- **SOC Assessment** - Security operations maturity evaluation
+- **Threat-Informed Defense** - Intelligence-led security strategy
+
+---
+
+## 📚 Currently Learning / Recent Focus
+
+- **Advanced Compromise Assessment** - Deep-dive threat detection and eradication techniques
+- **Threat Hunting** - Advanced hunting methodologies and techniques
+- **Forensics** - Digital forensics and investigation capabilities
 
 ---
 
@@ -121,16 +165,6 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 - **[C2 Framework Integrations](https://0xatef.github.io/Projects/#c2-frameworks)** - Purple team testing and detection validation
 - **[Attack Simulation Labs](https://0xatef.github.io/Projects/#attack-simulation)** - Controlled environments for threat emulation and hunting
 - **[API-to-QRadar Syslog Middleware](https://0xatef.github.io/Projects/#how-to-send-logs-from-an-api-to-qradar-siem-through-syslog-middleware)** - Custom integration solutions
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=0xAtef&show_icons=true&theme=dark&hide_border=true" alt="0xAtef's GitHub Stats" />
-	<img src="https://github-readme-streak-stats.demolab.com/?user=0xAtef&theme=dark&hide_border=true" alt="0xAtef's GitHub Streak" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAtef&layout=compact&theme=dark&hide_border=true" alt="0xAtef's Top Languages" />
-</div>
 
 ---
 
