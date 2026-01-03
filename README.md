@@ -1,8 +1,8 @@
-<h1 align="center">🚀 Cyber Defense Lead</h1>
+<h1 align="center">🚀 Cyber Defense Lead & Consultant</h1>
 
 <div align="center">
   <a href="https://github.com/0xAtef">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Cyber+Defense+Lead;Cyber+Defense+Architect;Threat+Detection+Engineer;Cyber+Threat+Intelligence;DFIR+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Cyber+Defense+Lead;Threat-Informed+Defense+Strategy;DFIR+%7C+CTI+%7C+TH+%7C+CA;Detection+Engineering;ThreatOps+Automation" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,25 +28,7 @@
 
 ## 👨‍💻 About Me
 
-```bash
-user@0xAtef:~$ whoami
-> Mohamed Atef
-
-user@0xAtef:~$ role
-> Cyber Defense Lead | Blue Team Strategist
-
-user@0xAtef:~$ mission
-> Orchestrating next-gen SOC operations, architecting resilient defense ecosystems, and engineering automated threat response.
-
-user@0xAtef:~$ core_competencies
-> CTI, Detection-as-Code, Threat Hunting, Adversary Emulation, SOAR Architecture
-
-user@0xAtef:~$ current_status
-> Leading high-performance defense teams & driving security maturity.
-
-user@0xAtef:~$ executing
-> ./threat_hunting.sh --target=advanced_persistent_threats --mode=continuous
-```
+Strategic SOC/Cyber Defense Lead with extensive experience in leading and architecting proactive security operations, bridging the gap between Cyber Threat Intelligence (CTI), threat detection engineering, and incident response. Expert in establishing and managing MSOC/Resident SOC teams, building end-to-end detection pipelines mapped to MITRE ATT&CK, and driving an intelligence-led defense strategy. Proven track record in designing, integrating, and optimizing core security solutions (SIEM, SOAR, EDR, TIPs, DRP), developing custom automation and tooling (Python, N8N, "ThreatOps"), and applying DFIR/Forensics for deep-dive investigations. A certified professional dedicated to leveraging strategic leadership and deep technical expertise to build a unified, adaptive, and highly effective cyber defense capability.
 
 ---
 
@@ -54,56 +36,54 @@ user@0xAtef:~$ executing
 
 ### 🛡️ SIEM & Log Management
 ![QRadar](https://img.shields.io/badge/IBM%20QRadar-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![FortiSIEM](https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00A8E8?style=for-the-badge&logo=wazuh&logoColor=white)
 
 ### 🤖 SOAR & Automation
 ![TheHive](https://img.shields.io/badge/TheHive-FFD000?style=for-the-badge&logo=thehive&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![Shuffle](https://img.shields.io/badge/Shuffle-8E44AD?style=for-the-badge)
+![Shuffle](https://img.shields.io/badge/Shuffle-8E44AD?style=for-the-badge&logo=shuffle&logoColor=white)
 ![IBM Resilient](https://img.shields.io/badge/IBM%20Resilient-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
+![FortiSOAR](https://img.shields.io/badge/FortiSOAR-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔍 EDR, XDR & NDR
-![Trellix](https://img.shields.io/badge/Trellix-4E46DB?style=for-the-badge)
-![Fidelis](https://img.shields.io/badge/Fidelis-D71920?style=for-the-badge)
-![Group-IB](https://img.shields.io/badge/Group--IB-FF9900?style=for-the-badge)
+![Trellix](https://img.shields.io/badge/Trellix-4E46DB?style=for-the-badge&logo=trellix&logoColor=white)
+![Fidelis](https://img.shields.io/badge/Fidelis-D71920?style=for-the-badge&logo=fidelis&logoColor=white)
+![Group-IB](https://img.shields.io/badge/Group--IB-FF9900?style=for-the-badge&logo=groupib&logoColor=white)
 ![IBM QNI](https://img.shields.io/badge/IBM%20QNI-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
+![Kaspersky](https://img.shields.io/badge/Kaspersky-00A85C?style=for-the-badge&logo=kaspersky&logoColor=white)
 
-### 🧠 Threat Intelligence (TIP) & Dark Web
+### 🧠 Threat Intelligence (TIP, Dark Web, ASM, DRP)
+![Group-IB](https://img.shields.io/badge/Group--IB-FF9900?style=for-the-badge&logo=groupib&logoColor=white)
+![Dark Atlas](https://img.shields.io/badge/Dark%20Atlas-000000?style=for-the-badge&logo=darkatlas&logoColor=white)
+![CTM360](https://img.shields.io/badge/CTM360-27AE60?style=for-the-badge&logo=ctm360&logoColor=white)
+![SOC Radar](https://img.shields.io/badge/SOC%20Radar-1B1B3C?style=for-the-badge&logo=socradar&logoColor=white)
+![Google Threat Intelligence](https://img.shields.io/badge/Google%20Threat%20Intelligence-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ThreatQ](https://img.shields.io/badge/Threat--Q-003F7D?style=for-the-badge&logo=threatq&logoColor=white)
 ![MISP](https://img.shields.io/badge/MISP-2FA1DB?style=for-the-badge&logo=misp&logoColor=white)
-![ThreatQ](https://img.shields.io/badge/Threat--Q-003F7D?style=for-the-badge)
-![Dark Atlas](https://img.shields.io/badge/Dark%20Atlas-000000?style=for-the-badge)
-![CTM360](https://img.shields.io/badge/CTM360-27AE60?style=for-the-badge)
-![SOC Radar](https://img.shields.io/badge/SOC%20Radar-1B1B3C?style=for-the-badge)
+![Criminal IP](https://img.shields.io/badge/Criminal%20IP-FF6B6B?style=for-the-badge&logo=criminalip&logoColor=white)
+![Cynerv](https://img.shields.io/badge/Cynerv-00B4D8?style=for-the-badge&logo=cynerv&logoColor=white)
+![Tenable](https://img.shields.io/badge/Tenable-1B1B3C?style=for-the-badge&logo=tenable&logoColor=white)
 
 ### ⚔️ C2 & Emulation
-![Covenant](https://img.shields.io/badge/Covenant-A65FB5?style=for-the-badge)
-![Havoc](https://img.shields.io/badge/Havoc-D04435?style=for-the-badge)
-![Caldera](https://img.shields.io/badge/Caldera-C0392B?style=for-the-badge)
+![Covenant](https://img.shields.io/badge/Covenant-A65FB5?style=for-the-badge&logo=covenant&logoColor=white)
+![Havoc](https://img.shields.io/badge/Havoc-D04435?style=for-the-badge&logo=havoc&logoColor=white)
+![Caldera](https://img.shields.io/badge/Caldera-C0392B?style=for-the-badge&logo=caldera&logoColor=white)
 
 ---
 
 ## 💼 Professional Journey
 
 ### **2025 - Present** | **Cyber Defense Lead**
-> *Leading MSSP security operations, strategy, and team development.*
-- **Strategic Leadership**: Architecting high-velocity security operations and cultivating elite engineering talent to drive continuous defensive innovation.
-- **Security Architecture & Engineering**: Leading end-to-end **SOC** deployments and transforming legacy environments through **Maturity Assessments** and **Gap Analysis**. Expert implementation of multi-vendor ecosystems including **FortiSIEM**, **QRadar**, **TheHive**, **ELK**, **Wazuh**, **MISP**, and SOAR pipelines (**n8n**, **Shuffle**).
-- **Crisis Management & DFIR**: Directing high-stakes incident response engagements for advanced persistent threats, orchestrating containment and eradication strategies for **Ransomware**, **Bootkits**, and **BEC** campaigns.
 
 ### **2024 - 2025** | **Sr. Cyber Defense DFIR Analyst**
-> *Leading CTI operations, threat hunting, and detection engineering.*
-- **Threat Detection**: Champion a **Detection-as-Code** philosophy using CI/CD pipelines for detection logic.
-- **Intelligence Operations**: Operationalize intelligence via **MISP** with real-time SIEM integration.
-- **Automation Architecture**: Design and maintain **"ThreatOps"** and other custom automation tools.
 
 ### **2022 - 2024** | **Sr. SOC/Cyber Defense Analyst**
-> *SOC operations, SIEM/SOAR administration, security architecture.*
 
 ### **2021 - 2022** | **Security Operations Specialist**
-> *Incident response, security monitoring, and compliance.*
 
 ---
 
@@ -119,10 +99,13 @@ user@0xAtef:~$ executing
 
 ## 🧾 Certificates
 
-- 🎓 **eCTHPv2** – Certified Threat Hunting Professional (EC-Council)
-- 🎓 **Group-IB** – Threat Intelligence Analyst
-- 🎓 **Group-IB** – Cyber Crime Investigator
-- 🎓 **Belkasoft** – Windows Forensics Certification
+- 🎓 **eCTHPv2** – eLearn Security Certified Threat Hunting Professional
+- 🎓 **Threat Intelligence Analyst** – Group-IB
+- 🎓 **Cyber Investigator** – Group-IB
+- 🎓 **Belkasoft Windows Forensics**
+- 🎓 **Certified Cybersecurity Educator Professional (CCEP)**
+- 🎓 **Certified Threat Hunting and Incident Response I (CTHIRI)**
+- 🎓 **MITRE ATT&CK Fundamentals Certification**
 
 ---
 
