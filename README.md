@@ -172,9 +172,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
+- [n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions](https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html)
+- [The Future of Cybersecurity Includes Non-Human Employees](https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html)
+- [Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup &amp; Replication](https://thehackernews.com/2026/01/veeam-patches-critical-rce.html)
 - [Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing](https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html)
-- [Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers](https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html)
-- [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
-- [Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover](https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html)
-- [Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
 <!-- BLOG-POST-LIST:END -->
