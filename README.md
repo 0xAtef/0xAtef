@@ -150,6 +150,11 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 - 🎓 **Certified Cybersecurity Educator Professional (CCEP)**
 - 🎓 **Certified Threat Hunting and Incident Response I (CTHIRI)**
 - 🎓 **MITRE ATT&CK Fundamentals Certification**
+- 🎓 **MITRE ATT&CK Security Operations Center Assessment**
+- 🎓 **MITRE ATT&CK Cyber Threat Intelligence**
+- 🎓 **MITRE ATT&CK Adversary Emulation Methodology**
+- 🎓 **MITRE ATT&CK Threat Hunting and Detection Engineering**
+- 🎓 **MITRE ATT&CK Purple Teaming Methodology**
 
 ---
 
