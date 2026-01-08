@@ -172,9 +172,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited](https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html)
 - [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
 - [Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches](https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html)
 - [Critical n8n Vulnerability &lpar;CVSS 10.0&rpar; Allows Unauthenticated Attackers to Take Full Control](https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html)
 - [n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions](https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html)
-- [The Future of Cybersecurity Includes Non-Human Employees](https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html)
 <!-- BLOG-POST-LIST:END -->
