@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack](https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html)
 - [CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution](https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html)
 - [n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens](https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html)
 - [⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching &amp; More](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html)
 - [GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
-- [Anthropic Launches Claude AI for Healthcare with Secure Health Record Access](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
 <!-- BLOG-POST-LIST:END -->
