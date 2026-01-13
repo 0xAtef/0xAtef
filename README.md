@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Advanced Linux VoidLink Malware Targets Cloud and container Environments](https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html)
 - [What Should We Learn From How Attackers Leveraged AI in 2025?](https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html)
 - [ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation](https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html)
 - [New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack](https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html)
 - [CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution](https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html)
-- [n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens](https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html)
 <!-- BLOG-POST-LIST:END -->
