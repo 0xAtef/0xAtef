@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers](https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html)
 - [AI Agents Are Becoming Privilege Escalation Paths](https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html)
 - [Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware](https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html)
 - [Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution](https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html)
 - [New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification](https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html)
-- [Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited](https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html)
 <!-- BLOG-POST-LIST:END -->
