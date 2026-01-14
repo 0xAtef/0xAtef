@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification](https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html)
+- [Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited](https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html)
 - [Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow](https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html)
 - [PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces](https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html)
 - [Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages](https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html)
-- [Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool](https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html)
-- [[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl](https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html)
 <!-- BLOG-POST-LIST:END -->
