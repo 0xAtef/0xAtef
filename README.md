@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff](https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html)
 - [Exposure Assessment Platforms Signal a Shift in Focus](https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html)
 - [Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs](https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html)
 - [VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code](https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html)
 - [LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords](https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html)
-- [CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution](https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html)
 <!-- BLOG-POST-LIST:END -->
