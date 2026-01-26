@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs &amp; More](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html)
 - [Winning Against AI-Based Attacks Requires a Combined Defensive Approach](https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html)
 - [Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers](https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html)
 - [Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
 - [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html)
-- [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html)
 <!-- BLOG-POST-LIST:END -->
