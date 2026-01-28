@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid](https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html)
 - [Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html)
 - [Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution](https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html)
 - [From Triage to Threat Hunts: How AI Accelerates SecOps](https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html)
 - [Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks](https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html)
-- [Password Reuse in Disguise: An Often-Missed Risky Workaround](https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html)
 <!-- BLOG-POST-LIST:END -->
