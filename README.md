@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected](https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html)
 - [WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware](https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html)
 - [Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities](https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html)
 - [ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services](https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html)
 - [CTEM in Practice: Prioritization, Validation, and Outcomes That Matter](https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html)
-- [Microsoft Office Zero-Day &lpar;CVE-2026-21509&rpar; - Emergency Patch Issued for Active Exploitation](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html)
 <!-- BLOG-POST-LIST:END -->
