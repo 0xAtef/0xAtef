@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps](https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html)
 - [3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026](https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html)
 - [SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass](https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html)
 - [Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks](https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html)
 - [Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware](https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html)
-- [Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid](https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html)
 <!-- BLOG-POST-LIST:END -->
