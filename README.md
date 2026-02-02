@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
 - [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks &amp; New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
 - [Securing the Mid-Market Across the Complete Threat Lifecycle](https://thehackernews.com/2026/02/securing-mid-market-across-complete.html)
 - [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
 - [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
-- [Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
 <!-- BLOG-POST-LIST:END -->
