@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
 - [The First 90 Seconds: How Early Decisions Shape Incident Response Investigations](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
 - [Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html)
 - [Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions](https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html)
 - [CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html)
-- [Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata](https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html)
 <!-- BLOG-POST-LIST:END -->
