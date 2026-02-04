@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions](https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html)
+- [CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html)
 - [Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata](https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html)
 - [[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate](https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html)
 - [Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package](https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html)
-- [When Cloud Outages Ripple Across the Internet](https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html)
-- [APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks](https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html)
 <!-- BLOG-POST-LIST:END -->
