@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html)
 - [AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html)
 - [ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions &amp; 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html)
 - [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
 - [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
-- [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
 <!-- BLOG-POST-LIST:END -->
