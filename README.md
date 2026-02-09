@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More](https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html)
 - [How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring](https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html)
 - [Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign](https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html)
 - [TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure](https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html)
 - [BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA](https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html)
-- [OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
 <!-- BLOG-POST-LIST:END -->
