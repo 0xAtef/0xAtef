@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
 - [China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign](https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html)
 - [SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers](https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html)
 - [⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More](https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html)
 - [How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring](https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html)
-- [Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign](https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html)
 <!-- BLOG-POST-LIST:END -->
