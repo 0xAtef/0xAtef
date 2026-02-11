@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days](https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html)
+- [SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits](https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html)
 - [North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations](https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html)
 - [DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies](https://thehackernews.com/2026/02/dprk-operatives-impersonate.html)
 - [Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools](https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html)
-- [From Ransomware to Residency: Inside the Rise of the Digital Parasite](https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html)
-- [Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
 <!-- BLOG-POST-LIST:END -->
