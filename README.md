@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The CTEM Divide: Why 84% of Security Programs Are Falling Behind](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
 - [83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure](https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html)
 - [Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
 - [First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials](https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html)
 - [APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities](https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html)
-- [Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms](https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html)
 <!-- BLOG-POST-LIST:END -->
