@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
 - [Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
 - [Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
 - [SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer](https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html)
-- [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
 - [My Day Getting My Hands Dirty with an NDR System](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
 <!-- BLOG-POST-LIST:END -->
