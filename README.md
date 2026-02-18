@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
+- [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
 - [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
 - [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
 - [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
-- [Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
-- [Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
 <!-- BLOG-POST-LIST:END -->
