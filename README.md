@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
+- [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
+- [Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center](https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html)
 - [ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws &amp; 20+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html)
 - [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
-- [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
-- [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
-- [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
 <!-- BLOG-POST-LIST:END -->
