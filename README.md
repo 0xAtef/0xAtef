@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets](https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html)
 - [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
 - [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
 - [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
 - [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
-- [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
 <!-- BLOG-POST-LIST:END -->
