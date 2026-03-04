@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New RFP Template for AI Usage Control and AI Governance](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html)
 - [Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux](https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html)
 - [APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2](https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html)
 - [CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
 - [Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
-- [Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
 <!-- BLOG-POST-LIST:END -->
