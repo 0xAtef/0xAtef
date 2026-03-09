@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
 - [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack &amp; Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
 - [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
 - [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
 - [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
-- [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 <!-- BLOG-POST-LIST:END -->
