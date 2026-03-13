@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
 - [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
 - [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
 - [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
 - [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
-- [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
 <!-- BLOG-POST-LIST:END -->
