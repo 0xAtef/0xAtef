@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical Unpatched Telnetd Flaw &lpar;CVE-2026-32746&rpar; Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
+- [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
+- [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
 - [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
 - [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
-- [Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS](https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html)
-- [Critical Unpatched Telnetd Flaw &lpar;CVE-2026-32746&rpar; Enables Unauthenticated Root RCE via Port 23](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
-- [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
 <!-- BLOG-POST-LIST:END -->
