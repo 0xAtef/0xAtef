@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
+- [Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
+- [Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse](https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html)
 - [FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns](https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html)
 - [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
-- [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
-- [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
-- [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
 <!-- BLOG-POST-LIST:END -->
