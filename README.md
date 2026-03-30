@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
+- [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
 - [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
 - [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
 - [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
-- [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
-- [Citrix NetScaler Under Active Recon for CVE-2026-3055 &lpar;CVSS 9.3&rpar; Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 <!-- BLOG-POST-LIST:END -->
