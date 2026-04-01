@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
 - [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
 - [Block the Prompt, Not the Work: The End of &quot;Doctor No&quot;](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
 - [Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures](https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html)
 - [New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released](https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html)
-- [3 Reasons Attackers Are Using Your Trusted Tools Against You &lpar;And Why You Don’t See It Coming&rpar;](https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html)
 <!-- BLOG-POST-LIST:END -->
