@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
+- [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
+- [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
 - [New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips](https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html)
 - [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
-- [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
-- [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
-- [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
 <!-- BLOG-POST-LIST:END -->
