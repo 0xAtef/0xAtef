@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
 - [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
 - [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
 - [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
 - [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
-- [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
 <!-- BLOG-POST-LIST:END -->
