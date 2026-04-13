@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Korea&#39;s APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
 - [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
 - [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
 - [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
 - [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
-- [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
 <!-- BLOG-POST-LIST:END -->
