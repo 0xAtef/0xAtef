@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
 - [Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
 - [AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud](https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html)
 - [Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
 - [Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk &lpar;2026 Report&rpar;](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
-- [108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users](https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html)
 <!-- BLOG-POST-LIST:END -->
