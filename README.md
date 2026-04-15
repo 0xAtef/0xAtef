@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html)
 - [OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html)
 - [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
 - [Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
 - [AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud](https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html)
-- [Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
 <!-- BLOG-POST-LIST:END -->
