@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
 - [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
 - [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
 - [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
 - [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
-- [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
 <!-- BLOG-POST-LIST:END -->
