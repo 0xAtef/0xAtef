@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
+- [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
+- [Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html)
 - [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
 - [SGLang CVE-2026-5760 &lpar;CVSS 9.8&rpar; Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
-- [⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge &amp; More](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
-- [Why Most AI Deployments Stall After the Demo](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
-- [Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
