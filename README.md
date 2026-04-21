@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
+- [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
 - [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
+- [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
 - [Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html)
 - [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
-- [SGLang CVE-2026-5760 &lpar;CVSS 9.8&rpar; Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
 <!-- BLOG-POST-LIST:END -->
