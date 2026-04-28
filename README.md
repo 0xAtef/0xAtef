@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
+- [Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
 - [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
 - [⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking &amp; More](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
 - [Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren&#39;t Ready for the Remediation Side](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
-- [PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
-- [Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware](https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html)
 <!-- BLOG-POST-LIST:END -->
