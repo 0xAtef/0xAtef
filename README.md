@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE &amp; More](https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html)
 - [2026: The Year of AI-Assisted Attacks](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html)
 - [Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia](https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html)
 - [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html)
 - [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
-- [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
 <!-- BLOG-POST-LIST:END -->
