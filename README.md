@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
+- [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
 - [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
 - [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
 - [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
-- [One Click, Total Shutdown: The &quot;Patient Zero&quot; Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
-- [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
 <!-- BLOG-POST-LIST:END -->
