@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Typosquatting Is No Longer a User Problem. It&#39;s a Supply Chain Problem](https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html)
+- [Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit](https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html)
 - [Grafana GitHub Breach Exposes Source Code via TanStack npm Attack](https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html)
-- [GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
+- [GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
 - [Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps](https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html)
-- [DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
-- [The New Phishing Click: How OAuth Consent Bypasses MFA](https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html)
 <!-- BLOG-POST-LIST:END -->
