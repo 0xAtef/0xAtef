@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware](https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html)
 - [Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users](https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html)
 - [Malicious npm Package Stole Files From Claude AI User Directory via GitHub](https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html)
 - [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
 - [GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html)
-- [3 SOC Steps that Shut Down Incident Risks Early](https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html)
 <!-- BLOG-POST-LIST:END -->
