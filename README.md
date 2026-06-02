@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html)
 - [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html)
 - [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html)
 - [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
 - [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)
-- [Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)
 <!-- BLOG-POST-LIST:END -->
