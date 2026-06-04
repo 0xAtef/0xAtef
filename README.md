@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
 - [ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors &amp; 20+ New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
 - [China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
 - [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
 - [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)
-- [Hackers Spied on a Stock Exchange Executive&#39;s Outlook Mailbox for Five Months](https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html)
 <!-- BLOG-POST-LIST:END -->
