@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
 - [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
 - [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
 - [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
 - [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)
-- [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
 <!-- BLOG-POST-LIST:END -->
