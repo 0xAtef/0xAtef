@@ -178,8 +178,8 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
+- [⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More](https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html)
 - [The Hardest Fork](https://thehackernews.com/2026/06/the-hardest-fork.html)
 - [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
 - [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
-- [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
 <!-- BLOG-POST-LIST:END -->
