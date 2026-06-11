@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html)
 - [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
-- [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
+- [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
 - [AI Broke Vulnerability Management. That&#39;s Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
 - [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
-- [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 <!-- BLOG-POST-LIST:END -->
