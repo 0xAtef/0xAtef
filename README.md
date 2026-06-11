@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Broke Vulnerability Management. That&#39;s Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
 - [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
 - [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 - [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
 - [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
-- [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
 <!-- BLOG-POST-LIST:END -->
