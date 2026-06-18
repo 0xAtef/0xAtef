@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
+- [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html)
 - [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html)
 - [Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development](https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html)
 - [Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline](https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html)
-- [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html)
-- [Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats](https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html)
 <!-- BLOG-POST-LIST:END -->
