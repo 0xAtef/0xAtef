@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
+- [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
+- [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
 - [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
 - [Russia Used Cellebrite on Jailed Activist&#39;s iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
-- [Google Details Turla&#39;s New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
-- [Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability](https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html)
-- [ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html)
 <!-- BLOG-POST-LIST:END -->
