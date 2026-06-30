@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
 - [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
 - [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
 - [282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study](https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html)
 - [What the Numbers Say About FIFA 2026 Cyber Risk](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
-- [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
 <!-- BLOG-POST-LIST:END -->
