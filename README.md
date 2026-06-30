@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html)
 - [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
 - [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
 - [Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks](https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html)
 - [⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
-- [236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers](https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html)
 <!-- BLOG-POST-LIST:END -->
