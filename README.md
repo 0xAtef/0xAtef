@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service](https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html)
 - [Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html)
 - [RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html)
 - [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
 - [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
-- [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
 <!-- BLOG-POST-LIST:END -->
