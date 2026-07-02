@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
 - [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
 - [Identity Lifecycle Management Wasn&#39;t Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
 - [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
 - [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
-- [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
