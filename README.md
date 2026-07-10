@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laser Attack Resets Tangem Wallet Passwords on Cards That Can&#39;t Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html)
+- [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html)
+- [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
 - [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
 - [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html)
-- [Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites](https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html)
-- [Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking](https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html)
-- [Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access](https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html)
 <!-- BLOG-POST-LIST:END -->
