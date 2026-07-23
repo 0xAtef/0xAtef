@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories](https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html)
 - [Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html)
 - [Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge](https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html)
 - [China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks](https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html)
 - [How Synthetic Identity Fraud is Coming for Machine Identities](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
-- [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
 <!-- BLOG-POST-LIST:END -->
