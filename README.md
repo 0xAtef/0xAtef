@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mythos Asks the Right Question. It Doesn&#39;t Answer It.](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
+- [Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser](https://thehackernews.com/2026/07/researchers-show-single-malicious.html)
+- [73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack](https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html)
 - [Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity](https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html)
 - [Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass](https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html)
-- [OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach](https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html)
-- [New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands](https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html)
-- [Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates](https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html)
 <!-- BLOG-POST-LIST:END -->
