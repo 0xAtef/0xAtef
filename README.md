@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
+- [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html)
+- [Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets](https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html)
 - [TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign](https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html)
 - [New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts](https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html)
-- [Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs](https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html)
-- [New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs](https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html)
-- [ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories](https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html)
 <!-- BLOG-POST-LIST:END -->
