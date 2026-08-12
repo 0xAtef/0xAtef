@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
+- [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
 - [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
 - [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
 - [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
-- [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
-- [Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing](https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html)
 <!-- BLOG-POST-LIST:END -->
