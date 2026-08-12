@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
 - [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
 - [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models&#39; Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
 - [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
 - [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
-- [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
 <!-- BLOG-POST-LIST:END -->
