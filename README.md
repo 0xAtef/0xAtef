@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html)
 - [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
 - [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
 - [Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning](https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html)
 - [⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More](https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html)
-- [WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords](https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html)
 <!-- BLOG-POST-LIST:END -->
