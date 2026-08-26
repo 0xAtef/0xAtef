@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users&#39; Reservations in Tests](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
+- [OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation](https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html)
 - [INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown](https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html)
 - [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html)
 - [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html)
-- [Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes](https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html)
-- [U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches](https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html)
 <!-- BLOG-POST-LIST:END -->
