@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html)
+- [Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html)
+- [ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories](https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html)
+- [Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers](https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html)
 - [Learn How to Build Security Operations Ready for AI-Powered Attacks](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
-- [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html)
-- [What the Data Says About AI in Security Operations in 2026](https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html)
-- [Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools](https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html)
-- [GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html)
 <!-- BLOG-POST-LIST:END -->
