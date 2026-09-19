@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
+- [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
 - [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
 - [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html)
 - [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
-- [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
-- [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
 <!-- BLOG-POST-LIST:END -->
