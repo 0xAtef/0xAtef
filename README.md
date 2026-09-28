@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html)
-- [Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI](https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html)
-- [Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent](https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html)
-- [JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources](https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html)
-- [CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally](https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html)
+- [Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks](https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html)
+- [Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks](https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html)
+- [IAM for AI agents: A Practical Enterprise Framework](https://thehackernews.com/2026/09/iam-for-ai-agent.html)
+- [Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M](https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html)
+- [RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims](https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html)
 <!-- BLOG-POST-LIST:END -->
