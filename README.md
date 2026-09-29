@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
+- [New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
+- [Russia&#39;s Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor](https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html)
 - [Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown](https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html)
 - [101 Malicious npm Packages Add Developers&#39; WhatsApp Accounts to Groups Without Consent](https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html)
-- [Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
-- [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html)
-- [OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions](https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html)
 <!-- BLOG-POST-LIST:END -->
