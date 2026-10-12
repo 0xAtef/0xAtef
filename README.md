@@ -177,9 +177,9 @@ Strategic SOC/Cyber Defense Lead with extensive experience in leading and archit
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch](https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html)
+- [Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html)
+- [CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records](https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html)
 - [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
 - [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn&#39;t](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
-- [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
-- [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
-- [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
 <!-- BLOG-POST-LIST:END -->
