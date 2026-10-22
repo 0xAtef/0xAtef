@@ -1,0 +1,96 @@
+{
+  "bash": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/gnubash.svg"
+  },
+  "caldera": {
+    "url": "https://caldera.mitre.org/img/caldera-logo.png"
+  },
+  "covenant": {
+    "url": "https://raw.githubusercontent.com/wiki/cobbr/Covenant/covenant.png"
+  },
+  "ctm360": {
+    "url": "https://cdn.prod.website-files.com/66fbdb04ee8bb0436308fc15/69d510e8ff6bdd98bfc0e669_ctm-favicon-dark.png"
+  },
+  "docker": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/docker.svg"
+  },
+  "elastic": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/elastic.svg"
+  },
+  "fidelis": {
+    "url": "https://fidelissecurity.com/wp-content/uploads/2023/09/Fav_Icon.svg"
+  },
+  "fortinet": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/fortinet.svg"
+  },
+  "git": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/git.svg"
+  },
+  "github": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/github.svg"
+  },
+  "groupib": {
+    "url": "https://www.group-ib.com/wp-content/themes/gib-theme/assets/images/main-logo.svg"
+  },
+  "gti": {
+    "url": "https://files.readme.io/a5d427468caead710ba589ea21fbebf226144670c478a93ced74cf05d93da52e-gti-favicon-colored.svg"
+  },
+  "havoc": {
+    "url": "https://raw.githubusercontent.com/HavocFramework/Havoc/main/assets/Havoc.png"
+  },
+  "ibm": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/ibm.svg"
+  },
+  "kafka": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/apachekafka.svg"
+  },
+  "kape": {
+    "url": "https://raw.githubusercontent.com/EricZimmerman/KapeFiles/master/kapeLogo.png"
+  },
+  "misp": {
+    "url": "https://raw.githubusercontent.com/MISP/MISP/2.5/INSTALL/logos/misp-2-verti.png"
+  },
+  "n8n": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/n8n.svg"
+  },
+  "powershell": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/powershell.svg"
+  },
+  "python": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/python.svg"
+  },
+  "rsigma": {
+    "url": "https://raw.githubusercontent.com/timescale/rsigma/main/assets/rsigma-logotype-dark.svg"
+  },
+  "shuffle": {
+    "url": "https://raw.githubusercontent.com/Shuffle/Shuffle/main/frontend/public/images/Shuffle_logo_new.png"
+  },
+  "sigma": {
+    "url": "https://raw.githubusercontent.com/SigmaHQ/sigma/master/images/sigma_logo_dark.png"
+  },
+  "socradar": {
+    "url": "https://platform.socradar.com/static/login/images/logo-brand.svg"
+  },
+  "splunk": {
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/splunk.svg"
+  },
+  "thehive": {
+    "url": "https://docs.strangebee.com/assets/images/thehive-logo.svg"
+  },
+  "threatq": {
+    "url": "https://cdn.prod.website-files.com/67672dff14ccdaa30a20f455/67f0c2e73b003d5b40b33bdd_threatq-head-logo.svg"
+  },
+  "trellix": {
+    "url": "https://www.trellix.com/en/assets/logos/Trellix-x-white.svg"
+  },
+  "uac": {
+    "url": "https://raw.githubusercontent.com/tclahr/uac/main/logo/uac-light.svg"
+  },
+  "velociraptor": {
+    "url": "https://docs.velociraptor.app/images/logo_bare_small.svg"
+  },
+  "wazuh": {
+    "url": "https://wazuh.com/uploads/2026/06/wazuh-logo-square.png",
+    "emblemUrl": "https://wazuh.com/wp-content/themes/wazuh-v3/assets/images/favicon.ico"
+  }
+}
