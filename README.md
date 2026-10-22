@@ -1,121 +1,106 @@
-<img src="assets/banner.png" width="100%" alt="Mohamed Atef, 0xAtef, Cyber Defense Lead and Consultant. The team. The challenge. The way forward." />
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile.svg" />
+  <img src="assets/profile-header.svg" width="100%" alt="0xAtef. Mohamed Atef - cyber defense, currently tinkering." />
+</picture>
 
-# Mohamed Atef
+I'm Mohamed. I work in cyber defense and spend a lot of time building tools and experimenting with AI agents.
 
-**0xAtef**  
-Cyber Defense Lead & Consultant, Spark Professional Services
+<p>
+<a href="https://www.linkedin.com/in/0xatef/"><img src="assets/button-linkedin.svg" width="112" height="44" alt="LinkedIn" /></a>
+<a href="https://0xatef.pages.dev/"><img src="assets/button-portfolio.svg" width="222" height="44" alt="Portfolio / notes & projects" /></a>
+</p>
 
-I lead people, operations, and technology across SOC, DFIR, compromise assessment, threat detection, and threat intelligence. I still get into unfamiliar problems myself, build the tools the work needs, and spend a growing share of that curiosity on AI.
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/contribution-skyline-mobile.svg" />
+  <img src="assets/contribution-skyline.svg" width="100%" alt="My GitHub contribution skyline. The snapshot date and 365-day statistics appear in the image." />
+</picture>
 
-[Portfolio](https://0xatef.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/0xatef/) · [Experience](https://0xatef.pages.dev/experience/)
+## Currently playing with
 
-## What I lead
+| Cordon (Beta) |
+| :--- |
+| An offline OpenShift evidence collector I built for investigations and compromise assessments. It produces UAC-style output, with IR, CS, and DF collection levels. |
+| **Next:** Improve performance; built-in suspicious-activity checks are a later goal. |
 
-I run SOC and DFIR teams for resident and managed services. That means mentoring L1 to L3 analysts, reviewing investigation quality, and keeping triage, escalation, and reporting procedures in working order.
+| UCF (In progress) |
+| :--- |
+| My use-case factory for turning Sigma rules into tested detections. I'm building it around detection-as-code to make producing and validating use cases easier in my own work. |
 
-I also design the platforms those teams work from: telemetry, monitoring, integrations, and response workflows. I assess SOC maturity and turn gaps into roadmaps that operations and management can act on.
+| AIUCF (In progress) |
+| :--- |
+| Extending UCF to start with a detection handoff from CTI Bot, then move into Sigma and the detection pipeline. |
 
-The technical work stays in my hands. I lead and conduct investigations and compromise assessments. I hunt and write detections with MITRE ATT&CK, including detection-as-code. I build CTI processes so intelligence actually reaches monitoring and investigation. I review security products, configurations, and readiness, including tabletop exercises.
+| Yami (In development) |
+| :--- |
+| A DFIR workbench with an editor-style workspace, parsers, a timeline viewer, and pattern-matching rules. I'm building it to become the place I use for analysis and investigations. |
 
-## Selected work
+| ThreatOps Delegate (Beta) |
+| :--- |
+| Cyber defense skills that let an LLM lead coordinate specialist AI analysts while I manage and review the cases. Built to help with parallel investigations. |
+| **Next:** Improve accuracy, add runbooks, and reduce running costs. |
 
-Work I created, with a public case study or public repository. Client names and confidential outcomes stay off this page.
+## Tools I reach for
 
-### ThreatOps-Delegate
+<table width="100%">
+<tbody>
+<tr>
+<td width="130" valign="middle">Coding, development &amp; infrastructure</td>
+<td><kbd><img src="assets/tool-icon-python.svg" width="24" height="24" align="absmiddle" alt="" /> Python</kbd> &nbsp; <kbd><img src="assets/tool-icon-bash.svg" width="24" height="24" align="absmiddle" alt="" /> Bash</kbd> &nbsp; <kbd><img src="assets/tool-icon-powershell.svg" width="24" height="24" align="absmiddle" alt="" /> PowerShell</kbd> &nbsp; <kbd><img src="assets/tool-icon-git.svg" width="24" height="24" align="absmiddle" alt="" /> Git</kbd> &nbsp; <kbd><img src="assets/tool-icon-github.svg" width="24" height="24" align="absmiddle" alt="" /> GitHub</kbd> &nbsp; <kbd><img src="assets/tool-icon-kafka.svg" width="24" height="24" align="absmiddle" alt="" /> Kafka</kbd> &nbsp; <kbd><img src="assets/tool-icon-docker.svg" width="24" height="24" align="absmiddle" alt="" /> Docker</kbd></td>
+</tr>
+<tr>
+<td width="130" valign="middle">Threat intelligence</td>
+<td><kbd><img src="assets/tool-icon-misp.svg" width="24" height="24" align="absmiddle" alt="" /> MISP</kbd> &nbsp; <kbd><img src="assets/tool-icon-groupib.svg" width="24" height="24" align="absmiddle" alt="" /> Group-IB TI</kbd> &nbsp; <kbd><img src="assets/tool-icon-gti.svg" width="24" height="24" align="absmiddle" alt="" /> Google Threat Intelligence</kbd> &nbsp; <kbd><img src="assets/tool-icon-socradar.svg" width="24" height="24" align="absmiddle" alt="" /> SOCRadar</kbd> &nbsp; <kbd><img src="assets/tool-icon-threatq.svg" width="24" height="24" align="absmiddle" alt="" /> ThreatQ</kbd> &nbsp; <kbd><img src="assets/tool-icon-ctm360.svg" width="24" height="24" align="absmiddle" alt="" /> CTM360</kbd></td>
+</tr>
+<tr>
+<td width="130" valign="middle">SIEM</td>
+<td><kbd><img src="assets/tool-icon-elastic.svg" width="24" height="24" align="absmiddle" alt="" /> Elastic</kbd> &nbsp; <kbd><img src="assets/tool-icon-splunk.svg" width="24" height="24" align="absmiddle" alt="" /> Splunk</kbd> &nbsp; <kbd><img src="assets/tool-icon-ibm.svg" width="24" height="24" align="absmiddle" alt="" /> QRadar</kbd> &nbsp; <kbd><img src="assets/tool-icon-fortinet.svg" width="24" height="24" align="absmiddle" alt="" /> FortiSIEM</kbd> &nbsp; <kbd><img src="assets/tool-icon-wazuh.svg" width="24" height="24" align="absmiddle" alt="" /> Wazuh</kbd></td>
+</tr>
+<tr>
+<td width="130" valign="middle">SOAR</td>
+<td><kbd><img src="assets/tool-icon-thehive.svg" width="24" height="24" align="absmiddle" alt="" /> TheHive</kbd> &nbsp; <kbd><img src="assets/tool-icon-fortinet.svg" width="24" height="24" align="absmiddle" alt="" /> FortiSOAR</kbd> &nbsp; <kbd><img src="assets/tool-icon-ibm.svg" width="24" height="24" align="absmiddle" alt="" /> IBM Resilient</kbd></td>
+</tr>
+<tr>
+<td width="130" valign="middle">EDR / NDR / XDR</td>
+<td><kbd><img src="assets/tool-icon-fidelis.svg" width="24" height="24" align="absmiddle" alt="" /> Fidelis</kbd> &nbsp; <kbd><img src="assets/tool-icon-trellix.svg" width="24" height="24" align="absmiddle" alt="" /> Trellix</kbd> &nbsp; <kbd><img src="assets/tool-icon-groupib.svg" width="24" height="24" align="absmiddle" alt="" /> Group-IB XDR / NDR</kbd> &nbsp; <kbd><img src="assets/tool-icon-ibm.svg" width="24" height="24" align="absmiddle" alt="" /> QRadar QNI</kbd></td>
+</tr>
+<tr>
+<td width="130" valign="middle">DFIR</td>
+<td><kbd><img src="assets/tool-icon-velociraptor.svg" width="24" height="24" align="absmiddle" alt="" /> Velociraptor</kbd> &nbsp; <kbd><img src="assets/tool-icon-kape.svg" width="24" height="24" align="absmiddle" alt="" /> KAPE</kbd> &nbsp; <kbd><img src="assets/tool-icon-uac.svg" width="24" height="24" align="absmiddle" alt="" /> UAC</kbd></td>
+</tr>
+<tr>
+<td width="130" valign="middle">Detection</td>
+<td><kbd><img src="assets/tool-icon-sigma.svg" width="24" height="24" align="absmiddle" alt="" /> Sigma</kbd> &nbsp; <kbd><img src="assets/tool-icon-rsigma.svg" width="24" height="24" align="absmiddle" alt="" /> RSigma</kbd></td>
+</tr>
+<tr>
+<td width="130" valign="middle">Automation</td>
+<td><kbd><img src="assets/tool-icon-n8n.svg" width="24" height="24" align="absmiddle" alt="" /> n8n</kbd> &nbsp; <kbd><img src="assets/tool-icon-shuffle.svg" width="24" height="24" align="absmiddle" alt="" /> Shuffle</kbd></td>
+</tr>
+<tr>
+<td width="130" valign="middle">C2 &amp; BAS</td>
+<td><kbd><img src="assets/tool-icon-covenant.svg" width="24" height="24" align="absmiddle" alt="" /> Covenant</kbd> &nbsp; <kbd><img src="assets/tool-icon-havoc.svg" width="24" height="24" align="absmiddle" alt="" /> Havoc</kbd> &nbsp; <kbd><img src="assets/tool-icon-caldera.svg" width="24" height="24" align="absmiddle" alt="" /> Caldera</kbd></td>
+</tr>
+</tbody>
+</table>
 
-Personal project I created. Still evolving. Source is private; the public description is the case study.
+## Skills & certificates
 
-I set the task. An AI lead coordinates specialist agents through skills and an orchestration layer, and I review the result. When the work is off, I change the system. This is how I organize my own building. It is not a commercial product and it does not run a security operation on its own.
+My work covers SOC and DFIR, threat hunting, detection engineering, CTI automation, and security architecture.
 
-[Public overview](https://0xatef.pages.dev/projects/threatops-delegate/)
+I work with MITRE ATT&CK, Cyber Kill Chain, NIST CSF, and PCI DSS.
 
-### Multi-tenant Elastic architecture
-
-I designed and engineered this. No public repository; details are in the case study.
-
-One Elastic platform for a managed SOC. Client environments shared private subnets, so source IP could not identify who owned an event. I designed tenant-aware ingestion: a dedicated Kafka listener per client, Logstash routing from listener and asset identity, client-specific indices, a quarantine index when ownership is unresolved, and four isolation layers so one tenant cannot read another.
-
-[Case study](https://0xatef.pages.dev/projects/multi-tenant-elastic-architecture/)
-
-### Compromise assessment and Cordon
-
-I created the method and the collector. Source is private; details are in the case study.
-
-Cordon gathers OpenShift forensic evidence with ordinary `oc` commands, without creating debug pods. The same discipline covers proactive assessment and post-incident scoping: hypotheses first, then bounded collection, then conclusions that separate what was found from what could not be tested.
-
-[Case study](https://0xatef.pages.dev/projects/compromise-assessment/)
-
-### Use Case Factory
-
-Detection-as-code pipeline I created around my detections. No public repository; details are in the case study.
-
-I write the Sigma logic. The pipeline checks structure, field mappings, tests, and ATT&CK targets, then builds queries. A person merges the pull request. A use case moves forward only when the fields are mapped and there is evidence the analytic works. ATT&CK tags are not coverage.
-
-[Case study](https://0xatef.pages.dev/projects/attack-informed-detection-coverage/)
-
-### Intelligence pipeline
-
-CTI process I built, including Argus CTI for collection. Argus CTI is public; the wider pipeline is described in the case study.
-
-RSS feeds are labelled, filtered by relevance rules, and published as structured MISP events the SOC can alert and hunt on.
-
-[Case study](https://0xatef.pages.dev/projects/threatops-intelligence-pipeline/) · [Argus CTI (public repository)](https://github.com/0xAtef/Argus-CTI)
-
-### API to QRadar middleware
-
-Integration I built. No public repository; a lab write-up and case study are public.
-
-The source exposed useful security data through an API and had no suitable native QRadar connector. I built retrieval, normalization, LEEF formatting, and syslog delivery as separate stages, with logging when data is bad or missing.
-
-[Case study](https://0xatef.pages.dev/projects/api-to-qradar-middleware/)
-
-## On GitHub
-
-Public original repositories:
-
-- [Argus-CTI](https://github.com/0xAtef/Argus-CTI), the collection tool in the intelligence pipeline
-- This profile
-
-Most of the other engineering sits in private repositories, so the portfolio case studies are the public record.
-
-This account also has public forks of other people's repositories. Those forks are not my original work, and I am not listing them as projects I created. I did not find public pull requests from this account into other people's repositories to cite as contributions.
-
-## Tools I work with
-
-This is a working set from the platforms I design and operate. It is not a certification list, and it does not mean equal depth in every product.
-
-Defense platforms: IBM QRadar, Elastic Stack, MISP, TheHive and Cortex.
-
-Automation and integration: Python, REST APIs, n8n, syslog, GitHub Actions.
-
-Also used in the work above: Kafka, Logstash, Sigma, Velociraptor, OpenShift.
-
-## Writing
-
-Notes I wrote, on the current site:
-
-- [Argus CTI: RSS threat-feed pipeline for MISP](https://0xatef.pages.dev/writing/argus-cti/), 26 Apr 2025
-- [MISP deployment](https://0xatef.pages.dev/writing/misp-deployment/), 24 Apr 2025
-- [API to QRadar through syslog middleware](https://0xatef.pages.dev/writing/api-to-qradar/), 7 Sep 2024
-
-[All writing](https://0xatef.pages.dev/writing/)
-
-## Credentials
-
-Training I bring into the work. Certificates and dates are on the [credentials page](https://0xatef.pages.dev/credentials/).
-
-- Seven MAD20 certificates: ATT&CK fundamentals, SOC assessment, threat hunting and detection engineering, cyber threat intelligence, adversary emulation, purple teaming, and access token detection engineering
-- INE Certified Threat Hunting Professional (eCTHPv2)
+- eLearnSecurity Certified Threat Hunting Professional (eCTHPv2)
 - Group-IB Threat Intelligence Analyst
 - Group-IB Cyber Investigator
-- Windows Forensics with Belkasoft
+- Belkasoft Windows Forensics
+- Certified Cybersecurity Educator Professional (CCEP)
+- Certified Threat Hunting and Incident Response I (CTHIRI)
+- Certified Threat Intelligence & Governance Analyst (CTIGA)
+- MAD20 MITRE ATT&CK Defender: Fundamentals
+- MAD20 MITRE ATT&CK Defender: SOC Assessment
+- MAD20 MITRE ATT&CK Defender: Threat Hunting & Detection Engineering
+- MAD20 MITRE ATT&CK Defender: Cyber Threat Intelligence (CTI)
+- MAD20 MITRE ATT&CK Defender: Adversary Emulation
+- MAD20 MITRE ATT&CK Defender: Purple Teaming
+- MAD20 MITRE ATT&CK Defender: Access Token Manipulation
 
-This work started in a 24/7 SOC in 2021. I now lead the SOC and DFIR teams at Spark Professional Services, and I stay in the investigations, platforms, and tooling. [Full timeline](https://0xatef.pages.dev/experience/)
-
-## Contact
-
-Cyber defense leadership, architecture, investigations, or something worth building:
-
-**[Portfolio](https://0xatef.pages.dev/)** · **[LinkedIn](https://www.linkedin.com/in/0xatef/)**
-
-Open to Cyber Defense Manager and Architect roles.
+<a href="https://0xatef.pages.dev/credentials/"><img src="assets/button-credentials.svg" width="252" height="44" alt="Certificates, training & dates" /></a>
