@@ -1,43 +1,8 @@
 {
   "user": "0xAtef",
   "source": "https://github.com/users/0xAtef/contributions",
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "days": [
-    {
-      "date": "2025-11-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-05",
-      "count": 8,
-      "level": 1
-    },
-    {
-      "date": "2025-11-06",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-11-07",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-08",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-09",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-10",
       "count": 0,
@@ -1820,12 +1785,47 @@
     },
     {
       "date": "2026-11-01",
-      "count": 58,
+      "count": 60,
       "level": 2
     },
     {
       "date": "2026-11-02",
-      "count": 10,
+      "count": 13,
+      "level": 1
+    },
+    {
+      "date": "2026-11-03",
+      "count": 15,
+      "level": 1
+    },
+    {
+      "date": "2026-11-04",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-05",
+      "count": 36,
+      "level": 1
+    },
+    {
+      "date": "2026-11-06",
+      "count": 175,
+      "level": 4
+    },
+    {
+      "date": "2026-11-07",
+      "count": 164,
+      "level": 4
+    },
+    {
+      "date": "2026-11-08",
+      "count": 25,
+      "level": 1
+    },
+    {
+      "date": "2026-11-09",
+      "count": 9,
       "level": 1
     }
   ]
